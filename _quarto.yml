@@ -2,16 +2,30 @@ project:
   type: website
 
 website:
-  title: "vt5454-s24"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  title: "Hist 5454 - Spring 2024"
+  page-navigation: true
+  sidebar:
+    style: docked
+    search: true
+    background: "#861F41" # Chicago Maroon
+    foreground: "#FFFFFF"
+    pinned: true
+    contents:
+      - section: "Schedule"
+        contents:
+          - href: meetings/01-intro.qmd
+            text: 1. Introduction
+          - href: meetings/02-dh-and-ph.qmd
+            text: 2. Digital History and Public History
+
+  page-footer:
+    right: "This page is built with [Quarto](https://quarto.org/)."
+    left: "&copy; Copyright 2024, Jesse Sadler"
+    background: "#861F41" # Chicago Maroon
 
 format:
   html:
-    theme: cosmo
+    theme: default
     css: styles.css
     toc: true
 
