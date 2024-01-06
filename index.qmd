@@ -1,11 +1,52 @@
 ---
-title: "vt5454-s24"
+title: "History 5454: Digital Humanities for Public History"
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: columns
+::: {.column width="50%"}
+::: {.callout-note appearance="minimal"}
+## Instructor
+[Jesse Sadler](https://www.jessesadler.com). Email: <jrsadler@vt.edu>  
+Office hours: Thursday, 1:00--2:00pm and by appointment in ...
+:::
+:::
 
-```{r}
-1 + 1
-```
+::: {.column width="50%"}
+::: {.callout-note appearance="minimal"}
+## Course
+History 5454: Spring 2024  
+Meets Thursdays, 2:00–4:50 in Major Williams 427
+:::
+:::
+:::
+
+## Course description
+This course is designed to introduce students to some of the tools of Digital Humanities/History with an emphasis on open source tools.
+
+## Learning goals
+
+## Expectations
+
+
+## Assessment
+
+## Reading
+
+## Schedule
+
+1. Introduction (18 January)
+2. Digital History and Public History (25 January)
+3. Organizing resources (1 February)
+4. Plain text and markdown (8 February)
+5. Data: spreadsheets and csv files (15 February)
+6. Intro to R and RStudio (22 February)
+7. Data wrangling (29 February)
+8. Visualization with ggplot2 (14 March)
+9. Git and GitHub (21 March)
+10. Making websites with Quarto (28 March)
+11. Text Analysis (4 April)
+12. Network Analysis (11 April)
+13. Spatial Analysis (18 April)
+14. Web design and visualization (25 April)
+15. Conclusion (2 May)
