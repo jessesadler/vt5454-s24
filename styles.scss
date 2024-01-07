@@ -1,0 +1,18 @@
+/*-- scss:defaults --*/
+
+@import 'https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap';
+@import 'https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital@0;1&display=swap';
+
+$font-family:           "Nunito Sans", sans-serif;
+$font-family-monospace: "Source Code Pro", monospace;
+
+// Links
+$link-decoration:       none;
+$link-color:            #E5751F;
+$hover-color:           lighten($link-color, 40%);
+$link-hover-decoration: underline;
+
+$sidebar-bg: #861F41;
+$sidebar-fg: #FFFFFF;
+
+/*-- scss:rules --*/
