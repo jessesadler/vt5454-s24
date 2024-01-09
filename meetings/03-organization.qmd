@@ -1,0 +1,24 @@
+---
+title: "Week 3: Organizing resources"
+---
+
+
+## Reading
+- Greg Wilson et al, "Good enough practices in scientific computing," *PLOS Computational Biology* 13, no. 6 (2017): 1--20.
+  - Not all aspects of the paper will not apply to historians and the paper covers topics we will discuss later in the semester. But, the paper provides a good overview.
+- Reading on Zettelkasten
+- Reading related to historical research
+
+## Assignment
+- Download Zotero, sign up for an account, and read over the documentation.
+
+## Activities
+- Discussion of file management.
+- Discussion of reproducible research.
+- Organization
+  - Primary sources
+  - Secondary sources
+  - Notes
+- Zotero
+
+## Resources

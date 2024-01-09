@@ -1,0 +1,17 @@
+---
+title: "Week 10: Making documents and websites with Quarto"
+---
+
+
+## Reading
+
+
+## Assignment
+
+
+## Activities
+
+
+## Resources
+- The [Quarto documentation](https://quarto.org/docs/guide/) is very good and thorough.
+- For an extensive list of resources on Quarto see [Awesome Quarto](https://github.com/mcanouil/awesome-quarto).

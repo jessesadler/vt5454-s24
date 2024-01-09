@@ -1,0 +1,17 @@
+---
+title: "Week 6: Intro to R and RStudio"
+---
+
+
+
+## Reading
+-  Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, [R for Data Science (2nd Edition)](https://r4ds.hadley.nz) chapters.
+
+## Assignment
+
+
+## Activities
+
+
+## Resources
+- Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, [R for Data Science (2nd Edition)](https://r4ds.hadley.nz) (O'Reilly, 2023).

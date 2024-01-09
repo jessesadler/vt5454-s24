@@ -1,0 +1,20 @@
+---
+title: "Week 4: Plain Text and Markdown"
+---
+
+
+## Reading
+- Kieran Healy, [The Plain Person’s Guide to Plain Text Social Science](https://plain-text.co)
+- Programming Historians lesson on [Sustainable Authorship in Plain Text using Pandoc and Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).
+
+## Assignment
+- Download Obsidian
+- Find and download a text editor
+
+## Activities
+
+
+## Resources
+- [John Gruber's introduction of Markdown and its syntax](https://daringfireball.net/projects/markdown/syntax)
+- [Markdown style guide: Quarto docs](https://quarto.org/docs/authoring/markdown-basics.html)
+- [Markdown Style Guide](https://markdownguide.offshoot.io/basic-syntax/)

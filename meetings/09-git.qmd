@@ -1,0 +1,20 @@
+---
+title: "Week 9: Version control with Git and GitHub"
+---
+
+
+
+## Reading
+- Jenny Bryan, ["Excuse me, do you have a moment to talk about version control?,"](https://peerj.com/preprints/3159v2) *PeerJ Preprints* (2017)
+
+## Assignment
+
+
+## Activities
+
+
+## Resources
+- [Software Carpentry - Version Control with Git](https://swcarpentry.github.io/git-novice/)
+- [Chacon, Pro Git](https://git-scm.com/book/en/v2)
+- [GitHub docs](https://docs.github.com/en)
+- [Jenny Bryan, Happy Git and GitHub for the useR](http://happygitwithr.com)

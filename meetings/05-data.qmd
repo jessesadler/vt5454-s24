@@ -1,0 +1,24 @@
+---
+title: "Week 5: Data and an intro to the command line"
+---
+
+
+
+## Reading
+- Karl Broman and Kara Woo, "Data Organization in Spreadsheets," *The American Statistician* 72 no. 1, (2018): 2--10, [https://doi.org/10.1080/00031305.2017.1375989](https://doi.org/10.1080/00031305.2017.1375989).
+- [Programming Historian: Introduction to the Bash Command Line](https://programminghistorian.org/en/lessons/intro-to-bash)
+
+## Assignment
+- Find data to bring to class
+- Download a command line terminal if you are using Windows.
+
+## Activities
+- Workshop: Intro to the command line
+
+## Resources
+- [Software Carpentry - The Unix Shell](https://swcarpentry.github.io/shell-novice/)
+- [Hartl, Learn Enough Command Line to be Dangerous](https://www.learnenough.com/command-line-tutorial)
+	- Very good basic tutorial and guide that can be used as a good reference.
+- [Bates, Conquering the Command Line](http://conqueringthecommandline.com/book)
+	- More in depth than *Learning Enough* and discusses more advanced commands.
+- [Sean Kross, The Unix Workbench](https://seankross.com/the-unix-workbench/)
