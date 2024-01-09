@@ -72,21 +72,37 @@ This website is built with [Quarto](https://quarto.org) and the source code is a
 
 ## Schedule
 
-1. Introduction (18 January)
-2. Digital History and Public History (25 January)
-3. Organizing resources (1 February)
-4. Plain text and markdown (8 February)
-5. Data: spreadsheets and csv files (15 February)
-6. Intro to R and RStudio (22 February)
-7. Data wrangling (29 February)
-8. Visualization with ggplot2 (14 March)
-9. Git and GitHub (21 March)
-10. Making websites with Quarto (28 March)
-11. Text Analysis (4 April)
-12. Network Analysis (11 April)
-13. Spatial Analysis (18 April)
-14. Web design and visualization (25 April)
-15. Conclusion (2 May)
+1. [Introduction][1] (18 January)
+2. [Digital History and Public History][2] (25 January)
+3. [Organizing resources][3] (1 February)
+4. [Plain text and markdown][4] (8 February)
+5. [Data and an intro to the command line][5] (15 February)
+6. [Intro to R and RStudio][6] (22 February)
+7. [Data wrangling][7] (29 February)
+8. [Visualization with ggplot2][8] (14 March)
+9. [Version control with Git and GitHub][9] (21 March)
+10. [Making documents and websites with Quarto][10] (28 March)
+11. [Text analysis][11] (4 April)
+12. [Network analysis][12] (11 April)
+13. [Spatial analysis][13] (18 April)
+14. [Web design and visualization][14] (25 April)
+15. [Conclusion][15] (2 May)
 
 
 [^1]: If you have any problems, we can troubleshoot together.
+
+[1]: meetings/01-intro.qmd
+[2]: meetings/02-dh-and-ph.qmd
+[3]: meetings/03-organization.qmd
+[4]: meetings/04-markdown.qmd
+[5]: meetings/05-data.qmd
+[6]: meetings/06-rstats.qmd
+[7]: meetings/07-wrangle.qmd
+[8]: meetings/08-ggplot2.qmd
+[9]: meetings/09-git.qmd
+[10]: meetings/10-quarto.qmd
+[11]: meetings/11-text.qmd
+[12]: meetings/12-network.qmd
+[13]: meetings/13-spatial.qmd
+[14]: meetings/14-design.qmd
+[15]: meetings/15-conclusion.qmd
