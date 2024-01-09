@@ -17,6 +17,8 @@ website:
             text: 2. Digital History and Public History
       - href: resources.qmd
         text: Resources
+      - href: faq.qmd
+        text: FAQ
 
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."

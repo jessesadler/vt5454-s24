@@ -1,0 +1,50 @@
+---
+title: "FAQ"
+---
+
+- [What are the benefits of writing in plain text?](faq.qmd#sec-plain)
+- [Why should I learn markdown?](faq.qmd#sec-markdown)
+- [Why should I learn a programming language for data analysis and visualization?](faq.qmd#sec-r)
+- [Why are we learning R in this course? Why not Python?](faq.qmd#sec-python)
+- [Why are we using the tidyverse packages and not base R?](faq.qmd#sec-tidyverse)
+- [Why are we using Quarto with R and to make websites?](faq.qmd#sec-quarto)
+- [Why should I make a website?](faq.qmd#sec-web)
+
+
+## What are the benefits of writing in plain text? {#sec-plain}
+Writing in plain text may seem odd at first, and it confronts the beginner with a number of issues compared to word processing applications such as Microsoft Word that use a WYSIWYG (what you see is what you get) interface. However, there are a number of advantages to using plain text documents that make the initial discomfort worth it.
+
+- **Sustainability**: Plain text documents are sustainable. They will be able to be read and displayed by a computer as long as we have such technology. They are not dependent on a proprietary format like docx.
+- **Light weight**: Plain text documents are incredibly lightweight. Word processors add all sorts of formatting characters to provide a WYSIWYG experience that increase the file size and add complexity to the whole process of writing. Try opening a hundred page document in Word and then try opening the same document in a plain text editor. The latter will open instantaneously.
+- **The power of a text editor**: With a text editor application you can perform all sorts of complex search and search and replace functionality across multiple documents at the same time.
+- **The web**: The internet is created using plain text documents. If you want to write for the web, you should be writing in plain text.
+- **Adding formatting with markup languages**: If the lack of formatting is a benefit, how do you get plain text documents to have the formatting you want in a document? The answer is to use a markup language. The markup language of the web is HTML, but other common markup languages used to write for academic purposes are [Markdown](faq.qmd#sec-markdown) and [latex](https://www.latex-project.org). With these markup languages you can create complex documents that serve the needs of academics well.
+
+## Why should I learn markdown? {#sec-markdown}
+- The Markdown syntax is easy to learn and is designed to be human readable, meaning the syntax does not distract from the text itself.
+- Markdown is the most widely used markup language for writing on the web. Its popularity also means that it is easy to find applications that will render Markdown to styled text.
+- Markdown provides a good feature set for most types of historical writing: headings, lists, italic, bold, links, and footnotes gets you pretty far. It, thus, makes it much easier to write in plain text instead of with a world processor. See [above](faq.qmd#sec-plain) for the benefits of plain text.
+- Markdown is the basis for [RMarkdown](https://rmarkdown.rstudio.com) and [Quarto](https://quarto.org), the literate programming languages we will use in this course. This document is written in Markdown.
+
+## Why should I learn a programming language for data analysis and visualization? {#sec-r}
+There are many reasons why you might want to use a programming language for data analysis and visualization instead of spreadsheets or a GUI (graphical user interface) program, but first it is worth conceding that learning and using a programming language has a much steeper learning curve than the GUI alternatives. Nevertheless, this course argues that it is worth the effort. Benefits include:
+
+- **Reproducibility**: With a programming language you can document your analysis in a script that can be reproduced by others. This is not possible with a point-and-click interface of a GUI application or a spreadsheet. [Excel error](https://www.marketplace.org/2013/04/17/economy/excel-mistake-heard-round-world/) due to miss-clicking are well known.
+- **Separation of data and analysis**: In a spreadsheet your data and your analysis are done in the same place. This can make it easy to unknowingly introduce errors into your data. With a programming language all analysis is done on a copy of the data, making it easier to ensure the data is correct.
+**You are in charge**: Spreadsheets often try to guess the formatting of data, which is another source of errors. Such errors are common, especially in dealing with dates. Scientists even had to [rename a gene](https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates) to deal with the issue. For historians, the fact that Excel does not natively support dates before 1900. With a programming language you have much greater control.
+
+## Why are we learning R in this course? Why not Python? {#sec-python}
+In this course we will learn [R](https://www.r-project.org) for data analysis and visualization. A reasonable question to ask is why R and why not [Python](https://www.python.org). To begin with, I think it is fair to say that R and Python are both good choices for doing Digital Humanities. I should also say that the main reasons we are learning R in this course is that I am more comfortable with R than with Python. But there are a couple of reasons that I think R is a good choice for Digital Humanities.
+
+- R is a domain specific programming language that was designed for Statistics. It was designed to work with data. The main types of rectangular data common to Digital Humanities is at home in R. Python is a more general programming language. This has some real benefits, but it also means that data analysis and visualization is not at the core of the language in the same way as is true for R.
+- R is easier to install than Python, R packages are easier to manage than Python packages, and the [RStudio IDE](https://posit.co/downloads/) provides a first-class environment for data analysis.
+- A strong, open, and welcoming community has been built around data analysis and reproducible research with R. A good example of this is [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday), a weekly community driven data science project.
+
+## Why are we using the tidyverse packages and not base R? {#sec-tidyverse}
+The [tidyverse](https://www.tidyverse.org) is a set of R packages that were originally designed by [Hadley Wickham](https://hadley.nz) that provide a (relatively) consistent interface for data analysis. They provide a different ways of analyzing data from what is known as [base R](https://dplyr.tidyverse.org/articles/base.html). However, the popularity of the tidyverse means there is little drawback to learning it before or in the place of base R. Most materials for learning R use the tidyverse and the packages continue to be maintained and updated.
+
+## Why are we using Quarto with R and to make websites? {#sec-quarto}
+[Quarto](https://quarto.org) is a relatively new platform made by [Posit](https://posit.co), the company that makes the [RStudio IDE](https://posit.co/downloads/). It is a replacement for [RMarkdown](https://rmarkdown.rstudio.com). Two advantages of Quarto over RMarkdown are that Quarto can be used by more than just R and it provides a more consistent interface for writing a wide variety of outputs including R scripts, journal articles, slides, websites, and books. Quarto is well integrated into RStudio and familiarity with Quarto documents from the beginning of the course should lessen the cognative load for making a website at the end of the course.
+
+## Why should I make a website? {#sec-web}
+The simple answer is that it is a good idea to have your own place on the internet that you are in control of. The demise of the app formerly known as Twitter in 2022 and 2023 makes this even more plain. It is useful to have a personal website that you can point people towards and that you can use as a showcase for you work. Or it can just be a place for you to do what you want. Using open source technology and publishing to the open web puts you in control. You can be a part of [making the internet weird again](https://www.rollingstone.com/culture/culture-commentary/internet-future-about-to-get-weird-1234938403/).
