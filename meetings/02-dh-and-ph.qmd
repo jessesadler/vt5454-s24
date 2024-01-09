@@ -1,0 +1,16 @@
+---
+title: "Week 2: Digital History and Public History"
+---
+
+This week serves as an introduction to the concept of Digital Humanities/History and its relation to Public History.
+
+## Reading
+- Gregory Crane, “Greco-Roman Studies in a Digital Age.” *Daedalus* 145, no. 2 (2016): 127–33. [http://www.jstor.org/stable/10.2307/24711585](http://www.jstor.org/stable/10.2307/24711585)
+- Romein et al, "State of the Field: Digital History," *History* 105, (2020): 291--312. [https://doi.org/10.1111/1468-229X.12969](https://doi.org/10.1111/1468-229X.12969)
+- Explore the [Debates in the Digital Humanities series](https://dhdebates.gc.cuny.edu), read at least one of the articles in one of the volumes, and be prepared to discuss the article in class. Make sure to look over the [Debates in the Digital Humanities 2023 volume](https://dhdebates.gc.cuny.edu/projects/debates-in-the-digital-humanities-2023) even if you pick an article from elsewhere.
+
+## Activities
+- Discussion of Digital Humanities and Public History.
+- Discussion of Romein et al, "State of the Field: Digital History"
+- Discussion and presentation of articles from Debates in the Digital Humanities series.
+- How to prepare for next week.

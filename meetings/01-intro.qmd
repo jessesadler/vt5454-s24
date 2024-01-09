@@ -1,0 +1,10 @@
+---
+title: "Week 1: Introduction"
+---
+
+Introduction to the course, overview of syllabus, and how the course will work.
+
+## Activities
+- Introductions
+- Discussion of the course
+- Discussion of interest and experience with Digital Humanities technologies.
