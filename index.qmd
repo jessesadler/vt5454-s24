@@ -2,6 +2,8 @@
 title: "History 5454: Digital Humanities for Public History"
 ---
 
+#### Spring 2024
+
 ::: columns
 ::: {.column width="50%"}
 ::: {.callout-note appearance="minimal"}

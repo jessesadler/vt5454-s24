@@ -2,9 +2,9 @@ project:
   type: website
 
 website:
-  title: "Hist 5454 - Spring 2024"
   page-navigation: true
   sidebar:
+    logo: logo.png
     style: docked
     search: true
     pinned: true
