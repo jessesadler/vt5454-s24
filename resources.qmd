@@ -7,7 +7,7 @@ This page provides a number of general resources for the main technologies we wi
 ## Digital Humanities
 [Humanities Commons - Hcommons](https://hcommons.org) is doing a lot of interesting things to build open source infrastructure for the Humanities in general. Their blog, called [Platypus](https://team.hcommons.org) discusses the why and how of what they are doing.
 
-The question of what is Digital Humanities is ever present. In fact, there is a [website](http://whatisdigitalhumanities.com) that automatically provides different answers. Digital Humanities is also perpetually seen as the future as [Cameron Blevins](http://dhdebates.gc.cuny.edu/debates/text/77) noted in 2016.
+The question of what is Digital Humanities is ever present. In fact, there is a [website](http://whatisdigitalhumanities.com) that automatically provides different answers. Digital Humanities is also perpetually seen as the future as [Cameron Blevins](http://dhdebates.gc.cuny.edu/debates/text/77) noted in 2016. [The Digital Humanities Literacy Guidebook](https://cmu-lib.github.io/dhlg/) provides a good overview of the breadth of Digital Humanities.
 
 Writing on or about Digital Humanities is quite widespread and diverse. Here are some useful places to start, some of which we will read during the semester.
 
@@ -17,8 +17,28 @@ Writing on or about Digital Humanities is quite widespread and diverse. Here are
 
 As far as tutorials for digital tools and technologies, two good places to start looking are [The Carpentries](https://carpentries.org) and [Programming Historian](https://programminghistorian.org).
 
+There are many lists of Digital Humanities and Digital History tools, projects, tutorials, and data sources. Here are a couple **Awesome** lists:  
+- [Awesome Digital Humanities](https://dh-tech.github.io/awesome-digital-humanities/)
+- [Awesome Digital History](https://github.com/maehr/awesome-digital-history)
+- [Awesome Research Tools](https://github.com/emptymalei/awesome-research)
+
+## Text editors
+We will be working in plain text documents throughout the course and a good text editor is essential. Happily, there are many options for you. Below is a partial list of text editors, but there are many out there.
+
+### Cross platform
+- [Visual Studio Code](https://code.visualstudio.com) is much more than a text editor, but it can also be made into a good text editor for plain text and Markdown. It is free and open source and worthy of a download to check out.
+- A paid alternative is [Sublime Text](https://www.sublimetext.com).
+
+### macOS
+- [BBEdit](http://www.barebones.com/products/bbedit/) is over 30 years old and still going strong. It is available for purchase, but you can go quite far with the free version.
+- [CotEditor](https://coteditor.com/) is a modern open source text editor that is very clean looking.
+- [Chime](https://www.chimehq.com) is another open source option.
+
+### Windows
+- A classic text editor for Windows is [Notepad++](https://notepad-plus-plus.org).
+
 ## Markdown and plain text
-Markdown is widely used as a way to add markup to plain text documents and to write for the web. It was developed by [John Gruber](https://daringfireball.net/projects/markdown/syntax) in the early 2000s. Its use has exploded since 2010 and there are now a varity of "flavors" of markdown that have more features than the original version. Mostly you do not need to worry about this.
+Markdown is widely used as a way to add markup to plain text documents and to write for the web. It was developed by [John Gruber](https://daringfireball.net/projects/markdown/syntax) in the early 2000s. Its use has exploded since 2010 and there are now a variety of "flavors" of markdown that have more features than the original version. Mostly you do not need to worry about this.
 
 Guides to Markdown syntax can easily be found on the internet. [Markdown Guide](https://markdownguide.offshoot.io/basic-syntax/) provides a good overview of the basic syntax. The [Quarto docs](https://quarto.org/docs/authoring/markdown-basics.html) show the flavor of Markdown used by Quarto.
 
@@ -44,7 +64,7 @@ There are innumerable freely available resources and tutorials on learning R for
 
 A good tutorial on R from a Humanities/Social Sciences perspective is [Data Carpentry - R for Social Scientists](https://datacarpentry.org/r-socialsci/). Another good option is [Software Carpentry - R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/).
 
-[Posit](https://posit.co), the company that makes RStudio, publishes [cheatsheets](https://posit.co/resources/cheatsheets/) for the set of [tidyverse](https://www.tidyverse.org) packages we will be using during the course.
+[Posit](https://posit.co), the company that makes RStudio, publishes [cheatsheets](https://posit.co/resources/cheatsheets/) for the set of [tidyverse](https://www.tidyverse.org) packages we will be using during the course. If you have a question about R you can ask or look for similar questions on the [Posit Community](https://community.rstudio.com).
 
 Two great resources on visualization are Kieran Healy, [Data Visualization: A Practical Introduction](https://socviz.co) (Princeton University Press, 2018) and Claus Wilke, [Fundamentals of Data Visualization ](https://clauswilke.com/dataviz/) (O'Reilly 2019). Both provide guidance on how to make effective visualizations for the Humanities and Social Sciences.
 
