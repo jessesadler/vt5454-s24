@@ -31,6 +31,10 @@ See [Resources: Text editors](/resources.qmd#sec-text-editors). A good text edit
 - [John Gruber's introduction of Markdown and its syntax](https://daringfireball.net/projects/markdown/syntax)
 - [Markdown style guide: Quarto docs](https://quarto.org/docs/authoring/markdown-basics.html)
 - [Markdown Style Guide](https://markdownguide.offshoot.io/basic-syntax/)
+- Most/many Markdown editors, especially those that focus on academic writing, depend upon [Pandoc](https://pandoc.org), which attempts to be a universal document converter.
+
+### Other markup options
+- The main other option for writing in Markdown or a Markdown based system is [LaTeX](https://www.latex-project.org). [Overleaf](https://www.overleaf.com/) is a LaTeX editor created specifically for collaboration in academia.
 
 ### Note taking apps and zettelkasten
 There is currently a bit of a renaissance in note taking apps that are designed around the basic ideas of zettelkasten. Most of the apps are Markdown editors that provide a way to create internal links between your notes and display incoming and outgoing links. [Zettlr](https://www.zettlr.com) is just one example. It is nice because it is open source, cross platform, and designed with academics in mind. But this does not mean that it is necessarily the best for you. Another hugely popular free (but not open source) and cross platform option is [Obsidian](https://obsidian.md).
