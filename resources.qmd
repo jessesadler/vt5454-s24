@@ -4,7 +4,7 @@ title: "Resources"
 
 This page provides a number of general resources for the main technologies we will be using in the course. More specific resources about the weekly topics are listed on the page for those weeks.
 
-## Digital Humanities
+## Digital Humanities {#sec-dh}
 [Humanities Commons - Hcommons](https://hcommons.org) is doing a lot of interesting things to build open source infrastructure for the Humanities in general. Their blog, called [Platypus](https://team.hcommons.org) discusses the why and how of what they are doing.
 
 The question of what is Digital Humanities is ever present. In fact, there is a [website](http://whatisdigitalhumanities.com) that automatically provides different answers. Digital Humanities is also perpetually seen as the future as [Cameron Blevins](http://dhdebates.gc.cuny.edu/debates/text/77) noted in 2016. [The Digital Humanities Literacy Guidebook](https://cmu-lib.github.io/dhlg/) provides a good overview of the breadth of Digital Humanities.
@@ -21,8 +21,9 @@ There are many lists of Digital Humanities and Digital History tools, projects, 
 - [Awesome Digital Humanities](https://dh-tech.github.io/awesome-digital-humanities/)
 - [Awesome Digital History](https://github.com/maehr/awesome-digital-history)
 - [Awesome Research Tools](https://github.com/emptymalei/awesome-research)
+- [Awesome Reproducible Research](https://github.com/leipzig/awesome-reproducible-research)
 
-## Text editors
+## Text editors {#sec-text-editors}
 We will be working in plain text documents throughout the course and a good text editor is essential. Happily, there are many options for you. Below is a partial list of text editors, but there are many out there.
 
 ### Cross platform
@@ -37,14 +38,14 @@ We will be working in plain text documents throughout the course and a good text
 ### Windows
 - A classic text editor for Windows is [Notepad++](https://notepad-plus-plus.org).
 
-## Markdown and plain text
+## Markdown and plain text {#sec-md}
 Markdown is widely used as a way to add markup to plain text documents and to write for the web. It was developed by [John Gruber](https://daringfireball.net/projects/markdown/syntax) in the early 2000s. Its use has exploded since 2010 and there are now a variety of "flavors" of markdown that have more features than the original version. Mostly you do not need to worry about this.
 
 Guides to Markdown syntax can easily be found on the internet. [Markdown Guide](https://markdownguide.offshoot.io/basic-syntax/) provides a good overview of the basic syntax. The [Quarto docs](https://quarto.org/docs/authoring/markdown-basics.html) show the flavor of Markdown used by Quarto.
 
 Good places to start for the why and how of writing in plain text for academic writing is Kieran Healy's [The Plain Person’s Guide to Plain Text Social Science](https://kieranhealy.org/publications/plain-person-text/) and Programming Historians lesson on [Sustainable Authorship in Plain Text using Pandoc and Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).
 
-## Command line
+## Command line {#sec-cl}
 - [Programming Historian: Introduction to the Bash Command Line](https://programminghistorian.org/en/lessons/intro-to-bash)
 - [Software Carpentry - The Unix Shell](https://swcarpentry.github.io/shell-novice/)
 - [Hartl, Learn Enough Command Line to be Dangerous](https://www.learnenough.com/command-line-tutorial)
@@ -53,23 +54,28 @@ Good places to start for the why and how of writing in plain text for academic w
 	- More in depth than *Learning Enough* and discusses more advanced commands.
 - [Sean Kross, The Unix Workbench](https://seankross.com/the-unix-workbench/)
 
-## Git and GitHub
+## Git and GitHub {#sec-git}
 - [Software Carpentry - Version Control with Git](https://swcarpentry.github.io/git-novice/)
 - [Chacon, Pro Git](https://git-scm.com/book/en/v2)
 - [GitHub docs](https://docs.github.com/en)
 - [Jenny Bryan, Happy Git and GitHub for the useR](http://happygitwithr.com)
+- And in case you get in trouble with git there is always [Oh shit, Git!?!](https://ohshitgit.com).
 
-## R
+## R {#sec-r}
 There are innumerable freely available resources and tutorials on learning R for data analysis and visualization, but the best starting place is Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, [R for Data Science (2nd Edition)](https://r4ds.hadley.nz) (O'Reilly, 2023). It is an essential resource that I continue to check whenever I am working in R and forget how to do things.
 
-A good tutorial on R from a Humanities/Social Sciences perspective is [Data Carpentry - R for Social Scientists](https://datacarpentry.org/r-socialsci/). Another good option is [Software Carpentry - R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/).
+A good tutorial on R from a Humanities/Social Sciences perspective is [Data Carpentry - R for Social Scientists](https://datacarpentry.org/r-socialsci/). Another good option is [Software Carpentry - R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/). A more general intro to R from the perspective of someone more used to spreadsheets is Julie Lowndes and Allison Horst, [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel/).
 
 [Posit](https://posit.co), the company that makes RStudio, publishes [cheatsheets](https://posit.co/resources/cheatsheets/) for the set of [tidyverse](https://www.tidyverse.org) packages we will be using during the course. If you have a question about R you can ask or look for similar questions on the [Posit Community](https://community.rstudio.com).
+
+It might be useful to keep [The tidyverse style guide](https://style.tidyverse.org) handy as you are getting used to writing R code. It provides some basic tips for how to style your code to make it more consistent and easier to read.
 
 Two great resources on visualization are Kieran Healy, [Data Visualization: A Practical Introduction](https://socviz.co) (Princeton University Press, 2018) and Claus Wilke, [Fundamentals of Data Visualization ](https://clauswilke.com/dataviz/) (O'Reilly 2019). Both provide guidance on how to make effective visualizations for the Humanities and Social Sciences.
 
 Another set of great resources for visualization with ggplot2 are by Cédric Scherer. His blog post, [A ggplot2 Tutorial for Beautiful Plotting in R](https://www.cedricscherer.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/) is both a great starting point and great as a quick reference. His workshop, [Graphic Design with ggplot2](https://rstudio-conf-2022.github.io/ggplot2-graphic-design/) at the 2022 RStudio conference is a really nice tutorial on making advanced visualizations.
 
-## Quarto
+You can also look at a series of notes/overviews that I have written on the [tidyverse and visualization with ggplot2](https://jessesadler.github.io/notes-tidyverse/).
+
+## Quarto {#sec-quarto}
 - The [Quarto documentation](https://quarto.org/docs/guide/) is very good and thorough.
 - For an extensive list of resources on Quarto see [Awesome Quarto](https://github.com/mcanouil/awesome-quarto).

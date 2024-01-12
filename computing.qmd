@@ -3,7 +3,7 @@ title: "Computing"
 ---
 
 
-## Command line terminal
+## Command line terminal {#sec-cl}
 
 ### macOS
 macOS is built on the foundation of [Unix](https://en.wikipedia.org/wiki/Unix) and comes with a perfectly capable command line app in Terminal. There are some other options out there, but Terminal is just fine.
@@ -15,24 +15,35 @@ Since 2019 the default shell in macOS is [zsh](https://en.wikipedia.org/wiki/Z_s
 ### Windows
 Windows does not come with a unix shell installed. You can do this via [Git Bash](https://gitforwindows.org). This will install both the bash shell and git. See the [Carpentries](https://carpentries.github.io/workshop-template/install_instructions/#the-bash-shell) for installation instructions.
 
-## Git
+## Git {#sec-git}
 See [Happy Git and GitHub for the useR](https://happygitwithr.com/install-git) for a good guide to downloading git for macOS and Windows.
 
 ### macOS
-Git may already be on your computer by default, but the git version that comes with macOS is quite out of date. The easiest way to get the newer version of git is through [Homebrew](https://brew.sh). If you have Homebrew installed, open a Terminal window and do the following:
+Git may already be on your computer by default, but the git version that comes with macOS is quite out of date. To check if you need to install git:
 
-1. `git --version` – check current version of git on the computer
-2. Look at current version of Git at https://git-scm.com
-3. `brew install git` – download git with Homebrew
-4. Quit terminal and reopen it to start new session
-5. `‌git --version` – check to see that installation worked.
+1. Open Terminal
+2. `git --version` – check current version of git on the computer
+3. Look at current version of Git at https://git-scm.com
+
+If you need to install Git, there are two basic ways to install it:
+
+Via [Homebrew](https://brew.sh):
+
+1. `brew install git` – download git with Homebrew
+2. Quit terminal and reopen it to start new session
+3. `‌git --version` – check to see that installation worked.
+
+Via Xcode command line tools:
+
+1. `xcode-select --install`
+2. 
 
 ### Windows
 Install git with [Git Bash](https://gitforwindows.org).
 
-## GitHub
+## GitHub {#sec-github}
 Register for an account on [GitHub](https://github.com)
 
-## R and RStudio
+## R and RStudio {#sec-r}
 - [Download R from CRAN](https://cloud.r-project.org). R 4.3.2 is currently the newest release. It is expected that you will have a version greater than or equal to 4.3.
 - [Download RStudio](https://posit.co/download/rstudio-desktop/).
