@@ -3,14 +3,36 @@ title: "Week 11: Text analysis"
 ---
 
 
-
 ## Reading
-
+- Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, [*R for Data Science* (2nd Edition)](https://r4ds.hadley.nz): Chapters 14 and 15.
+- Julia Silge and David Robinson, *Text Mining with R: A Tidy Approach*, (O'Reilly, 2017).
+  - Read the Preface and Chapter 1: The tidy text format and look through other chapters to see what you might be of particular interest to your concerns.
+- Taylor Arnold, Nicolas Ballier, Paula Lissón, and Lauren Tilton, "Beyond Lexical Frequencies: Using R for Text Analysis in the Digital Humanities," *Language Resources and Evaluation* 53 no. 4 (2019): 707–733, <https://doi.org/10.1007/s10579-019-09456-6>.
 
 ## Assignment
-
+- Look at the documentation for the text editor that you are using on regular expressions (regex) and/or advanced find and replace features.
+  - The [Chapter on Searching with Grep in the BBEdit Manual](https://s3.amazonaws.com/BBSW-download/BBEdit_15.0_User_Manual.pdf) is particularly good. 
+- Browse Taylor Arnold, Courtney Rivard, and Lauren Tilton, [Layered Lives: Rhetoric and Representation in the Southern Life History Project](https://layeredlives.supdigital.org/map) (Stanford University Press, 2022): <https://doi.org/10.21627/2022ll>.
 
 ## Activities
-
+- Discussion of the use of text analysis in History.
+- Workshop: Regular expressions (regex)
+- Workshop: Text analysis with R
 
 ## Resources
+
+### Regular expressions (regex)
+- [Programming Historian - Doug Knox, Understanding Regular Expressions](https://programminghistorian.org/en/lessons/understanding-regular-expressions)
+- [stringr: Regular expressions](https://stringr.tidyverse.org/articles/regular-expressions.html)
+- [Regular expressions in R](https://jfjelstul.github.io/regular-expressions-tutorial/)
+
+### Text analysis R packages
+- [CRAN Task View: Natural Language Processing](https://cran.r-project.org/web/views/NaturalLanguageProcessing.html)
+- [stringr](https://stringr.tidyverse.org).
+- [quanteda](https://quanteda.io).
+- [cleanNLP](https://statsmaths.github.io/cleanNLP/).
+
+### Text analysis
+- [Programming Historian - Taylor Arnold and Lauren Tilton, Basic Text Processing in R](https://programminghistorian.org/en/lessons/basic-text-processing-in-r).
+- [Programming Historian - Jennifer Isasi, Sentiment Analysis with 'syuzhet' using R](https://programminghistorian.org/en/lessons/sentiment-analysis-syuzhet).
+- [The Data Sitters Club](https://datasittersclub.github.io/site/#)

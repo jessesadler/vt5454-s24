@@ -4,14 +4,35 @@ title: "Week 10: Making documents and websites with Quarto"
 
 
 ## Reading
-
+- Look over the [Quarto documentation](https://quarto.org/docs/guide/).
+- Anil Dash, [The Internet Is About to Get Weird Again](https://www.rollingstone.com/culture/culture-commentary/internet-future-about-to-get-weird-1234938403/), Rolling Stone (30 December 2023)
 
 ## Assignment
-
+- Watch Mine Çetinkaya-Rundel and Julia Stewart Lowndes, [Hello Quarto: Share, Collaborate, Teach, Reimagine](https://youtu.be/p7Hxu4coDl8?si=CJH489eghcIF4hlr) at RStudio Conf 2022.
+  - The slides are available [here](https://mine.quarto.pub/hello-quarto/).
+- Plan out your website. Make an outline, mindmap, drawing, etc. of the structure of your website.
 
 ## Activities
-
+- Workshop: Making a website with Quarto
 
 ## Resources
 - The [Quarto documentation](https://quarto.org/docs/guide/) is very good and thorough.
+  - [Quarto website documentation](https://quarto.org/docs/websites/)
+  - [Quarto blog documentation](https://quarto.org/docs/websites/website-blog.html)
 - For an extensive list of resources on Quarto see [Awesome Quarto](https://github.com/mcanouil/awesome-quarto).
+- Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, [*R for Data Science* (2nd Edition)](https://r4ds.hadley.nz): Introduction, Chapters 28 and 29.
+- Isabella Velásquez, [Building a blog with Quarto](https://ivelasq.quarto.pub/building-a-blog-with-quarto/)
+
+### Examples of Quarto websites
+- [Our course website]
+- [A Rogue Historian by Jesse Sadler](https://www.jessesadler.com)
+- [Pipe dreams by Isabella Velásquez](https://ivelasq.rbind.io/)
+- [Notes from a data witch by Danielle Navarro](https://blog.djnavarro.net/)
+- [Notes from a spreadsheet by Matt Worthington](https://www.mrworthington.com/)
+- [The MockUp by Tom Mock](https://themockup.blog/)
+- [Maya Gans](https://maya.rbind.io/)
+- [Faylab Lab Manual](https://thefaylab.github.io/lab-manual/)
+- [Ted Laderas](https://laderast.github.io)
+- [Amelia McNamara](https://www.amelia.mn/)
+- [Garrick Aden-Buie](https://www.garrickadenbuie.com/)
+- [Openscapes](https://openscapes.org/)

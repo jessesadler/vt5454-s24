@@ -9,7 +9,7 @@ title: "History 5454: Digital Humanities for Public History"
 ::: {.callout-note appearance="minimal"}
 ## Instructor
 [Jesse Sadler](https://www.jessesadler.com). Email: <jrsadler@vt.edu>  
-Office hours: Thursday, 1:00--2:00pm and by appointment in ...
+Office hours: Thursday, 1:00--2:00pm and by appointment
 :::
 :::
 
@@ -25,9 +25,9 @@ Meets Thursdays, 2:00–4:50 in Major Williams 427
 ## Course description
 This course is designed to introduce students to some of the tools of Digital Humanities/History with an emphasis on using open source technology that puts you in control. The course focuses on methodologies. It begins with the basics of organizing primary and secondary sources and your notes on them, to an introduction to data analysis and visualization using the R programming language, culminating in the creation of your own website. Along the way we will be learning the basics of using the command line and learn about git and using GitHub for publishing websites and to become acquainted with the practices of reproducible research.
 
-::: {.callout-tip icon=false}
+::: {.callout-warning icon=false}
 ## Note
-This course website will function as the main source of information for the course. The syllabus is liable to change based on new material and student input. Any changes will be made official on the website.
+This course website will function as the main source of information for the course. The syllabus is liable to change based on new material and student input. We may not get to certain material or I may add new resources based on student interest. Make sure to check in on the website frequently.
 :::
 
 ## Learning goals

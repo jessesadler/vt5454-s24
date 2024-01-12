@@ -3,14 +3,22 @@ title: "Week 14: Web design and visualization"
 ---
 
 
+This week is a more or less free week to discuss and work on anything from the class that we feel we want/need to go over. The current idea for the week is to go over styling for websites and polishing visualizations.
 
 ## Reading
-
+- [Quarto documents: HTML Themes](https://quarto.org/docs/output-formats/html-themes.html)
+- Samantha Csik, [Customizing Quarto Websites - Make your website stand out using SASS & CSS](https://ucsb-meds.github.io/customizing-quarto-websites/)
+  - [GitHub repository](https://github.com/UCSB-MEDS/customizing-quarto-websites)
 
 ## Assignment
-
+- Work on website project.
 
 ## Activities
-
+Workshop: Designing websites
 
 ## Resources
+- Joel Ross and Mike Freeman, [Client-Side Web Development](https://info340.github.io)
+- [Bootstrap 5](https://getbootstrap.com/)
+- [Bootswatch themes](https://bootswatch.com/)
+- [Sass](https://sass-lang.com/guide/)
+- [Mozilla Docs, CSS: Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS)

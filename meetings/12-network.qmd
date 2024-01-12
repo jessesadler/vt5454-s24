@@ -3,14 +3,34 @@ title: "Week 12: Network analysis"
 ---
 
 
-
 ## Reading
-- Medici, Catherine. “Using Network Analysis to Understand Early Modern Women,” *Early Modern Women: An Interdisciplinary Journal* 13, no. 1 (2018): 153–62.
+- Catherine Medici, "Using Network Analysis to Understand Early Modern Women," *Early Modern Women: An Interdisciplinary Journal*, 13 no. 1 (2018): 153–62, <https://doi.org/10.1353/emw.2018.0058>.
+- Matthew Lincoln, "Social Network Centralization Dynamics in Print Production in the Low Countries, 1550–1750," International Journal for Digital Art History 2 (2016): 134–157, <https://doi.org/10.11588/dah.2016.2.25337>.
 
 ## Assignment
-
+- Ruth Ahnert, Sebastian E. Ahnert, Catherine Nicole Coleman, and Scott B. Weingart, *The Network Turn: Changing Perspectives in the Humanities*, (Cambridge University Press, 2020), <https://doi.org/10.1017/9781108866804>. Read Introduction and choose a chapter to read and discuss in class.
+- Watch Martin Grandjean, [Introduction to Social Network Analysis Series](https://youtu.be/lnLW6ITFY3M?si=XI2VWIOOYTDusKLU)
+- Browse the [Tudor Newtorks project](http://tudornetworks.net).
+- Browse the [Six Degrees of Francis Bacon project](http://sixdegreesoffrancisbacon.com).
 
 ## Activities
-
+- Discussion of *The Network Turn: Changing Perspectives in the Humanities* and the use of network analysis in History.
+- Workshop: Network analysis
 
 ## Resources
+- Mark Granovetter, “The Strength of Weak Ties,” *American Journal of Sociology* 78, no. 6 (1973): 1360–80, <http://www.jstor.org/stable/2776392>.
+- [Journal of Historical Network Research](https://jhnr.uni.lu/index.php/jhnr)
+
+### Network analysis with R
+- [Awesome Network Analysis](https://github.com/briatte/awesome-network-analysis)
+- Katherine Ognyanova, [Static and dynamic network visualization with R](https://kateto.net/network-visualization).
+- Jesse Sadler, [Introduction to Network Analysis with R: Creating static and interactive network graphs](https://www.jessesadler.com/post/network-analysis-with-r/).
+
+### Network analysis R packages
+- [igraph](https://r.igraph.org)
+- [ggraph](https://ggraph.data-imaginist.com)
+
+### Other tools
+- [Gephi](https://gephi.org/)
+- [Cytoscape](https://cytoscape.org/)
+- [Palladio](http://hdlab.stanford.edu/palladio/)

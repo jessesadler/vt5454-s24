@@ -5,6 +5,7 @@ title: "Week 6: Intro to R and RStudio"
 
 ## Reading
 - Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, [*R for Data Science* (2nd Edition)](https://r4ds.hadley.nz): Introduction, Chapters 2, 4, 6, and  8.
+- Kieran Healy, *Data Visualization: A Practical Introduction* (Princeton University Press, 2018), [Chapter 2: Get Started](https://socviz.co/gettingstarted.html#gettingstarted).
 
 ## Assignment
 - Install [R](https://cloud.r-project.org) and [RStudio](https://posit.co/download/rstudio-desktop/). See [Computing R](/computing.qmd#sec-r).
