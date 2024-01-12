@@ -13,6 +13,7 @@ title: "Week 10: Making documents and websites with Quarto"
 - Plan out your website. Make an outline, mindmap, drawing, etc. of the structure of your website.
 
 ## Activities
+- Discussion: Making History public through the web.
 - Workshop: Making a website with Quarto
 
 ## Resources
@@ -21,10 +22,10 @@ title: "Week 10: Making documents and websites with Quarto"
   - [Quarto blog documentation](https://quarto.org/docs/websites/website-blog.html)
 - For an extensive list of resources on Quarto see [Awesome Quarto](https://github.com/mcanouil/awesome-quarto).
 - Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, [*R for Data Science* (2nd Edition)](https://r4ds.hadley.nz): Introduction, Chapters 28 and 29.
-- Isabella Velásquez, [Building a blog with Quarto](https://ivelasq.quarto.pub/building-a-blog-with-quarto/)
+- Isabella Velásquez, [Building a blog with Quarto](https://ivelasq.quarto.pub/building-a-blog-with-quarto/).
 
 ### Examples of Quarto websites
-- [Our course website]
+- [Our course website](https://github.com/jessesadler/vt5454-s24)
 - [A Rogue Historian by Jesse Sadler](https://www.jessesadler.com)
 - [Pipe dreams by Isabella Velásquez](https://ivelasq.rbind.io/)
 - [Notes from a data witch by Danielle Navarro](https://blog.djnavarro.net/)

@@ -29,11 +29,12 @@ title: "Week 13: Spatial analysis"
 - Robin Lovelace, Jakub Nowosad, and Jannes Muenchow, [*Geocomputation with R*](https://geocompr.robinlovelace.net) (2nd Edition)
 - Edzer Pebesma and Roger Bivand, [*Spatial Data Science: With Applications in R*](https://r-spatial.org/book/)
 - Jesse Sadler, [An Exploration of Simple Features for R](https://www.jessesadler.com/post/simple-feature-objects/).
+- Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen, *ggplot2: Elegant Graphics for Data Analysis* (3rd Edition), [Chapter 6: Maps](https://ggplot2-book.org/maps).
 
 ### GIS R packages
 - [CRAN Task View: Analysis of Spatial Data](https://cran.r-project.org/web/views/Spatial.html)
-- [sf](https://r-spatial.github.io/sf/): Vector data
-- [terra](https://rspatial.org): Raster data
+- [sf](https://r-spatial.github.io/sf/): Vector data.
+- [terra](https://rspatial.org): Raster data.
 - [tmap](https://r-tmap.github.io/tmap/): An alternative to making maps with ggplot2.
 - [leaflet](https://rstudio.github.io/leaflet/): Interactive mapping with R.
 - [rayshader](https://www.rayshader.com): Make 3d maps in R.

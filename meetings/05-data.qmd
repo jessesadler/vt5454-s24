@@ -4,9 +4,9 @@ title: "Week 5: Data and an intro to the command line"
 
 
 ## Reading
-- Hadley Wickham, "Tidy Data," *Journal of Statistical Software*, 59, no. 10 (2014), <http://www.jstatsoft.org/v59/i10/>.
+- Hadley Wickham, "Tidy Data," *Journal of Statistical Software* 59, no. 10 (2014), <http://www.jstatsoft.org/v59/i10/>.
 - Karl Broman and Kara Woo, "Data Organization in Spreadsheets," *The American Statistician* 72, no. 1 (2018), <https://doi.org/10.1080/00031305.2017.1375989>.
-- [Programming Historian: Introduction to the Bash Command Line](https://programminghistorian.org/en/lessons/intro-to-bash)
+- [Programming Historian: Ian Milligan and James Baker, Introduction to the Bash Command Line](https://programminghistorian.org/en/lessons/intro-to-bash)
 - Julia Evans, [What helps people get comfortable on the command line?](https://jvns.ca/blog/2023/08/08/what-helps-people-get-comfortable-on-the-command-line-/)
 
 ## Assignment

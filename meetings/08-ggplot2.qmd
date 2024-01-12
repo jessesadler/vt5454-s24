@@ -13,6 +13,7 @@ title: "Week 8: Visualization with ggplot2"
 - Think about the type of visualizations you would like to make for your research. How will they help to make a historical argument?
 
 ## Activities
+- Discussion of visualizations and historical arguments.
 - Workshop: Visualization with ggplot2
 
 ## Resources
@@ -20,3 +21,4 @@ title: "Week 8: Visualization with ggplot2"
 - [My notes on ggplot2](https://jessesadler.github.io/notes-tidyverse/)
 - Kieran Healy, [Data Visualization: A Practical Introduction](https://socviz.co) (Princeton University Press, 2018).
 - Claus Wilke, [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) (O'Reilly 2019).
+- Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen, [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org) (3rd Edition).

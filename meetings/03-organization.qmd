@@ -6,7 +6,7 @@ title: "Week 3: Organizing resources"
 ## Reading
 - Greg Wilson et al., "Good enough practices in scientific computing," *PLOS Computational Biology* 13, no. 6 (2017), <https://doi.org/10.1371/journal.pcbi.1005510>.
   - Not all aspects of the paper will not apply to historians and the paper covers topics we will discuss later in the semester. But, the paper provides a good overview.
-- Susan Collins, [Data Management Plans for Historians: How to Document and Protect Your Research](https://www.historians.org/research-and-publications/perspectives-on-history/october-2017/data-management-plans-for-historians-how-to-document-and-protect-your-research)
+- Susan Collins, [Data Management Plans for Historians: How to Document and Protect Your Research](https://www.historians.org/research-and-publications/perspectives-on-history/october-2017/data-management-plans-for-historians-how-to-document-and-protect-your-research).
 
 ## Assignment
 - Download [Zotero](https://www.zotero.org), sign up for an account, and read over the [documentation](https://www.zotero.org/support/).
@@ -24,7 +24,7 @@ title: "Week 3: Organizing resources"
 - Presentation from Jo Wolf on digital mapping
 
 ## Resources
-- Ben Marwick, Carl Boettiger, and Lincoln Mullen, "Packaging Data Analytical Work Reproducibly Using R (And Friends)," *PeerJ Preprints* (2017), <https://doi.org/10.7287/peerj.preprints.3192v2>.
+- Ben Marwick, Carl Boettiger, and Lincoln Mullen, "Packaging Data Analytical Work Reproducibly Using R (and Friends)," *PeerJ Preprints* (2017), <https://doi.org/10.7287/peerj.preprints.3192v2>.
 - Michael McCarthy, [Reproducible Data Science](https://tidytales.ca/series/2023-01-24_reproducible-data-science) (2023).
 - [Awesome Reproducible Research](https://github.com/leipzig/awesome-reproducible-research)
 - [The Turing Way: Guide for Reproducible Research](https://the-turing-way.netlify.app/reproducible-research/reproducible-research)

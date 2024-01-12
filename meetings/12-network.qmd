@@ -9,7 +9,7 @@ title: "Week 12: Network analysis"
 
 ## Assignment
 - Ruth Ahnert, Sebastian E. Ahnert, Catherine Nicole Coleman, and Scott B. Weingart, *The Network Turn: Changing Perspectives in the Humanities*, (Cambridge University Press, 2020), <https://doi.org/10.1017/9781108866804>. Read Introduction and choose a chapter to read and discuss in class.
-- Watch Martin Grandjean, [Introduction to Social Network Analysis Series](https://youtu.be/lnLW6ITFY3M?si=XI2VWIOOYTDusKLU)
+- Watch Martin Grandjean, [Introduction to Social Network Analysis Series](https://www.martingrandjean.ch/introduction-to-social-network-analysis/).
 - Browse the [Tudor Newtorks project](http://tudornetworks.net).
 - Browse the [Six Degrees of Francis Bacon project](http://sixdegreesoffrancisbacon.com).
 
@@ -25,6 +25,7 @@ title: "Week 12: Network analysis"
 - [Awesome Network Analysis](https://github.com/briatte/awesome-network-analysis)
 - Katherine Ognyanova, [Static and dynamic network visualization with R](https://kateto.net/network-visualization).
 - Jesse Sadler, [Introduction to Network Analysis with R: Creating static and interactive network graphs](https://www.jessesadler.com/post/network-analysis-with-r/).
+- Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen, *ggplot2: Elegant Graphics for Data Analysis* (3rd Edition), [Chapter 7: Networks](https://ggplot2-book.org/networks).
 
 ### Network analysis R packages
 - [igraph](https://r.igraph.org)

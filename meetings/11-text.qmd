@@ -5,9 +5,9 @@ title: "Week 11: Text analysis"
 
 ## Reading
 - Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, [*R for Data Science* (2nd Edition)](https://r4ds.hadley.nz): Chapters 14 and 15.
-- Julia Silge and David Robinson, *Text Mining with R: A Tidy Approach*, (O'Reilly, 2017).
+- Julia Silge and David Robinson, *Text Mining with R: A Tidy Approach*, (O'Reilly, 2017), <https://www.tidytextmining.com>.
   - Read the Preface and Chapter 1: The tidy text format and look through other chapters to see what you might be of particular interest to your concerns.
-- Taylor Arnold, Nicolas Ballier, Paula Lissón, and Lauren Tilton, "Beyond Lexical Frequencies: Using R for Text Analysis in the Digital Humanities," *Language Resources and Evaluation* 53 no. 4 (2019): 707–733, <https://doi.org/10.1007/s10579-019-09456-6>.
+- Taylor Arnold, Nicolas Ballier, Paula Lissón, and Lauren Tilton, "Beyond Lexical Frequencies: Using R for Text Analysis in the Digital Humanities," *Language Resources and Evaluation* 53, no. 4 (2019): 707–733, <https://doi.org/10.1007/s10579-019-09456-6>.
 
 ## Assignment
 - Look at the documentation for the text editor that you are using on regular expressions (regex) and/or advanced find and replace features.
@@ -22,15 +22,15 @@ title: "Week 11: Text analysis"
 ## Resources
 
 ### Regular expressions (regex)
-- [Programming Historian - Doug Knox, Understanding Regular Expressions](https://programminghistorian.org/en/lessons/understanding-regular-expressions)
+- [Programming Historian - Doug Knox, Understanding Regular Expressions](https://programminghistorian.org/en/lessons/understanding-regular-expressions).
 - [stringr: Regular expressions](https://stringr.tidyverse.org/articles/regular-expressions.html)
-- [Regular expressions in R](https://jfjelstul.github.io/regular-expressions-tutorial/)
+- Joshua Fjelstul, [Regular expressions in R](https://jfjelstul.github.io/regular-expressions-tutorial/).
 
 ### Text analysis R packages
 - [CRAN Task View: Natural Language Processing](https://cran.r-project.org/web/views/NaturalLanguageProcessing.html)
-- [stringr](https://stringr.tidyverse.org).
-- [quanteda](https://quanteda.io).
-- [cleanNLP](https://statsmaths.github.io/cleanNLP/).
+- [stringr](https://stringr.tidyverse.org)
+- [quanteda](https://quanteda.io)
+- [cleanNLP](https://statsmaths.github.io/cleanNLP/)
 
 ### Text analysis
 - [Programming Historian - Taylor Arnold and Lauren Tilton, Basic Text Processing in R](https://programminghistorian.org/en/lessons/basic-text-processing-in-r).

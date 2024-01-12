@@ -6,7 +6,7 @@ title: "Week 4: Plain Text and Markdown"
 ## Reading
 - Kieran Healy, [The Plain Person's Guide to Plain Text Social Science](https://plain-text.co)
   - Concentrate on chapters 1, 3, and 7. Do not worry too much if you do not understand the technical aspects of the guide.
-- Programming Historians lesson on [Sustainable Authorship in Plain Text using Pandoc and Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).
+- [Programming Historian: Dennis Tenen and Grant Wythoff, Sustainable Authorship in Plain Text using Pandoc and Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).
 - [Semantic Line Breaks](https://sembr.org)
 - Read about zettelkasten as a note taking methodology. There are a lot of discussions and tutorials out there.
 
@@ -40,4 +40,4 @@ See [Resources: Text editors](/resources.qmd#sec-text-editors). A good text edit
 There is currently a bit of a renaissance in note taking apps that are designed around the basic ideas of zettelkasten. Most of the apps are Markdown editors that provide a way to create internal links between your notes and display incoming and outgoing links. [Zettlr](https://www.zettlr.com) is just one example. It is nice because it is open source, cross platform, and designed with academics in mind. But this does not mean that it is necessarily the best for you. Another hugely popular free (but not open source) and cross platform option is [Obsidian](https://obsidian.md).
 
 ### Other options
-[DevonThink](https://www.devontechnologies.com/apps/devonthink) is more of a do it all data base app for macOS, but it can certainly be used as the foundation of organizing your research and note taking.
+[DevonThink](https://www.devontechnologies.com/apps/devonthink) is more of a do it all database app for macOS, but it can certainly be used as the foundation of organizing your research and note taking.
