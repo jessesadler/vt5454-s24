@@ -34,7 +34,7 @@
     "href": "resources.html#sec-md",
     "title": "Resources",
     "section": "Markdown and plain text",
-    "text": "Markdown and plain text\nMarkdown is widely used as a way to add markup to plain text documents and to write for the web. It was developed by John Gruber in the early 2000s. Its use has exploded since 2010 and there are now a variety of “flavors” of markdown that have more features than the original version. Mostly you do not need to worry about this.\nGuides to Markdown syntax can easily be found on the internet. Markdown Guide provides a good overview of the basic syntax. The Quarto docs show the flavor of Markdown used by Quarto.\nGood places to start for the why and how of writing in plain text for academic writing is Kieran Healy’s The Plain Person’s Guide to Plain Text Social Science and Programming Historians lesson on Sustainable Authorship in Plain Text using Pandoc and Markdown.",
+    "text": "Markdown and plain text\nMarkdown is widely used as a way to add markup to plain text documents and to write for the web. It was developed by John Gruber in the early 2000s. Its use has exploded since 2010 and there are now a variety of “flavors” of markdown that have more features than the original version. Mostly you do not need to worry about this.\nGuides to Markdown syntax can easily be found on the internet. Markdown Guide provides a good overview of the basic syntax. The Quarto docs show the flavor of Markdown used by Quarto. Most/many Markdown editors, especially those that focus on academic writing, depend upon Pandoc, which attempts to be a universal document converter. The Pandoc documents do not make for particularly fun reading, but they are a good resource when digging into the weeds.\nGood places to start for the why and how of writing in plain text for academic writing is Kieran Healy’s The Plain Person’s Guide to Plain Text Social Science and Programming Historians lesson on Sustainable Authorship in Plain Text using Pandoc and Markdown.",
     "crumbs": [
       "Resources"
     ]
@@ -64,7 +64,7 @@
     "href": "resources.html#sec-r",
     "title": "Resources",
     "section": "R",
-    "text": "R\nThere are innumerable freely available resources and tutorials on learning R for data analysis and visualization, but the best starting place is Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition) (O’Reilly, 2023). It is an essential resource that I continue to check whenever I am working in R and forget how to do things.\nA good tutorial on R from a Humanities/Social Sciences perspective is Data Carpentry - R for Social Scientists. Another good option is Software Carpentry - R for Reproducible Scientific Analysis. A more general intro to R from the perspective of someone more used to spreadsheets is Julie Lowndes and Allison Horst, R for Excel Users.\nPosit, the company that makes RStudio, publishes cheatsheets for the set of tidyverse packages we will be using during the course. If you have a question about R you can ask or look for similar questions on the Posit Community.\nIt might be useful to keep The tidyverse style guide handy as you are getting used to writing R code. It provides some basic tips for how to style your code to make it more consistent and easier to read.\nTwo great resources on visualization are Kieran Healy, Data Visualization: A Practical Introduction (Princeton University Press, 2018) and Claus Wilke, Fundamentals of Data Visualization (O’Reilly 2019). Both provide guidance on how to make effective visualizations for the Humanities and Social Sciences.\nAnother set of great resources for visualization with ggplot2 are by Cédric Scherer. His blog post, A ggplot2 Tutorial for Beautiful Plotting in R is both a great starting point and great as a quick reference. His workshop, Graphic Design with ggplot2 at the 2022 RStudio conference is a really nice tutorial on making advanced visualizations.\nYou can also look at a series of notes/overviews that I have written on the tidyverse and visualization with ggplot2.\nTwo good ways to keep up with what is going on with R and the R community is to subscribe to the R Weekly RSS feed to get a currated list of posts about R. Another great project for learning R and seeing some examples is Tidy Tuesday a community driven weekly event to analyze and visualize a given data set.",
+    "text": "R\nThere are innumerable freely available resources and tutorials on learning R for data analysis and visualization, but the best starting place is Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition) (O’Reilly, 2023). It is an essential resource that I continue to check whenever I am working in R and forget how to do things.\nA good tutorial on R from a Humanities/Social Sciences perspective is Data Carpentry - R for Social Scientists. Another good option is Software Carpentry - R for Reproducible Scientific Analysis. A more general intro to R from the perspective of someone more used to spreadsheets is Julie Lowndes and Allison Horst, R for Excel Users.\nPosit, the company that makes RStudio, publishes cheatsheets for the set of tidyverse packages we will be using during the course. If you have a question about R you can ask or look for similar questions on the Posit Community.\nIt might be useful to keep The tidyverse style guide handy as you are getting used to writing R code. It provides some basic tips for how to style your code to make it more consistent and easier to read.\nTwo great resources on visualization are Kieran Healy, Data Visualization: A Practical Introduction (Princeton University Press, 2018) and Claus Wilke, Fundamentals of Data Visualization (O’Reilly 2019). Both provide guidance on how to make effective visualizations for the Humanities and Social Sciences. Hadley Wickham, the creator of ggplot2, Danielle Navarro, and Thomas Lin Pedersen have a third edition of the book ggplot2: Elegant Graphics for Data Analysis. It is a very good reference.\nAnother set of great resources for visualization with ggplot2 are by Cédric Scherer. His blog post, A ggplot2 Tutorial for Beautiful Plotting in R is both a great starting point and great as a quick reference. His workshop, Graphic Design with ggplot2 at the 2022 RStudio conference is a really nice tutorial on making advanced visualizations.\nYou can also look at a series of notes/overviews that I have written on the tidyverse and visualization with ggplot2.\nTwo good ways to keep up with what is going on with R and the R community is to subscribe to the R Weekly RSS feed to get a currated list of posts about R. Another great project for learning R and seeing some examples is Tidy Tuesday a community driven weekly event to analyze and visualize a given data set.",
     "crumbs": [
       "Resources"
     ]
@@ -128,7 +128,7 @@
     "href": "meetings/13-spatial.html#resources",
     "title": "Week 13: Spatial analysis",
     "section": "Resources",
-    "text": "Resources\n\nSpatial Digital History projects\n\nScott Nesbit and Ed Ayers, Visualizing Emancipation\nSlave Voyages\nMapping the Republic of Letters\nPleiades: gazetteer and graph of ancient places\nAncient World Mapping Center\nWorld Historical Gazetteer\n\n\n\nGIS with R\n\nRobin Lovelace, Jakub Nowosad, and Jannes Muenchow, Geocomputation with R (2nd Edition)\nEdzer Pebesma and Roger Bivand, Spatial Data Science: With Applications in R\nJesse Sadler, An Exploration of Simple Features for R.\n\n\n\nGIS R packages\n\nCRAN Task View: Analysis of Spatial Data\nsf: Vector data\nterra: Raster data\ntmap: An alternative to making maps with ggplot2.\nleaflet: Interactive mapping with R.\nrayshader: Make 3d maps in R.\nrnaturalearth\ntidycensus provides access to US Census Bureau data in a tidy format, including the option to bind the data spatially on import.\ntigris provides access to cartographic elements provided by the US Census Bureau TIGER, including cartographic boundaries, roads, and water.\nopencage: Geocode using the Opencage API.",
+    "text": "Resources\n\nSpatial Digital History projects\n\nScott Nesbit and Ed Ayers, Visualizing Emancipation\nSlave Voyages\nMapping the Republic of Letters\nPleiades: gazetteer and graph of ancient places\nAncient World Mapping Center\nWorld Historical Gazetteer\n\n\n\nGIS with R\n\nRobin Lovelace, Jakub Nowosad, and Jannes Muenchow, Geocomputation with R (2nd Edition)\nEdzer Pebesma and Roger Bivand, Spatial Data Science: With Applications in R\nJesse Sadler, An Exploration of Simple Features for R.\nHadley Wickham, Danielle Navarro, and Thomas Lin Pedersen, ggplot2: Elegant Graphics for Data Analysis (3rd Edition), Chapter 6: Maps.\n\n\n\nGIS R packages\n\nCRAN Task View: Analysis of Spatial Data\nsf: Vector data.\nterra: Raster data.\ntmap: An alternative to making maps with ggplot2.\nleaflet: Interactive mapping with R.\nrayshader: Make 3d maps in R.\nrnaturalearth\ntidycensus provides access to US Census Bureau data in a tidy format, including the option to bind the data spatially on import.\ntigris provides access to cartographic elements provided by the US Census Bureau TIGER, including cartographic boundaries, roads, and water.\nopencage: Geocode using the Opencage API.",
     "crumbs": [
       "Schedule",
       "13. Spatial analysis"
@@ -139,7 +139,7 @@
     "href": "meetings/03-organization.html",
     "title": "Week 3: Organizing resources",
     "section": "",
-    "text": "Greg Wilson et al., “Good enough practices in scientific computing,” PLOS Computational Biology 13, no. 6 (2017), https://doi.org/10.1371/journal.pcbi.1005510.\n\nNot all aspects of the paper will not apply to historians and the paper covers topics we will discuss later in the semester. But, the paper provides a good overview.\n\nSusan Collins, Data Management Plans for Historians: How to Document and Protect Your Research",
+    "text": "Greg Wilson et al., “Good enough practices in scientific computing,” PLOS Computational Biology 13, no. 6 (2017), https://doi.org/10.1371/journal.pcbi.1005510.\n\nNot all aspects of the paper will not apply to historians and the paper covers topics we will discuss later in the semester. But, the paper provides a good overview.\n\nSusan Collins, Data Management Plans for Historians: How to Document and Protect Your Research.",
     "crumbs": [
       "Schedule",
       "3. Organizing resources"
@@ -150,7 +150,7 @@
     "href": "meetings/03-organization.html#reading",
     "title": "Week 3: Organizing resources",
     "section": "",
-    "text": "Greg Wilson et al., “Good enough practices in scientific computing,” PLOS Computational Biology 13, no. 6 (2017), https://doi.org/10.1371/journal.pcbi.1005510.\n\nNot all aspects of the paper will not apply to historians and the paper covers topics we will discuss later in the semester. But, the paper provides a good overview.\n\nSusan Collins, Data Management Plans for Historians: How to Document and Protect Your Research",
+    "text": "Greg Wilson et al., “Good enough practices in scientific computing,” PLOS Computational Biology 13, no. 6 (2017), https://doi.org/10.1371/journal.pcbi.1005510.\n\nNot all aspects of the paper will not apply to historians and the paper covers topics we will discuss later in the semester. But, the paper provides a good overview.\n\nSusan Collins, Data Management Plans for Historians: How to Document and Protect Your Research.",
     "crumbs": [
       "Schedule",
       "3. Organizing resources"
@@ -183,7 +183,7 @@
     "href": "meetings/03-organization.html#resources",
     "title": "Week 3: Organizing resources",
     "section": "Resources",
-    "text": "Resources\n\nBen Marwick, Carl Boettiger, and Lincoln Mullen, “Packaging Data Analytical Work Reproducibly Using R (And Friends),” PeerJ Preprints (2017), https://doi.org/10.7287/peerj.preprints.3192v2.\nMichael McCarthy, Reproducible Data Science (2023).\nAwesome Reproducible Research\nThe Turing Way: Guide for Reproducible Research",
+    "text": "Resources\n\nBen Marwick, Carl Boettiger, and Lincoln Mullen, “Packaging Data Analytical Work Reproducibly Using R (and Friends),” PeerJ Preprints (2017), https://doi.org/10.7287/peerj.preprints.3192v2.\nMichael McCarthy, Reproducible Data Science (2023).\nAwesome Reproducible Research\nThe Turing Way: Guide for Reproducible Research",
     "crumbs": [
       "Schedule",
       "3. Organizing resources"
@@ -194,7 +194,7 @@
     "href": "meetings/11-text.html",
     "title": "Week 11: Text analysis",
     "section": "",
-    "text": "Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition): Chapters 14 and 15.\nJulia Silge and David Robinson, Text Mining with R: A Tidy Approach, (O’Reilly, 2017).\n\nRead the Preface and Chapter 1: The tidy text format and look through other chapters to see what you might be of particular interest to your concerns.\n\nTaylor Arnold, Nicolas Ballier, Paula Lissón, and Lauren Tilton, “Beyond Lexical Frequencies: Using R for Text Analysis in the Digital Humanities,” Language Resources and Evaluation 53 no. 4 (2019): 707–733, https://doi.org/10.1007/s10579-019-09456-6.",
+    "text": "Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition): Chapters 14 and 15.\nJulia Silge and David Robinson, Text Mining with R: A Tidy Approach, (O’Reilly, 2017), https://www.tidytextmining.com.\n\nRead the Preface and Chapter 1: The tidy text format and look through other chapters to see what you might be of particular interest to your concerns.\n\nTaylor Arnold, Nicolas Ballier, Paula Lissón, and Lauren Tilton, “Beyond Lexical Frequencies: Using R for Text Analysis in the Digital Humanities,” Language Resources and Evaluation 53, no. 4 (2019): 707–733, https://doi.org/10.1007/s10579-019-09456-6.",
     "crumbs": [
       "Schedule",
       "11. Text analysis"
@@ -205,7 +205,7 @@
     "href": "meetings/11-text.html#reading",
     "title": "Week 11: Text analysis",
     "section": "",
-    "text": "Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition): Chapters 14 and 15.\nJulia Silge and David Robinson, Text Mining with R: A Tidy Approach, (O’Reilly, 2017).\n\nRead the Preface and Chapter 1: The tidy text format and look through other chapters to see what you might be of particular interest to your concerns.\n\nTaylor Arnold, Nicolas Ballier, Paula Lissón, and Lauren Tilton, “Beyond Lexical Frequencies: Using R for Text Analysis in the Digital Humanities,” Language Resources and Evaluation 53 no. 4 (2019): 707–733, https://doi.org/10.1007/s10579-019-09456-6.",
+    "text": "Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition): Chapters 14 and 15.\nJulia Silge and David Robinson, Text Mining with R: A Tidy Approach, (O’Reilly, 2017), https://www.tidytextmining.com.\n\nRead the Preface and Chapter 1: The tidy text format and look through other chapters to see what you might be of particular interest to your concerns.\n\nTaylor Arnold, Nicolas Ballier, Paula Lissón, and Lauren Tilton, “Beyond Lexical Frequencies: Using R for Text Analysis in the Digital Humanities,” Language Resources and Evaluation 53, no. 4 (2019): 707–733, https://doi.org/10.1007/s10579-019-09456-6.",
     "crumbs": [
       "Schedule",
       "11. Text analysis"
@@ -238,7 +238,7 @@
     "href": "meetings/11-text.html#resources",
     "title": "Week 11: Text analysis",
     "section": "Resources",
-    "text": "Resources\n\nRegular expressions (regex)\n\nProgramming Historian - Doug Knox, Understanding Regular Expressions\nstringr: Regular expressions\nRegular expressions in R\n\n\n\nText analysis R packages\n\nCRAN Task View: Natural Language Processing\nstringr.\nquanteda.\ncleanNLP.\n\n\n\nText analysis\n\nProgramming Historian - Taylor Arnold and Lauren Tilton, Basic Text Processing in R.\nProgramming Historian - Jennifer Isasi, Sentiment Analysis with ‘syuzhet’ using R.\nThe Data Sitters Club",
+    "text": "Resources\n\nRegular expressions (regex)\n\nProgramming Historian - Doug Knox, Understanding Regular Expressions.\nstringr: Regular expressions\nJoshua Fjelstul, Regular expressions in R.\n\n\n\nText analysis R packages\n\nCRAN Task View: Natural Language Processing\nstringr\nquanteda\ncleanNLP\n\n\n\nText analysis\n\nProgramming Historian - Taylor Arnold and Lauren Tilton, Basic Text Processing in R.\nProgramming Historian - Jennifer Isasi, Sentiment Analysis with ‘syuzhet’ using R.\nThe Data Sitters Club",
     "crumbs": [
       "Schedule",
       "11. Text analysis"
@@ -293,7 +293,7 @@
     "href": "meetings/05-data.html",
     "title": "Week 5: Data and an intro to the command line",
     "section": "",
-    "text": "Hadley Wickham, “Tidy Data,” Journal of Statistical Software, 59, no. 10 (2014), http://www.jstatsoft.org/v59/i10/.\nKarl Broman and Kara Woo, “Data Organization in Spreadsheets,” The American Statistician 72, no. 1 (2018), https://doi.org/10.1080/00031305.2017.1375989.\nProgramming Historian: Introduction to the Bash Command Line\nJulia Evans, What helps people get comfortable on the command line?",
+    "text": "Hadley Wickham, “Tidy Data,” Journal of Statistical Software 59, no. 10 (2014), http://www.jstatsoft.org/v59/i10/.\nKarl Broman and Kara Woo, “Data Organization in Spreadsheets,” The American Statistician 72, no. 1 (2018), https://doi.org/10.1080/00031305.2017.1375989.\nProgramming Historian: Ian Milligan and James Baker, Introduction to the Bash Command Line\nJulia Evans, What helps people get comfortable on the command line?",
     "crumbs": [
       "Schedule",
       "5. Data and an intro to the command line"
@@ -304,7 +304,7 @@
     "href": "meetings/05-data.html#reading",
     "title": "Week 5: Data and an intro to the command line",
     "section": "",
-    "text": "Hadley Wickham, “Tidy Data,” Journal of Statistical Software, 59, no. 10 (2014), http://www.jstatsoft.org/v59/i10/.\nKarl Broman and Kara Woo, “Data Organization in Spreadsheets,” The American Statistician 72, no. 1 (2018), https://doi.org/10.1080/00031305.2017.1375989.\nProgramming Historian: Introduction to the Bash Command Line\nJulia Evans, What helps people get comfortable on the command line?",
+    "text": "Hadley Wickham, “Tidy Data,” Journal of Statistical Software 59, no. 10 (2014), http://www.jstatsoft.org/v59/i10/.\nKarl Broman and Kara Woo, “Data Organization in Spreadsheets,” The American Statistician 72, no. 1 (2018), https://doi.org/10.1080/00031305.2017.1375989.\nProgramming Historian: Ian Milligan and James Baker, Introduction to the Bash Command Line\nJulia Evans, What helps people get comfortable on the command line?",
     "crumbs": [
       "Schedule",
       "5. Data and an intro to the command line"
@@ -425,7 +425,7 @@
     "href": "meetings/12-network.html#assignment",
     "title": "Week 12: Network analysis",
     "section": "Assignment",
-    "text": "Assignment\n\nRuth Ahnert, Sebastian E. Ahnert, Catherine Nicole Coleman, and Scott B. Weingart, The Network Turn: Changing Perspectives in the Humanities, (Cambridge University Press, 2020), https://doi.org/10.1017/9781108866804. Read Introduction and choose a chapter to read and discuss in class.\nWatch Martin Grandjean, Introduction to Social Network Analysis Series\nBrowse the Tudor Newtorks project.\nBrowse the Six Degrees of Francis Bacon project.",
+    "text": "Assignment\n\nRuth Ahnert, Sebastian E. Ahnert, Catherine Nicole Coleman, and Scott B. Weingart, The Network Turn: Changing Perspectives in the Humanities, (Cambridge University Press, 2020), https://doi.org/10.1017/9781108866804. Read Introduction and choose a chapter to read and discuss in class.\nWatch Martin Grandjean, Introduction to Social Network Analysis Series.\nBrowse the Tudor Newtorks project.\nBrowse the Six Degrees of Francis Bacon project.",
     "crumbs": [
       "Schedule",
       "12. Network analysis"
@@ -447,7 +447,7 @@
     "href": "meetings/12-network.html#resources",
     "title": "Week 12: Network analysis",
     "section": "Resources",
-    "text": "Resources\n\nMark Granovetter, “The Strength of Weak Ties,” American Journal of Sociology 78, no. 6 (1973): 1360–80, http://www.jstor.org/stable/2776392.\nJournal of Historical Network Research\n\n\nNetwork analysis with R\n\nAwesome Network Analysis\nKatherine Ognyanova, Static and dynamic network visualization with R.\nJesse Sadler, Introduction to Network Analysis with R: Creating static and interactive network graphs.\n\n\n\nNetwork analysis R packages\n\nigraph\nggraph\n\n\n\nOther tools\n\nGephi\nCytoscape\nPalladio",
+    "text": "Resources\n\nMark Granovetter, “The Strength of Weak Ties,” American Journal of Sociology 78, no. 6 (1973): 1360–80, http://www.jstor.org/stable/2776392.\nJournal of Historical Network Research\n\n\nNetwork analysis with R\n\nAwesome Network Analysis\nKatherine Ognyanova, Static and dynamic network visualization with R.\nJesse Sadler, Introduction to Network Analysis with R: Creating static and interactive network graphs.\nHadley Wickham, Danielle Navarro, and Thomas Lin Pedersen, ggplot2: Elegant Graphics for Data Analysis (3rd Edition), Chapter 7: Networks.\n\n\n\nNetwork analysis R packages\n\nigraph\nggraph\n\n\n\nOther tools\n\nGephi\nCytoscape\nPalladio",
     "crumbs": [
       "Schedule",
       "12. Network analysis"
@@ -488,7 +488,7 @@
     "href": "faq.html#sec-r",
     "title": "FAQ",
     "section": "Why should I learn a programming language for data analysis and visualization?",
-    "text": "Why should I learn a programming language for data analysis and visualization?\nThere are many reasons why you might want to use a programming language for data analysis and visualization instead of spreadsheets or a GUI (graphical user interface) program, but first it is worth conceding that learning and using a programming language has a much steeper learning curve than the GUI alternatives. Nevertheless, this course argues that it is worth the effort. Benefits include:\n\nReproducibility: With a programming language you can document your analysis in a script that can be reproduced by others. This is not possible with a point-and-click interface of a GUI application or a spreadsheet. Excel error due to miss-clicking are well known.\nSeparation of data and analysis: In a spreadsheet your data and your analysis are done in the same place. This can make it easy to unknowingly introduce errors into your data. With a programming language all analysis is done on a copy of the data, making it easier to ensure the data is correct. This also has the benefit that you can can make mistakes in your data analysis with a programming language without consequence. If you run into problems, get an error, or mess something up, it is ok. Your data remains safe and sound just as you left it. You are in charge: Spreadsheets often try to guess the formatting of data, which is another source of errors. Such errors are common, especially in dealing with dates. Scientists even had to rename a gene to deal with the issue. For historians, the fact that Excel does not natively support dates before 1900. With a programming language you have much greater control.",
+    "text": "Why should I learn a programming language for data analysis and visualization?\nThere are many reasons why you might want to use a programming language for data analysis and visualization instead of spreadsheets or a GUI (graphical user interface) program, but first it is worth conceding that learning and using a programming language has a much steeper learning curve than the GUI alternatives. Nevertheless, this course argues that it is worth the effort. Benefits include:\n\nReproducibility: With a programming language you can document your analysis in a script that can be reproduced by others. This is not possible with a point-and-click interface of a GUI application or a spreadsheet. Excel error due to miss-clicking are well known.\nSeparation of data and analysis: In a spreadsheet your data and your analysis are done in the same place. This can make it easy to unknowingly introduce errors into your data. With a programming language all analysis is done on a copy of the data, making it easier to ensure the data is correct. This also has the benefit that you can can make mistakes in your data analysis with a programming language without consequence. If you run into problems, get an error, or mess something up, it is ok. Your data remains safe and sound just as you left it.\nYou are in charge: Spreadsheets often try to guess the formatting of data, which is another source of errors. Such errors are common, especially in dealing with dates. Scientists even had to rename a gene to deal with the issue. For historians, the fact that Excel does not natively support dates before 1900. With a programming language you have much greater control.",
     "crumbs": [
       "FAQ"
     ]
@@ -518,7 +518,7 @@
     "href": "faq.html#sec-quarto",
     "title": "FAQ",
     "section": "Why are we using Quarto with R and to make websites?",
-    "text": "Why are we using Quarto with R and to make websites?\nQuarto is a relatively new platform made by Posit, the company that makes the RStudio IDE. It is a replacement for RMarkdown. Two advantages of Quarto over RMarkdown are that Quarto can be used by more than just R and it provides a more consistent interface for writing a wide variety of outputs including R scripts, journal articles, slides, websites, and books. Quarto is well integrated into RStudio and familiarity with Quarto documents from the beginning of the course should lessen the cognative load for making a website at the end of the course.",
+    "text": "Why are we using Quarto with R and to make websites?\nQuarto is a relatively new platform made by Posit, the company that makes the RStudio IDE. It is a replacement for RMarkdown. Two advantages of Quarto over RMarkdown are that Quarto can be used by more than just R and it provides a more consistent interface for writing a wide variety of outputs including R scripts, journal articles, slides, websites, and books. Quarto is well integrated into RStudio and familiarity with Quarto documents from the beginning of the course should lessen the cognitive load for making a website at the end of the course.",
     "crumbs": [
       "FAQ"
     ]
@@ -532,13 +532,6 @@
     "crumbs": [
       "FAQ"
     ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "index.html",
@@ -621,7 +614,7 @@
     "href": "computing.html#sec-git",
     "title": "Computing",
     "section": "Git",
-    "text": "Git\nSee Happy Git and GitHub for the useR for a good guide to downloading git for macOS and Windows.\n\nmacOS\nGit may already be on your computer by default, but the git version that comes with macOS is quite out of date. To check if you need to install git:\n\nOpen Terminal\ngit --version – check current version of git on the computer\nLook at current version of Git at https://git-scm.com\n\nIf you need to install Git, there are two basic ways to install it:\nVia Homebrew:\n\nbrew install git – download git with Homebrew\nQuit terminal and reopen it to start new session\n‌git --version – check to see that installation worked.\n\nVia Xcode command line tools:\n\nxcode-select --install\n\n\n\n\nWindows\nInstall git with Git Bash.",
+    "text": "Git\nSee Happy Git and GitHub for the useR for a good guide to downloading git for macOS and Windows.\n\nmacOS\nGit may already be on your computer by default, but the git version that comes with macOS is quite out of date. To check if you need to install git:\n\nOpen Terminal\ngit --version – check current version of git on the computer\nLook at current version of Git at https://git-scm.com\n\nIf you need to install Git, there are two basic ways to install it:\nVia Homebrew:\n\nbrew install git – download git with Homebrew\nQuit terminal and reopen it to start new session\ngit --version – check to see that installation worked.\n\nVia Xcode command line tools:\n\nxcode-select --install\nQuit terminal and reopen it to start new session\ngit --version – check to see that installation worked.\n\n\n\nWindows\nInstall git with Git Bash.",
     "crumbs": [
       "Computing"
     ]
@@ -739,7 +732,7 @@
     "href": "meetings/10-quarto.html#activities",
     "title": "Week 10: Making documents and websites with Quarto",
     "section": "Activities",
-    "text": "Activities\n\nWorkshop: Making a website with Quarto",
+    "text": "Activities\n\nDiscussion: Making History public through the web.\nWorkshop: Making a website with Quarto",
     "crumbs": [
       "Schedule",
       "10. Making documents and websites with Quarto"
@@ -750,7 +743,7 @@
     "href": "meetings/10-quarto.html#resources",
     "title": "Week 10: Making documents and websites with Quarto",
     "section": "Resources",
-    "text": "Resources\n\nThe Quarto documentation is very good and thorough.\n\nQuarto website documentation\nQuarto blog documentation\n\nFor an extensive list of resources on Quarto see Awesome Quarto.\nHadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition): Introduction, Chapters 28 and 29.\nIsabella Velásquez, Building a blog with Quarto\n\n\nExamples of Quarto websites\n\n[Our course website]\nA Rogue Historian by Jesse Sadler\nPipe dreams by Isabella Velásquez\nNotes from a data witch by Danielle Navarro\nNotes from a spreadsheet by Matt Worthington\nThe MockUp by Tom Mock\nMaya Gans\nFaylab Lab Manual\nTed Laderas\nAmelia McNamara\nGarrick Aden-Buie\nOpenscapes",
+    "text": "Resources\n\nThe Quarto documentation is very good and thorough.\n\nQuarto website documentation\nQuarto blog documentation\n\nFor an extensive list of resources on Quarto see Awesome Quarto.\nHadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition): Introduction, Chapters 28 and 29.\nIsabella Velásquez, Building a blog with Quarto.\n\n\nExamples of Quarto websites\n\nOur course website\nA Rogue Historian by Jesse Sadler\nPipe dreams by Isabella Velásquez\nNotes from a data witch by Danielle Navarro\nNotes from a spreadsheet by Matt Worthington\nThe MockUp by Tom Mock\nMaya Gans\nFaylab Lab Manual\nTed Laderas\nAmelia McNamara\nGarrick Aden-Buie\nOpenscapes",
     "crumbs": [
       "Schedule",
       "10. Making documents and websites with Quarto"
@@ -794,7 +787,7 @@
     "href": "meetings/09-git.html#activities",
     "title": "Week 9: Version control with Git and GitHub",
     "section": "Activities",
-    "text": "Activities\n\nWorkshop: Git\nWorkshop: Git and RStudio",
+    "text": "Activities\n\nWorkshop: Git and GitHub\nWorkshop: Git and RStudio",
     "crumbs": [
       "Schedule",
       "9. Version control with Git and GitHub"
@@ -805,7 +798,7 @@
     "href": "meetings/09-git.html#resources",
     "title": "Week 9: Version control with Git and GitHub",
     "section": "Resources",
-    "text": "Resources\n\nGit\n\nSee Computing: Git\nLibrary Carpentry - Introduction to Git\nSoftware Carpentry - Version Control with Git\nChacon, Pro Git\nGitHub docs\nGit Command Line cheatsheet\n\n\n\nRStudio and Git\n\nJenny Bryan, Happy Git and GitHub for the useR\nusethis: Managing Git(Hub) Credentials\nJulie Lowndes and Allison Horst, R for Excel Users: GitHub.\nMaëlle Salmon, git and GitHub in R for the casual user\nGarrick Aden-Buie, Pull Request Flow with usethis",
+    "text": "Resources\n\nGit\n\nSee Computing: Git\nLibrary Carpentry - Introduction to Git\nSoftware Carpentry - Version Control with Git\nChacon, Pro Git\nGitHub docs\nGit Command Line cheatsheet\n\n\n\nRStudio and Git\n\nJenny Bryan, Happy Git and GitHub for the useR.\nusethis: Managing Git(Hub) Credentials.\nJulie Lowndes and Allison Horst, R for Excel Users: GitHub.\nMaëlle Salmon, git and GitHub in R for the casual user.\nGarrick Aden-Buie, Pull Request Flow with usethis.",
     "crumbs": [
       "Schedule",
       "9. Version control with Git and GitHub"
@@ -838,7 +831,7 @@
     "href": "meetings/04-markdown.html",
     "title": "Week 4: Plain Text and Markdown",
     "section": "",
-    "text": "Kieran Healy, The Plain Person’s Guide to Plain Text Social Science\n\nConcentrate on chapters 1, 3, and 7. Do not worry too much if you do not understand the technical aspects of the guide.\n\nProgramming Historians lesson on Sustainable Authorship in Plain Text using Pandoc and Markdown.\nSemantic Line Breaks\nRead about zettelkasten as a note taking methodology. There are a lot of discussions and tutorials out there.",
+    "text": "Kieran Healy, The Plain Person’s Guide to Plain Text Social Science\n\nConcentrate on chapters 1, 3, and 7. Do not worry too much if you do not understand the technical aspects of the guide.\n\nProgramming Historian: Dennis Tenen and Grant Wythoff, Sustainable Authorship in Plain Text using Pandoc and Markdown.\nSemantic Line Breaks\nRead about zettelkasten as a note taking methodology. There are a lot of discussions and tutorials out there.",
     "crumbs": [
       "Schedule",
       "4. Plain text and markdown"
@@ -849,7 +842,7 @@
     "href": "meetings/04-markdown.html#reading",
     "title": "Week 4: Plain Text and Markdown",
     "section": "",
-    "text": "Kieran Healy, The Plain Person’s Guide to Plain Text Social Science\n\nConcentrate on chapters 1, 3, and 7. Do not worry too much if you do not understand the technical aspects of the guide.\n\nProgramming Historians lesson on Sustainable Authorship in Plain Text using Pandoc and Markdown.\nSemantic Line Breaks\nRead about zettelkasten as a note taking methodology. There are a lot of discussions and tutorials out there.",
+    "text": "Kieran Healy, The Plain Person’s Guide to Plain Text Social Science\n\nConcentrate on chapters 1, 3, and 7. Do not worry too much if you do not understand the technical aspects of the guide.\n\nProgramming Historian: Dennis Tenen and Grant Wythoff, Sustainable Authorship in Plain Text using Pandoc and Markdown.\nSemantic Line Breaks\nRead about zettelkasten as a note taking methodology. There are a lot of discussions and tutorials out there.",
     "crumbs": [
       "Schedule",
       "4. Plain text and markdown"
@@ -882,7 +875,7 @@
     "href": "meetings/04-markdown.html#resources",
     "title": "Week 4: Plain Text and Markdown",
     "section": "Resources",
-    "text": "Resources\n\nText editors\nSee Resources: Text editors. A good text editor can save you a lot of time if you take the time to learn how to use it. A great and longstanding macOS text editor is BBEdit, which can be purchased, but it offers a very generous free mode. Here is a comparison chart of of what you get with the free version. A classic text editor for Windows is Notepad++. A popular cross-platform text editor that is freely available is Visual Studio Code. There are many other options. Feel free to check them out.\n\n\nMarkdown\n\nJohn Gruber’s introduction of Markdown and its syntax\nMarkdown style guide: Quarto docs\nMarkdown Style Guide\nMost/many Markdown editors, especially those that focus on academic writing, depend upon Pandoc, which attempts to be a universal document converter.\n\n\n\nOther markup options\n\nThe main other option for writing in Markdown or a Markdown based system is LaTeX. Overleaf is a LaTeX editor created specifically for collaboration in academia.\n\n\n\nNote taking apps and zettelkasten\nThere is currently a bit of a renaissance in note taking apps that are designed around the basic ideas of zettelkasten. Most of the apps are Markdown editors that provide a way to create internal links between your notes and display incoming and outgoing links. Zettlr is just one example. It is nice because it is open source, cross platform, and designed with academics in mind. But this does not mean that it is necessarily the best for you. Another hugely popular free (but not open source) and cross platform option is Obsidian.\n\n\nOther options\nDevonThink is more of a do it all data base app for macOS, but it can certainly be used as the foundation of organizing your research and note taking.",
+    "text": "Resources\n\nText editors\nSee Resources: Text editors. A good text editor can save you a lot of time if you take the time to learn how to use it. A great and longstanding macOS text editor is BBEdit, which can be purchased, but it offers a very generous free mode. Here is a comparison chart of of what you get with the free version. A classic text editor for Windows is Notepad++. A popular cross-platform text editor that is freely available is Visual Studio Code. There are many other options. Feel free to check them out.\n\n\nMarkdown\n\nJohn Gruber’s introduction of Markdown and its syntax\nMarkdown style guide: Quarto docs\nMarkdown Style Guide\nMost/many Markdown editors, especially those that focus on academic writing, depend upon Pandoc, which attempts to be a universal document converter.\n\n\n\nOther markup options\n\nThe main other option for writing in Markdown or a Markdown based system is LaTeX. Overleaf is a LaTeX editor created specifically for collaboration in academia.\n\n\n\nNote taking apps and zettelkasten\nThere is currently a bit of a renaissance in note taking apps that are designed around the basic ideas of zettelkasten. Most of the apps are Markdown editors that provide a way to create internal links between your notes and display incoming and outgoing links. Zettlr is just one example. It is nice because it is open source, cross platform, and designed with academics in mind. But this does not mean that it is necessarily the best for you. Another hugely popular free (but not open source) and cross platform option is Obsidian.\n\n\nOther options\nDevonThink is more of a do it all database app for macOS, but it can certainly be used as the foundation of organizing your research and note taking.",
     "crumbs": [
       "Schedule",
       "4. Plain text and markdown"
@@ -992,7 +985,7 @@
     "href": "meetings/08-ggplot2.html#activities",
     "title": "Week 8: Visualization with ggplot2",
     "section": "Activities",
-    "text": "Activities\n\nWorkshop: Visualization with ggplot2",
+    "text": "Activities\n\nDiscussion of visualizations and historical arguments.\nWorkshop: Visualization with ggplot2",
     "crumbs": [
       "Schedule",
       "8. Visualization with ggplot2"
@@ -1003,7 +996,7 @@
     "href": "meetings/08-ggplot2.html#resources",
     "title": "Week 8: Visualization with ggplot2",
     "section": "Resources",
-    "text": "Resources\n\nCédric Scherer’s comprehensive blog post, A ggplot2 Tutorial for Beautiful Plotting in R is both a great - Cédric Scherer’s workshop at RStudio 2022, Graphic Design with ggplot2.\nMy notes on ggplot2\nKieran Healy, Data Visualization: A Practical Introduction (Princeton University Press, 2018).\nClaus Wilke, Fundamentals of Data Visualization (O’Reilly 2019).",
+    "text": "Resources\n\nCédric Scherer’s comprehensive blog post, A ggplot2 Tutorial for Beautiful Plotting in R is both a great - Cédric Scherer’s workshop at RStudio 2022, Graphic Design with ggplot2.\nMy notes on ggplot2\nKieran Healy, Data Visualization: A Practical Introduction (Princeton University Press, 2018).\nClaus Wilke, Fundamentals of Data Visualization (O’Reilly 2019).\nHadley Wickham, Danielle Navarro, and Thomas Lin Pedersen, ggplot2: Elegant Graphics for Data Analysis (3rd Edition).",
     "crumbs": [
       "Schedule",
       "8. Visualization with ggplot2"

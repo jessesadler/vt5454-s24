@@ -31,6 +31,7 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="../">
 <link href="../meetings/12-network.html" rel="next">
 <link href="../meetings/10-quarto.html" rel="prev">
+<link href="../logo.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -95,11 +96,13 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
-    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="pt-lg-2 mt-2 text-center sidebar-header">
       <a href="../index.html" class="sidebar-logo-link">
       <img src="../logo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
       </a>
-      <div class="sidebar-tools-main">
+      <div class="sidebar-tools-main tools-wide">
+    <a href="../index.html" title="History 5454: Digital Humanities for Public History" class="quarto-navigation-tool px-1" aria-label="History 5454: Digital Humanities for Public History"><i class="bi bi-house-fill"></i></a>
+    <a href="https://github.com/jessesadler/vt5454-s24" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-github"></i></a>
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
       </div>
@@ -249,7 +252,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#text-analysis" id="toc-text-analysis" class="nav-link" data-scroll-target="#text-analysis">Text analysis</a></li>
   </ul></li>
   </ul>
-</nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/jessesadler/vt5454-s24/edit/main/meetings/11-text.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jessesadler/vt5454-s24/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -277,11 +280,11 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="reading">Reading</h2>
 <ul>
 <li>Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, <a href="https://r4ds.hadley.nz"><em>R for Data Science</em> (2nd Edition)</a>: Chapters 14 and 15.</li>
-<li>Julia Silge and David Robinson, <em>Text Mining with R: A Tidy Approach</em>, (O’Reilly, 2017).
+<li>Julia Silge and David Robinson, <em>Text Mining with R: A Tidy Approach</em>, (O’Reilly, 2017), <a href="https://www.tidytextmining.com" class="uri">https://www.tidytextmining.com</a>.
 <ul>
 <li>Read the Preface and Chapter 1: The tidy text format and look through other chapters to see what you might be of particular interest to your concerns.</li>
 </ul></li>
-<li>Taylor Arnold, Nicolas Ballier, Paula Lissón, and Lauren Tilton, “Beyond Lexical Frequencies: Using R for Text Analysis in the Digital Humanities,” <em>Language Resources and Evaluation</em> 53 no. 4 (2019): 707–733, <a href="https://doi.org/10.1007/s10579-019-09456-6" class="uri">https://doi.org/10.1007/s10579-019-09456-6</a>.</li>
+<li>Taylor Arnold, Nicolas Ballier, Paula Lissón, and Lauren Tilton, “Beyond Lexical Frequencies: Using R for Text Analysis in the Digital Humanities,” <em>Language Resources and Evaluation</em> 53, no. 4 (2019): 707–733, <a href="https://doi.org/10.1007/s10579-019-09456-6" class="uri">https://doi.org/10.1007/s10579-019-09456-6</a>.</li>
 </ul>
 </section>
 <section id="assignment" class="level2">
@@ -307,18 +310,18 @@ ul.task-list li input[type="checkbox"] {
 <section id="regular-expressions-regex" class="level3">
 <h3 class="anchored" data-anchor-id="regular-expressions-regex">Regular expressions (regex)</h3>
 <ul>
-<li><a href="https://programminghistorian.org/en/lessons/understanding-regular-expressions">Programming Historian - Doug Knox, Understanding Regular Expressions</a></li>
+<li><a href="https://programminghistorian.org/en/lessons/understanding-regular-expressions">Programming Historian - Doug Knox, Understanding Regular Expressions</a>.</li>
 <li><a href="https://stringr.tidyverse.org/articles/regular-expressions.html">stringr: Regular expressions</a></li>
-<li><a href="https://jfjelstul.github.io/regular-expressions-tutorial/">Regular expressions in R</a></li>
+<li>Joshua Fjelstul, <a href="https://jfjelstul.github.io/regular-expressions-tutorial/">Regular expressions in R</a>.</li>
 </ul>
 </section>
 <section id="text-analysis-r-packages" class="level3">
 <h3 class="anchored" data-anchor-id="text-analysis-r-packages">Text analysis R packages</h3>
 <ul>
 <li><a href="https://cran.r-project.org/web/views/NaturalLanguageProcessing.html">CRAN Task View: Natural Language Processing</a></li>
-<li><a href="https://stringr.tidyverse.org">stringr</a>.</li>
-<li><a href="https://quanteda.io">quanteda</a>.</li>
-<li><a href="https://statsmaths.github.io/cleanNLP/">cleanNLP</a>.</li>
+<li><a href="https://stringr.tidyverse.org">stringr</a></li>
+<li><a href="https://quanteda.io">quanteda</a></li>
+<li><a href="https://statsmaths.github.io/cleanNLP/">cleanNLP</a></li>
 </ul>
 </section>
 <section id="text-analysis" class="level3">
@@ -880,7 +883,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    </div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/jessesadler/vt5454-s24/edit/main/meetings/11-text.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jessesadler/vt5454-s24/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>This page is built with <a href="https://quarto.org/">Quarto</a>.</p>
 </div>

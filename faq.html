@@ -31,6 +31,7 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <link href="./computing.html" rel="next">
 <link href="./resources.html" rel="prev">
+<link href="./logo.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -95,11 +96,13 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
-    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="pt-lg-2 mt-2 text-center sidebar-header">
       <a href="./index.html" class="sidebar-logo-link">
       <img src="./logo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
       </a>
-      <div class="sidebar-tools-main">
+      <div class="sidebar-tools-main tools-wide">
+    <a href="./index.html" title="History 5454: Digital Humanities for Public History" class="quarto-navigation-tool px-1" aria-label="History 5454: Digital Humanities for Public History"><i class="bi bi-house-fill"></i></a>
+    <a href="https://github.com/jessesadler/vt5454-s24" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-github"></i></a>
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
       </div>
@@ -247,7 +250,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#sec-quarto" id="toc-sec-quarto" class="nav-link" data-scroll-target="#sec-quarto">Why are we using Quarto with R and to make websites?</a></li>
   <li><a href="#sec-web" id="toc-sec-web" class="nav-link" data-scroll-target="#sec-web">Why should I make a website?</a></li>
   </ul>
-</nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/jessesadler/vt5454-s24/edit/main/faq.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jessesadler/vt5454-s24/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -305,7 +308,8 @@ ul.task-list li input[type="checkbox"] {
 <p>There are many reasons why you might want to use a programming language for data analysis and visualization instead of spreadsheets or a GUI (graphical user interface) program, but first it is worth conceding that learning and using a programming language has a much steeper learning curve than the GUI alternatives. Nevertheless, this course argues that it is worth the effort. Benefits include:</p>
 <ul>
 <li><strong>Reproducibility</strong>: With a programming language you can document your analysis in a script that can be reproduced by others. This is not possible with a point-and-click interface of a GUI application or a spreadsheet. <a href="https://www.marketplace.org/2013/04/17/economy/excel-mistake-heard-round-world/">Excel error</a> due to miss-clicking are well known.</li>
-<li><strong>Separation of data and analysis</strong>: In a spreadsheet your data and your analysis are done in the same place. This can make it easy to unknowingly introduce errors into your data. With a programming language all analysis is done on a copy of the data, making it easier to ensure the data is correct. This also has the benefit that you can can make mistakes in your data analysis with a programming language without consequence. If you run into problems, get an error, or mess something up, it is ok. Your data remains safe and sound just as you left it. <strong>You are in charge</strong>: Spreadsheets often try to guess the formatting of data, which is another source of errors. Such errors are common, especially in dealing with dates. Scientists even had to <a href="https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates">rename a gene</a> to deal with the issue. For historians, the fact that Excel does not natively support dates before 1900. With a programming language you have much greater control.</li>
+<li><strong>Separation of data and analysis</strong>: In a spreadsheet your data and your analysis are done in the same place. This can make it easy to unknowingly introduce errors into your data. With a programming language all analysis is done on a copy of the data, making it easier to ensure the data is correct. This also has the benefit that you can can make mistakes in your data analysis with a programming language without consequence. If you run into problems, get an error, or mess something up, it is ok. Your data remains safe and sound just as you left it.</li>
+<li><strong>You are in charge</strong>: Spreadsheets often try to guess the formatting of data, which is another source of errors. Such errors are common, especially in dealing with dates. Scientists even had to <a href="https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates">rename a gene</a> to deal with the issue. For historians, the fact that Excel does not natively support dates before 1900. With a programming language you have much greater control.</li>
 </ul>
 </section>
 <section id="sec-python" class="level2">
@@ -323,7 +327,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="sec-quarto" class="level2">
 <h2 class="anchored" data-anchor-id="sec-quarto">Why are we using Quarto with R and to make websites?</h2>
-<p><a href="https://quarto.org">Quarto</a> is a relatively new platform made by <a href="https://posit.co">Posit</a>, the company that makes the <a href="https://posit.co/downloads/">RStudio IDE</a>. It is a replacement for <a href="https://rmarkdown.rstudio.com">RMarkdown</a>. Two advantages of Quarto over RMarkdown are that Quarto can be used by more than just R and it provides a more consistent interface for writing a wide variety of outputs including R scripts, journal articles, slides, websites, and books. Quarto is well integrated into RStudio and familiarity with Quarto documents from the beginning of the course should lessen the cognative load for making a website at the end of the course.</p>
+<p><a href="https://quarto.org">Quarto</a> is a relatively new platform made by <a href="https://posit.co">Posit</a>, the company that makes the <a href="https://posit.co/downloads/">RStudio IDE</a>. It is a replacement for <a href="https://rmarkdown.rstudio.com">RMarkdown</a>. Two advantages of Quarto over RMarkdown are that Quarto can be used by more than just R and it provides a more consistent interface for writing a wide variety of outputs including R scripts, journal articles, slides, websites, and books. Quarto is well integrated into RStudio and familiarity with Quarto documents from the beginning of the course should lessen the cognitive load for making a website at the end of the course.</p>
 </section>
 <section id="sec-web" class="level2">
 <h2 class="anchored" data-anchor-id="sec-web">Why should I make a website?</h2>
@@ -879,7 +883,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    </div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/jessesadler/vt5454-s24/edit/main/faq.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jessesadler/vt5454-s24/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>This page is built with <a href="https://quarto.org/">Quarto</a>.</p>
 </div>
