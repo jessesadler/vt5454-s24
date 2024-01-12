@@ -6,7 +6,7 @@ title: "Week 14: Web design and visualization"
 This week is a more or less free week to discuss and work on anything from the class that we feel we want/need to go over. The current idea for the week is to go over styling for websites and polishing visualizations.
 
 ## Reading
-- [Quarto documents: HTML Themes](https://quarto.org/docs/output-formats/html-themes.html)
+- [Quarto documentation: HTML Themes](https://quarto.org/docs/output-formats/html-themes.html)
 - Samantha Csik, [Customizing Quarto Websites - Make your website stand out using SASS & CSS](https://ucsb-meds.github.io/customizing-quarto-websites/)
   - [GitHub repository](https://github.com/UCSB-MEDS/customizing-quarto-websites)
 
