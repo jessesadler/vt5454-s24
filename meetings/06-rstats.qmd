@@ -3,15 +3,18 @@ title: "Week 6: Intro to R and RStudio"
 ---
 
 
-
 ## Reading
--  Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, [R for Data Science (2nd Edition)](https://r4ds.hadley.nz) chapters.
+- Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, [*R for Data Science* (2nd Edition)](https://r4ds.hadley.nz): Introduction, Chapters 2, 4, 6, and  8.
 
 ## Assignment
-
+- Install [R](https://cloud.r-project.org) and [RStudio](https://posit.co/download/rstudio-desktop/). See [Computing R](/computing.qmd#sec-r).
 
 ## Activities
-
+- Workshop: Intro to R
+- Workshop: Importing data
 
 ## Resources
-- Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, [R for Data Science (2nd Edition)](https://r4ds.hadley.nz) (O'Reilly, 2023).
+- [Data Carpentry - R for Social Scientists](https://datacarpentry.org/r-socialsci/)
+- [Software Carpentry - R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/)
+- Julie Lowndes and Allison Horst, [R for Excel Users: R & RStudio, RMarkdown](https://rstudio-conf-2020.github.io/r-for-excel/rstudio.html).
+- [On importing data with readr](https://jessesadler.github.io/notes-tidyverse/01-readr.html)

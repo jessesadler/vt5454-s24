@@ -4,17 +4,36 @@ title: "Week 4: Plain Text and Markdown"
 
 
 ## Reading
-- Kieran Healy, [The Plain Person’s Guide to Plain Text Social Science](https://plain-text.co)
+- Kieran Healy, [The Plain Person's Guide to Plain Text Social Science](https://plain-text.co)
+  - Concentrate on chapters 1, 3, and 7. Do not worry too much if you do not understand the technical aspects of the guide.
 - Programming Historians lesson on [Sustainable Authorship in Plain Text using Pandoc and Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).
+- [Semantic Line Breaks](https://sembr.org)
+- Read about zettelkasten as a note taking methodology. There are a lot of discussions and tutorials out there.
 
 ## Assignment
-- Download Obsidian
-- Find and download a text editor
+- Find and download a text editor application.
+- Download [Zettlr](https://www.zettlr.com), go through the short tutorial, and look over the [docs](https://docs.zettlr.com/en/). Read the short discussion of using [Zettlr for zettelkasten](https://docs.zettlr.com/en/advanced/zkn-method/). Think about how contextual note taking might be useful for your research and writing.
 
 ## Activities
-
+- The benefits and drawbacks of plain text.
+  - Workshop: Working with a text editor
+- Workshop: Writing in Markdown.
+- Discussion on organization and note taking
+  - Zettelkasten: Is it for you?
+  - Workshop: Zettlr
 
 ## Resources
+
+### Text editors
+See [Resources: Text editors](/resources.qmd#sec-text-editors). A good text editor can save you a lot of time if you take the time to learn how to use it. A great and longstanding macOS text editor is [BBEdit](http://www.barebones.com/products/bbedit/), which can be purchased, but it offers a very generous free mode. Here is a [comparison chart](https://www.barebones.com/products/bbedit/comparison.html) of of what you get with the free version. A classic text editor for Windows is [Notepad++](https://notepad-plus-plus.org). A popular cross-platform text editor that is freely available is [Visual Studio Code](https://code.visualstudio.com). There are many other options. Feel free to check them out.
+
+### Markdown
 - [John Gruber's introduction of Markdown and its syntax](https://daringfireball.net/projects/markdown/syntax)
 - [Markdown style guide: Quarto docs](https://quarto.org/docs/authoring/markdown-basics.html)
 - [Markdown Style Guide](https://markdownguide.offshoot.io/basic-syntax/)
+
+### Note taking apps and zettelkasten
+There is currently a bit of a renaissance in note taking apps that are designed around the basic ideas of zettelkasten. Most of the apps are Markdown editors that provide a way to create internal links between your notes and display incoming and outgoing links. [Zettlr](https://www.zettlr.com) is just one example. It is nice because it is open source, cross platform, and designed with academics in mind. But this does not mean that it is necessarily the best for you. Another hugely popular free (but not open source) and cross platform option is [Obsidian](https://obsidian.md).
+
+### Other options
+[DevonThink](https://www.devontechnologies.com/apps/devonthink) is more of a do it all data base app for macOS, but it can certainly be used as the foundation of organizing your research and note taking.

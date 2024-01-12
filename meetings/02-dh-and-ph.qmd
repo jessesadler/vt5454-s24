@@ -5,8 +5,13 @@ title: "Week 2: Digital History and Public History"
 This week serves as an introduction to the concept of Digital Humanities/History and its relation to Public History.
 
 ## Reading
-- Gregory Crane, “Greco-Roman Studies in a Digital Age,” *Daedalus* 145, no. 2 (2016): 127–33. [http://www.jstor.org/stable/10.2307/24711585](http://www.jstor.org/stable/10.2307/24711585)
-- Romein et al, "State of the Field: Digital History," *History* 105, (2020): 291--312. [https://doi.org/10.1111/1468-229X.12969](https://doi.org/10.1111/1468-229X.12969)
+- Gregory Crane, “Greco-Roman Studies in a Digital Age,” *Daedalus* 145, no. 2 (2016): 127–33, <http://www.jstor.org/stable/10.2307/24711585>.
+- Romein et al, "State of the Field: Digital History," *History* 105, (2020): 291--312, <https://doi.org/10.1111/1468-229X.12969>.
+- Julian Chambliss, *Reframing Digital Humanities: Conversations with Digital Humanists* (Michigan State University Libraries, 2021), [Kathleen Fitzpatrick and Public Digital Humanities](https://openbooks.lib.msu.edu/reframingdh/chapter/kathleen-fitzpatrick-and-public-digital-humanities/).
+- Kathleen Fitzpatrick, [Open Infrastructures and the Future of Knowledge Production, p.art 1](https://team.hcommons.org/2024/01/05/open-infrastructures-and-the-future-of-knowledge-production-part-1/)
+
+## Assignment
+- Look at [Humanities Commons](https://hcommons.org), explore the [documentation](https://support.hcommons.org), and sign up for an account if you are interested.
 - Explore the [Debates in the Digital Humanities series](https://dhdebates.gc.cuny.edu), read at least one of the articles in one of the volumes, and be prepared to discuss the article in class. Make sure to look over the [Debates in the Digital Humanities 2023 volume](https://dhdebates.gc.cuny.edu/projects/debates-in-the-digital-humanities-2023) even if you pick an article from elsewhere.
 
 ## Activities

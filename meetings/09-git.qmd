@@ -3,18 +3,35 @@ title: "Week 9: Version control with Git and GitHub"
 ---
 
 
-
 ## Reading
-- Jenny Bryan, ["Excuse me, do you have a moment to talk about version control?,"](https://peerj.com/preprints/3159v2) *PeerJ Preprints* (2017)
+- Jenny Bryan, "Excuse me, do you have a moment to talk about version control?," *PeerJ Preprints* (2017) <https://peerj.com/preprints/3159v2>.
+- Jenny Bryan, [Happy Git and GitHub for the useR, Chapter 1: Why Git? Why GitHub?](https://happygitwithr.com/big-picture)
+- Lowndes et al., "Our path to better science in less time using open data science tools," *Nature: Ecology & Evolution* 1 no. 6, (2017), <http://www.nature.com/articles/s41559-017-0160>.
+- Allison Horst and Julie Lowndes, [GitHub for supporting, reusing, contributing, and failing safely](https://openscapes.org/blog/2022-05-27-github-illustrated-series/).
 
 ## Assignment
-
+- Make sure that you have Git downloaded on your computer.
+- Set up Git to work with RStudio.
+- Set up and account at GitHub.
+- Take some time to go back over working on the command line.
 
 ## Activities
-
+- Workshop: Git
+- Workshop: Git and RStudio
 
 ## Resources
+
+### Git
+- See [Computing: Git](/computing.qmd#sec-git)
+- [Library Carpentry - Introduction to Git](https://librarycarpentry.org/lc-git)
 - [Software Carpentry - Version Control with Git](https://swcarpentry.github.io/git-novice/)
 - [Chacon, Pro Git](https://git-scm.com/book/en/v2)
 - [GitHub docs](https://docs.github.com/en)
-- [Jenny Bryan, Happy Git and GitHub for the useR](http://happygitwithr.com)
+- [Git Command Line cheatsheet](https://github.com/WebDevStudios/CLI-Cheat-Sheet/blob/master/git-commands.md)
+
+### RStudio and Git
+- Jenny Bryan, [Happy Git and GitHub for the useR](http://happygitwithr.com)
+- [usethis: Managing Git(Hub) Credentials](https://usethis.r-lib.org/articles/git-credentials.html)
+- Julie Lowndes and Allison Horst, [R for Excel Users: GitHub](https://rstudio-conf-2020.github.io/r-for-excel/github.html).
+- [Maëlle Salmon, git and GitHub in R for the casual user](https://masalmon.eu/2023/01/12/git-github-casual/)
+- Garrick Aden-Buie, [Pull Request Flow with usethis](https://www.garrickadenbuie.com/blog/pull-request-flow-usethis)

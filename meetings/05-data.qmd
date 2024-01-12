@@ -3,19 +3,24 @@ title: "Week 5: Data and an intro to the command line"
 ---
 
 
-
 ## Reading
-- Karl Broman and Kara Woo, "Data Organization in Spreadsheets," *The American Statistician* 72 no. 1, (2018): 2--10, [https://doi.org/10.1080/00031305.2017.1375989](https://doi.org/10.1080/00031305.2017.1375989).
+- Hadley Wickham, "Tidy Data," *Journal of Statistical Software*, 59, no. 10 (2014), <http://www.jstatsoft.org/v59/i10/>.
+- Karl Broman and Kara Woo, "Data Organization in Spreadsheets," *The American Statistician* 72, no. 1 (2018), <https://doi.org/10.1080/00031305.2017.1375989>.
 - [Programming Historian: Introduction to the Bash Command Line](https://programminghistorian.org/en/lessons/intro-to-bash)
+- Julia Evans, [What helps people get comfortable on the command line?](https://jvns.ca/blog/2023/08/08/what-helps-people-get-comfortable-on-the-command-line-/)
 
 ## Assignment
-- Find data to bring to class
-- Download a command line terminal if you are using Windows.
+- Find or create rectangular/tabular data from your own research interests to bring to class with you.
+- Download a command line terminal if you are using Windows. See [Computing: Command line](/computing.qmd#sec-cl).
 
 ## Activities
-- Workshop: Intro to the command line
+- The benefits and drawbacks of spreadsheets.
+- Tidy data: What is tidy data?
+  - Workshop: Is the data you have tidy? If not, how should it be changed to be tidy?
+- Workshop: Intro to the command line.
 
 ## Resources
+- [Data Carpentry - Data Organization in Spreadsheets for Social Scientists](https://datacarpentry.org/spreadsheets-socialsci/)
 - [Software Carpentry - The Unix Shell](https://swcarpentry.github.io/shell-novice/)
 - [Hartl, Learn Enough Command Line to be Dangerous](https://www.learnenough.com/command-line-tutorial)
 	- Very good basic tutorial and guide that can be used as a good reference.

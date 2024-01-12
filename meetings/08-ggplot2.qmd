@@ -3,15 +3,17 @@ title: "Week 8: Visualization with ggplot2"
 ---
 
 
-
 ## Reading
-- John Theibault, “Visualizations and Historical Arguments,” in Writing History in the Digital Age, ed. Kristen Nawrotzki and Jack Dougherty (University of Michigan Press, 2013), [https://doi.org/10.3998/dh.12230987.0001.001](https://doi.org/10.3998/dh.12230987.0001.001).
-- Kieran Healy and James Moody, [“Data Visualization in Sociology”](http://kieranhealy.org/files/papers/data-visualization.pdf) Annual Review of Sociology, 40:105–128.
+- John Theibault, “Visualizations and Historical Arguments,” in *Writing History in the Digital Age*, eds. Kristen Nawrotzki and Jack Dougherty (University of Michigan Press, 2013), <https://www.jstor.org/stable/j.ctv65sx57.19>.
+- Kieran Healy and James Moody, [“Data Visualization in Sociology”](http://kieranhealy.org/files/papers/data-visualization.pdf) *Annual Review of Sociology*, 40: 105–128.
+- Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, [*R for Data Science* (2nd Edition)](https://r4ds.hadley.nz): Chapters 1, 9, 10, and  11.
 
 ## Assignment
-
+- Think about the type of visualizations you would like to make for your research. How will they help to make a historical argument?
 
 ## Activities
-
+- Workshop: Visualization with ggplot2
 
 ## Resources
+- Cédric Scherer's comprehensive blog post, [A ggplot2 Tutorial for Beautiful Plotting in R](https://www.cedricscherer.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/) is both a great - Cédric Scherer's workshop at RStudio 2022, [Graphic Design with ggplot2](https://rstudio-conf-2022.github.io/ggplot2-graphic-design/).
+- [My notes on ggplot2](https://jessesadler.github.io/notes-tidyverse/)

@@ -3,14 +3,23 @@ title: "Week 7: Data wrangling"
 ---
 
 
-
 ## Reading
-
+- Jenny Bryan, [What They Forgot to Teach You about R](https://rstats.wtf), Chapters 1--4.
+- Malcolm Barrett, [Why should I use the here package when I'm already using projects?](https://malco.io/articles/2018-11-05-why-should-i-use-the-here-package-when-i-m-already-using-projects)
+- Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, [*R for Data Science* (2nd Edition)](https://r4ds.hadley.nz): Chapters 3, 5, 7, and 19.
 
 ## Assignment
-
+- Bring your data to work on in class.
 
 ## Activities
-
+- Workshop: Data wrangling
 
 ## Resources
+- [Data Carpentry - R for Social Scientists, Data Wrangling with dplyr](https://datacarpentry.org/r-socialsci/03-dplyr.html)
+- [Data Carpentry - R for Social Scientists, Data Wrangling with tidyr](https://datacarpentry.org/r-socialsci/04-tidyr.html)
+- [dplyr: Column-wise operations](https://dplyr.tidyverse.org/articles/colwise.html)
+- [dplyr: Row-wise operations](https://dplyr.tidyverse.org/articles/rowwise.html)
+- [dplyr: Joins - Two-table verbs](https://dplyr.tidyverse.org/articles/two-table.html)
+- [tidyr: Tidy Data](https://tidyr.tidyverse.org/articles/tidy-data.html)
+- [tidyr: Pivoting](https://tidyr.tidyverse.org/articles/pivot.html)
+- [My notes on the tidyverse](https://jessesadler.github.io/notes-tidyverse/)
