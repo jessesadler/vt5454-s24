@@ -16,3 +16,14 @@ $sidebar-bg: #861F41;
 $sidebar-fg: #FFFFFF;
 
 /*-- scss:rules --*/
+
+// Increase size of icons in sidebar
+.quarto-reader-toggle .bi::before, .quarto-color-scheme-toggle .bi::before {
+      height: 1.5rem;
+      width: 1.5rem;
+      background-size: 1.5rem 1.5rem;
+    }
+
+.sidebar-navigation .quarto-navigation-tool {
+     font-size: 1.1rem;
+    }

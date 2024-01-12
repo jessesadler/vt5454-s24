@@ -3,11 +3,22 @@ project:
 
 website:
   page-navigation: true
+  favicon: logo.png
+  site-url: https://jessesadler.github.io/vt5454-s24/
+  repo-url: https://github.com/jessesadler/vt5454-s24
+  repo-actions: [edit,issue]
+
   sidebar:
     logo: logo.png
     style: docked
     search: true
     pinned: true
+    align: center
+    tools:
+      - icon: house-fill
+        href: index.qmd
+      - icon: github
+        href: https://github.com/jessesadler/vt5454-s24
     contents:
       - section: "Schedule"
         contents:
