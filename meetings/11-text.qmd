@@ -35,4 +35,6 @@ title: "Week 11: Text analysis"
 ### Text analysis
 - [Programming Historian - Taylor Arnold and Lauren Tilton, Basic Text Processing in R](https://programminghistorian.org/en/lessons/basic-text-processing-in-r).
 - [Programming Historian - Jennifer Isasi, Sentiment Analysis with 'syuzhet' using R](https://programminghistorian.org/en/lessons/sentiment-analysis-syuzhet).
+- Emil Hvitfeldt and Julia Silge, *Supervised Machine Learning for Text Analysis in R*, (CRC Press 2021), <https://smltar.com>.
+  - This books is an updated but more advanced discussion of text analysis in R than *Text Mining with R: A Tidy Approach*.
 - [The Data Sitters Club](https://datasittersclub.github.io/site/#)
