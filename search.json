@@ -14,7 +14,27 @@
     "href": "resources.html#sec-dh",
     "title": "Resources",
     "section": "Digital Humanities",
-    "text": "Digital Humanities\nHumanities Commons - Hcommons is doing a lot of interesting things to build open source infrastructure for the Humanities in general. Their blog, called Platypus discusses the why and how of what they are doing.\nThe question of what is Digital Humanities is ever present. In fact, there is a website that automatically provides different answers. Digital Humanities is also perpetually seen as the future as Cameron Blevins noted in 2016. The Digital Humanities Literacy Guidebook provides a good overview of the breadth of Digital Humanities.\nWriting on or about Digital Humanities is quite widespread and diverse. Here are some useful places to start, some of which we will read during the semester.\n\nRomein et al, “State of the Field: Digital History,” History 105, (2020): 291–312. https://doi.org/10.1111/1468-229X.12969\nThe Debates in the Digital Humanities series published by University of Minnesota Press and hosted at The Graduate Center at CUNY has a fairly exhaustive range of discussions spanning from 2013 to 2023.\nA more theoretical discussion of how Digital Humanities affects the study of History can be found in History & Theory vol 61, issue 4: Changing Narratives, Changing Methods, Changing Narrators.\n\nAs far as tutorials for digital tools and technologies, two good places to start looking are The Carpentries and Programming Historian.\nThere are many lists of Digital Humanities and Digital History tools, projects, tutorials, and data sources. Here are a couple Awesome lists:\n- Awesome Digital Humanities - Awesome Digital History - Awesome Research Tools - Awesome Reproducible Research",
+    "text": "Digital Humanities\nHumanities Commons - Hcommons is doing a lot of interesting things to build open source infrastructure for the Humanities in general. Their blog, called Platypus, discusses the why and how of what they are doing.\nThe question of what Digital Humanities is is ever present. In fact, there is a website that provides different answers. Digital Humanities is also perpetually seen as the future as Cameron Blevins noted in 2016. The Digital Humanities Literacy Guidebook provides a good overview of the breadth of Digital Humanities.\nWriting on or about Digital Humanities is quite widespread and diverse. Here are some useful places to start, some of which we will read during the semester.\n\nRomein et al, “State of the Field: Digital History,” History 105, (2020): 291–312. https://doi.org/10.1111/1468-229X.12969\nThe Debates in the Digital Humanities series published by University of Minnesota Press and hosted at The Graduate Center at CUNY has a fairly exhaustive range of discussions spanning from 2013 to 2023.\nA more theoretical discussion of how Digital Humanities affects the study of History can be found in History & Theory vol 61, issue 4: Changing Narratives, Changing Methods, Changing Narrators.\n\nAs far as tutorials for digital tools and technologies, two good places to start looking are The Carpentries and Programming Historian.\nThere are many lists of Digital Humanities and Digital History tools, projects, tutorials, and data sources. Here are a couple Awesome lists:\n\nAwesome Digital Humanities\nAwesome Digital History\nAwesome Research Tools\nAwesome Reproducible Research\n\nAn invaluable source for finding Digital Humanities projects is the online journal Reviews in Digital Humanities. I recommend looking through the reviews by topic or method, which includes a quite large collection of DH projects devoted to Public Humanities.",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "resources.html#sec-discord",
+    "href": "resources.html#sec-discord",
+    "title": "Resources",
+    "section": "Discord",
+    "text": "Discord\nDiscord is a community chat platform. Unlike most tools that we are using in this course, it is not open-source, but the free tier of Discord serves our needs well of providing a place to discuss topics outside of our meetings. Discord is available for download on desktop and mobile or can be used in the browser. We will go through using Discord together, but you can look at the docs on getting started or at the beginner’s guide if you are confused about anything. You will receive an invite for the Discord via email.",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "resources.html#sec-zotero",
+    "href": "resources.html#sec-zotero",
+    "title": "Resources",
+    "section": "Zotero",
+    "text": "Zotero\nZoetero is an open-source application available on macOS, Windows, Linux, and iOS that is created by the Corporation for Digital Scholarship. It is built by a group of historians and designed specifically for use by academics in the Humanities. In this course we will be using Zotero groups as a way to collaborate on the collection of resources for the course.\nYou can download Zotero here. To use Groups you need to sign up for an account. I will send you a link to join our group, vt5454-s24, once everyone has an account.\nWe will discuss using Zotero in more detail in Week 3. You can get a start with Zotero if you have not used it before by looking at the documentation.",
     "crumbs": [
       "Resources"
     ]
@@ -24,7 +44,7 @@
     "href": "resources.html#sec-text-editors",
     "title": "Resources",
     "section": "Text editors",
-    "text": "Text editors\nWe will be working in plain text documents throughout the course and a good text editor is essential. Happily, there are many options for you. Below is a partial list of text editors, but there are many out there.\n\nCross platform\n\nVisual Studio Code is much more than a text editor, but it can also be made into a good text editor for plain text and Markdown. It is free and open source and worthy of a download to check out.\nA paid alternative is Sublime Text.\n\n\n\nmacOS\n\nBBEdit is over 30 years old and still going strong. It is available for purchase, but you can go quite far with the free version.\nCotEditor is a modern open source text editor that is very clean looking.\nChime is another open source option.\n\n\n\nWindows\n\nA classic text editor for Windows is Notepad++.",
+    "text": "Text editors\nWe will be working in plain text documents throughout the course and a good text editor is essential. Happily, there are many options for you. Below is a partial list of text editors, but feel free to explore other options.\n\nCross platform\n\nVisual Studio Code is much more than a text editor, but it can also be made into a good text editor for plain text and Markdown. It is free and open source and worthy of a download to check out.\nA paid alternative is Sublime Text.\n\n\n\nmacOS\n\nBBEdit is over 30 years old and still going strong. It is available for purchase, but you can go quite far with the free version.\nCotEditor is a modern open source text editor that is very clean looking.\nChime is another open source option.\n\n\n\nWindows\n\nA classic text editor for Windows is Notepad++.",
     "crumbs": [
       "Resources"
     ]
@@ -34,7 +54,7 @@
     "href": "resources.html#sec-md",
     "title": "Resources",
     "section": "Markdown and plain text",
-    "text": "Markdown and plain text\nMarkdown is widely used as a way to add markup to plain text documents and to write for the web. It was developed by John Gruber in the early 2000s. Its use has exploded since 2010 and there are now a variety of “flavors” of markdown that have more features than the original version. Mostly you do not need to worry about this.\nGuides to Markdown syntax can easily be found on the internet. Markdown Guide provides a good overview of the basic syntax. The Quarto docs show the flavor of Markdown used by Quarto. Most/many Markdown editors, especially those that focus on academic writing, depend upon Pandoc, which attempts to be a universal document converter. The Pandoc documents do not make for particularly fun reading, but they are a good resource when digging into the weeds.\nGood places to start for the why and how of writing in plain text for academic writing is Kieran Healy’s The Plain Person’s Guide to Plain Text Social Science and Programming Historians lesson on Sustainable Authorship in Plain Text using Pandoc and Markdown.",
+    "text": "Markdown and plain text\nMarkdown is widely used as a way to add markup to plain text documents and to write for the web. It was developed by John Gruber in the early 2000s. Its use has exploded since 2010 and there are now a variety of “flavors” of markdown that have more features than the original version. Mostly you do not need to worry about this.\nGuides to Markdown syntax can easily be found on the internet. Markdown Guide provides a good overview of the basic syntax. The Quarto docs show the flavor of Markdown used by Quarto. Most/many Markdown editors, especially those that focus on academic writing, depend upon Pandoc, which attempts to be a universal document converter. The Pandoc documents do not make for particularly fun reading, but they are a good resource when digging into the weeds.\nGood places to start for the why and how of writing in plain text for academic writing is Kieran Healy’s The Plain Person’s Guide to Plain Text Social Science and Programming Historian’s lesson on Sustainable Authorship in Plain Text using Pandoc and Markdown.",
     "crumbs": [
       "Resources"
     ]
@@ -64,7 +84,7 @@
     "href": "resources.html#sec-r",
     "title": "Resources",
     "section": "R",
-    "text": "R\nThere are innumerable freely available resources and tutorials on learning R for data analysis and visualization, but the best starting place is Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition) (O’Reilly, 2023). It is an essential resource that I continue to check whenever I am working in R and forget how to do things.\nA good tutorial on R from a Humanities/Social Sciences perspective is Data Carpentry - R for Social Scientists. Another good option is Software Carpentry - R for Reproducible Scientific Analysis. A more general intro to R from the perspective of someone more used to spreadsheets is Julie Lowndes and Allison Horst, R for Excel Users.\nPosit, the company that makes RStudio, publishes cheatsheets for the set of tidyverse packages we will be using during the course. If you have a question about R you can ask or look for similar questions on the Posit Community.\nIt might be useful to keep The tidyverse style guide handy as you are getting used to writing R code. It provides some basic tips for how to style your code to make it more consistent and easier to read.\nTwo great resources on visualization are Kieran Healy, Data Visualization: A Practical Introduction (Princeton University Press, 2018) and Claus Wilke, Fundamentals of Data Visualization (O’Reilly 2019). Both provide guidance on how to make effective visualizations for the Humanities and Social Sciences. Hadley Wickham, the creator of ggplot2, Danielle Navarro, and Thomas Lin Pedersen have a third edition of the book ggplot2: Elegant Graphics for Data Analysis. It is a very good reference.\nAnother set of great resources for visualization with ggplot2 are by Cédric Scherer. His blog post, A ggplot2 Tutorial for Beautiful Plotting in R is both a great starting point and great as a quick reference. His workshop, Graphic Design with ggplot2 at the 2022 RStudio conference is a really nice tutorial on making advanced visualizations.\nYou can also look at a series of notes/overviews that I have written on the tidyverse and visualization with ggplot2.\nTwo good ways to keep up with what is going on with R and the R community is to subscribe to the R Weekly RSS feed to get a currated list of posts about R. Another great project for learning R and seeing some examples is Tidy Tuesday a community driven weekly event to analyze and visualize a given data set.",
+    "text": "R\nThere are innumerable freely available resources and tutorials on learning R for data analysis and visualization, but the best starting place is Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition) (O’Reilly, 2023). It is an essential resource that I continue to check whenever I am working in R and forget how to do things.\nA good tutorial on R from a Humanities/Social Sciences perspective is Data Carpentry - R for Social Scientists. Another good option is Software Carpentry - R for Reproducible Scientific Analysis. A more general intro to R from the perspective of someone more used to spreadsheets is Julie Lowndes and Allison Horst, R for Excel Users.\nPosit, the company that makes RStudio, publishes cheatsheets for the set of tidyverse packages we will be using during the course. If you have a question about R you can ask or look for similar questions on the Posit Community.\nIt might be useful to keep The tidyverse style guide handy as you are getting used to writing R code. It provides some basic tips for how to style your code to make it more consistent and easier to read.\nTwo great resources on visualization are Kieran Healy, Data Visualization: A Practical Introduction (Princeton University Press, 2018) and Claus Wilke, Fundamentals of Data Visualization (O’Reilly 2019). Both provide guidance on how to make effective visualizations for the Humanities and Social Sciences. Hadley Wickham, the creator of ggplot2, Danielle Navarro, and Thomas Lin Pedersen have a third edition of the book ggplot2: Elegant Graphics for Data Analysis. It is a very good reference.\nAnother set of great resources for visualization with ggplot2 are by Cédric Scherer. His blog post, A ggplot2 Tutorial for Beautiful Plotting in R is both a great starting point and great as a quick reference. His workshop, Graphic Design with ggplot2 at the 2022 RStudio conference is a really nice tutorial on making advanced visualizations.\nYou can also look at a series of notes/overviews that I have written on the tidyverse and visualization with ggplot2.\nTwo good ways to keep up with what is going on with R and the R community is to subscribe to the R Weekly RSS feed to get a curated list of posts about R. Another great project for learning R and seeing some examples is Tidy Tuesday a community driven weekly event to analyze and visualize a given data set. Because it is difficult to search for a single letter on the internet, the R community often used #rstats.",
     "crumbs": [
       "Resources"
     ]
@@ -238,7 +258,7 @@
     "href": "meetings/11-text.html#resources",
     "title": "Week 11: Text analysis",
     "section": "Resources",
-    "text": "Resources\n\nRegular expressions (regex)\n\nProgramming Historian - Doug Knox, Understanding Regular Expressions.\nstringr: Regular expressions\nJoshua Fjelstul, Regular expressions in R.\n\n\n\nText analysis R packages\n\nCRAN Task View: Natural Language Processing\nstringr\nquanteda\ncleanNLP\n\n\n\nText analysis\n\nProgramming Historian - Taylor Arnold and Lauren Tilton, Basic Text Processing in R.\nProgramming Historian - Jennifer Isasi, Sentiment Analysis with ‘syuzhet’ using R.\nThe Data Sitters Club",
+    "text": "Resources\n\nRegular expressions (regex)\n\nProgramming Historian - Doug Knox, Understanding Regular Expressions.\nstringr: Regular expressions\nJoshua Fjelstul, Regular expressions in R.\n\n\n\nText analysis R packages\n\nCRAN Task View: Natural Language Processing\nstringr\nquanteda\ncleanNLP\n\n\n\nText analysis\n\nProgramming Historian - Taylor Arnold and Lauren Tilton, Basic Text Processing in R.\nProgramming Historian - Jennifer Isasi, Sentiment Analysis with ‘syuzhet’ using R.\nEmil Hvitfeldt and Julia Silge, Supervised Machine Learning for Text Analysis in R, (CRC Press 2021), https://smltar.com.\n\nThis books is an updated but more advanced discussion of text analysis in R than Text Mining with R: A Tidy Approach.\n\nThe Data Sitters Club",
     "crumbs": [
       "Schedule",
       "11. Text analysis"
@@ -447,7 +467,7 @@
     "href": "meetings/12-network.html#resources",
     "title": "Week 12: Network analysis",
     "section": "Resources",
-    "text": "Resources\n\nMark Granovetter, “The Strength of Weak Ties,” American Journal of Sociology 78, no. 6 (1973): 1360–80, http://www.jstor.org/stable/2776392.\nJournal of Historical Network Research\n\n\nNetwork analysis with R\n\nAwesome Network Analysis\nKatherine Ognyanova, Static and dynamic network visualization with R.\nJesse Sadler, Introduction to Network Analysis with R: Creating static and interactive network graphs.\nHadley Wickham, Danielle Navarro, and Thomas Lin Pedersen, ggplot2: Elegant Graphics for Data Analysis (3rd Edition), Chapter 7: Networks.\n\n\n\nNetwork analysis R packages\n\nigraph\nggraph\n\n\n\nOther tools\n\nGephi\nCytoscape\nPalladio",
+    "text": "Resources\n\nMark Granovetter, “The Strength of Weak Ties,” American Journal of Sociology 78, no. 6 (1973): 1360–80, http://www.jstor.org/stable/2776392.\nJournal of Historical Network Research\n\n\nNetwork analysis with R\n\nAwesome Network Analysis\nKatherine Ognyanova, Static and dynamic network visualization with R.\nJesse Sadler, Introduction to Network Analysis with R: Creating static and interactive network graphs.\nHadley Wickham, Danielle Navarro, and Thomas Lin Pedersen, ggplot2: Elegant Graphics for Data Analysis (3rd Edition), Chapter 7: Networks.\n\n\n\nNetwork analysis R packages\n\nigraph\nggraph\n\n\n\nOther tools\n\nGephi\nCytoscape\nPalladio\nNetwork Navigator",
     "crumbs": [
       "Schedule",
       "12. Network analysis"
@@ -536,56 +556,56 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "History 5454: Digital Humanities for Public History",
+    "title": "History 5454: Digital History for Public History",
     "section": "",
-    "text": "Instructor\n\n\n\nJesse Sadler. Email: jrsadler@vt.edu\nOffice hours: Thursday, 1:00–2:00pm and by appointment\n\n\n\n\n\n\n\n\n\nCourse\n\n\n\nHistory 5454: Spring 2024\nMeets Thursdays, 2:00–4:50 in Major Williams 427"
+    "text": "Instructor\n\n\n\nJesse Sadler. Email: jrsadler@vt.edu\nOffice hours: Thursday, 1:00–2:00pm and by appointment in Major Williams 4th floor\n\n\n\n\n\n\n\n\nCourse\n\n\n\nHistory 5454: Spring 2024\nMeets Thursdays, 2:00–4:50 in Major Williams 427"
   },
   {
     "objectID": "index.html#course-description",
     "href": "index.html#course-description",
-    "title": "History 5454: Digital Humanities for Public History",
+    "title": "History 5454: Digital History for Public History",
     "section": "Course description",
-    "text": "Course description\nThis course is designed to introduce students to some of the tools of Digital Humanities/History with an emphasis on using open source technology that puts you in control. The course focuses on methodologies. It begins with the basics of organizing primary and secondary sources and your notes on them, to an introduction to data analysis and visualization using the R programming language, culminating in the creation of your own website. Along the way we will be learning the basics of using the command line and learn about git and using GitHub for publishing websites and to become acquainted with the practices of reproducible research.\n\n\n\n\n\n\nNote\n\n\n\nThis course website will function as the main source of information for the course. The syllabus is liable to change based on new material and student input. We may not get to certain material or I may add new resources based on student interest. Make sure to check in on the website frequently."
+    "text": "Course description\nThis course is designed to introduce students to some of the tools of Digital Humanities/History with an emphasis on using open source technology that puts you in control. The course focuses on methodologies. It begins with the basics of organizing primary and secondary sources and your notes on them. We will then give an introduction to data analysis and visualization using the R programming language, culminating in the creation of your own website. Along the way we will be learning the basics of using the command line and learn about git and using GitHub for publishing websites and to become acquainted with the practices of reproducible research.\n\n\n\n\n\n\nNote\n\n\n\nThis course website will function as the main source of information for the course. The syllabus is liable to change based on new material and student input. We may not get to certain material, or I may add new resources based on student interest. Make sure to check in on the website frequently."
   },
   {
     "objectID": "index.html#learning-goals",
     "href": "index.html#learning-goals",
-    "title": "History 5454: Digital Humanities for Public History",
+    "title": "History 5454: Digital History for Public History",
     "section": "Learning goals",
-    "text": "Learning goals\nAfter taking this course, you will…\n\nhave expanded awareness of the open source tools available for conducting historical research and making that research widely available to the public.\nbe comfortable writing in plain text and using Markdown.\nunderstand the uses and drawbacks of spreadsheets and how to organize rectangular data.\nbe comfortable with the basics of the command line.\nbe able to import, explore, wrangle, and visualize data in R.\nbe able to write R scripts and document your code in quarto documents.\nhave familiarity with the tidyverse packages in R.\nhave experience with the possibilities for text, network, and spatial analysis available through various R packages.\nbe comfortable with using git and GitHub for your own work or collaboration with others.\ncreate a website using open source tools."
+    "text": "Learning goals\nAfter taking this course, you will…\n\nhave an expanded awareness of the open source tools available for conducting historical research and making that research widely available to the public.\nbe comfortable writing in plain text and using Markdown.\nunderstand the uses and drawbacks of spreadsheets and how to organize rectangular data.\nbe comfortable with the basics of the command line.\nbe able to import, explore, wrangle, and visualize data in R.\nbe able to write R scripts and document your code in quarto documents.\nhave familiarity with the tidyverse packages in R.\nhave experience with the possibilities for text, network, and spatial analysis available through various R packages.\nbe comfortable with using git and GitHub for your own work or collaboration with others.\ncreate a website using open source tools."
   },
   {
     "objectID": "index.html#expectations",
     "href": "index.html#expectations",
-    "title": "History 5454: Digital Humanities for Public History",
+    "title": "History 5454: Digital History for Public History",
     "section": "Expectations",
-    "text": "Expectations\nThere are no prerequisites for this course. Students do not need to know anything about the methods and technologies listed in the syllabus. You do not need to know what the command line, R, or git is. That is what the course is for. Familiarity is, of course, helpful, and more advanced students can be accommodated within the structures of the course. However, the intention is for this to be an exploration of open source tools that can help you with historical analysis and publication. The primary expectation is a willingness to try and a readiness to learn. More specific expectations include:\n\nComplete and be ready to discuss all reading by our weekly meeting.\nAttendance and active participation in all seminars.\nCome to seminar with a computer ready to work and to participate in the weekly labs with all applications and programming environments installed by the assigned meeting.1\nComplete all assignments on time.\nComplete the final project of creating a Quarto website.\n\nFinally, it is expected that all students will be respectful of each other. Students will enter the course at different levels of comfort with the tools that we will use. The goal of the course is to help each other get more comfortable with open source technologies."
+    "text": "Expectations\nThere are no prerequisites for this course. Students do not need to know anything about the methods and technologies listed in the syllabus. You do not need to know what the command line, R, or git is. That is what the course is for. Familiarity is, of course, helpful, and more advanced students can be accommodated within the structures of the course. However, the intention is for this to be an exploration of open source tools that can help you with historical analysis and publication. The primary expectation is a willingness to try and a readiness to learn. More specific expectations include:\n\nAttendance and active participation in all seminars.\nComplete and be ready to discuss all reading by our weekly meeting.\nCome to seminar with a computer ready to work and to participate in the weekly labs with all applications and programming environments installed by the assigned meeting.1\nComplete all assignments on time.\nComplete the final project of creating a Quarto website.\n\nFinally, it is expected that all students will be respectful of each other. Students will enter the course at different levels of comfort with the tools that we will use. The goal of the course is to help each other get more comfortable with open source technologies."
   },
   {
     "objectID": "index.html#assessment",
     "href": "index.html#assessment",
-    "title": "History 5454: Digital Humanities for Public History",
+    "title": "History 5454: Digital History for Public History",
     "section": "Assessment",
     "text": "Assessment\nAs noted above, the primary expectation for the course is a willingness to try, and so the primary assessment will be focused on effort and growth.\n\nParticipation: 40%\nWeekly assignments: 20%\nFinal project: 40%"
   },
   {
     "objectID": "index.html#how-the-course-works",
     "href": "index.html#how-the-course-works",
-    "title": "History 5454: Digital Humanities for Public History",
+    "title": "History 5454: Digital History for Public History",
     "section": "How the course works",
-    "text": "How the course works\nMeetings will be divided between discussion of weekly readings and topics and interactive “labs” devoted to the tools and technologies for that week. All information necessary for the course is made available through this website. Information about weekly reading, assignments, and resources is available via the sidebar. This information is dynamic and liable to change, so please make sure to visit this website frequently.\n\n\n\n\n\n\nNote\n\n\n\nThis website is built with Quarto and the source code is available on GitHub. If you want to see how anything works or to suggest any changes you can do so through GitHub."
+    "text": "How the course works\nMeetings will be divided between discussion of weekly readings and topics and interactive workshops devoted to the tools and technologies for that week. All information necessary for the course is made available through this website. Information about weekly reading, assignments, and resources is available via the Schedule on the sidebar. This information is dynamic and liable to change, so please make sure to visit this website frequently.\nWe will be using two pieces of technology to help with collaboration during the semester. We will use Discord to provide a place to ask questions and receive feedback outside of the meetings. The Discord will also be a place for any announcements about the course. See Resources: Discord for instructions on getting set up with Discord. Secondly, we will be using Zotero groups as a way to collaboratively keep track of the resources we use for the class. See Resources: Zoetero for instructions on getting set up with Zotero.\n\n\n\n\n\n\nNote\n\n\n\nThis website is built with Quarto and the source code is available on GitHub. If you want to see how anything works or to suggest any changes you can do so through GitHub."
   },
   {
     "objectID": "index.html#schedule",
     "href": "index.html#schedule",
-    "title": "History 5454: Digital Humanities for Public History",
+    "title": "History 5454: Digital History for Public History",
     "section": "Schedule",
     "text": "Schedule\n\nIntroduction (18 January)\nDigital History and Public History (25 January)\nOrganizing resources (1 February)\nPlain text and markdown (8 February)\nData and an intro to the command line (15 February)\nIntro to R and RStudio (22 February)\nData wrangling (29 February)\nVisualization with ggplot2 (14 March)\nVersion control with Git and GitHub (21 March)\nMaking documents and websites with Quarto (28 March)\nText analysis (4 April)\nNetwork analysis (11 April)\nSpatial analysis (18 April)\nWeb design and visualization (25 April)\nConclusion (2 May)"
   },
   {
     "objectID": "index.html#footnotes",
     "href": "index.html#footnotes",
-    "title": "History 5454: Digital Humanities for Public History",
+    "title": "History 5454: Digital History for Public History",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nIf you have any problems, we can troubleshoot together.↩︎"
   },
@@ -594,7 +614,7 @@
     "href": "computing.html",
     "title": "Computing",
     "section": "",
-    "text": "macOS is built on the foundation of Unix and comes with a perfectly capable command line app in Terminal. There are some other options out there, but Terminal is just fine.\nSince 2019 the default shell in macOS is zsh instead of bash. The differences between zsh and bash should not affect beginners too much. However, you can download an updated version of bash. The best way to do this is with Homebrew.\nHomebrew is the easiest way to install many command line packages on macOS such as Git, and so it is a good idea to install it. Read about how to install Homebrew through the Terminal app on the homepage.\n\n\n\nWindows does not come with a unix shell installed. You can do this via Git Bash. This will install both the bash shell and git. See the Carpentries for installation instructions.",
+    "text": "macOS is built on the foundation of Unix and comes with a perfectly capable command line app in Terminal. There are some other options out there, but Terminal is just fine.\nSince 2019 the default shell in macOS is zsh instead of bash. The differences between zsh and bash should not affect beginners too much. However, you can download an updated version of bash. The best way to do this is with Homebrew.\nHomebrew is one of the main ways to install command line packages on macOS such as Git, and so it is a good idea to install it. Read about how to install Homebrew through the Terminal app on the Homebrew’s homepage.\n\n\n\nWindows does not come with a unix shell installed. You can install one via Git Bash. This will install both the bash shell and git. See the Carpentries for installation instructions.",
     "crumbs": [
       "Computing"
     ]
@@ -604,7 +624,7 @@
     "href": "computing.html#sec-cl",
     "title": "Computing",
     "section": "",
-    "text": "macOS is built on the foundation of Unix and comes with a perfectly capable command line app in Terminal. There are some other options out there, but Terminal is just fine.\nSince 2019 the default shell in macOS is zsh instead of bash. The differences between zsh and bash should not affect beginners too much. However, you can download an updated version of bash. The best way to do this is with Homebrew.\nHomebrew is the easiest way to install many command line packages on macOS such as Git, and so it is a good idea to install it. Read about how to install Homebrew through the Terminal app on the homepage.\n\n\n\nWindows does not come with a unix shell installed. You can do this via Git Bash. This will install both the bash shell and git. See the Carpentries for installation instructions.",
+    "text": "macOS is built on the foundation of Unix and comes with a perfectly capable command line app in Terminal. There are some other options out there, but Terminal is just fine.\nSince 2019 the default shell in macOS is zsh instead of bash. The differences between zsh and bash should not affect beginners too much. However, you can download an updated version of bash. The best way to do this is with Homebrew.\nHomebrew is one of the main ways to install command line packages on macOS such as Git, and so it is a good idea to install it. Read about how to install Homebrew through the Terminal app on the Homebrew’s homepage.\n\n\n\nWindows does not come with a unix shell installed. You can install one via Git Bash. This will install both the bash shell and git. See the Carpentries for installation instructions.",
     "crumbs": [
       "Computing"
     ]
@@ -614,7 +634,7 @@
     "href": "computing.html#sec-git",
     "title": "Computing",
     "section": "Git",
-    "text": "Git\nSee Happy Git and GitHub for the useR for a good guide to downloading git for macOS and Windows.\n\nmacOS\nGit may already be on your computer by default, but the git version that comes with macOS is quite out of date. To check if you need to install git:\n\nOpen Terminal\ngit --version – check current version of git on the computer\nLook at current version of Git at https://git-scm.com\n\nIf you need to install Git, there are two basic ways to install it:\nVia Homebrew:\n\nbrew install git – download git with Homebrew\nQuit terminal and reopen it to start new session\ngit --version – check to see that installation worked.\n\nVia Xcode command line tools:\n\nxcode-select --install\nQuit terminal and reopen it to start new session\ngit --version – check to see that installation worked.\n\n\n\nWindows\nInstall git with Git Bash.",
+    "text": "Git\nSee Happy Git and GitHub for the useR for a good guide to downloading git for macOS and Windows.\n\nmacOS\nGit may already be on your computer by default, but the git version that comes with macOS can be quite out of date. To check if you need to install git:\n\nOpen Terminal\nType git --version – check current version of git on the computer\nLook at current version of Git at https://git-scm.com\n\nIf you need to install Git, there are two basic ways to install it:\nVia Homebrew:\n\nbrew install git – download git with Homebrew\nQuit terminal and reopen it to start new session\ngit --version – check to see that installation worked.\n\nVia Xcode command line tools:\n\nxcode-select --install\nQuit terminal and reopen it to start new session\ngit --version – check to see that installation worked.\n\n\n\nWindows\nInstall git with Git Bash.",
     "crumbs": [
       "Computing"
     ]
@@ -655,7 +675,7 @@
     "href": "meetings/14-design.html#reading",
     "title": "Week 14: Web design and visualization",
     "section": "Reading",
-    "text": "Reading\n\nQuarto documentation: HTML Themes\nSamantha Csik, Customizing Quarto Websites - Make your website stand out using SASS & CSS\n\nGitHub repository",
+    "text": "Reading\n\nQuarto documentation: HTML Themes\n\nMore About Quarto Themes\n\nSamantha Csik, Customizing Quarto Websites - Make your website stand out using SASS & CSS\n\nGitHub repository",
     "crumbs": [
       "Schedule",
       "14. Web design and visualization"
@@ -810,6 +830,17 @@
     "title": "Week 1: Introduction",
     "section": "",
     "text": "Introduction to the course, overview of syllabus, and how the course will work.",
+    "crumbs": [
+      "Schedule",
+      "1. Introduction"
+    ]
+  },
+  {
+    "objectID": "meetings/01-intro.html#assignment",
+    "href": "meetings/01-intro.html#assignment",
+    "title": "Week 1: Introduction",
+    "section": "Assignment",
+    "text": "Assignment\nSign up for our Discord server:\n\nSign up for the Discord using the link sent by email. You will need to create a Discord account if you do not have one already.\nSend me a message that you have signed up so that I can assign you a role and give you access to the class channels.\nOnce you have been assigned, introduce yourself in the #general channel. Include a short description of your research interests.",
     "crumbs": [
       "Schedule",
       "1. Introduction"
