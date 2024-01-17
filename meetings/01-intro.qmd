@@ -4,6 +4,13 @@ title: "Week 1: Introduction"
 
 Introduction to the course, overview of syllabus, and how the course will work.
 
+## Assignment
+Sign up for our Discord server:
+
+1. Sign up for the Discord using the link sent by email. You will need to create a Discord account if you do not have one already.
+2. Send me a message that you have signed up so that I can assign you a role and give you access to the class channels.
+3. Once you have been assigned, introduce yourself in the `#general` channel. Include a short description of your research interests.
+
 ## Activities
 - Introductions
 - Discussion of the course
