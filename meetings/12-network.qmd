@@ -35,3 +35,4 @@ title: "Week 12: Network analysis"
 - [Gephi](https://gephi.org/)
 - [Cytoscape](https://cytoscape.org/)
 - [Palladio](http://hdlab.stanford.edu/palladio/)
+- [Network Navigator](https://networknavigator.jrladd.com)

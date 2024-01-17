@@ -7,7 +7,7 @@ This page provides a number of general resources for the main technologies we wi
 ## Digital Humanities {#sec-dh}
 [Humanities Commons - Hcommons](https://hcommons.org) is doing a lot of interesting things to build open source infrastructure for the Humanities in general. Their blog, called [Platypus](https://team.hcommons.org), discusses the why and how of what they are doing.
 
-The question of what is Digital Humanities is ever present. In fact, there is a [website](http://whatisdigitalhumanities.com) that automatically provides different answers. Digital Humanities is also perpetually seen as the future as [Cameron Blevins](http://dhdebates.gc.cuny.edu/debates/text/77) noted in 2016. [The Digital Humanities Literacy Guidebook](https://cmu-lib.github.io/dhlg/) provides a good overview of the breadth of Digital Humanities.
+The question of what Digital Humanities is is ever present. In fact, there is a [website](http://whatisdigitalhumanities.com) that provides different answers. Digital Humanities is also perpetually seen as the future as [Cameron Blevins](http://dhdebates.gc.cuny.edu/debates/text/77) noted in 2016. [The Digital Humanities Literacy Guidebook](https://cmu-lib.github.io/dhlg/) provides a good overview of the breadth of Digital Humanities.
 
 Writing on or about Digital Humanities is quite widespread and diverse. Here are some useful places to start, some of which we will read during the semester.
 
@@ -27,7 +27,7 @@ There are many lists of Digital Humanities and Digital History tools, projects, 
 An invaluable source for finding Digital Humanities projects is the online journal [Reviews in Digital Humanities](https://reviewsindh.pubpub.org). I recommend looking through the [reviews by topic or method](https://reviewsindh.pubpub.org/project-registry-topic-method), which includes a quite large collection of DH projects devoted to [Public Humanities](https://reviewsindh.pubpub.org/public-humanities).
 
 ## Discord {#sec-discord}
-[Discord](https://discord.com) is a community chat app. Unlike most tools that we are using in this course, it is not open-source, but the free tier of Discord serves our needs well of providing a place to discuss topics outside of our meetings. Discord is available for [download](https://discord.com/download) on desktop and mobile or can be used in the browser. We will go through using Discord together, but you can look at the docs on [getting started](https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started) or at the [beginner's guide](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord) if you are confused about anything. You will receive an invite for the Discord via email.
+[Discord](https://discord.com) is a community chat platform. Unlike most tools that we are using in this course, it is not open-source, but the free tier of Discord serves our needs well of providing a place to discuss topics outside of our meetings. Discord is available for [download](https://discord.com/download) on desktop and mobile or can be used in the browser. We will go through using Discord together, but you can look at the docs on [getting started](https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started) or at the [beginner's guide](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord) if you are confused about anything. You will receive an invite for the Discord via email.
 
 ## Zotero {#sec-zotero}
 [Zoetero](https://www.zotero.org) is an open-source application available on macOS, Windows, Linux, and iOS that is created by the [Corporation for Digital Scholarship](https://digitalscholar.org). It is built by a group of historians and designed specifically for use by academics in the Humanities. In this course we will be using [Zotero groups](https://www.zotero.org/groups) as a way to collaborate on the collection of resources for the course.
@@ -37,7 +37,7 @@ You can download Zotero [here](https://www.zotero.org/download/). To use Groups 
 We will discuss using Zotero in more detail in [Week 3](meetings/03-organization.qmd). You can get a start with Zotero if you have not used it before by looking at the [documentation](https://www.zotero.org/support/).
 
 ## Text editors {#sec-text-editors}
-We will be working in plain text documents throughout the course and a good text editor is essential. Happily, there are many options for you. Below is a partial list of text editors, but there are many out there.
+We will be working in plain text documents throughout the course and a good text editor is essential. Happily, there are many options for you. Below is a partial list of text editors, but feel free to explore other options.
 
 ### Cross platform
 - [Visual Studio Code](https://code.visualstudio.com) is much more than a text editor, but it can also be made into a good text editor for plain text and Markdown. It is free and open source and worthy of a download to check out.
@@ -56,7 +56,7 @@ Markdown is widely used as a way to add markup to plain text documents and to wr
 
 Guides to Markdown syntax can easily be found on the internet. [Markdown Guide](https://markdownguide.offshoot.io/basic-syntax/) provides a good overview of the basic syntax. The [Quarto docs](https://quarto.org/docs/authoring/markdown-basics.html) show the flavor of Markdown used by Quarto. Most/many Markdown editors, especially those that focus on academic writing, depend upon [Pandoc](https://pandoc.org), which attempts to be a universal document converter. The Pandoc documents do not make for particularly fun reading, but they are a good resource when digging into the weeds.
 
-Good places to start for the why and how of writing in plain text for academic writing is Kieran Healy's [The Plain Person’s Guide to Plain Text Social Science](https://kieranhealy.org/publications/plain-person-text/) and Programming Historians lesson on [Sustainable Authorship in Plain Text using Pandoc and Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).
+Good places to start for the why and how of writing in plain text for academic writing is Kieran Healy's [The Plain Person’s Guide to Plain Text Social Science](https://kieranhealy.org/publications/plain-person-text/) and Programming Historian's lesson on [Sustainable Authorship in Plain Text using Pandoc and Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).
 
 ## Command line {#sec-cl}
 - [Programming Historian: Introduction to the Bash Command Line](https://programminghistorian.org/en/lessons/intro-to-bash)
@@ -89,7 +89,7 @@ Another set of great resources for visualization with ggplot2 are by Cédric Sch
 
 You can also look at a series of notes/overviews that I have written on the [tidyverse and visualization with ggplot2](https://jessesadler.github.io/notes-tidyverse/).
 
-Two good ways to keep up with what is going on with R and the R community is to subscribe to the [R Weekly RSS feed](https://rweekly.org) to get a currated list of posts about R. Another great project for learning R and seeing some examples is [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday) a community driven weekly event to analyze and visualize a given data set.
+Two good ways to keep up with what is going on with R and the R community is to subscribe to the [R Weekly RSS feed](https://rweekly.org) to get a curated list of posts about R. Another great project for learning R and seeing some examples is [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday) a community driven weekly event to analyze and visualize a given data set. Because it is difficult to search for a single letter on the internet, the R community often used `#rstats`. 
 
 ## Quarto {#sec-quarto}
 - The [Quarto documentation](https://quarto.org/docs/guide/) is very good and thorough.

@@ -41,8 +41,8 @@ After taking this course, you will...
 ## Expectations
 There are no prerequisites for this course. Students do not need to know anything about the methods and technologies listed in the syllabus. You do not need to know what the command line, R, or git is. That is what the course is for. Familiarity is, of course, helpful, and more advanced students can be accommodated within the structures of the course. However, the intention is for this to be an exploration of open source tools that can help you with historical analysis and publication. The primary expectation is a willingness to try and a readiness to learn. More specific expectations include:
 
-- Complete and be ready to discuss all reading by our weekly meeting.
 - Attendance and active participation in all seminars.
+- Complete and be ready to discuss all reading by our weekly meeting.
 - Come to seminar with a computer ready to work and to participate in the weekly labs with all applications and programming environments installed by the assigned meeting.[^1]
 - Complete all assignments on time.
 - Complete the final project of creating a Quarto website.
@@ -57,13 +57,13 @@ As noted above, the primary expectation for the course is a willingness to try, 
 - Final project: 40%
 
 ## How the course works
-Meetings will be divided between discussion of weekly readings and topics and interactive workshops devoted to the tools and technologies for that week. All information necessary for the course is made available through this website. Information about weekly reading, assignments, and resources is available via the sidebar. This information is dynamic and liable to change, so please make sure to visit this website frequently.
+Meetings will be divided between discussion of weekly readings and topics and interactive workshops devoted to the tools and technologies for that week. All information necessary for the course is made available through this website. Information about weekly reading, assignments, and resources is available via the Schedule on the sidebar. This information is dynamic and liable to change, so please make sure to visit this website frequently.
 
-We will be using two pieces of technology to help with collaboration during the semester. We will use [Discord](https://discord.com) to provide a place to ask questions and receive feedback outside of the seminars. The Discord will also be a place for any announcements about the course. See [Resources: Discord](resources.qmd#sec-discord) for instructions on getting set up with Discord. Secondly, we will be using [Zotero groups](https://www.zotero.org/groups/) as a way to collaboratively keep track of the resources we use for the class. See [Resources: Zoetero](resources.qmd#sec-zotero) for instructions on getting set up with Zotero.
+We will be using two pieces of technology to help with collaboration during the semester. We will use [Discord](https://discord.com) to provide a place to ask questions and receive feedback outside of the meetings. The Discord will also be a place for any announcements about the course. See [Resources: Discord](resources.qmd#sec-discord) for instructions on getting set up with Discord. Secondly, we will be using [Zotero groups](https://www.zotero.org/groups/) as a way to collaboratively keep track of the resources we use for the class. See [Resources: Zoetero](resources.qmd#sec-zotero) for instructions on getting set up with Zotero.
 
 ::: {.callout-tip icon=false}
 ## Note
-This website is built with [Quarto](https://quarto.org) and the source code is available on GitHub. If you want to see how anything works or to suggest any changes you can do so through GitHub.
+This website is built with [Quarto](https://quarto.org) and the source code is available on GitHub. If you want to see how anything works or to suggest any changes you can do so through [GitHub](https://github.com/jessesadler/vt5454-s24).
 :::
 
 ## Schedule

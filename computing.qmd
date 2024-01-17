@@ -10,19 +10,19 @@ macOS is built on the foundation of [Unix](https://en.wikipedia.org/wiki/Unix) a
 
 Since 2019 the default shell in macOS is [zsh](https://en.wikipedia.org/wiki/Z_shell) instead of [bash](https://www.gnu.org/software/bash/). The differences between zsh and bash should not affect beginners too much. However, you can download an updated version of bash. The best way to do this is with [Homebrew](https://brew.sh).
 
-[Homebrew](https://brew.sh) is the easiest way to install many command line packages on macOS such as Git, and so it is a good idea to install it. Read about how to install Homebrew through the Terminal app on the homepage.
+[Homebrew](https://brew.sh) is one of the main ways to install command line packages on macOS such as Git, and so it is a good idea to install it. Read about how to install Homebrew through the Terminal app on the [Homebrew's homepage](https://brew.sh).
 
 ### Windows
-Windows does not come with a unix shell installed. You can do this via [Git Bash](https://gitforwindows.org). This will install both the bash shell and git. See the [Carpentries](https://carpentries.github.io/workshop-template/install_instructions/#the-bash-shell) for installation instructions.
+Windows does not come with a unix shell installed. You can install one via [Git Bash](https://gitforwindows.org). This will install both the bash shell and git. See the [Carpentries](https://carpentries.github.io/workshop-template/install_instructions/#the-bash-shell) for installation instructions.
 
 ## Git {#sec-git}
 See [Happy Git and GitHub for the useR](https://happygitwithr.com/install-git) for a good guide to downloading git for macOS and Windows.
 
 ### macOS
-Git may already be on your computer by default, but the git version that comes with macOS is quite out of date. To check if you need to install git:
+Git may already be on your computer by default, but the git version that comes with macOS can be quite out of date. To check if you need to install git:
 
 1. Open Terminal
-2. `git --version` – check current version of git on the computer
+2. Type `git --version` – check current version of git on the computer
 3. Look at current version of Git at https://git-scm.com
 
 If you need to install Git, there are two basic ways to install it:
