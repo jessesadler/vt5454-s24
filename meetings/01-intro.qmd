@@ -13,5 +13,5 @@ Sign up for our Discord server:
 
 ## Activities
 - Introductions
-- Discussion of the course
 - Discussion of interest and experience with Digital Humanities technologies.
+- Discussion of the format of the course
