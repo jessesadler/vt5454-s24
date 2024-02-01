@@ -69,6 +69,7 @@ title: "Week 3: Organizing resources"
 - [Zotero Documentation](https://www.zotero.org/support/start)
 - [Quick start guide](https://www.zotero.org/support/quick_start_guide)
 - [VT Library Guide - Zotero](https://guides.lib.vt.edu/citationmanagers/Zotero)
+- [Michael McCarthy - Reference Manager Setup: Installing and configuring Zotero](https://tidytales.ca/series/2023-01-24_reproducible-data-science/posts/zotero-setup)
 
 ### ZoteroBib
 If you want to quickly create a one-off bibliography you can use [ZoterBib](https://zbib.org), which is a web service designed to create bibliographies in any citation style. While this is not a tool you will want to depend on for longer-term projects, it is a good site to have bookmarked if you want a quick properly styled citation for a source.
