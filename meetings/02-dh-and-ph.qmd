@@ -8,6 +8,7 @@ This week serves as an introduction to the concept of Digital Humanities/History
 - Gregory Crane, “Greco-Roman Studies in a Digital Age,” *Daedalus* 145, no. 2 (2016): 127–33, <http://www.jstor.org/stable/10.2307/24711585>.
 - Romein et al, "State of the Field: Digital History," *History* 105, (2020): 291--312, <https://doi.org/10.1111/1468-229X.12969>.
 - Julian Chambliss, *Reframing Digital Humanities: Conversations with Digital Humanists* (Michigan State University Libraries, 2021), [Kathleen Fitzpatrick and Public Digital Humanities](https://openbooks.lib.msu.edu/reframingdh/chapter/kathleen-fitzpatrick-and-public-digital-humanities/).
+  [Podcast link](https://www.julianchambliss.com/podcasts)
 - Kathleen Fitzpatrick, [Open Infrastructures and the Future of Knowledge Production, part 1](https://team.hcommons.org/2024/01/05/open-infrastructures-and-the-future-of-knowledge-production-part-1/).
 
 ## Assignment

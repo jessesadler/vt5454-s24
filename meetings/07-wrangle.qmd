@@ -12,6 +12,7 @@ title: "Week 7: Data wrangling"
 - Bring your data to work on in class.
 
 ## Activities
+- Workshop: Organizing your work in projects
 - Workshop: Data wrangling
 
 ## Resources

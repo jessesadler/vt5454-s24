@@ -9,22 +9,69 @@ title: "Week 3: Organizing resources"
 - Susan Collins, [Data Management Plans for Historians: How to Document and Protect Your Research](https://www.historians.org/research-and-publications/perspectives-on-history/october-2017/data-management-plans-for-historians-how-to-document-and-protect-your-research).
 
 ## Assignment
-- Download [Zotero](https://www.zotero.org), sign up for an account, and read over the [documentation](https://www.zotero.org/support/).
+- Download [Zotero](https://www.zotero.org) if you have not already and read over the [documentation](https://www.zotero.org/support/).
 - Think about how you organize your research and research materials.
 
 ## Activities
-- Discussion of file management.
 - Discussion of reproducible research.
   - What is your research method? How do you structure your data and notes?
-- Organization
+- Discussion of file management.
+- Organizing research materials
   - Primary sources
   - Secondary sources
   - Notes
-- Zotero
+- Tools to organize primary and secondary sources
+  - [Zotero](https://www.zotero.org)
+  - [Tropy](https://tropy.org)
 - Presentation from Jo Wolf on digital mapping
 
+## Zotero
+
+### Setup
+- How to store your PDFs
+  - Default storage with Zotero creates its own file structure and you can sync files using Zotero sync.
+  - [ZotFile](http://zotfile.com): Another option is to use the ZotFile plugin, which helps you to manage and name PDFs in a single folder.
+    - The advantage of this is that you maintain more control over the PDFs and less dependent on Zotero.
+    - However, ZotFile is not in active development right now and so things may change. A lot of people use and depend on it, so it should be safe to use. There is [active discussion](https://forums.zotero.org/discussion/104858/on-zotfile-development-and-zotero-7) on replacements going on.
+    - The UC Berkeley Library has a good [guide on using ZotFile](https://guides.lib.berkeley.edu/zotero/zotfile).
+- [BetterBibTeX](https://retorque.re/zotero-better-bibtex/)
+  - This plugin helps you to use Zotero with plain text editors through [BibTeX](https://www.bibtex.org), creating citation keys for you.
+- [Zutilo](https://github.com/wshanks/Zutilo)
+  - The Zutilo plugin adds several functions not available in base Zotero through extra menu items and keyboard shortcuts.
+
+### Getting items into Zotero
+- [Adding items to Zotero](https://www.zotero.org/support/adding_items_to_zotero)
+- Drag and drop PDF file
+- [Add item by identifier](https://www.zotero.org/support/adding_items_to_zotero#add_item_by_identifier)
+- Sometimes you just have to [add items manually](https://www.zotero.org/support/adding_items_to_zotero#manually_adding_items).
+
+### Organizing your library
+- [Collections or folders](https://www.zotero.org/support/collections_and_tags#collections)
+- [Tags](https://www.zotero.org/support/collections_and_tags#tags)
+
+### Citations and bibliographies
+- Zotero integrates with [Word processors](https://www.zotero.org/support/word_processor_integration) such as Word, LibreOffice, and Google Docs.
+- But you can also [create your citations and bibliographies](https://www.zotero.org/support/creating_bibliographies) by choosing the sources you want to cite and copying them.
+  - This can be done with Edit → Copy Bibliography or press `Ctrl/Cmd-Shift-C`. To copy citations instead of bibliography entries, use Edit → Copy Citation or `Ctrl/Cmd-Shift-A`. The citation style for export can be chosen in Zotero Settings under the Export tab.
+  - An alternative is to right-click on selected items and choose "Create Bibliography from Selected Item(s)…" from the contextual menu. This will allow you to choose the citation style and how you want to create the bibliography.
+- Dealing with [citation styles](https://www.zotero.org/support/styles) can be difficult, but Zotero comes with most styles that you will need.
+  - All styles are written in [Citation Style Language (CSL)](https://citationstyles.org), which means they can be used and read by most tools built for creating citations and bibliographies.
+
 ## Resources
+
+### Reproducible research
 - Ben Marwick, Carl Boettiger, and Lincoln Mullen, "Packaging Data Analytical Work Reproducibly Using R (and Friends)," *PeerJ Preprints* (2017), <https://doi.org/10.7287/peerj.preprints.3192v2>.
 - Michael McCarthy, [Reproducible Data Science](https://tidytales.ca/series/2023-01-24_reproducible-data-science) (2023).
 - [Awesome Reproducible Research](https://github.com/leipzig/awesome-reproducible-research)
 - [The Turing Way: Guide for Reproducible Research](https://the-turing-way.netlify.app/reproducible-research/reproducible-research)
+
+### Zotero
+- [Zotero Documentation](https://www.zotero.org/support/start)
+- [Quick start guide](https://www.zotero.org/support/quick_start_guide)
+- [VT Library Guide - Zotero](https://guides.lib.vt.edu/citationmanagers/Zotero)
+
+### ZoteroBib
+If you want to quickly create a one-off bibliography you can use [ZoterBib](https://zbib.org), which is a web service designed to create bibliographies in any citation style. While this is not a tool you will want to depend on for longer-term projects, it is a good site to have bookmarked if you want a quick properly styled citation for a source.
+
+### Tropy
+[Tropy](https://tropy.org) is a tool to organize primary source documents. It is built for organizing photos you take at an archive or PDFs you might download from an archive. It provides a flexible way to organize and write notes about your sources. It is also made by the same people that make Zotero. Check out the [Tropy Documentation](https://docs.tropy.org).

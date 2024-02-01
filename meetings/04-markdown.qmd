@@ -11,8 +11,10 @@ title: "Week 4: Plain Text and Markdown"
 - Read about zettelkasten as a note taking methodology. There are a lot of discussions and tutorials out there.
 
 ## Assignment
+- Put articles that you read in the [Debates in the Digital Humanities series](https://dhdebates.gc.cuny.edu) into the group library of Zotero.
 - Find and download a text editor application.
 - Download [Zettlr](https://www.zettlr.com), go through the short tutorial, and look over the [docs](https://docs.zettlr.com/en/). Read the short discussion of using [Zettlr for zettelkasten](https://docs.zettlr.com/en/advanced/zkn-method/). Think about how contextual note taking might be useful for your research and writing.
+  - Share links or resources in the Discourse.
 
 ## Activities
 - The benefits and drawbacks of plain text.
