@@ -181,7 +181,7 @@
     "href": "meetings/03-organization.html#assignment",
     "title": "Week 3: Organizing resources",
     "section": "Assignment",
-    "text": "Assignment\n\nDownload Zotero, sign up for an account, and read over the documentation.\nThink about how you organize your research and research materials.",
+    "text": "Assignment\n\nDownload Zotero if you have not already and read over the documentation.\nThink about how you organize your research and research materials.",
     "crumbs": [
       "Schedule",
       "3. Organizing resources"
@@ -192,7 +192,18 @@
     "href": "meetings/03-organization.html#activities",
     "title": "Week 3: Organizing resources",
     "section": "Activities",
-    "text": "Activities\n\nDiscussion of file management.\nDiscussion of reproducible research.\n\nWhat is your research method? How do you structure your data and notes?\n\nOrganization\n\nPrimary sources\nSecondary sources\nNotes\n\nZotero\nPresentation from Jo Wolf on digital mapping",
+    "text": "Activities\n\nDiscussion of reproducible research.\n\nWhat is your research method? How do you structure your data and notes?\n\nDiscussion of file management.\nOrganizing research materials\n\nPrimary sources\nSecondary sources\nNotes\n\nTools to organize primary and secondary sources\n\nZotero\nTropy\n\nPresentation from Jo Wolf on digital mapping",
+    "crumbs": [
+      "Schedule",
+      "3. Organizing resources"
+    ]
+  },
+  {
+    "objectID": "meetings/03-organization.html#zotero",
+    "href": "meetings/03-organization.html#zotero",
+    "title": "Week 3: Organizing resources",
+    "section": "Zotero",
+    "text": "Zotero\n\nSetup\n\nHow to store your PDFs\n\nDefault storage with Zotero creates its own file structure and you can sync files using Zotero sync.\nZotFile: Another option is to use the ZotFile plugin, which helps you to manage and name PDFs in a single folder.\n\nThe advantage of this is that you maintain more control over the PDFs and less dependent on Zotero.\nHowever, ZotFile is not in active development right now and so things may change. A lot of people use and depend on it, so it should be safe to use. There is active discussion on replacements going on.\nThe UC Berkeley Library has a good guide on using ZotFile.\n\n\nBetterBibTeX\n\nThis plugin helps you to use Zotero with plain text editors through BibTeX, creating citation keys for you.\n\nZutilo\n\nThe Zutilo plugin adds several functions not available in base Zotero through extra menu items and keyboard shortcuts.\n\n\n\n\nGetting items into Zotero\n\nAdding items to Zotero\nDrag and drop PDF file\nAdd item by identifier\nSometimes you just have to add items manually.\n\n\n\nOrganizing your library\n\nCollections or folders\nTags\n\n\n\nCitations and bibliographies\n\nZotero integrates with Word processors such as Word, LibreOffice, and Google Docs.\nBut you can also create your citations and bibliographies by choosing the sources you want to cite and copying them.\n\nThis can be done with Edit → Copy Bibliography or press Ctrl/Cmd-Shift-C. To copy citations instead of bibliography entries, use Edit → Copy Citation or Ctrl/Cmd-Shift-A. The citation style for export can be chosen in Zotero Settings under the Export tab.\nAn alternative is to right-click on selected items and choose “Create Bibliography from Selected Item(s)…” from the contextual menu. This will allow you to choose the citation style and how you want to create the bibliography.\n\nDealing with citation styles can be difficult, but Zotero comes with most styles that you will need.\n\nAll styles are written in Citation Style Language (CSL), which means they can be used and read by most tools built for creating citations and bibliographies.",
     "crumbs": [
       "Schedule",
       "3. Organizing resources"
@@ -203,7 +214,7 @@
     "href": "meetings/03-organization.html#resources",
     "title": "Week 3: Organizing resources",
     "section": "Resources",
-    "text": "Resources\n\nBen Marwick, Carl Boettiger, and Lincoln Mullen, “Packaging Data Analytical Work Reproducibly Using R (and Friends),” PeerJ Preprints (2017), https://doi.org/10.7287/peerj.preprints.3192v2.\nMichael McCarthy, Reproducible Data Science (2023).\nAwesome Reproducible Research\nThe Turing Way: Guide for Reproducible Research",
+    "text": "Resources\n\nReproducible research\n\nBen Marwick, Carl Boettiger, and Lincoln Mullen, “Packaging Data Analytical Work Reproducibly Using R (and Friends),” PeerJ Preprints (2017), https://doi.org/10.7287/peerj.preprints.3192v2.\nMichael McCarthy, Reproducible Data Science (2023).\nAwesome Reproducible Research\nThe Turing Way: Guide for Reproducible Research\n\n\n\nZotero\n\nZotero Documentation\nQuick start guide\nVT Library Guide - Zotero\n\n\n\nZoteroBib\nIf you want to quickly create a one-off bibliography you can use ZoterBib, which is a web service designed to create bibliographies in any citation style. While this is not a tool you will want to depend on for longer-term projects, it is a good site to have bookmarked if you want a quick properly styled citation for a source.\n\n\nTropy\nTropy is a tool to organize primary source documents. It is built for organizing photos you take at an archive or PDFs you might download from an archive. It provides a flexible way to organize and write notes about your sources. It is also made by the same people that make Zotero. Check out the Tropy Documentation.",
     "crumbs": [
       "Schedule",
       "3. Organizing resources"
@@ -280,7 +291,7 @@
     "href": "meetings/02-dh-and-ph.html#reading",
     "title": "Week 2: Digital History and Public History",
     "section": "Reading",
-    "text": "Reading\n\nGregory Crane, “Greco-Roman Studies in a Digital Age,” Daedalus 145, no. 2 (2016): 127–33, http://www.jstor.org/stable/10.2307/24711585.\nRomein et al, “State of the Field: Digital History,” History 105, (2020): 291–312, https://doi.org/10.1111/1468-229X.12969.\nJulian Chambliss, Reframing Digital Humanities: Conversations with Digital Humanists (Michigan State University Libraries, 2021), Kathleen Fitzpatrick and Public Digital Humanities.\nKathleen Fitzpatrick, Open Infrastructures and the Future of Knowledge Production, part 1.",
+    "text": "Reading\n\nGregory Crane, “Greco-Roman Studies in a Digital Age,” Daedalus 145, no. 2 (2016): 127–33, http://www.jstor.org/stable/10.2307/24711585.\nRomein et al, “State of the Field: Digital History,” History 105, (2020): 291–312, https://doi.org/10.1111/1468-229X.12969.\nJulian Chambliss, Reframing Digital Humanities: Conversations with Digital Humanists (Michigan State University Libraries, 2021), Kathleen Fitzpatrick and Public Digital Humanities. Podcast link\nKathleen Fitzpatrick, Open Infrastructures and the Future of Knowledge Production, part 1.",
     "crumbs": [
       "Schedule",
       "2. Digital History and Public History"
@@ -401,7 +412,7 @@
     "href": "meetings/07-wrangle.html#activities",
     "title": "Week 7: Data wrangling",
     "section": "Activities",
-    "text": "Activities\n\nWorkshop: Data wrangling",
+    "text": "Activities\n\nWorkshop: Organizing your work in projects\nWorkshop: Data wrangling",
     "crumbs": [
       "Schedule",
       "7. Data wrangling"
@@ -884,7 +895,7 @@
     "href": "meetings/04-markdown.html#assignment",
     "title": "Week 4: Plain Text and Markdown",
     "section": "Assignment",
-    "text": "Assignment\n\nFind and download a text editor application.\nDownload Zettlr, go through the short tutorial, and look over the docs. Read the short discussion of using Zettlr for zettelkasten. Think about how contextual note taking might be useful for your research and writing.",
+    "text": "Assignment\n\nPut articles that you read in the Debates in the Digital Humanities series into the group library of Zotero.\nFind and download a text editor application.\nDownload Zettlr, go through the short tutorial, and look over the docs. Read the short discussion of using Zettlr for zettelkasten. Think about how contextual note taking might be useful for your research and writing.\n\nShare links or resources in the Discourse.",
     "crumbs": [
       "Schedule",
       "4. Plain text and markdown"

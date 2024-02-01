@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.537">
+<meta name="generator" content="quarto-1.4.549">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -96,7 +96,7 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
-    <div class="pt-lg-2 mt-2 text-center sidebar-header">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
       <a href="../index.html" class="sidebar-logo-link">
       <img src="../logo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
       </a>
@@ -293,8 +293,12 @@ ul.task-list li input[type="checkbox"] {
 <section id="assignment" class="level2">
 <h2 class="anchored" data-anchor-id="assignment">Assignment</h2>
 <ul>
+<li>Put articles that you read in the <a href="https://dhdebates.gc.cuny.edu">Debates in the Digital Humanities series</a> into the group library of Zotero.</li>
 <li>Find and download a text editor application.</li>
-<li>Download <a href="https://www.zettlr.com">Zettlr</a>, go through the short tutorial, and look over the <a href="https://docs.zettlr.com/en/">docs</a>. Read the short discussion of using <a href="https://docs.zettlr.com/en/advanced/zkn-method/">Zettlr for zettelkasten</a>. Think about how contextual note taking might be useful for your research and writing.</li>
+<li>Download <a href="https://www.zettlr.com">Zettlr</a>, go through the short tutorial, and look over the <a href="https://docs.zettlr.com/en/">docs</a>. Read the short discussion of using <a href="https://docs.zettlr.com/en/advanced/zkn-method/">Zettlr for zettelkasten</a>. Think about how contextual note taking might be useful for your research and writing.
+<ul>
+<li>Share links or resources in the Discourse.</li>
+</ul></li>
 </ul>
 </section>
 <section id="activities" class="level2">
@@ -651,7 +655,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      return note.innerHTML;
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
     }
   }
   for (var i=0; i<xrefs.length; i++) {
