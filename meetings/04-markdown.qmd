@@ -27,13 +27,15 @@ title: "Week 4: Plain Text and Markdown"
 ## Resources
 
 ### Text editors
-See [Resources: Text editors](/resources.qmd#sec-text-editors). A good text editor can save you a lot of time if you take the time to learn how to use it. A great and longstanding macOS text editor is [BBEdit](http://www.barebones.com/products/bbedit/), which can be purchased, but it offers a very generous free mode. Here is a [comparison chart](https://www.barebones.com/products/bbedit/comparison.html) of of what you get with the free version. A classic text editor for Windows is [Notepad++](https://notepad-plus-plus.org). A popular cross-platform text editor that is freely available is [Visual Studio Code](https://code.visualstudio.com). There are many other options. Feel free to check them out.
+See [Resources: Text editors](/resources.qmd#sec-text-editors). A good text editor can save you a lot of time if you take the time to learn how to use it. A great and longstanding macOS text editor is [BBEdit](http://www.barebones.com/products/bbedit/), which can be purchased, but it offers a very generous free mode. Here is a [comparison chart](https://www.barebones.com/products/bbedit/comparison.html) of what you get with the free version. A classic text editor for Windows is [Notepad++](https://notepad-plus-plus.org). A popular cross-platform text editor that is freely available is [Visual Studio Code](https://code.visualstudio.com). There are many other options. Feel free to check them out.
 
 ### Markdown
 - [John Gruber's introduction of Markdown and its syntax](https://daringfireball.net/projects/markdown/syntax)
 - [Markdown style guide: Quarto docs](https://quarto.org/docs/authoring/markdown-basics.html)
 - [Markdown Style Guide](https://markdownguide.offshoot.io/basic-syntax/)
 - Most/many Markdown editors, especially those that focus on academic writing, depend upon [Pandoc](https://pandoc.org), which attempts to be a universal document converter.
+
+Link to the [Markdown syntax guide created in class](/markdown-syntax.md)
 
 ### Other markup options
 - The main other option for writing in Markdown or a Markdown based system is [LaTeX](https://www.latex-project.org). [Overleaf](https://www.overleaf.com/) is a LaTeX editor created specifically for collaboration in academia.
