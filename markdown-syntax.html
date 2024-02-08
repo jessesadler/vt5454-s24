@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Week 4: Plain Text and Markdown</title>
+<title>markdown-syntax</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,26 +23,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<link href="../meetings/05-data.html" rel="next">
-<link href="../meetings/03-organization.html" rel="prev">
-<link href="../logo.png" rel="icon" type="image/png">
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./logo.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -83,7 +81,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../meetings/01-intro.html">Schedule</a></li><li class="breadcrumb-item"><a href="../meetings/04-markdown.html">4. Plain text and markdown</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -97,11 +95,11 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
-      <a href="../index.html" class="sidebar-logo-link">
-      <img src="../logo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+      <a href="./index.html" class="sidebar-logo-link">
+      <img src="./logo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
       </a>
       <div class="sidebar-tools-main tools-wide">
-    <a href="../index.html" title="History 5454: Digital History for Public History" class="quarto-navigation-tool px-1" aria-label="History 5454: Digital History for Public History"><i class="bi bi-house-fill"></i></a>
+    <a href="./index.html" title="History 5454: Digital History for Public History" class="quarto-navigation-tool px-1" aria-label="History 5454: Digital History for Public History"><i class="bi bi-house-fill"></i></a>
     <a href="https://github.com/jessesadler/vt5454-s24" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-github"></i></a>
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
@@ -124,91 +122,91 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../meetings/01-intro.html" class="sidebar-item-text sidebar-link">
+  <a href="./meetings/01-intro.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">1. Introduction</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../meetings/02-dh-and-ph.html" class="sidebar-item-text sidebar-link">
+  <a href="./meetings/02-dh-and-ph.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">2. Digital History and Public History</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../meetings/03-organization.html" class="sidebar-item-text sidebar-link">
+  <a href="./meetings/03-organization.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">3. Organizing resources</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../meetings/04-markdown.html" class="sidebar-item-text sidebar-link active">
+  <a href="./meetings/04-markdown.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">4. Plain text and markdown</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../meetings/05-data.html" class="sidebar-item-text sidebar-link">
+  <a href="./meetings/05-data.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">5. Data and an intro to the command line</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../meetings/06-rstats.html" class="sidebar-item-text sidebar-link">
+  <a href="./meetings/06-rstats.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">6. Intro to R and RStudio</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../meetings/07-wrangle.html" class="sidebar-item-text sidebar-link">
+  <a href="./meetings/07-wrangle.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">7. Data wrangling</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../meetings/08-ggplot2.html" class="sidebar-item-text sidebar-link">
+  <a href="./meetings/08-ggplot2.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">8. Visualization with ggplot2</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../meetings/09-git.html" class="sidebar-item-text sidebar-link">
+  <a href="./meetings/09-git.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">9. Version control with Git and GitHub</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../meetings/10-quarto.html" class="sidebar-item-text sidebar-link">
+  <a href="./meetings/10-quarto.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">10. Making documents and websites with Quarto</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../meetings/11-text.html" class="sidebar-item-text sidebar-link">
+  <a href="./meetings/11-text.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">11. Text analysis</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../meetings/12-network.html" class="sidebar-item-text sidebar-link">
+  <a href="./meetings/12-network.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">12. Network analysis</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../meetings/13-spatial.html" class="sidebar-item-text sidebar-link">
+  <a href="./meetings/13-spatial.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">13. Spatial analysis</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../meetings/14-design.html" class="sidebar-item-text sidebar-link">
+  <a href="./meetings/14-design.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">14. Web design and visualization</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../meetings/15-conclusion.html" class="sidebar-item-text sidebar-link">
+  <a href="./meetings/15-conclusion.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">15. Conclusion</span></a>
   </div>
 </li>
@@ -216,19 +214,19 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources.html" class="sidebar-item-text sidebar-link">
+  <a href="./resources.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Resources</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../faq.html" class="sidebar-item-text sidebar-link">
+  <a href="./faq.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">FAQ</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../computing.html" class="sidebar-item-text sidebar-link">
+  <a href="./computing.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Computing</span></a>
   </div>
 </li>
@@ -242,115 +240,176 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#reading" id="toc-reading" class="nav-link active" data-scroll-target="#reading">Reading</a></li>
-  <li><a href="#assignment" id="toc-assignment" class="nav-link" data-scroll-target="#assignment">Assignment</a></li>
-  <li><a href="#activities" id="toc-activities" class="nav-link" data-scroll-target="#activities">Activities</a></li>
-  <li><a href="#resources" id="toc-resources" class="nav-link" data-scroll-target="#resources">Resources</a>
+  <li><a href="#markdown-syntax" id="toc-markdown-syntax" class="nav-link active" data-scroll-target="#markdown-syntax">Markdown syntax</a>
   <ul class="collapse">
-  <li><a href="#text-editors" id="toc-text-editors" class="nav-link" data-scroll-target="#text-editors">Text editors</a></li>
-  <li><a href="#markdown" id="toc-markdown" class="nav-link" data-scroll-target="#markdown">Markdown</a></li>
-  <li><a href="#other-markup-options" id="toc-other-markup-options" class="nav-link" data-scroll-target="#other-markup-options">Other markup options</a></li>
-  <li><a href="#note-taking-apps-and-zettelkasten" id="toc-note-taking-apps-and-zettelkasten" class="nav-link" data-scroll-target="#note-taking-apps-and-zettelkasten">Note taking apps and zettelkasten</a></li>
-  <li><a href="#other-options" id="toc-other-options" class="nav-link" data-scroll-target="#other-options">Other options</a></li>
+  <li><a href="#raw-plain-text" id="toc-raw-plain-text" class="nav-link" data-scroll-target="#raw-plain-text">Raw plain text</a></li>
+  <li><a href="#markdown-rendered-in-html" id="toc-markdown-rendered-in-html" class="nav-link" data-scroll-target="#markdown-rendered-in-html">Markdown rendered in HTML</a></li>
+  </ul></li>
+  <li><a href="#level-1-heading" id="toc-level-1-heading" class="nav-link" data-scroll-target="#level-1-heading">Level 1 heading</a>
+  <ul class="collapse">
+  <li><a href="#level-2-heading" id="toc-level-2-heading" class="nav-link" data-scroll-target="#level-2-heading">Level 2 heading</a></li>
   </ul></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/jessesadler/vt5454-s24/edit/main/meetings/04-markdown.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jessesadler/vt5454-s24/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/jessesadler/vt5454-s24/edit/main/markdown-syntax.md" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jessesadler/vt5454-s24/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../meetings/01-intro.html">Schedule</a></li><li class="breadcrumb-item"><a href="../meetings/04-markdown.html">4. Plain text and markdown</a></li></ol></nav>
-<div class="quarto-title">
-<h1 class="title">Week 4: Plain Text and Markdown</h1>
-</div>
 
 
 
-<div class="quarto-title-meta">
+<section id="markdown-syntax" class="level2">
+<h2 class="anchored" data-anchor-id="markdown-syntax">Markdown syntax</h2>
+<section id="raw-plain-text" class="level3">
+<h3 class="anchored" data-anchor-id="raw-plain-text">Raw plain text</h3>
+<pre><code>- Paragraphs: Empty line, no indentation
+- Headers 1–6
+- *Italics* or _Italics_
+- **Bold** or __Bold__
+- Unordered list: `-`, `*`, `+`
+- Ordered list
+- Link:
+    - Inline: [Text](https://www.vt.edu)
+    - Reference style
+        - `[Text][1]`
+        - `[1]: https://www.vt.edu`
+    - Raw link: &lt;https://www.vt.edu&gt;
+- Footnotes
+    - `Some text[^1].`
+    - `[^1]: Footnote text.`
+- Block quote: `&gt;`
+- Code: `code`
+- Images: `![Description](image.jpg)`
 
-    
-  
-    
-  </div>
-  
+We write a paragraph. It is a good paragraph.
+
+This is the next paragraph.
+
+# Level 1 heading
+
+## Level 2 heading
+
+###### Level 6
+
+This is *some text in italics*. This is **bold** text.
+
++ This is a unordered list
++ Second item in a list
+    + Indented list item
+
+----
+
+1. This is an ordered list
+2. Second item
+    - Unordered list
 
 
-</header>
+- This is an idea that has three points:
+    1. item 1
+    2. item 2
+    3. item 3
 
 
-<section id="reading" class="level2">
-<h2 class="anchored" data-anchor-id="reading">Reading</h2>
+Raw link: &lt;https://www.vt.edu&gt;
+
+
+Inline link: Here is some text. I want [this text to be a link](https://www.vt.edu).
+
+Reference style link: I want [this text to be a link][1]
+
+
+&gt; This is a block quote
+
+
+We want a footnote here.[^1]
+
+
+[1]: https://www.vt.edu
+
+[^1]: This is the text of the footnote.</code></pre>
+</section>
+<section id="markdown-rendered-in-html" class="level3">
+<h3 class="anchored" data-anchor-id="markdown-rendered-in-html">Markdown rendered in HTML</h3>
 <ul>
-<li>Kieran Healy, <a href="https://plain-text.co">The Plain Person’s Guide to Plain Text Social Science</a>
+<li>Paragraphs: Empty line, no indentation</li>
+<li>Headers 1–6</li>
+<li><em>Italics</em> or <em>Italics</em></li>
+<li><strong>Bold</strong> or <strong>Bold</strong></li>
+<li>Unordered list: <code>-</code>, <code>*</code>, <code>+</code></li>
+<li>Ordered list</li>
+<li>Link:
 <ul>
-<li>Concentrate on chapters 1, 3, and 7. Do not worry too much if you do not understand the technical aspects of the guide.</li>
+<li>Inline: <a href="https://www.vt.edu">Text</a></li>
+<li>Reference style
+<ul>
+<li><code>[Text][1]</code></li>
+<li><code>[1]: https://www.vt.edu</code></li>
 </ul></li>
-<li><a href="https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown">Programming Historian: Dennis Tenen and Grant Wythoff, Sustainable Authorship in Plain Text using Pandoc and Markdown</a>.</li>
-<li><a href="https://sembr.org">Semantic Line Breaks</a></li>
-<li>Read about zettelkasten as a note taking methodology. There are a lot of discussions and tutorials out there.</li>
+<li>Raw link: <a href="https://www.vt.edu" class="uri">https://www.vt.edu</a></li>
+</ul></li>
+<li>Footnotes
+<ul>
+<li><code>Some text[^1].</code></li>
+<li><code>[^1]: Footnote text.</code></li>
+</ul></li>
+<li>Block quote: <code>&gt;</code></li>
+<li>Code: <code>code</code></li>
+<li>Images: <code>![Description](image.jpg)</code></li>
 </ul>
+<p>We write a paragraph. It is a good paragraph.</p>
+<p>This is the next paragraph.</p>
 </section>
-<section id="assignment" class="level2">
-<h2 class="anchored" data-anchor-id="assignment">Assignment</h2>
+</section>
+<section id="level-1-heading" class="level1">
+<h1>Level 1 heading</h1>
+<section id="level-2-heading" class="level2">
+<h2 class="anchored" data-anchor-id="level-2-heading">Level 2 heading</h2>
+<section id="level-6" class="level6">
+<h6 class="anchored" data-anchor-id="level-6">Level 6</h6>
+<p>This is <em>some text in italics</em>. This is <strong>bold</strong> text.</p>
 <ul>
-<li>Put articles that you read in the <a href="https://dhdebates.gc.cuny.edu">Debates in the Digital Humanities series</a> into the group library of Zotero.</li>
-<li>Find and download a text editor application.</li>
-<li>Download <a href="https://www.zettlr.com">Zettlr</a>, go through the short tutorial, and look over the <a href="https://docs.zettlr.com/en/">docs</a>. Read the short discussion of using <a href="https://docs.zettlr.com/en/advanced/zkn-method/">Zettlr for zettelkasten</a>. Think about how contextual note taking might be useful for your research and writing.
+<li>This is a unordered list</li>
+<li>Second item in a list
 <ul>
-<li>Share links or resources in the Discourse.</li>
+<li>Indented list item</li>
 </ul></li>
 </ul>
-</section>
-<section id="activities" class="level2">
-<h2 class="anchored" data-anchor-id="activities">Activities</h2>
+<hr>
+<ol type="1">
+<li>This is an ordered list</li>
+<li>Second item
 <ul>
-<li>The benefits and drawbacks of plain text.
-<ul>
-<li>Workshop: Working with a text editor</li>
+<li>Unordered list</li>
 </ul></li>
-<li>Workshop: Writing in Markdown.</li>
-<li>Discussion on organization and note taking
+</ol>
 <ul>
-<li>Zettelkasten: Is it for you?</li>
-<li>Workshop: Zettlr</li>
-</ul></li>
+<li>This is an idea that has three points:
+<ol type="1">
+<li>item 1</li>
+<li>item 2</li>
+<li>item 3</li>
+</ol></li>
 </ul>
-</section>
-<section id="resources" class="level2">
-<h2 class="anchored" data-anchor-id="resources">Resources</h2>
-<section id="text-editors" class="level3">
-<h3 class="anchored" data-anchor-id="text-editors">Text editors</h3>
-<p>See <a href="../resources.html#sec-text-editors">Resources: Text editors</a>. A good text editor can save you a lot of time if you take the time to learn how to use it. A great and longstanding macOS text editor is <a href="http://www.barebones.com/products/bbedit/">BBEdit</a>, which can be purchased, but it offers a very generous free mode. Here is a <a href="https://www.barebones.com/products/bbedit/comparison.html">comparison chart</a> of what you get with the free version. A classic text editor for Windows is <a href="https://notepad-plus-plus.org">Notepad++</a>. A popular cross-platform text editor that is freely available is <a href="https://code.visualstudio.com">Visual Studio Code</a>. There are many other options. Feel free to check them out.</p>
-</section>
-<section id="markdown" class="level3">
-<h3 class="anchored" data-anchor-id="markdown">Markdown</h3>
-<ul>
-<li><a href="https://daringfireball.net/projects/markdown/syntax">John Gruber’s introduction of Markdown and its syntax</a></li>
-<li><a href="https://quarto.org/docs/authoring/markdown-basics.html">Markdown style guide: Quarto docs</a></li>
-<li><a href="https://markdownguide.offshoot.io/basic-syntax/">Markdown Style Guide</a></li>
-<li>Most/many Markdown editors, especially those that focus on academic writing, depend upon <a href="https://pandoc.org">Pandoc</a>, which attempts to be a universal document converter.</li>
-</ul>
-<p>Link to the <a href="../markdown-syntax.html">Markdown syntax guide created in class</a></p>
-</section>
-<section id="other-markup-options" class="level3">
-<h3 class="anchored" data-anchor-id="other-markup-options">Other markup options</h3>
-<ul>
-<li>The main other option for writing in Markdown or a Markdown based system is <a href="https://www.latex-project.org">LaTeX</a>. <a href="https://www.overleaf.com/">Overleaf</a> is a LaTeX editor created specifically for collaboration in academia.</li>
-</ul>
-</section>
-<section id="note-taking-apps-and-zettelkasten" class="level3">
-<h3 class="anchored" data-anchor-id="note-taking-apps-and-zettelkasten">Note taking apps and zettelkasten</h3>
-<p>There is currently a bit of a renaissance in note taking apps that are designed around the basic ideas of zettelkasten. Most of the apps are Markdown editors that provide a way to create internal links between your notes and display incoming and outgoing links. <a href="https://www.zettlr.com">Zettlr</a> is just one example. It is nice because it is open source, cross platform, and designed with academics in mind. But this does not mean that it is necessarily the best for you. Another hugely popular free (but not open source) and cross platform option is <a href="https://obsidian.md">Obsidian</a>.</p>
-</section>
-<section id="other-options" class="level3">
-<h3 class="anchored" data-anchor-id="other-options">Other options</h3>
-<p><a href="https://www.devontechnologies.com/apps/devonthink">DevonThink</a> is more of a do it all database app for macOS, but it can certainly be used as the foundation of organizing your research and note taking.</p>
+<p>Raw link: <a href="https://www.vt.edu" class="uri">https://www.vt.edu</a></p>
+<p>Inline link: Here is some text. I want <a href="https://www.vt.edu">this text to be a link</a>.</p>
+<p>Reference style link: I want <a href="https://www.vt.edu">this text to be a link</a></p>
+<blockquote class="blockquote">
+<p>This is a block quote</p>
+</blockquote>
+<p>We want a footnote here.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
 
 
 </section>
 </section>
+</section>
 
-</main> <!-- /main -->
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>This is the text of the footnote.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -882,18 +941,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
-<nav class="page-navigation">
-  <div class="nav-page nav-page-previous">
-      <a href="../meetings/03-organization.html" class="pagination-link  aria-label=" 3.="" organizing="" resources"="">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">3. Organizing resources</span>
-      </a>          
-  </div>
-  <div class="nav-page nav-page-next">
-      <a href="../meetings/05-data.html" class="pagination-link" aria-label="5. Data and an intro to the command line">
-        <span class="nav-page-text">5. Data and an intro to the command line</span> <i class="bi bi-arrow-right-short"></i>
-      </a>
-  </div>
-</nav>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
@@ -902,7 +949,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/jessesadler/vt5454-s24/edit/main/meetings/04-markdown.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jessesadler/vt5454-s24/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/jessesadler/vt5454-s24/edit/main/markdown-syntax.md" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jessesadler/vt5454-s24/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>This page is built with <a href="https://quarto.org/">Quarto</a>.</p>
 </div>

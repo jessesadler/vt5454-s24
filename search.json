@@ -565,6 +565,56 @@
     ]
   },
   {
+    "objectID": "computing.html",
+    "href": "computing.html",
+    "title": "Computing",
+    "section": "",
+    "text": "macOS is built on the foundation of Unix and comes with a perfectly capable command line app in Terminal. There are some other options out there, but Terminal is just fine.\nSince 2019 the default shell in macOS is zsh instead of bash. The differences between zsh and bash should not affect beginners too much. However, you can download an updated version of bash. The best way to do this is with Homebrew.\nHomebrew is one of the main ways to install command line packages on macOS such as Git, and so it is a good idea to install it. Read about how to install Homebrew through the Terminal app on the Homebrew’s homepage.\n\n\n\nWindows does not come with a unix shell installed. You can install one via Git Bash. This will install both the bash shell and git. See the Carpentries for installation instructions.",
+    "crumbs": [
+      "Computing"
+    ]
+  },
+  {
+    "objectID": "computing.html#sec-cl",
+    "href": "computing.html#sec-cl",
+    "title": "Computing",
+    "section": "",
+    "text": "macOS is built on the foundation of Unix and comes with a perfectly capable command line app in Terminal. There are some other options out there, but Terminal is just fine.\nSince 2019 the default shell in macOS is zsh instead of bash. The differences between zsh and bash should not affect beginners too much. However, you can download an updated version of bash. The best way to do this is with Homebrew.\nHomebrew is one of the main ways to install command line packages on macOS such as Git, and so it is a good idea to install it. Read about how to install Homebrew through the Terminal app on the Homebrew’s homepage.\n\n\n\nWindows does not come with a unix shell installed. You can install one via Git Bash. This will install both the bash shell and git. See the Carpentries for installation instructions.",
+    "crumbs": [
+      "Computing"
+    ]
+  },
+  {
+    "objectID": "computing.html#sec-git",
+    "href": "computing.html#sec-git",
+    "title": "Computing",
+    "section": "Git",
+    "text": "Git\nSee Happy Git and GitHub for the useR for a good guide to downloading git for macOS and Windows.\n\nmacOS\nGit may already be on your computer by default, but the git version that comes with macOS can be quite out of date. To check if you need to install git:\n\nOpen Terminal\nType git --version – check current version of git on the computer\nLook at current version of Git at https://git-scm.com\n\nIf you need to install Git, there are two basic ways to install it:\nVia Homebrew:\n\nbrew install git – download git with Homebrew\nQuit terminal and reopen it to start new session\ngit --version – check to see that installation worked.\n\nVia Xcode command line tools:\n\nxcode-select --install\nQuit terminal and reopen it to start new session\ngit --version – check to see that installation worked.\n\n\n\nWindows\nInstall git with Git Bash.",
+    "crumbs": [
+      "Computing"
+    ]
+  },
+  {
+    "objectID": "computing.html#sec-github",
+    "href": "computing.html#sec-github",
+    "title": "Computing",
+    "section": "GitHub",
+    "text": "GitHub\nRegister for an account on GitHub",
+    "crumbs": [
+      "Computing"
+    ]
+  },
+  {
+    "objectID": "computing.html#sec-r",
+    "href": "computing.html#sec-r",
+    "title": "Computing",
+    "section": "R and RStudio",
+    "text": "R and RStudio\n\nDownload R from CRAN. R 4.3.2 is currently the newest release. It is expected that you will have a version greater than or equal to 4.3.\nDownload RStudio.",
+    "crumbs": [
+      "Computing"
+    ]
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "History 5454: Digital History for Public History",
@@ -621,54 +671,32 @@
     "text": "Footnotes\n\n\nIf you have any problems, we can troubleshoot together.↩︎"
   },
   {
-    "objectID": "computing.html",
-    "href": "computing.html",
-    "title": "Computing",
+    "objectID": "markdown-syntax.html",
+    "href": "markdown-syntax.html",
+    "title": "Level 1 heading",
     "section": "",
-    "text": "macOS is built on the foundation of Unix and comes with a perfectly capable command line app in Terminal. There are some other options out there, but Terminal is just fine.\nSince 2019 the default shell in macOS is zsh instead of bash. The differences between zsh and bash should not affect beginners too much. However, you can download an updated version of bash. The best way to do this is with Homebrew.\nHomebrew is one of the main ways to install command line packages on macOS such as Git, and so it is a good idea to install it. Read about how to install Homebrew through the Terminal app on the Homebrew’s homepage.\n\n\n\nWindows does not come with a unix shell installed. You can install one via Git Bash. This will install both the bash shell and git. See the Carpentries for installation instructions.",
-    "crumbs": [
-      "Computing"
-    ]
+    "text": "- Paragraphs: Empty line, no indentation\n- Headers 1–6\n- *Italics* or _Italics_\n- **Bold** or __Bold__\n- Unordered list: `-`, `*`, `+`\n- Ordered list\n- Link:\n    - Inline: [Text](https://www.vt.edu)\n    - Reference style\n        - `[Text][1]`\n        - `[1]: https://www.vt.edu`\n    - Raw link: &lt;https://www.vt.edu&gt;\n- Footnotes\n    - `Some text[^1].`\n    - `[^1]: Footnote text.`\n- Block quote: `&gt;`\n- Code: `code`\n- Images: `![Description](image.jpg)`\n\nWe write a paragraph. It is a good paragraph.\n\nThis is the next paragraph.\n\n# Level 1 heading\n\n## Level 2 heading\n\n###### Level 6\n\nThis is *some text in italics*. This is **bold** text.\n\n+ This is a unordered list\n+ Second item in a list\n    + Indented list item\n\n----\n\n1. This is an ordered list\n2. Second item\n    - Unordered list\n\n\n- This is an idea that has three points:\n    1. item 1\n    2. item 2\n    3. item 3\n\n\nRaw link: &lt;https://www.vt.edu&gt;\n\n\nInline link: Here is some text. I want [this text to be a link](https://www.vt.edu).\n\nReference style link: I want [this text to be a link][1]\n\n\n&gt; This is a block quote\n\n\nWe want a footnote here.[^1]\n\n\n[1]: https://www.vt.edu\n\n[^1]: This is the text of the footnote.\n\n\n\n\nParagraphs: Empty line, no indentation\nHeaders 1–6\nItalics or Italics\nBold or Bold\nUnordered list: -, *, +\nOrdered list\nLink:\n\nInline: Text\nReference style\n\n[Text][1]\n[1]: https://www.vt.edu\n\nRaw link: https://www.vt.edu\n\nFootnotes\n\nSome text[^1].\n[^1]: Footnote text.\n\nBlock quote: &gt;\nCode: code\nImages: ![Description](image.jpg)\n\nWe write a paragraph. It is a good paragraph.\nThis is the next paragraph."
   },
   {
-    "objectID": "computing.html#sec-cl",
-    "href": "computing.html#sec-cl",
-    "title": "Computing",
+    "objectID": "markdown-syntax.html#markdown-syntax",
+    "href": "markdown-syntax.html#markdown-syntax",
+    "title": "Level 1 heading",
     "section": "",
-    "text": "macOS is built on the foundation of Unix and comes with a perfectly capable command line app in Terminal. There are some other options out there, but Terminal is just fine.\nSince 2019 the default shell in macOS is zsh instead of bash. The differences between zsh and bash should not affect beginners too much. However, you can download an updated version of bash. The best way to do this is with Homebrew.\nHomebrew is one of the main ways to install command line packages on macOS such as Git, and so it is a good idea to install it. Read about how to install Homebrew through the Terminal app on the Homebrew’s homepage.\n\n\n\nWindows does not come with a unix shell installed. You can install one via Git Bash. This will install both the bash shell and git. See the Carpentries for installation instructions.",
-    "crumbs": [
-      "Computing"
-    ]
+    "text": "- Paragraphs: Empty line, no indentation\n- Headers 1–6\n- *Italics* or _Italics_\n- **Bold** or __Bold__\n- Unordered list: `-`, `*`, `+`\n- Ordered list\n- Link:\n    - Inline: [Text](https://www.vt.edu)\n    - Reference style\n        - `[Text][1]`\n        - `[1]: https://www.vt.edu`\n    - Raw link: &lt;https://www.vt.edu&gt;\n- Footnotes\n    - `Some text[^1].`\n    - `[^1]: Footnote text.`\n- Block quote: `&gt;`\n- Code: `code`\n- Images: `![Description](image.jpg)`\n\nWe write a paragraph. It is a good paragraph.\n\nThis is the next paragraph.\n\n# Level 1 heading\n\n## Level 2 heading\n\n###### Level 6\n\nThis is *some text in italics*. This is **bold** text.\n\n+ This is a unordered list\n+ Second item in a list\n    + Indented list item\n\n----\n\n1. This is an ordered list\n2. Second item\n    - Unordered list\n\n\n- This is an idea that has three points:\n    1. item 1\n    2. item 2\n    3. item 3\n\n\nRaw link: &lt;https://www.vt.edu&gt;\n\n\nInline link: Here is some text. I want [this text to be a link](https://www.vt.edu).\n\nReference style link: I want [this text to be a link][1]\n\n\n&gt; This is a block quote\n\n\nWe want a footnote here.[^1]\n\n\n[1]: https://www.vt.edu\n\n[^1]: This is the text of the footnote.\n\n\n\n\nParagraphs: Empty line, no indentation\nHeaders 1–6\nItalics or Italics\nBold or Bold\nUnordered list: -, *, +\nOrdered list\nLink:\n\nInline: Text\nReference style\n\n[Text][1]\n[1]: https://www.vt.edu\n\nRaw link: https://www.vt.edu\n\nFootnotes\n\nSome text[^1].\n[^1]: Footnote text.\n\nBlock quote: &gt;\nCode: code\nImages: ![Description](image.jpg)\n\nWe write a paragraph. It is a good paragraph.\nThis is the next paragraph."
   },
   {
-    "objectID": "computing.html#sec-git",
-    "href": "computing.html#sec-git",
-    "title": "Computing",
-    "section": "Git",
-    "text": "Git\nSee Happy Git and GitHub for the useR for a good guide to downloading git for macOS and Windows.\n\nmacOS\nGit may already be on your computer by default, but the git version that comes with macOS can be quite out of date. To check if you need to install git:\n\nOpen Terminal\nType git --version – check current version of git on the computer\nLook at current version of Git at https://git-scm.com\n\nIf you need to install Git, there are two basic ways to install it:\nVia Homebrew:\n\nbrew install git – download git with Homebrew\nQuit terminal and reopen it to start new session\ngit --version – check to see that installation worked.\n\nVia Xcode command line tools:\n\nxcode-select --install\nQuit terminal and reopen it to start new session\ngit --version – check to see that installation worked.\n\n\n\nWindows\nInstall git with Git Bash.",
-    "crumbs": [
-      "Computing"
-    ]
+    "objectID": "markdown-syntax.html#level-2-heading",
+    "href": "markdown-syntax.html#level-2-heading",
+    "title": "Level 1 heading",
+    "section": "Level 2 heading",
+    "text": "Level 2 heading\n\nLevel 6\nThis is some text in italics. This is bold text.\n\nThis is a unordered list\nSecond item in a list\n\nIndented list item\n\n\n\n\nThis is an ordered list\nSecond item\n\nUnordered list\n\n\n\nThis is an idea that has three points:\n\nitem 1\nitem 2\nitem 3\n\n\nRaw link: https://www.vt.edu\nInline link: Here is some text. I want this text to be a link.\nReference style link: I want this text to be a link\n\nThis is a block quote\n\nWe want a footnote here.1"
   },
   {
-    "objectID": "computing.html#sec-github",
-    "href": "computing.html#sec-github",
-    "title": "Computing",
-    "section": "GitHub",
-    "text": "GitHub\nRegister for an account on GitHub",
-    "crumbs": [
-      "Computing"
-    ]
-  },
-  {
-    "objectID": "computing.html#sec-r",
-    "href": "computing.html#sec-r",
-    "title": "Computing",
-    "section": "R and RStudio",
-    "text": "R and RStudio\n\nDownload R from CRAN. R 4.3.2 is currently the newest release. It is expected that you will have a version greater than or equal to 4.3.\nDownload RStudio.",
-    "crumbs": [
-      "Computing"
-    ]
+    "objectID": "markdown-syntax.html#footnotes",
+    "href": "markdown-syntax.html#footnotes",
+    "title": "Level 1 heading",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis is the text of the footnote.↩︎"
   },
   {
     "objectID": "meetings/14-design.html",
@@ -917,7 +945,7 @@
     "href": "meetings/04-markdown.html#resources",
     "title": "Week 4: Plain Text and Markdown",
     "section": "Resources",
-    "text": "Resources\n\nText editors\nSee Resources: Text editors. A good text editor can save you a lot of time if you take the time to learn how to use it. A great and longstanding macOS text editor is BBEdit, which can be purchased, but it offers a very generous free mode. Here is a comparison chart of of what you get with the free version. A classic text editor for Windows is Notepad++. A popular cross-platform text editor that is freely available is Visual Studio Code. There are many other options. Feel free to check them out.\n\n\nMarkdown\n\nJohn Gruber’s introduction of Markdown and its syntax\nMarkdown style guide: Quarto docs\nMarkdown Style Guide\nMost/many Markdown editors, especially those that focus on academic writing, depend upon Pandoc, which attempts to be a universal document converter.\n\n\n\nOther markup options\n\nThe main other option for writing in Markdown or a Markdown based system is LaTeX. Overleaf is a LaTeX editor created specifically for collaboration in academia.\n\n\n\nNote taking apps and zettelkasten\nThere is currently a bit of a renaissance in note taking apps that are designed around the basic ideas of zettelkasten. Most of the apps are Markdown editors that provide a way to create internal links between your notes and display incoming and outgoing links. Zettlr is just one example. It is nice because it is open source, cross platform, and designed with academics in mind. But this does not mean that it is necessarily the best for you. Another hugely popular free (but not open source) and cross platform option is Obsidian.\n\n\nOther options\nDevonThink is more of a do it all database app for macOS, but it can certainly be used as the foundation of organizing your research and note taking.",
+    "text": "Resources\n\nText editors\nSee Resources: Text editors. A good text editor can save you a lot of time if you take the time to learn how to use it. A great and longstanding macOS text editor is BBEdit, which can be purchased, but it offers a very generous free mode. Here is a comparison chart of what you get with the free version. A classic text editor for Windows is Notepad++. A popular cross-platform text editor that is freely available is Visual Studio Code. There are many other options. Feel free to check them out.\n\n\nMarkdown\n\nJohn Gruber’s introduction of Markdown and its syntax\nMarkdown style guide: Quarto docs\nMarkdown Style Guide\nMost/many Markdown editors, especially those that focus on academic writing, depend upon Pandoc, which attempts to be a universal document converter.\n\nLink to the Markdown syntax guide created in class\n\n\nOther markup options\n\nThe main other option for writing in Markdown or a Markdown based system is LaTeX. Overleaf is a LaTeX editor created specifically for collaboration in academia.\n\n\n\nNote taking apps and zettelkasten\nThere is currently a bit of a renaissance in note taking apps that are designed around the basic ideas of zettelkasten. Most of the apps are Markdown editors that provide a way to create internal links between your notes and display incoming and outgoing links. Zettlr is just one example. It is nice because it is open source, cross platform, and designed with academics in mind. But this does not mean that it is necessarily the best for you. Another hugely popular free (but not open source) and cross platform option is Obsidian.\n\n\nOther options\nDevonThink is more of a do it all database app for macOS, but it can certainly be used as the foundation of organizing your research and note taking.",
     "crumbs": [
       "Schedule",
       "4. Plain text and markdown"
