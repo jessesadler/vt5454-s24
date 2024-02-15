@@ -18,10 +18,16 @@ title: "Week 5: Data and an intro to the command line"
 - Tidy data: What is tidy data?
   - Workshop: Is the data you have tidy? If not, how should it be changed to be tidy?
 - Workshop: Intro to the command line.
+  - [Data Carpentry - Data Organization in Spreadsheets for Social Scientists](https://swcarpentry.github.io/shell-novice/)
+  - [Download toy data](https://swcarpentry.github.io/shell-novice/data/shell-lesson-data.zip)
+  - [Glossary of shell commands](https://swcarpentry.github.io/shell-novice/instructor/reference.html)
 
 ## Resources
 - [Data Carpentry - Data Organization in Spreadsheets for Social Scientists](https://datacarpentry.org/spreadsheets-socialsci/)
 - [Software Carpentry - The Unix Shell](https://swcarpentry.github.io/shell-novice/)
+- Getting help with shell commands
+  - [Explain shell](https://explainshell.com)
+  - [tldr pages](https://tldr.sh)
 - [Hartl, Learn Enough Command Line to be Dangerous](https://www.learnenough.com/command-line-tutorial)
 	- Very good basic tutorial and guide that can be used as a good reference.
 - [Bates, Conquering the Command Line](http://conqueringthecommandline.com/book)
