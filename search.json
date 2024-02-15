@@ -357,7 +357,7 @@
     "href": "meetings/05-data.html#activities",
     "title": "Week 5: Data and an intro to the command line",
     "section": "Activities",
-    "text": "Activities\n\nThe benefits and drawbacks of spreadsheets.\nTidy data: What is tidy data?\n\nWorkshop: Is the data you have tidy? If not, how should it be changed to be tidy?\n\nWorkshop: Intro to the command line.",
+    "text": "Activities\n\nThe benefits and drawbacks of spreadsheets.\nTidy data: What is tidy data?\n\nWorkshop: Is the data you have tidy? If not, how should it be changed to be tidy?\n\nWorkshop: Intro to the command line.\n\nData Carpentry - Data Organization in Spreadsheets for Social Scientists\nDownload toy data\nGlossary of shell commands",
     "crumbs": [
       "Schedule",
       "5. Data and an intro to the command line"
@@ -368,7 +368,7 @@
     "href": "meetings/05-data.html#resources",
     "title": "Week 5: Data and an intro to the command line",
     "section": "Resources",
-    "text": "Resources\n\nData Carpentry - Data Organization in Spreadsheets for Social Scientists\nSoftware Carpentry - The Unix Shell\nHartl, Learn Enough Command Line to be Dangerous\n\nVery good basic tutorial and guide that can be used as a good reference.\n\nBates, Conquering the Command Line\n\nMore in depth than Learning Enough and discusses more advanced commands.\n\nSean Kross, The Unix Workbench",
+    "text": "Resources\n\nData Carpentry - Data Organization in Spreadsheets for Social Scientists\nSoftware Carpentry - The Unix Shell\nGetting help with shell commands\n\nExplain shell\ntldr pages\n\nHartl, Learn Enough Command Line to be Dangerous\n\nVery good basic tutorial and guide that can be used as a good reference.\n\nBates, Conquering the Command Line\n\nMore in depth than Learning Enough and discusses more advanced commands.\n\nSean Kross, The Unix Workbench",
     "crumbs": [
       "Schedule",
       "5. Data and an intro to the command line"
