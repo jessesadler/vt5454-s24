@@ -17,8 +17,8 @@ title: "Week 5: Data and an intro to the command line"
 - The benefits and drawbacks of spreadsheets.
 - Tidy data: What is tidy data?
   - Workshop: Is the data you have tidy? If not, how should it be changed to be tidy?
-- Workshop: Intro to the command line.
-  - [Data Carpentry - Data Organization in Spreadsheets for Social Scientists](https://swcarpentry.github.io/shell-novice/)
+- Workshop: Intro to the command line
+  - [Software Carpentry - The Unix Shell](https://swcarpentry.github.io/shell-novice/)
   - [Download toy data](https://swcarpentry.github.io/shell-novice/data/shell-lesson-data.zip)
   - [Glossary of shell commands](https://swcarpentry.github.io/shell-novice/instructor/reference.html)
 
