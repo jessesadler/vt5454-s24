@@ -357,7 +357,7 @@
     "href": "meetings/05-data.html#activities",
     "title": "Week 5: Data and an intro to the command line",
     "section": "Activities",
-    "text": "Activities\n\nThe benefits and drawbacks of spreadsheets.\nTidy data: What is tidy data?\n\nWorkshop: Is the data you have tidy? If not, how should it be changed to be tidy?\n\nWorkshop: Intro to the command line.\n\nData Carpentry - Data Organization in Spreadsheets for Social Scientists\nDownload toy data\nGlossary of shell commands",
+    "text": "Activities\n\nThe benefits and drawbacks of spreadsheets.\nTidy data: What is tidy data?\n\nWorkshop: Is the data you have tidy? If not, how should it be changed to be tidy?\n\nWorkshop: Intro to the command line\n\nSoftware Carpentry - The Unix Shell\nDownload toy data\nGlossary of shell commands",
     "crumbs": [
       "Schedule",
       "5. Data and an intro to the command line"
