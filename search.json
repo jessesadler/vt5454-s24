@@ -1000,7 +1000,7 @@
     "href": "meetings/06-rstats.html#activities",
     "title": "Week 6: Intro to R and RStudio",
     "section": "Activities",
-    "text": "Activities\n\nWorkshop: Intro to R\nWorkshop: Importing data",
+    "text": "Activities\n\nWorkshop: Intro to R\n\nR for Social Scientists: Intro to R\n\nWorkshop: Importing data\n\nR for Social Scientists: Starting with data\nDownload SAFI data\nDownload letters data\nDownload readr example data",
     "crumbs": [
       "Schedule",
       "6. Intro to R and RStudio"
