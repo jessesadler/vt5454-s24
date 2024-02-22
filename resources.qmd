@@ -93,4 +93,5 @@ Two good ways to keep up with what is going on with R and the R community is to 
 
 ## Quarto {#sec-quarto}
 - The [Quarto documentation](https://quarto.org/docs/guide/) is very good and thorough.
+- Look through the [Getting started tutorial](https://quarto.org/docs/get-started/hello/rstudio.html) to get acquainted with the basics of a quarto document.
 - For an extensive list of resources on Quarto see [Awesome Quarto](https://github.com/mcanouil/awesome-quarto).

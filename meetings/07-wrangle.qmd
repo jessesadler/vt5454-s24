@@ -7,12 +7,15 @@ title: "Week 7: Data wrangling"
 - Jenny Bryan, [What They Forgot to Teach You about R](https://rstats.wtf), Chapters 1--4.
 - Malcolm Barrett, [Why should I use the here package when I'm already using projects?](https://malco.io/articles/2018-11-05-why-should-i-use-the-here-package-when-i-m-already-using-projects)
 - Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, [*R for Data Science* (2nd Edition)](https://r4ds.hadley.nz): Chapters 3, 5, 7, and 19.
+  - Go through these chapters to acquaint yourself with what we will be working on this week during the seminar.
+- Read through the [Getting started tutorial for quarto](https://quarto.org/docs/get-started/hello/rstudio.html).
 
 ## Assignment
 - Bring your data to work on in class.
 
 ## Activities
 - Workshop: Organizing your work in projects
+- Workshop: Introduction to quarto
 - Workshop: Data wrangling
 
 ## Resources
