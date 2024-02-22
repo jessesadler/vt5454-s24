@@ -94,7 +94,7 @@
     "href": "resources.html#sec-quarto",
     "title": "Resources",
     "section": "Quarto",
-    "text": "Quarto\n\nThe Quarto documentation is very good and thorough.\nFor an extensive list of resources on Quarto see Awesome Quarto.",
+    "text": "Quarto\n\nThe Quarto documentation is very good and thorough.\nLook through the Getting started tutorial to get acquainted with the basics of a quarto document.\nFor an extensive list of resources on Quarto see Awesome Quarto.",
     "crumbs": [
       "Resources"
     ]
@@ -379,7 +379,7 @@
     "href": "meetings/07-wrangle.html",
     "title": "Week 7: Data wrangling",
     "section": "",
-    "text": "Jenny Bryan, What They Forgot to Teach You about R, Chapters 1–4.\nMalcolm Barrett, Why should I use the here package when I’m already using projects?\nHadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition): Chapters 3, 5, 7, and 19.",
+    "text": "Jenny Bryan, What They Forgot to Teach You about R, Chapters 1–4.\nMalcolm Barrett, Why should I use the here package when I’m already using projects?\nHadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition): Chapters 3, 5, 7, and 19.\n\nGo through these chapters to acquaint yourself with what we will be working on this week during the seminar.\n\nRead through the Getting started tutorial for quarto.",
     "crumbs": [
       "Schedule",
       "7. Data wrangling"
@@ -390,7 +390,7 @@
     "href": "meetings/07-wrangle.html#reading",
     "title": "Week 7: Data wrangling",
     "section": "",
-    "text": "Jenny Bryan, What They Forgot to Teach You about R, Chapters 1–4.\nMalcolm Barrett, Why should I use the here package when I’m already using projects?\nHadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition): Chapters 3, 5, 7, and 19.",
+    "text": "Jenny Bryan, What They Forgot to Teach You about R, Chapters 1–4.\nMalcolm Barrett, Why should I use the here package when I’m already using projects?\nHadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition): Chapters 3, 5, 7, and 19.\n\nGo through these chapters to acquaint yourself with what we will be working on this week during the seminar.\n\nRead through the Getting started tutorial for quarto.",
     "crumbs": [
       "Schedule",
       "7. Data wrangling"
@@ -412,7 +412,7 @@
     "href": "meetings/07-wrangle.html#activities",
     "title": "Week 7: Data wrangling",
     "section": "Activities",
-    "text": "Activities\n\nWorkshop: Organizing your work in projects\nWorkshop: Data wrangling",
+    "text": "Activities\n\nWorkshop: Organizing your work in projects\nWorkshop: Introduction to quarto\nWorkshop: Data wrangling",
     "crumbs": [
       "Schedule",
       "7. Data wrangling"
