@@ -77,6 +77,8 @@ Good places to start for the why and how of writing in plain text for academic w
 ## R {#sec-r}
 There are innumerable freely available resources and tutorials on learning R for data analysis and visualization, but the best starting place is Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, [R for Data Science (2nd Edition)](https://r4ds.hadley.nz) (O'Reilly, 2023). It is an essential resource that I continue to check whenever I am working in R and forget how to do things.
 
+Make sure that you get comfortable using the RStudio IDE, the app you use to run R. Check out the [RStudio IDE User Guide](https://docs.posit.co/ide/user/) if you encounter issues and to see what you can do in RStudio.
+
 A good tutorial on R from a Humanities/Social Sciences perspective is [Data Carpentry - R for Social Scientists](https://datacarpentry.org/r-socialsci/). Another good option is [Software Carpentry - R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/). A more general intro to R from the perspective of someone more used to spreadsheets is Julie Lowndes and Allison Horst, [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel/).
 
 [Posit](https://posit.co), the company that makes RStudio, publishes [cheatsheets](https://posit.co/resources/cheatsheets/) for the set of [tidyverse](https://www.tidyverse.org) packages we will be using during the course. If you have a question about R you can ask or look for similar questions on the [Posit Community](https://community.rstudio.com).

@@ -48,3 +48,4 @@ Register for an account on [GitHub](https://github.com)
 ## R and RStudio {#sec-r}
 - [Download R from CRAN](https://cloud.r-project.org). R 4.3.2 is currently the newest release. It is expected that you will have a version greater than or equal to 4.3.
 - [Download RStudio](https://posit.co/download/rstudio-desktop/).
+- [RStudio IDE User Guide](https://docs.posit.co/ide/user/)

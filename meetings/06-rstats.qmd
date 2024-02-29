@@ -13,6 +13,7 @@ title: "Week 6: Intro to R and RStudio"
 ## Activities
 - Workshop: Intro to R
   - [R for Social Scientists: Intro to R](https://datacarpentry.org/r-socialsci/01-intro-to-r.html)
+  - [RStudio IDE User Guide](https://docs.posit.co/ide/user/)
 - Workshop: Importing data
   - [R for Social Scientists: Starting with data](https://datacarpentry.org/r-socialsci/02-starting-with-data.html)
   - [Download SAFI data](https://github.com/datacarpentry/r-socialsci/blob/main/episodes/data/SAFI_clean.csv)
