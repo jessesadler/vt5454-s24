@@ -21,7 +21,7 @@ title: "Week 7: Data wrangling"
 ## Data
 - [SAFI data](https://github.com/datacarpentry/r-socialsci/blob/main/episodes/data/SAFI_clean.csv)
 - [readr example data](https://github.com/jessesadler/notes-tidyverse/blob/main/data/readr-example.csv)
-- Lletters data](https://github.com/jessesadler/intro-to-r/blob/master/data/correspondence-data-1585.csv)
+- [Letters data](https://github.com/jessesadler/intro-to-r/blob/master/data/correspondence-data-1585.csv)
 - [Letters location data](https://github.com/jessesadler/intro-to-r/blob/master/data/locations.csv)
 
 ## Resources
