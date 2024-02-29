@@ -423,7 +423,7 @@
     "href": "meetings/07-wrangle.html#data",
     "title": "Week 7: Data wrangling",
     "section": "Data",
-    "text": "Data\n\nSAFI data\nreadr example data\nLletters data](https://github.com/jessesadler/intro-to-r/blob/master/data/correspondence-data-1585.csv)\nLetters location data",
+    "text": "Data\n\nSAFI data\nreadr example data\nLetters data\nLetters location data",
     "crumbs": [
       "Schedule",
       "7. Data wrangling"
