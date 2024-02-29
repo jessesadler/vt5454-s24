@@ -84,7 +84,7 @@
     "href": "resources.html#sec-r",
     "title": "Resources",
     "section": "R",
-    "text": "R\nThere are innumerable freely available resources and tutorials on learning R for data analysis and visualization, but the best starting place is Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition) (O’Reilly, 2023). It is an essential resource that I continue to check whenever I am working in R and forget how to do things.\nA good tutorial on R from a Humanities/Social Sciences perspective is Data Carpentry - R for Social Scientists. Another good option is Software Carpentry - R for Reproducible Scientific Analysis. A more general intro to R from the perspective of someone more used to spreadsheets is Julie Lowndes and Allison Horst, R for Excel Users.\nPosit, the company that makes RStudio, publishes cheatsheets for the set of tidyverse packages we will be using during the course. If you have a question about R you can ask or look for similar questions on the Posit Community.\nIt might be useful to keep The tidyverse style guide handy as you are getting used to writing R code. It provides some basic tips for how to style your code to make it more consistent and easier to read.\nTwo great resources on visualization are Kieran Healy, Data Visualization: A Practical Introduction (Princeton University Press, 2018) and Claus Wilke, Fundamentals of Data Visualization (O’Reilly 2019). Both provide guidance on how to make effective visualizations for the Humanities and Social Sciences. Hadley Wickham, the creator of ggplot2, Danielle Navarro, and Thomas Lin Pedersen have a third edition of the book ggplot2: Elegant Graphics for Data Analysis. It is a very good reference.\nAnother set of great resources for visualization with ggplot2 are by Cédric Scherer. His blog post, A ggplot2 Tutorial for Beautiful Plotting in R is both a great starting point and great as a quick reference. His workshop, Graphic Design with ggplot2 at the 2022 RStudio conference is a really nice tutorial on making advanced visualizations.\nYou can also look at a series of notes/overviews that I have written on the tidyverse and visualization with ggplot2.\nTwo good ways to keep up with what is going on with R and the R community is to subscribe to the R Weekly RSS feed to get a curated list of posts about R. Another great project for learning R and seeing some examples is Tidy Tuesday a community driven weekly event to analyze and visualize a given data set. Because it is difficult to search for a single letter on the internet, the R community often used #rstats.",
+    "text": "R\nThere are innumerable freely available resources and tutorials on learning R for data analysis and visualization, but the best starting place is Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition) (O’Reilly, 2023). It is an essential resource that I continue to check whenever I am working in R and forget how to do things.\nMake sure that you get comfortable using the RStudio IDE, the app you use to run R. Check out the RStudio IDE User Guide if you encounter issues and to see what you can do in RStudio.\nA good tutorial on R from a Humanities/Social Sciences perspective is Data Carpentry - R for Social Scientists. Another good option is Software Carpentry - R for Reproducible Scientific Analysis. A more general intro to R from the perspective of someone more used to spreadsheets is Julie Lowndes and Allison Horst, R for Excel Users.\nPosit, the company that makes RStudio, publishes cheatsheets for the set of tidyverse packages we will be using during the course. If you have a question about R you can ask or look for similar questions on the Posit Community.\nIt might be useful to keep The tidyverse style guide handy as you are getting used to writing R code. It provides some basic tips for how to style your code to make it more consistent and easier to read.\nTwo great resources on visualization are Kieran Healy, Data Visualization: A Practical Introduction (Princeton University Press, 2018) and Claus Wilke, Fundamentals of Data Visualization (O’Reilly 2019). Both provide guidance on how to make effective visualizations for the Humanities and Social Sciences. Hadley Wickham, the creator of ggplot2, Danielle Navarro, and Thomas Lin Pedersen have a third edition of the book ggplot2: Elegant Graphics for Data Analysis. It is a very good reference.\nAnother set of great resources for visualization with ggplot2 are by Cédric Scherer. His blog post, A ggplot2 Tutorial for Beautiful Plotting in R is both a great starting point and great as a quick reference. His workshop, Graphic Design with ggplot2 at the 2022 RStudio conference is a really nice tutorial on making advanced visualizations.\nYou can also look at a series of notes/overviews that I have written on the tidyverse and visualization with ggplot2.\nTwo good ways to keep up with what is going on with R and the R community is to subscribe to the R Weekly RSS feed to get a curated list of posts about R. Another great project for learning R and seeing some examples is Tidy Tuesday a community driven weekly event to analyze and visualize a given data set. Because it is difficult to search for a single letter on the internet, the R community often used #rstats.",
     "crumbs": [
       "Resources"
     ]
@@ -412,7 +412,18 @@
     "href": "meetings/07-wrangle.html#activities",
     "title": "Week 7: Data wrangling",
     "section": "Activities",
-    "text": "Activities\n\nWorkshop: Organizing your work in projects\nWorkshop: Introduction to quarto\nWorkshop: Data wrangling",
+    "text": "Activities\n\nWorkshop: Organizing your work in projects\nWorkshop: Data wrangling\nWorkshop: Introduction to quarto",
+    "crumbs": [
+      "Schedule",
+      "7. Data wrangling"
+    ]
+  },
+  {
+    "objectID": "meetings/07-wrangle.html#data",
+    "href": "meetings/07-wrangle.html#data",
+    "title": "Week 7: Data wrangling",
+    "section": "Data",
+    "text": "Data\n\nSAFI data\nreadr example data\nLletters data](https://github.com/jessesadler/intro-to-r/blob/master/data/correspondence-data-1585.csv)\nLetters location data",
     "crumbs": [
       "Schedule",
       "7. Data wrangling"
@@ -609,7 +620,7 @@
     "href": "computing.html#sec-r",
     "title": "Computing",
     "section": "R and RStudio",
-    "text": "R and RStudio\n\nDownload R from CRAN. R 4.3.2 is currently the newest release. It is expected that you will have a version greater than or equal to 4.3.\nDownload RStudio.",
+    "text": "R and RStudio\n\nDownload R from CRAN. R 4.3.2 is currently the newest release. It is expected that you will have a version greater than or equal to 4.3.\nDownload RStudio.\nRStudio IDE User Guide",
     "crumbs": [
       "Computing"
     ]
@@ -1000,7 +1011,7 @@
     "href": "meetings/06-rstats.html#activities",
     "title": "Week 6: Intro to R and RStudio",
     "section": "Activities",
-    "text": "Activities\n\nWorkshop: Intro to R\n\nR for Social Scientists: Intro to R\n\nWorkshop: Importing data\n\nR for Social Scientists: Starting with data\nDownload SAFI data\nDownload letters data\nDownload readr example data",
+    "text": "Activities\n\nWorkshop: Intro to R\n\nR for Social Scientists: Intro to R\nRStudio IDE User Guide\n\nWorkshop: Importing data\n\nR for Social Scientists: Starting with data\nDownload SAFI data\nDownload letters data\nDownload readr example data",
     "crumbs": [
       "Schedule",
       "6. Intro to R and RStudio"
