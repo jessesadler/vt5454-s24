@@ -1077,7 +1077,7 @@
     "href": "meetings/08-ggplot2.html#resources",
     "title": "Week 8: Visualization with ggplot2",
     "section": "Resources",
-    "text": "Resources\n\nCédric Scherer’s comprehensive blog post, A ggplot2 Tutorial for Beautiful Plotting in R is both a great - Cédric Scherer’s workshop at RStudio 2022, Graphic Design with ggplot2.\nMy notes on ggplot2\nKieran Healy, Data Visualization: A Practical Introduction (Princeton University Press, 2018).\nClaus Wilke, Fundamentals of Data Visualization (O’Reilly 2019).\nHadley Wickham, Danielle Navarro, and Thomas Lin Pedersen, ggplot2: Elegant Graphics for Data Analysis (3rd Edition).",
+    "text": "Resources\n\nHadley Wickham, Danielle Navarro, and Thomas Lin Pedersen, ggplot2: Elegant Graphics for Data Analysis (3rd Edition).\nKieran Healy, Data Visualization: A Practical Introduction (Princeton University Press, 2018).\nClaus Wilke, Fundamentals of Data Visualization (O’Reilly 2019).\nCédric Scherer’s comprehensive blog post, A ggplot2 Tutorial for Beautiful Plotting in R is a great comprehensive guide to what is possible with ggplot2.\nCédric Scherer’s workshop at RStudio 2022, Graphic Design with ggplot2 is a really good resource for building good looking plots with ggplot2.\nMy notes on ggplot2 provide an overview of the main component of plotting with ggplot2.",
     "crumbs": [
       "Schedule",
       "8. Visualization with ggplot2"
