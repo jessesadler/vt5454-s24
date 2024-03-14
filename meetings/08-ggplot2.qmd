@@ -17,8 +17,9 @@ title: "Week 8: Visualization with ggplot2"
 - Workshop: Visualization with ggplot2
 
 ## Resources
-- Cédric Scherer's comprehensive blog post, [A ggplot2 Tutorial for Beautiful Plotting in R](https://www.cedricscherer.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/) is both a great - Cédric Scherer's workshop at RStudio 2022, [Graphic Design with ggplot2](https://rstudio-conf-2022.github.io/ggplot2-graphic-design/).
-- [My notes on ggplot2](https://jessesadler.github.io/notes-tidyverse/)
+- Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen, [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org) (3rd Edition).
 - Kieran Healy, [Data Visualization: A Practical Introduction](https://socviz.co) (Princeton University Press, 2018).
 - Claus Wilke, [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) (O'Reilly 2019).
-- Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen, [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org) (3rd Edition).
+- Cédric Scherer's comprehensive blog post, [A ggplot2 Tutorial for Beautiful Plotting in R](https://www.cedricscherer.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/) is a great comprehensive guide to what is possible with ggplot2.
+- Cédric Scherer's workshop at RStudio 2022, [Graphic Design with ggplot2](https://rstudio-conf-2022.github.io/ggplot2-graphic-design/) is a really good resource for building good looking plots with ggplot2.
+- [My notes on ggplot2](https://jessesadler.github.io/notes-tidyverse/) provide an overview of the main component of plotting with ggplot2.
