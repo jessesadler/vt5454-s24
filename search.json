@@ -809,6 +809,17 @@
     ]
   },
   {
+    "objectID": "meetings/10-quarto.html#quarto-websites",
+    "href": "meetings/10-quarto.html#quarto-websites",
+    "title": "Week 10: Making documents and websites with Quarto",
+    "section": "Quarto websites",
+    "text": "Quarto websites\nQuarto websites are a collection of Quarto documents using format: html with a set structure and consistent visual style.\n\nCreate new Quarto website project: File -&gt; New Project… -&gt; Quarto Website.\nPreview website to see what we have.\n\nPreview page with Render button. Use gear button to control how preview works.\nRender website in build tab -&gt; Render Website\n\nStructure: _quarto.yml\n\nConfiguration file (_quarto.yml) provides the basic structure of the site.\nNavigation\n\nTop navbar\nSide navbar\nCombination of top and side navbar\n\nNavigation provides skeleton structure of pages in YAML format. Make sure to use proper whitespace in working in _quarto.yml.\n\nPages\n\nHomepage: index.qmd\nIndividual quarto documents turned into web pages\nShared YAML in _quarto.yml under format:. See HTML Basics for YAML options.\nLinks between pages:\n\n[about](about.qmd)\nSection identifier: # Introduction {#sec-introduction} and [about](about.qmd#sec-introduction).\n\nFooter: Add a footer to have text at the bottom of each page with page-footer in _quarto.yml.\n\nAbout page: Add an About page with special formatting.\nAesthetics\n\nThemes\nQuarto HTML documents are all based on Bootstrap 5.\n\nQuarto provides access to 25 Bootswatch themes.\nChange theme in _quarto.yml under format:\n\nYAML options in _quarto.yml\n\nCan make basic customization to the theme in YAML options under format:\n\nSCSS\n\nCreate fully custom themes with SASS variables through scss files, which is a superset of CSS (Cascading Style Sheets).\ncustom.scss\nSee Quarto SASS variables for the most likely variables you might want to change.\nSee More About Quarto Themes on using Scss.\n\n\nWebsite tools: Header, footer, and integration with other services.\nWebsite search: Options for having a search field for website.",
+    "crumbs": [
+      "Schedule",
+      "10. Making documents and websites with Quarto"
+    ]
+  },
+  {
     "objectID": "meetings/10-quarto.html#resources",
     "href": "meetings/10-quarto.html#resources",
     "title": "Week 10: Making documents and websites with Quarto",
