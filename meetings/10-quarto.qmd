@@ -16,6 +16,44 @@ title: "Week 10: Making documents and websites with Quarto"
 - Discussion: Making History public through the web.
 - Workshop: Making a website with Quarto
 
+## Quarto websites
+[Quarto websites](https://quarto.org/docs/websites/) are a collection of Quarto documents using `format: html` with a set structure and consistent visual style.
+
+- Create new Quarto website project: File -> New Project... -> Quarto Website.
+- Preview website to see what we have.
+  - Preview page with `Render` button. Use gear button to control how preview works.
+  - Render website in `build` tab -> `Render Website`
+- Structure: `_quarto.yml`
+  - Configuration file (`_quarto.yml`) provides the basic structure of the site.
+  - [Navigation](https://quarto.org/docs/websites/website-navigation.html)
+    - Top navbar
+    - Side navbar
+    - Combination of top and side navbar
+  - Navigation provides skeleton structure of pages in YAML format. Make sure to use proper whitespace in working in `_quarto.yml`.
+- Pages
+  - Homepage: `index.qmd`
+  - Individual quarto documents turned into web pages
+  - Shared YAML in `_quarto.yml` under `format:`. See [HTML Basics](https://quarto.org/docs/output-formats/html-basics.html) for YAML options.
+  - Links between pages:
+    - `[about](about.qmd)`
+    - Section identifier: `# Introduction {#sec-introduction}` and `[about](about.qmd#sec-introduction)`.
+  - [Footer](https://quarto.org/docs/websites/website-navigation.html#page-footer): Add a footer to have text at the bottom of each page with `page-footer` in `_quarto.yml`.
+- [About page](https://quarto.org/docs/websites/website-about.html): Add an About page with special formatting.
+- Aesthetics
+	- [Themes](https://quarto.org/docs/output-formats/html-themes.html)
+    - Quarto HTML documents are all based on [Bootstrap 5](https://getbootstrap.com/).
+	  - Quarto provides access to 25 [Bootswatch themes](https://bootswatch.com/).
+	  - Change theme in `_quarto.yml` under `format:`
+	- YAML options in `_quarto.yml`
+	  - Can make [basic customization](https://quarto.org/docs/output-formats/html-themes.html#basic-options) to the theme in YAML options under `format:`
+	- SCSS
+	  - Create [fully custom themes](https://quarto.org/docs/output-formats/html-themes.html#custom-themes) with [SASS](https://sass-lang.com) variables through `scss` files, which is a superset of [CSS (Cascading Style Sheets)](https://developer.mozilla.org/en-US/docs/Web/CSS).
+	  - `custom.scss`
+	  - See [Quarto SASS variables](https://quarto.org/docs/output-formats/html-themes.html#sass-variables) for the most likely variables you might want to change.
+	  - See [More About Quarto Themes](https://quarto.org/docs/output-formats/html-themes-more.html) on using Scss.
+- [Website tools](https://quarto.org/docs/websites/website-tools.html): Header, footer, and integration with other services.
+- [Website search](https://quarto.org/docs/websites/website-search.html): Options for having a search field for website.
+
 ## Resources
 - The [Quarto documentation](https://quarto.org/docs/guide/) is very good and thorough.
   - [Quarto website documentation](https://quarto.org/docs/websites/)
