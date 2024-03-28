@@ -54,11 +54,8 @@ website:
             text: 15. Conclusion
 
       - href: resources.qmd
-        text: Resources
       - href: faq.qmd
-        text: FAQ
       - href: computing.qmd
-        text: Computing
 
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
