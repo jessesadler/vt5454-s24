@@ -1,0 +1,20 @@
+---
+title: "Week 11: Review and website workshop"
+---
+
+## Reading
+- Review the [Quarto documentation](https://quarto.org/docs/guide/).
+- Review Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, [*R for Data Science* (2nd Edition)](https://r4ds.hadley.nz).
+
+## Assignment
+- Work on plan for your website. Make an outline, mindmap, drawing, etc. of the structure of your website.
+- Look at examples of Quarto websites [listed in Week 10](10-quarto.qmd#sec-ex-sites). Look at the websites and the source code used to make the websites on GitHub.
+- Come to class ready to discuss any struggles you are having and what else you want to learn.
+
+## Activities
+- Review: Time to work on skills such as R, bash, and git.
+  - Finding resources and getting help.
+- Workshop: Making a website with Quarto
+
+## Resources
+See [Week 10: Making documents and websites with Quarto](10-quarto.qmd)

@@ -62,7 +62,7 @@ title: "Week 10: Making documents and websites with Quarto"
 - Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, [*R for Data Science* (2nd Edition)](https://r4ds.hadley.nz): Introduction, Chapters 28 and 29.
 - Isabella Velásquez, [Building a blog with Quarto](https://ivelasq.quarto.pub/building-a-blog-with-quarto/).
 
-### Examples of Quarto websites
+### Examples of Quarto websites {#sec-ex-sites}
 - [Our course website](https://github.com/jessesadler/vt5454-s24)
 - [A Rogue Historian by Jesse Sadler](https://www.jessesadler.com)
 - [Pipe dreams by Isabella Velásquez](https://ivelasq.rbind.io/)

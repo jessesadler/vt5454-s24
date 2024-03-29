@@ -78,12 +78,13 @@ This website is built with [Quarto](https://quarto.org) and the source code is a
 8. [Visualization with ggplot2][8] (14 March)
 9. [Version control with Git and GitHub][9] (21 March)
 10. [Making documents and websites with Quarto][10] (28 March)
-11. [Text analysis][11] (4 April)
-12. [Network analysis][12] (11 April)
-13. [Spatial analysis][13] (18 April)
+11. [Review and website workshop][11] (4 April)
+12. [Spatial analysis][12] (11 April)
+13. [Network analysis][13] (18 April)
 14. [Web design and visualization][14] (25 April)
 15. [Conclusion][15] (2 May)
 
+Appendix: [Text analysis][16]
 
 [^1]: If you have any problems, we can troubleshoot together.
 
@@ -97,8 +98,9 @@ This website is built with [Quarto](https://quarto.org) and the source code is a
 [8]: meetings/08-ggplot2.qmd
 [9]: meetings/09-git.qmd
 [10]: meetings/10-quarto.qmd
-[11]: meetings/11-text.qmd
-[12]: meetings/12-network.qmd
-[13]: meetings/13-spatial.qmd
+[11]: meetings/11-review.qmd
+[12]: meetings/12-spatial.qmd
+[13]: meetings/13-network.qmd
 [14]: meetings/14-design.qmd
 [15]: meetings/15-conclusion.qmd
+[16]: meetings/16-text.qmd

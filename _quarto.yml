@@ -42,16 +42,18 @@ website:
             text: 9. Version control with Git and GitHub
           - href: meetings/10-quarto.qmd
             text: 10. Making documents and websites with Quarto
-          - href: meetings/11-text.qmd
-            text: 11. Text analysis
-          - href: meetings/12-network.qmd
-            text: 12. Network analysis
-          - href: meetings/13-spatial.qmd
-            text: 13. Spatial analysis
+          - href: meetings/11-review.qmd
+            text: 11. Review and website workshop
+          - href: meetings/12-spatial.qmd
+            text: 12. Spatial analysis
+          - href: meetings/13-network.qmd
+            text: 13. Network analysis
           - href: meetings/14-design.qmd
             text: 14. Web design and visualization
           - href: meetings/15-conclusion.qmd
             text: 15. Conclusion
+          - href: meetings/16-text.qmd
+            text: "Appendix: Text analysis"
 
       - href: resources.qmd
       - href: faq.qmd
