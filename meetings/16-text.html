@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Week 13: Spatial analysis</title>
+<title>Appendix: Text analysis</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -29,8 +29,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../meetings/14-design.html" rel="next">
-<link href="../meetings/12-network.html" rel="prev">
+<link href="../resources.html" rel="next">
+<link href="../meetings/15-conclusion.html" rel="prev">
 <link href="../logo.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -83,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../meetings/01-intro.html">Schedule</a></li><li class="breadcrumb-item"><a href="../meetings/13-spatial.html">13. Spatial analysis</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../meetings/01-intro.html">Schedule</a></li><li class="breadcrumb-item"><a href="../meetings/16-text.html">Appendix: Text analysis</a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -184,20 +184,20 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../meetings/11-text.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">11. Text analysis</span></a>
+  <a href="../meetings/11-review.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">11. Review and website workshop</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../meetings/12-network.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">12. Network analysis</span></a>
+  <a href="../meetings/12-spatial.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">12. Spatial analysis</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../meetings/13-spatial.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">13. Spatial analysis</span></a>
+  <a href="../meetings/13-network.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">13. Network analysis</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -210,6 +210,12 @@ ul.task-list li input[type="checkbox"] {
   <div class="sidebar-item-container"> 
   <a href="../meetings/15-conclusion.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">15. Conclusion</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../meetings/16-text.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Appendix: Text analysis</span></a>
   </div>
 </li>
       </ul>
@@ -247,19 +253,19 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#activities" id="toc-activities" class="nav-link" data-scroll-target="#activities">Activities</a></li>
   <li><a href="#resources" id="toc-resources" class="nav-link" data-scroll-target="#resources">Resources</a>
   <ul class="collapse">
-  <li><a href="#spatial-digital-history-projects" id="toc-spatial-digital-history-projects" class="nav-link" data-scroll-target="#spatial-digital-history-projects">Spatial Digital History projects</a></li>
-  <li><a href="#gis-with-r" id="toc-gis-with-r" class="nav-link" data-scroll-target="#gis-with-r">GIS with R</a></li>
-  <li><a href="#gis-r-packages" id="toc-gis-r-packages" class="nav-link" data-scroll-target="#gis-r-packages">GIS R packages</a></li>
+  <li><a href="#regular-expressions-regex" id="toc-regular-expressions-regex" class="nav-link" data-scroll-target="#regular-expressions-regex">Regular expressions (regex)</a></li>
+  <li><a href="#text-analysis-r-packages" id="toc-text-analysis-r-packages" class="nav-link" data-scroll-target="#text-analysis-r-packages">Text analysis R packages</a></li>
+  <li><a href="#text-analysis" id="toc-text-analysis" class="nav-link" data-scroll-target="#text-analysis">Text analysis</a></li>
   </ul></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/jessesadler/vt5454-s24/edit/main/meetings/13-spatial.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jessesadler/vt5454-s24/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/jessesadler/vt5454-s24/edit/main/meetings/16-text.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jessesadler/vt5454-s24/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../meetings/01-intro.html">Schedule</a></li><li class="breadcrumb-item"><a href="../meetings/13-spatial.html">13. Spatial analysis</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../meetings/01-intro.html">Schedule</a></li><li class="breadcrumb-item"><a href="../meetings/16-text.html">Appendix: Text analysis</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Week 13: Spatial analysis</h1>
+<h1 class="title">Appendix: Text analysis</h1>
 </div>
 
 
@@ -279,59 +285,61 @@ ul.task-list li input[type="checkbox"] {
 <section id="reading" class="level2">
 <h2 class="anchored" data-anchor-id="reading">Reading</h2>
 <ul>
-<li>Robin Lovelace, Jakub Nowosad, and Jannes Muenchow, <a href="https://geocompr.robinlovelace.net"><em>Geocomputation with R</em></a> (2nd Edition), Chapters 1, 2, 7, and 9.</li>
-<li>Kieran Healy, <em>Data Visualization: A Practical Introduction</em> (Princeton University Press, 2018), <a href="https://socviz.co/maps.html#maps">Chapter 7: Draw Maps</a>.</li>
-<li>Leonardo Barleta, “Spatial Genealogies: Mobility, Settlement, and Empire-Building in the Brazilian Backlands, 1650–1800,” <em>Journal of Social History</em> 54, no. 4 (2021): 1064–90, <a href="http://dx.doi.org/10.1093/jsh/shab006" class="uri">http://dx.doi.org/10.1093/jsh/shab006</a>.</li>
+<li>Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, <a href="https://r4ds.hadley.nz"><em>R for Data Science</em> (2nd Edition)</a>: Chapters 14 and 15.</li>
+<li>Julia Silge and David Robinson, <em>Text Mining with R: A Tidy Approach</em>, (O’Reilly, 2017), <a href="https://www.tidytextmining.com" class="uri">https://www.tidytextmining.com</a>.
+<ul>
+<li>Read the Preface and Chapter 1: The tidy text format and look through other chapters to see what you might be of particular interest to your concerns.</li>
+</ul></li>
+<li>Taylor Arnold, Nicolas Ballier, Paula Lissón, and Lauren Tilton, “Beyond Lexical Frequencies: Using R for Text Analysis in the Digital Humanities,” <em>Language Resources and Evaluation</em> 53, no. 4 (2019): 707–733, <a href="https://doi.org/10.1007/s10579-019-09456-6" class="uri">https://doi.org/10.1007/s10579-019-09456-6</a>.</li>
 </ul>
 </section>
 <section id="assignment" class="level2">
 <h2 class="anchored" data-anchor-id="assignment">Assignment</h2>
 <ul>
-<li>Browse one of the spatial Digital History projects listed under Resources or find one relevant to your field.</li>
+<li>Look at the documentation for the text editor that you are using on regular expressions (regex) and/or advanced find and replace features.
+<ul>
+<li>The <a href="https://s3.amazonaws.com/BBSW-download/BBEdit_15.0_User_Manual.pdf">Chapter on Searching with Grep in the BBEdit Manual</a> is particularly good.</li>
+</ul></li>
+<li>Browse Taylor Arnold, Courtney Rivard, and Lauren Tilton, <a href="https://layeredlives.supdigital.org/map">Layered Lives: Rhetoric and Representation in the Southern Life History Project</a> (Stanford University Press, 2022): <a href="https://doi.org/10.21627/2022ll" class="uri">https://doi.org/10.21627/2022ll</a>.</li>
 </ul>
 </section>
 <section id="activities" class="level2">
 <h2 class="anchored" data-anchor-id="activities">Activities</h2>
 <ul>
-<li>Discussion of the use of spatial analysis in history.</li>
-<li>Workshop: Spatial analysis.</li>
+<li>Discussion of the use of text analysis in History.</li>
+<li>Workshop: Regular expressions (regex)</li>
+<li>Workshop: Text analysis with R</li>
 </ul>
 </section>
 <section id="resources" class="level2">
 <h2 class="anchored" data-anchor-id="resources">Resources</h2>
-<section id="spatial-digital-history-projects" class="level3">
-<h3 class="anchored" data-anchor-id="spatial-digital-history-projects">Spatial Digital History projects</h3>
+<section id="regular-expressions-regex" class="level3">
+<h3 class="anchored" data-anchor-id="regular-expressions-regex">Regular expressions (regex)</h3>
 <ul>
-<li>Scott Nesbit and Ed Ayers, <a href="https://dsl.richmond.edu/emancipation/">Visualizing Emancipation</a></li>
-<li><a href="https://www.slavevoyages.org/">Slave Voyages</a></li>
-<li><a href="http://republicofletters.stanford.edu">Mapping the Republic of Letters</a></li>
-<li><a href="https://pleiades.stoa.org">Pleiades: gazetteer and graph of ancient places</a></li>
-<li><a href="http://awmc.unc.edu">Ancient World Mapping Center</a></li>
-<li><a href="https://whgazetteer.org/">World Historical Gazetteer</a></li>
+<li><a href="https://programminghistorian.org/en/lessons/understanding-regular-expressions">Programming Historian - Doug Knox, Understanding Regular Expressions</a>.</li>
+<li><a href="https://stringr.tidyverse.org/articles/regular-expressions.html">stringr: Regular expressions</a></li>
+<li>Joshua Fjelstul, <a href="https://jfjelstul.github.io/regular-expressions-tutorial/">Regular expressions in R</a>.</li>
 </ul>
 </section>
-<section id="gis-with-r" class="level3">
-<h3 class="anchored" data-anchor-id="gis-with-r">GIS with R</h3>
+<section id="text-analysis-r-packages" class="level3">
+<h3 class="anchored" data-anchor-id="text-analysis-r-packages">Text analysis R packages</h3>
 <ul>
-<li>Robin Lovelace, Jakub Nowosad, and Jannes Muenchow, <a href="https://geocompr.robinlovelace.net"><em>Geocomputation with R</em></a> (2nd Edition)</li>
-<li>Edzer Pebesma and Roger Bivand, <a href="https://r-spatial.org/book/"><em>Spatial Data Science: With Applications in R</em></a></li>
-<li>Jesse Sadler, <a href="https://www.jessesadler.com/post/simple-feature-objects/">An Exploration of Simple Features for R</a>.</li>
-<li>Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen, <em>ggplot2: Elegant Graphics for Data Analysis</em> (3rd Edition), <a href="https://ggplot2-book.org/maps">Chapter 6: Maps</a>.</li>
+<li><a href="https://cran.r-project.org/web/views/NaturalLanguageProcessing.html">CRAN Task View: Natural Language Processing</a></li>
+<li><a href="https://stringr.tidyverse.org">stringr</a></li>
+<li><a href="https://quanteda.io">quanteda</a></li>
+<li><a href="https://statsmaths.github.io/cleanNLP/">cleanNLP</a></li>
 </ul>
 </section>
-<section id="gis-r-packages" class="level3">
-<h3 class="anchored" data-anchor-id="gis-r-packages">GIS R packages</h3>
+<section id="text-analysis" class="level3">
+<h3 class="anchored" data-anchor-id="text-analysis">Text analysis</h3>
 <ul>
-<li><a href="https://cran.r-project.org/web/views/Spatial.html">CRAN Task View: Analysis of Spatial Data</a></li>
-<li><a href="https://r-spatial.github.io/sf/">sf</a>: Vector data.</li>
-<li><a href="https://rspatial.org">terra</a>: Raster data.</li>
-<li><a href="https://r-tmap.github.io/tmap/">tmap</a>: An alternative to making maps with ggplot2.</li>
-<li><a href="https://rstudio.github.io/leaflet/">leaflet</a>: Interactive mapping with R.</li>
-<li><a href="https://www.rayshader.com">rayshader</a>: Make 3d maps in R.</li>
-<li><a href="https://docs.ropensci.org/rnaturalearth/">rnaturalearth</a></li>
-<li><a href="https://walker-data.com/tidycensus/">tidycensus</a> provides access to US Census Bureau data in a tidy format, including the option to bind the data spatially on import.</li>
-<li><a href="https://github.com/walkerke/tigris">tigris</a> provides access to cartographic elements provided by the US Census Bureau TIGER, including cartographic boundaries, roads, and water.</li>
-<li><a href="https://docs.ropensci.org/opencage/">opencage</a>: Geocode using the <a href="https://opencagedata.com/">Opencage</a> API.</li>
+<li><a href="https://programminghistorian.org/en/lessons/basic-text-processing-in-r">Programming Historian - Taylor Arnold and Lauren Tilton, Basic Text Processing in R</a>.</li>
+<li><a href="https://programminghistorian.org/en/lessons/sentiment-analysis-syuzhet">Programming Historian - Jennifer Isasi, Sentiment Analysis with ‘syuzhet’ using R</a>.</li>
+<li>Emil Hvitfeldt and Julia Silge, <em>Supervised Machine Learning for Text Analysis in R</em>, (CRC Press 2021), <a href="https://smltar.com" class="uri">https://smltar.com</a>.
+<ul>
+<li>This books is an updated but more advanced discussion of text analysis in R than <em>Text Mining with R: A Tidy Approach</em>.</li>
+</ul></li>
+<li><a href="https://datasittersclub.github.io/site/#">The Data Sitters Club</a></li>
 </ul>
 
 
@@ -872,13 +880,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../meetings/12-network.html" class="pagination-link" aria-label="12. Network analysis">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">12. Network analysis</span>
+      <a href="../meetings/15-conclusion.html" class="pagination-link" aria-label="15. Conclusion">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">15. Conclusion</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../meetings/14-design.html" class="pagination-link" aria-label="14. Web design and visualization">
-        <span class="nav-page-text">14. Web design and visualization</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../resources.html" class="pagination-link" aria-label="Resources">
+        <span class="nav-page-text">Resources</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -890,7 +898,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/jessesadler/vt5454-s24/edit/main/meetings/13-spatial.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jessesadler/vt5454-s24/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/jessesadler/vt5454-s24/edit/main/meetings/16-text.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jessesadler/vt5454-s24/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>This page is built with <a href="https://quarto.org/">Quarto</a>.</p>
 </div>

@@ -100,179 +100,124 @@
     ]
   },
   {
-    "objectID": "meetings/13-spatial.html",
-    "href": "meetings/13-spatial.html",
-    "title": "Week 13: Spatial analysis",
+    "objectID": "meetings/08-ggplot2.html",
+    "href": "meetings/08-ggplot2.html",
+    "title": "Week 8: Visualization with ggplot2",
     "section": "",
-    "text": "Robin Lovelace, Jakub Nowosad, and Jannes Muenchow, Geocomputation with R (2nd Edition), Chapters 1, 2, 7, and 9.\nKieran Healy, Data Visualization: A Practical Introduction (Princeton University Press, 2018), Chapter 7: Draw Maps.\nLeonardo Barleta, “Spatial Genealogies: Mobility, Settlement, and Empire-Building in the Brazilian Backlands, 1650–1800,” Journal of Social History 54, no. 4 (2021): 1064–90, http://dx.doi.org/10.1093/jsh/shab006.",
+    "text": "John Theibault, “Visualizations and Historical Arguments,” in Writing History in the Digital Age, eds. Kristen Nawrotzki and Jack Dougherty (University of Michigan Press, 2013), https://www.jstor.org/stable/j.ctv65sx57.19.\nKieran Healy and James Moody, “Data Visualization in Sociology” Annual Review of Sociology, 40: 105–128.\nHadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition): Chapters 1, 9, 10, and 11.\nKieran Healy, Data Visualization: A Practical Introduction (Princeton University Press, 2018), Chapters 1 and 3.",
     "crumbs": [
       "Schedule",
-      "13. Spatial analysis"
+      "8. Visualization with ggplot2"
     ]
   },
   {
-    "objectID": "meetings/13-spatial.html#reading",
-    "href": "meetings/13-spatial.html#reading",
-    "title": "Week 13: Spatial analysis",
+    "objectID": "meetings/08-ggplot2.html#reading",
+    "href": "meetings/08-ggplot2.html#reading",
+    "title": "Week 8: Visualization with ggplot2",
     "section": "",
-    "text": "Robin Lovelace, Jakub Nowosad, and Jannes Muenchow, Geocomputation with R (2nd Edition), Chapters 1, 2, 7, and 9.\nKieran Healy, Data Visualization: A Practical Introduction (Princeton University Press, 2018), Chapter 7: Draw Maps.\nLeonardo Barleta, “Spatial Genealogies: Mobility, Settlement, and Empire-Building in the Brazilian Backlands, 1650–1800,” Journal of Social History 54, no. 4 (2021): 1064–90, http://dx.doi.org/10.1093/jsh/shab006.",
+    "text": "John Theibault, “Visualizations and Historical Arguments,” in Writing History in the Digital Age, eds. Kristen Nawrotzki and Jack Dougherty (University of Michigan Press, 2013), https://www.jstor.org/stable/j.ctv65sx57.19.\nKieran Healy and James Moody, “Data Visualization in Sociology” Annual Review of Sociology, 40: 105–128.\nHadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition): Chapters 1, 9, 10, and 11.\nKieran Healy, Data Visualization: A Practical Introduction (Princeton University Press, 2018), Chapters 1 and 3.",
     "crumbs": [
       "Schedule",
-      "13. Spatial analysis"
+      "8. Visualization with ggplot2"
     ]
   },
   {
-    "objectID": "meetings/13-spatial.html#assignment",
-    "href": "meetings/13-spatial.html#assignment",
-    "title": "Week 13: Spatial analysis",
+    "objectID": "meetings/08-ggplot2.html#assignment",
+    "href": "meetings/08-ggplot2.html#assignment",
+    "title": "Week 8: Visualization with ggplot2",
     "section": "Assignment",
-    "text": "Assignment\n\nBrowse one of the spatial Digital History projects listed under Resources or find one relevant to your field.",
+    "text": "Assignment\n\nThink about the type of visualizations you would like to make for your research. How will they help to make a historical argument?",
     "crumbs": [
       "Schedule",
-      "13. Spatial analysis"
+      "8. Visualization with ggplot2"
     ]
   },
   {
-    "objectID": "meetings/13-spatial.html#activities",
-    "href": "meetings/13-spatial.html#activities",
-    "title": "Week 13: Spatial analysis",
+    "objectID": "meetings/08-ggplot2.html#activities",
+    "href": "meetings/08-ggplot2.html#activities",
+    "title": "Week 8: Visualization with ggplot2",
     "section": "Activities",
-    "text": "Activities\n\nDiscussion of the use of spatial analysis in history.\nWorkshop: Spatial analysis.",
+    "text": "Activities\n\nDiscussion of visualizations and historical arguments.\nWorkshop: Visualization with ggplot2",
     "crumbs": [
       "Schedule",
-      "13. Spatial analysis"
+      "8. Visualization with ggplot2"
     ]
   },
   {
-    "objectID": "meetings/13-spatial.html#resources",
-    "href": "meetings/13-spatial.html#resources",
-    "title": "Week 13: Spatial analysis",
+    "objectID": "meetings/08-ggplot2.html#resources",
+    "href": "meetings/08-ggplot2.html#resources",
+    "title": "Week 8: Visualization with ggplot2",
     "section": "Resources",
-    "text": "Resources\n\nSpatial Digital History projects\n\nScott Nesbit and Ed Ayers, Visualizing Emancipation\nSlave Voyages\nMapping the Republic of Letters\nPleiades: gazetteer and graph of ancient places\nAncient World Mapping Center\nWorld Historical Gazetteer\n\n\n\nGIS with R\n\nRobin Lovelace, Jakub Nowosad, and Jannes Muenchow, Geocomputation with R (2nd Edition)\nEdzer Pebesma and Roger Bivand, Spatial Data Science: With Applications in R\nJesse Sadler, An Exploration of Simple Features for R.\nHadley Wickham, Danielle Navarro, and Thomas Lin Pedersen, ggplot2: Elegant Graphics for Data Analysis (3rd Edition), Chapter 6: Maps.\n\n\n\nGIS R packages\n\nCRAN Task View: Analysis of Spatial Data\nsf: Vector data.\nterra: Raster data.\ntmap: An alternative to making maps with ggplot2.\nleaflet: Interactive mapping with R.\nrayshader: Make 3d maps in R.\nrnaturalearth\ntidycensus provides access to US Census Bureau data in a tidy format, including the option to bind the data spatially on import.\ntigris provides access to cartographic elements provided by the US Census Bureau TIGER, including cartographic boundaries, roads, and water.\nopencage: Geocode using the Opencage API.",
+    "text": "Resources\n\nHadley Wickham, Danielle Navarro, and Thomas Lin Pedersen, ggplot2: Elegant Graphics for Data Analysis (3rd Edition).\nKieran Healy, Data Visualization: A Practical Introduction (Princeton University Press, 2018).\nClaus Wilke, Fundamentals of Data Visualization (O’Reilly 2019).\nCédric Scherer’s comprehensive blog post, A ggplot2 Tutorial for Beautiful Plotting in R is a great comprehensive guide to what is possible with ggplot2.\nCédric Scherer’s workshop at RStudio 2022, Graphic Design with ggplot2 is a really good resource for building good looking plots with ggplot2.\nMy notes on ggplot2 provide an overview of the main component of plotting with ggplot2.",
     "crumbs": [
       "Schedule",
-      "13. Spatial analysis"
+      "8. Visualization with ggplot2"
     ]
   },
   {
-    "objectID": "meetings/03-organization.html",
-    "href": "meetings/03-organization.html",
-    "title": "Week 3: Organizing resources",
+    "objectID": "meetings/06-rstats.html",
+    "href": "meetings/06-rstats.html",
+    "title": "Week 6: Intro to R and RStudio",
     "section": "",
-    "text": "Greg Wilson et al., “Good enough practices in scientific computing,” PLOS Computational Biology 13, no. 6 (2017), https://doi.org/10.1371/journal.pcbi.1005510.\n\nNot all aspects of the paper will not apply to historians and the paper covers topics we will discuss later in the semester. But, the paper provides a good overview.\n\nSusan Collins, Data Management Plans for Historians: How to Document and Protect Your Research.",
+    "text": "Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition): Introduction, Chapters 2, 4, 6, and 8.\nKieran Healy, Data Visualization: A Practical Introduction (Princeton University Press, 2018), Chapter 2: Get Started.",
     "crumbs": [
       "Schedule",
-      "3. Organizing resources"
+      "6. Intro to R and RStudio"
     ]
   },
   {
-    "objectID": "meetings/03-organization.html#reading",
-    "href": "meetings/03-organization.html#reading",
-    "title": "Week 3: Organizing resources",
+    "objectID": "meetings/06-rstats.html#reading",
+    "href": "meetings/06-rstats.html#reading",
+    "title": "Week 6: Intro to R and RStudio",
     "section": "",
-    "text": "Greg Wilson et al., “Good enough practices in scientific computing,” PLOS Computational Biology 13, no. 6 (2017), https://doi.org/10.1371/journal.pcbi.1005510.\n\nNot all aspects of the paper will not apply to historians and the paper covers topics we will discuss later in the semester. But, the paper provides a good overview.\n\nSusan Collins, Data Management Plans for Historians: How to Document and Protect Your Research.",
+    "text": "Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition): Introduction, Chapters 2, 4, 6, and 8.\nKieran Healy, Data Visualization: A Practical Introduction (Princeton University Press, 2018), Chapter 2: Get Started.",
     "crumbs": [
       "Schedule",
-      "3. Organizing resources"
+      "6. Intro to R and RStudio"
     ]
   },
   {
-    "objectID": "meetings/03-organization.html#assignment",
-    "href": "meetings/03-organization.html#assignment",
-    "title": "Week 3: Organizing resources",
+    "objectID": "meetings/06-rstats.html#assignment",
+    "href": "meetings/06-rstats.html#assignment",
+    "title": "Week 6: Intro to R and RStudio",
     "section": "Assignment",
-    "text": "Assignment\n\nDownload Zotero if you have not already and read over the documentation.\nThink about how you organize your research and research materials.",
+    "text": "Assignment\n\nInstall R and RStudio. See Computing R.",
     "crumbs": [
       "Schedule",
-      "3. Organizing resources"
+      "6. Intro to R and RStudio"
     ]
   },
   {
-    "objectID": "meetings/03-organization.html#activities",
-    "href": "meetings/03-organization.html#activities",
-    "title": "Week 3: Organizing resources",
+    "objectID": "meetings/06-rstats.html#activities",
+    "href": "meetings/06-rstats.html#activities",
+    "title": "Week 6: Intro to R and RStudio",
     "section": "Activities",
-    "text": "Activities\n\nDiscussion of reproducible research.\n\nWhat is your research method? How do you structure your data and notes?\n\nDiscussion of file management.\nOrganizing research materials\n\nPrimary sources\nSecondary sources\nNotes\n\nTools to organize primary and secondary sources\n\nZotero\nTropy\n\nPresentation from Jo Wolf on digital mapping",
+    "text": "Activities\n\nWorkshop: Intro to R\n\nR for Social Scientists: Intro to R\nRStudio IDE User Guide\n\nWorkshop: Importing data\n\nR for Social Scientists: Starting with data\nDownload SAFI data\nDownload letters data\nDownload readr example data",
     "crumbs": [
       "Schedule",
-      "3. Organizing resources"
+      "6. Intro to R and RStudio"
     ]
   },
   {
-    "objectID": "meetings/03-organization.html#zotero",
-    "href": "meetings/03-organization.html#zotero",
-    "title": "Week 3: Organizing resources",
-    "section": "Zotero",
-    "text": "Zotero\n\nSetup\n\nHow to store your PDFs\n\nDefault storage with Zotero creates its own file structure and you can sync files using Zotero sync.\nZotFile: Another option is to use the ZotFile plugin, which helps you to manage and name PDFs in a single folder.\n\nThe advantage of this is that you maintain more control over the PDFs and less dependent on Zotero.\nHowever, ZotFile is not in active development right now and so things may change. A lot of people use and depend on it, so it should be safe to use. There is active discussion on replacements going on.\nThe UC Berkeley Library has a good guide on using ZotFile.\n\n\nBetterBibTeX\n\nThis plugin helps you to use Zotero with plain text editors through BibTeX, creating citation keys for you.\n\nZutilo\n\nThe Zutilo plugin adds several functions not available in base Zotero through extra menu items and keyboard shortcuts.\n\n\n\n\nGetting items into Zotero\n\nAdding items to Zotero\nDrag and drop PDF file\nAdd item by identifier\nSometimes you just have to add items manually.\n\n\n\nOrganizing your library\n\nCollections or folders\nTags\n\n\n\nCitations and bibliographies\n\nZotero integrates with Word processors such as Word, LibreOffice, and Google Docs.\nBut you can also create your citations and bibliographies by choosing the sources you want to cite and copying them.\n\nThis can be done with Edit → Copy Bibliography or press Ctrl/Cmd-Shift-C. To copy citations instead of bibliography entries, use Edit → Copy Citation or Ctrl/Cmd-Shift-A. The citation style for export can be chosen in Zotero Settings under the Export tab.\nAn alternative is to right-click on selected items and choose “Create Bibliography from Selected Item(s)…” from the contextual menu. This will allow you to choose the citation style and how you want to create the bibliography.\n\nDealing with citation styles can be difficult, but Zotero comes with most styles that you will need.\n\nAll styles are written in Citation Style Language (CSL), which means they can be used and read by most tools built for creating citations and bibliographies.",
-    "crumbs": [
-      "Schedule",
-      "3. Organizing resources"
-    ]
-  },
-  {
-    "objectID": "meetings/03-organization.html#resources",
-    "href": "meetings/03-organization.html#resources",
-    "title": "Week 3: Organizing resources",
+    "objectID": "meetings/06-rstats.html#resources",
+    "href": "meetings/06-rstats.html#resources",
+    "title": "Week 6: Intro to R and RStudio",
     "section": "Resources",
-    "text": "Resources\n\nReproducible research\n\nBen Marwick, Carl Boettiger, and Lincoln Mullen, “Packaging Data Analytical Work Reproducibly Using R (and Friends),” PeerJ Preprints (2017), https://doi.org/10.7287/peerj.preprints.3192v2.\nMichael McCarthy, Reproducible Data Science (2023).\nAwesome Reproducible Research\nThe Turing Way: Guide for Reproducible Research\n\n\n\nZotero\n\nZotero Documentation\nQuick start guide\nVT Library Guide - Zotero\nMichael McCarthy - Reference Manager Setup: Installing and configuring Zotero\n\n\n\nZoteroBib\nIf you want to quickly create a one-off bibliography you can use ZoterBib, which is a web service designed to create bibliographies in any citation style. While this is not a tool you will want to depend on for longer-term projects, it is a good site to have bookmarked if you want a quick properly styled citation for a source.\n\n\nTropy\nTropy is a tool to organize primary source documents. It is built for organizing photos you take at an archive or PDFs you might download from an archive. It provides a flexible way to organize and write notes about your sources. It is also made by the same people that make Zotero. Check out the Tropy Documentation.",
+    "text": "Resources\n\nData Carpentry - R for Social Scientists\nSoftware Carpentry - R for Reproducible Scientific Analysis\nJulie Lowndes and Allison Horst, R for Excel Users: R & RStudio, RMarkdown.\nOn importing data with readr",
     "crumbs": [
       "Schedule",
-      "3. Organizing resources"
+      "6. Intro to R and RStudio"
     ]
   },
   {
-    "objectID": "meetings/11-text.html",
-    "href": "meetings/11-text.html",
-    "title": "Week 11: Text analysis",
+    "objectID": "meetings/15-conclusion.html",
+    "href": "meetings/15-conclusion.html",
+    "title": "Week 15: Conclusion",
     "section": "",
-    "text": "Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition): Chapters 14 and 15.\nJulia Silge and David Robinson, Text Mining with R: A Tidy Approach, (O’Reilly, 2017), https://www.tidytextmining.com.\n\nRead the Preface and Chapter 1: The tidy text format and look through other chapters to see what you might be of particular interest to your concerns.\n\nTaylor Arnold, Nicolas Ballier, Paula Lissón, and Lauren Tilton, “Beyond Lexical Frequencies: Using R for Text Analysis in the Digital Humanities,” Language Resources and Evaluation 53, no. 4 (2019): 707–733, https://doi.org/10.1007/s10579-019-09456-6.",
+    "text": "Presentation of website projects.",
     "crumbs": [
       "Schedule",
-      "11. Text analysis"
-    ]
-  },
-  {
-    "objectID": "meetings/11-text.html#reading",
-    "href": "meetings/11-text.html#reading",
-    "title": "Week 11: Text analysis",
-    "section": "",
-    "text": "Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition): Chapters 14 and 15.\nJulia Silge and David Robinson, Text Mining with R: A Tidy Approach, (O’Reilly, 2017), https://www.tidytextmining.com.\n\nRead the Preface and Chapter 1: The tidy text format and look through other chapters to see what you might be of particular interest to your concerns.\n\nTaylor Arnold, Nicolas Ballier, Paula Lissón, and Lauren Tilton, “Beyond Lexical Frequencies: Using R for Text Analysis in the Digital Humanities,” Language Resources and Evaluation 53, no. 4 (2019): 707–733, https://doi.org/10.1007/s10579-019-09456-6.",
-    "crumbs": [
-      "Schedule",
-      "11. Text analysis"
-    ]
-  },
-  {
-    "objectID": "meetings/11-text.html#assignment",
-    "href": "meetings/11-text.html#assignment",
-    "title": "Week 11: Text analysis",
-    "section": "Assignment",
-    "text": "Assignment\n\nLook at the documentation for the text editor that you are using on regular expressions (regex) and/or advanced find and replace features.\n\nThe Chapter on Searching with Grep in the BBEdit Manual is particularly good.\n\nBrowse Taylor Arnold, Courtney Rivard, and Lauren Tilton, Layered Lives: Rhetoric and Representation in the Southern Life History Project (Stanford University Press, 2022): https://doi.org/10.21627/2022ll.",
-    "crumbs": [
-      "Schedule",
-      "11. Text analysis"
-    ]
-  },
-  {
-    "objectID": "meetings/11-text.html#activities",
-    "href": "meetings/11-text.html#activities",
-    "title": "Week 11: Text analysis",
-    "section": "Activities",
-    "text": "Activities\n\nDiscussion of the use of text analysis in History.\nWorkshop: Regular expressions (regex)\nWorkshop: Text analysis with R",
-    "crumbs": [
-      "Schedule",
-      "11. Text analysis"
-    ]
-  },
-  {
-    "objectID": "meetings/11-text.html#resources",
-    "href": "meetings/11-text.html#resources",
-    "title": "Week 11: Text analysis",
-    "section": "Resources",
-    "text": "Resources\n\nRegular expressions (regex)\n\nProgramming Historian - Doug Knox, Understanding Regular Expressions.\nstringr: Regular expressions\nJoshua Fjelstul, Regular expressions in R.\n\n\n\nText analysis R packages\n\nCRAN Task View: Natural Language Processing\nstringr\nquanteda\ncleanNLP\n\n\n\nText analysis\n\nProgramming Historian - Taylor Arnold and Lauren Tilton, Basic Text Processing in R.\nProgramming Historian - Jennifer Isasi, Sentiment Analysis with ‘syuzhet’ using R.\nEmil Hvitfeldt and Julia Silge, Supervised Machine Learning for Text Analysis in R, (CRC Press 2021), https://smltar.com.\n\nThis books is an updated but more advanced discussion of text analysis in R than Text Mining with R: A Tidy Approach.\n\nThe Data Sitters Club",
-    "crumbs": [
-      "Schedule",
-      "11. Text analysis"
+      "15. Conclusion"
     ]
   },
   {
@@ -317,6 +262,61 @@
     "crumbs": [
       "Schedule",
       "2. Digital History and Public History"
+    ]
+  },
+  {
+    "objectID": "meetings/11-review.html",
+    "href": "meetings/11-review.html",
+    "title": "Week 11: Review and website workshop",
+    "section": "",
+    "text": "Review the Quarto documentation.\nReview Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition).",
+    "crumbs": [
+      "Schedule",
+      "11. Review and website workshop"
+    ]
+  },
+  {
+    "objectID": "meetings/11-review.html#reading",
+    "href": "meetings/11-review.html#reading",
+    "title": "Week 11: Review and website workshop",
+    "section": "",
+    "text": "Review the Quarto documentation.\nReview Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition).",
+    "crumbs": [
+      "Schedule",
+      "11. Review and website workshop"
+    ]
+  },
+  {
+    "objectID": "meetings/11-review.html#assignment",
+    "href": "meetings/11-review.html#assignment",
+    "title": "Week 11: Review and website workshop",
+    "section": "Assignment",
+    "text": "Assignment\n\nWork on plan for your website. Make an outline, mindmap, drawing, etc. of the structure of your website.\nLook at examples of Quarto websites listed in Week 10. Look at the websites and the source code used to make the websites on GitHub.\nCome to class ready to discuss any struggles you are having and what else you want to learn.",
+    "crumbs": [
+      "Schedule",
+      "11. Review and website workshop"
+    ]
+  },
+  {
+    "objectID": "meetings/11-review.html#activities",
+    "href": "meetings/11-review.html#activities",
+    "title": "Week 11: Review and website workshop",
+    "section": "Activities",
+    "text": "Activities\n\nReview: Time to work on skills such as R, bash, and git.\n\nFinding resources and getting help.\n\nWorkshop: Making a website with Quarto",
+    "crumbs": [
+      "Schedule",
+      "11. Review and website workshop"
+    ]
+  },
+  {
+    "objectID": "meetings/11-review.html#resources",
+    "href": "meetings/11-review.html#resources",
+    "title": "Week 11: Review and website workshop",
+    "section": "Resources",
+    "text": "Resources\nSee Week 10: Making documents and websites with Quarto",
+    "crumbs": [
+      "Schedule",
+      "11. Review and website workshop"
     ]
   },
   {
@@ -441,58 +441,192 @@
     ]
   },
   {
-    "objectID": "meetings/12-network.html",
-    "href": "meetings/12-network.html",
-    "title": "Week 12: Network analysis",
+    "objectID": "meetings/14-design.html",
+    "href": "meetings/14-design.html",
+    "title": "Week 14: Web design and visualization",
     "section": "",
-    "text": "Catherine Medici, “Using Network Analysis to Understand Early Modern Women,” Early Modern Women: An Interdisciplinary Journal, 13 no. 1 (2018): 153–62, https://doi.org/10.1353/emw.2018.0058.\nMatthew Lincoln, “Social Network Centralization Dynamics in Print Production in the Low Countries, 1550–1750,” International Journal for Digital Art History 2 (2016): 134–157, https://doi.org/10.11588/dah.2016.2.25337.",
+    "text": "This week is a more or less free week to discuss and work on anything from the class that we feel we want/need to go over. The current idea for the week is to go over styling for websites and polishing visualizations.",
     "crumbs": [
       "Schedule",
-      "12. Network analysis"
+      "14. Web design and visualization"
     ]
   },
   {
-    "objectID": "meetings/12-network.html#reading",
-    "href": "meetings/12-network.html#reading",
-    "title": "Week 12: Network analysis",
-    "section": "",
-    "text": "Catherine Medici, “Using Network Analysis to Understand Early Modern Women,” Early Modern Women: An Interdisciplinary Journal, 13 no. 1 (2018): 153–62, https://doi.org/10.1353/emw.2018.0058.\nMatthew Lincoln, “Social Network Centralization Dynamics in Print Production in the Low Countries, 1550–1750,” International Journal for Digital Art History 2 (2016): 134–157, https://doi.org/10.11588/dah.2016.2.25337.",
+    "objectID": "meetings/14-design.html#reading",
+    "href": "meetings/14-design.html#reading",
+    "title": "Week 14: Web design and visualization",
+    "section": "Reading",
+    "text": "Reading\n\nQuarto documentation: HTML Themes\n\nMore About Quarto Themes\n\nSamantha Csik, Customizing Quarto Websites - Make your website stand out using SASS & CSS\n\nGitHub repository",
     "crumbs": [
       "Schedule",
-      "12. Network analysis"
+      "14. Web design and visualization"
     ]
   },
   {
-    "objectID": "meetings/12-network.html#assignment",
-    "href": "meetings/12-network.html#assignment",
-    "title": "Week 12: Network analysis",
+    "objectID": "meetings/14-design.html#assignment",
+    "href": "meetings/14-design.html#assignment",
+    "title": "Week 14: Web design and visualization",
     "section": "Assignment",
-    "text": "Assignment\n\nRuth Ahnert, Sebastian E. Ahnert, Catherine Nicole Coleman, and Scott B. Weingart, The Network Turn: Changing Perspectives in the Humanities, (Cambridge University Press, 2020), https://doi.org/10.1017/9781108866804. Read Introduction and choose a chapter to read and discuss in class.\nWatch Martin Grandjean, Introduction to Social Network Analysis Series.\nBrowse the Tudor Newtorks project.\nBrowse the Six Degrees of Francis Bacon project.",
+    "text": "Assignment\n\nWork on website project.",
     "crumbs": [
       "Schedule",
-      "12. Network analysis"
+      "14. Web design and visualization"
     ]
   },
   {
-    "objectID": "meetings/12-network.html#activities",
-    "href": "meetings/12-network.html#activities",
-    "title": "Week 12: Network analysis",
+    "objectID": "meetings/14-design.html#activities",
+    "href": "meetings/14-design.html#activities",
+    "title": "Week 14: Web design and visualization",
     "section": "Activities",
-    "text": "Activities\n\nDiscussion of The Network Turn: Changing Perspectives in the Humanities and the use of network analysis in History.\nWorkshop: Network analysis",
+    "text": "Activities\nWorkshop: Designing websites",
     "crumbs": [
       "Schedule",
-      "12. Network analysis"
+      "14. Web design and visualization"
     ]
   },
   {
-    "objectID": "meetings/12-network.html#resources",
-    "href": "meetings/12-network.html#resources",
-    "title": "Week 12: Network analysis",
+    "objectID": "meetings/14-design.html#resources",
+    "href": "meetings/14-design.html#resources",
+    "title": "Week 14: Web design and visualization",
     "section": "Resources",
-    "text": "Resources\n\nMark Granovetter, “The Strength of Weak Ties,” American Journal of Sociology 78, no. 6 (1973): 1360–80, http://www.jstor.org/stable/2776392.\nJournal of Historical Network Research\n\n\nNetwork analysis with R\n\nAwesome Network Analysis\nKatherine Ognyanova, Static and dynamic network visualization with R.\nJesse Sadler, Introduction to Network Analysis with R: Creating static and interactive network graphs.\nHadley Wickham, Danielle Navarro, and Thomas Lin Pedersen, ggplot2: Elegant Graphics for Data Analysis (3rd Edition), Chapter 7: Networks.\n\n\n\nNetwork analysis R packages\n\nigraph\nggraph\n\n\n\nOther tools\n\nGephi\nCytoscape\nPalladio\nNetwork Navigator",
+    "text": "Resources\n\nJoel Ross and Mike Freeman, Client-Side Web Development\nBootstrap 5\nBootswatch themes\nSass\nMozilla Docs, CSS: Cascading Style Sheets",
     "crumbs": [
       "Schedule",
-      "12. Network analysis"
+      "14. Web design and visualization"
+    ]
+  },
+  {
+    "objectID": "markdown-syntax.html",
+    "href": "markdown-syntax.html",
+    "title": "Level 1 heading",
+    "section": "",
+    "text": "- Paragraphs: Empty line, no indentation\n- Headers 1–6\n- *Italics* or _Italics_\n- **Bold** or __Bold__\n- Unordered list: `-`, `*`, `+`\n- Ordered list\n- Link:\n    - Inline: [Text](https://www.vt.edu)\n    - Reference style\n        - `[Text][1]`\n        - `[1]: https://www.vt.edu`\n    - Raw link: &lt;https://www.vt.edu&gt;\n- Footnotes\n    - `Some text[^1].`\n    - `[^1]: Footnote text.`\n- Block quote: `&gt;`\n- Code: `code`\n- Images: `![Description](image.jpg)`\n\nWe write a paragraph. It is a good paragraph.\n\nThis is the next paragraph.\n\n# Level 1 heading\n\n## Level 2 heading\n\n###### Level 6\n\nThis is *some text in italics*. This is **bold** text.\n\n+ This is a unordered list\n+ Second item in a list\n    + Indented list item\n\n----\n\n1. This is an ordered list\n2. Second item\n    - Unordered list\n\n\n- This is an idea that has three points:\n    1. item 1\n    2. item 2\n    3. item 3\n\n\nRaw link: &lt;https://www.vt.edu&gt;\n\n\nInline link: Here is some text. I want [this text to be a link](https://www.vt.edu).\n\nReference style link: I want [this text to be a link][1]\n\n\n&gt; This is a block quote\n\n\nWe want a footnote here.[^1]\n\n\n[1]: https://www.vt.edu\n\n[^1]: This is the text of the footnote.\n\n\n\n\nParagraphs: Empty line, no indentation\nHeaders 1–6\nItalics or Italics\nBold or Bold\nUnordered list: -, *, +\nOrdered list\nLink:\n\nInline: Text\nReference style\n\n[Text][1]\n[1]: https://www.vt.edu\n\nRaw link: https://www.vt.edu\n\nFootnotes\n\nSome text[^1].\n[^1]: Footnote text.\n\nBlock quote: &gt;\nCode: code\nImages: ![Description](image.jpg)\n\nWe write a paragraph. It is a good paragraph.\nThis is the next paragraph."
+  },
+  {
+    "objectID": "markdown-syntax.html#markdown-syntax",
+    "href": "markdown-syntax.html#markdown-syntax",
+    "title": "Level 1 heading",
+    "section": "",
+    "text": "- Paragraphs: Empty line, no indentation\n- Headers 1–6\n- *Italics* or _Italics_\n- **Bold** or __Bold__\n- Unordered list: `-`, `*`, `+`\n- Ordered list\n- Link:\n    - Inline: [Text](https://www.vt.edu)\n    - Reference style\n        - `[Text][1]`\n        - `[1]: https://www.vt.edu`\n    - Raw link: &lt;https://www.vt.edu&gt;\n- Footnotes\n    - `Some text[^1].`\n    - `[^1]: Footnote text.`\n- Block quote: `&gt;`\n- Code: `code`\n- Images: `![Description](image.jpg)`\n\nWe write a paragraph. It is a good paragraph.\n\nThis is the next paragraph.\n\n# Level 1 heading\n\n## Level 2 heading\n\n###### Level 6\n\nThis is *some text in italics*. This is **bold** text.\n\n+ This is a unordered list\n+ Second item in a list\n    + Indented list item\n\n----\n\n1. This is an ordered list\n2. Second item\n    - Unordered list\n\n\n- This is an idea that has three points:\n    1. item 1\n    2. item 2\n    3. item 3\n\n\nRaw link: &lt;https://www.vt.edu&gt;\n\n\nInline link: Here is some text. I want [this text to be a link](https://www.vt.edu).\n\nReference style link: I want [this text to be a link][1]\n\n\n&gt; This is a block quote\n\n\nWe want a footnote here.[^1]\n\n\n[1]: https://www.vt.edu\n\n[^1]: This is the text of the footnote.\n\n\n\n\nParagraphs: Empty line, no indentation\nHeaders 1–6\nItalics or Italics\nBold or Bold\nUnordered list: -, *, +\nOrdered list\nLink:\n\nInline: Text\nReference style\n\n[Text][1]\n[1]: https://www.vt.edu\n\nRaw link: https://www.vt.edu\n\nFootnotes\n\nSome text[^1].\n[^1]: Footnote text.\n\nBlock quote: &gt;\nCode: code\nImages: ![Description](image.jpg)\n\nWe write a paragraph. It is a good paragraph.\nThis is the next paragraph."
+  },
+  {
+    "objectID": "markdown-syntax.html#level-2-heading",
+    "href": "markdown-syntax.html#level-2-heading",
+    "title": "Level 1 heading",
+    "section": "Level 2 heading",
+    "text": "Level 2 heading\n\nLevel 6\nThis is some text in italics. This is bold text.\n\nThis is a unordered list\nSecond item in a list\n\nIndented list item\n\n\n\n\nThis is an ordered list\nSecond item\n\nUnordered list\n\n\n\nThis is an idea that has three points:\n\nitem 1\nitem 2\nitem 3\n\n\nRaw link: https://www.vt.edu\nInline link: Here is some text. I want this text to be a link.\nReference style link: I want this text to be a link\n\nThis is a block quote\n\nWe want a footnote here.1"
+  },
+  {
+    "objectID": "markdown-syntax.html#footnotes",
+    "href": "markdown-syntax.html#footnotes",
+    "title": "Level 1 heading",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis is the text of the footnote.↩︎"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "History 5454: Digital History for Public History",
+    "section": "",
+    "text": "Instructor\n\n\n\nJesse Sadler. Email: jrsadler@vt.edu\nOffice hours: Thursday, 1:00–2:00pm and by appointment in Major Williams 4th floor\n\n\n\n\n\n\n\n\nCourse\n\n\n\nHistory 5454: Spring 2024\nMeets Thursdays, 2:00–4:50 in Major Williams 427"
+  },
+  {
+    "objectID": "index.html#course-description",
+    "href": "index.html#course-description",
+    "title": "History 5454: Digital History for Public History",
+    "section": "Course description",
+    "text": "Course description\nThis course is designed to introduce students to some of the tools of Digital Humanities/History with an emphasis on using open source technology that puts you in control. The course focuses on methodologies. It begins with the basics of organizing primary and secondary sources and your notes on them. We will then give an introduction to data analysis and visualization using the R programming language, culminating in the creation of your own website. Along the way we will be learning the basics of using the command line and learn about git and using GitHub for publishing websites and to become acquainted with the practices of reproducible research.\n\n\n\n\n\n\nNote\n\n\n\nThis course website will function as the main source of information for the course. The syllabus is liable to change based on new material and student input. We may not get to certain material, or I may add new resources based on student interest. Make sure to check in on the website frequently."
+  },
+  {
+    "objectID": "index.html#learning-goals",
+    "href": "index.html#learning-goals",
+    "title": "History 5454: Digital History for Public History",
+    "section": "Learning goals",
+    "text": "Learning goals\nAfter taking this course, you will…\n\nhave an expanded awareness of the open source tools available for conducting historical research and making that research widely available to the public.\nbe comfortable writing in plain text and using Markdown.\nunderstand the uses and drawbacks of spreadsheets and how to organize rectangular data.\nbe comfortable with the basics of the command line.\nbe able to import, explore, wrangle, and visualize data in R.\nbe able to write R scripts and document your code in quarto documents.\nhave familiarity with the tidyverse packages in R.\nhave experience with the possibilities for text, network, and spatial analysis available through various R packages.\nbe comfortable with using git and GitHub for your own work or collaboration with others.\ncreate a website using open source tools."
+  },
+  {
+    "objectID": "index.html#expectations",
+    "href": "index.html#expectations",
+    "title": "History 5454: Digital History for Public History",
+    "section": "Expectations",
+    "text": "Expectations\nThere are no prerequisites for this course. Students do not need to know anything about the methods and technologies listed in the syllabus. You do not need to know what the command line, R, or git is. That is what the course is for. Familiarity is, of course, helpful, and more advanced students can be accommodated within the structures of the course. However, the intention is for this to be an exploration of open source tools that can help you with historical analysis and publication. The primary expectation is a willingness to try and a readiness to learn. More specific expectations include:\n\nAttendance and active participation in all seminars.\nComplete and be ready to discuss all reading by our weekly meeting.\nCome to seminar with a computer ready to work and to participate in the weekly labs with all applications and programming environments installed by the assigned meeting.1\nComplete all assignments on time.\nComplete the final project of creating a Quarto website.\n\nFinally, it is expected that all students will be respectful of each other. Students will enter the course at different levels of comfort with the tools that we will use. The goal of the course is to help each other get more comfortable with open source technologies."
+  },
+  {
+    "objectID": "index.html#assessment",
+    "href": "index.html#assessment",
+    "title": "History 5454: Digital History for Public History",
+    "section": "Assessment",
+    "text": "Assessment\nAs noted above, the primary expectation for the course is a willingness to try, and so the primary assessment will be focused on effort and growth.\n\nParticipation: 40%\nWeekly assignments: 20%\nFinal project: 40%"
+  },
+  {
+    "objectID": "index.html#how-the-course-works",
+    "href": "index.html#how-the-course-works",
+    "title": "History 5454: Digital History for Public History",
+    "section": "How the course works",
+    "text": "How the course works\nMeetings will be divided between discussion of weekly readings and topics and interactive workshops devoted to the tools and technologies for that week. All information necessary for the course is made available through this website. Information about weekly reading, assignments, and resources is available via the Schedule on the sidebar. This information is dynamic and liable to change, so please make sure to visit this website frequently.\nWe will be using two pieces of technology to help with collaboration during the semester. We will use Discord to provide a place to ask questions and receive feedback outside of the meetings. The Discord will also be a place for any announcements about the course. See Resources: Discord for instructions on getting set up with Discord. Secondly, we will be using Zotero groups as a way to collaboratively keep track of the resources we use for the class. See Resources: Zoetero for instructions on getting set up with Zotero.\n\n\n\n\n\n\nNote\n\n\n\nThis website is built with Quarto and the source code is available on GitHub. If you want to see how anything works or to suggest any changes you can do so through GitHub."
+  },
+  {
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
+    "title": "History 5454: Digital History for Public History",
+    "section": "Schedule",
+    "text": "Schedule\n\nIntroduction (18 January)\nDigital History and Public History (25 January)\nOrganizing resources (1 February)\nPlain text and markdown (8 February)\nData and an intro to the command line (15 February)\nIntro to R and RStudio (22 February)\nData wrangling (29 February)\nVisualization with ggplot2 (14 March)\nVersion control with Git and GitHub (21 March)\nMaking documents and websites with Quarto (28 March)\nReview and website workshop (4 April)\nSpatial analysis (11 April)\nNetwork analysis (18 April)\nWeb design and visualization (25 April)\nConclusion (2 May)\n\nAppendix: Text analysis"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "History 5454: Digital History for Public History",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nIf you have any problems, we can troubleshoot together.↩︎"
+  },
+  {
+    "objectID": "computing.html",
+    "href": "computing.html",
+    "title": "Computing",
+    "section": "",
+    "text": "macOS is built on the foundation of Unix and comes with a perfectly capable command line app in Terminal. There are some other options out there, but Terminal is just fine.\nSince 2019 the default shell in macOS is zsh instead of bash. The differences between zsh and bash should not affect beginners too much. However, you can download an updated version of bash. The best way to do this is with Homebrew.\nHomebrew is one of the main ways to install command line packages on macOS such as Git, and so it is a good idea to install it. Read about how to install Homebrew through the Terminal app on the Homebrew’s homepage.\n\n\n\nWindows does not come with a unix shell installed. You can install one via Git Bash. This will install both the bash shell and git. See the Carpentries for installation instructions.",
+    "crumbs": [
+      "Computing"
+    ]
+  },
+  {
+    "objectID": "computing.html#sec-cl",
+    "href": "computing.html#sec-cl",
+    "title": "Computing",
+    "section": "",
+    "text": "macOS is built on the foundation of Unix and comes with a perfectly capable command line app in Terminal. There are some other options out there, but Terminal is just fine.\nSince 2019 the default shell in macOS is zsh instead of bash. The differences between zsh and bash should not affect beginners too much. However, you can download an updated version of bash. The best way to do this is with Homebrew.\nHomebrew is one of the main ways to install command line packages on macOS such as Git, and so it is a good idea to install it. Read about how to install Homebrew through the Terminal app on the Homebrew’s homepage.\n\n\n\nWindows does not come with a unix shell installed. You can install one via Git Bash. This will install both the bash shell and git. See the Carpentries for installation instructions.",
+    "crumbs": [
+      "Computing"
+    ]
+  },
+  {
+    "objectID": "computing.html#sec-git",
+    "href": "computing.html#sec-git",
+    "title": "Computing",
+    "section": "Git",
+    "text": "Git\nSee Happy Git and GitHub for the useR for a good guide to downloading git for macOS and Windows.\n\nmacOS\nGit may already be on your computer by default, but the git version that comes with macOS can be quite out of date. To check if you need to install git:\n\nOpen Terminal\nType git --version – check current version of git on the computer\nLook at current version of Git at https://git-scm.com\n\nIf you need to install Git, there are two basic ways to install it:\nVia Homebrew:\n\nbrew install git – download git with Homebrew\nQuit terminal and reopen it to start new session\ngit --version – check to see that installation worked.\n\nVia Xcode command line tools:\n\nxcode-select --install\nQuit terminal and reopen it to start new session\ngit --version – check to see that installation worked.\n\n\n\nWindows\nInstall git with Git Bash.",
+    "crumbs": [
+      "Computing"
+    ]
+  },
+  {
+    "objectID": "computing.html#sec-github",
+    "href": "computing.html#sec-github",
+    "title": "Computing",
+    "section": "GitHub",
+    "text": "GitHub\nRegister for an account on GitHub",
+    "crumbs": [
+      "Computing"
+    ]
+  },
+  {
+    "objectID": "computing.html#sec-r",
+    "href": "computing.html#sec-r",
+    "title": "Computing",
+    "section": "R and RStudio",
+    "text": "R and RStudio\n\nDownload R from CRAN. R 4.3.2 is currently the newest release. It is expected that you will have a version greater than or equal to 4.3.\nDownload RStudio.\nRStudio IDE User Guide",
+    "crumbs": [
+      "Computing"
     ]
   },
   {
@@ -573,195 +707,6 @@
     "text": "Why should I make a website?\nThe simple answer is that it is a good idea to have your own place on the internet that you are in control of. The demise of the app formerly known as Twitter in 2022 and 2023 makes this even more plain. It is useful to have a personal website that you can point people towards and that you can use as a showcase for you work. Or it can just be a place for you to do what you want. Using open source technology and publishing to the open web puts you in control. You can be a part of making the internet weird again.",
     "crumbs": [
       "FAQ"
-    ]
-  },
-  {
-    "objectID": "computing.html",
-    "href": "computing.html",
-    "title": "Computing",
-    "section": "",
-    "text": "macOS is built on the foundation of Unix and comes with a perfectly capable command line app in Terminal. There are some other options out there, but Terminal is just fine.\nSince 2019 the default shell in macOS is zsh instead of bash. The differences between zsh and bash should not affect beginners too much. However, you can download an updated version of bash. The best way to do this is with Homebrew.\nHomebrew is one of the main ways to install command line packages on macOS such as Git, and so it is a good idea to install it. Read about how to install Homebrew through the Terminal app on the Homebrew’s homepage.\n\n\n\nWindows does not come with a unix shell installed. You can install one via Git Bash. This will install both the bash shell and git. See the Carpentries for installation instructions.",
-    "crumbs": [
-      "Computing"
-    ]
-  },
-  {
-    "objectID": "computing.html#sec-cl",
-    "href": "computing.html#sec-cl",
-    "title": "Computing",
-    "section": "",
-    "text": "macOS is built on the foundation of Unix and comes with a perfectly capable command line app in Terminal. There are some other options out there, but Terminal is just fine.\nSince 2019 the default shell in macOS is zsh instead of bash. The differences between zsh and bash should not affect beginners too much. However, you can download an updated version of bash. The best way to do this is with Homebrew.\nHomebrew is one of the main ways to install command line packages on macOS such as Git, and so it is a good idea to install it. Read about how to install Homebrew through the Terminal app on the Homebrew’s homepage.\n\n\n\nWindows does not come with a unix shell installed. You can install one via Git Bash. This will install both the bash shell and git. See the Carpentries for installation instructions.",
-    "crumbs": [
-      "Computing"
-    ]
-  },
-  {
-    "objectID": "computing.html#sec-git",
-    "href": "computing.html#sec-git",
-    "title": "Computing",
-    "section": "Git",
-    "text": "Git\nSee Happy Git and GitHub for the useR for a good guide to downloading git for macOS and Windows.\n\nmacOS\nGit may already be on your computer by default, but the git version that comes with macOS can be quite out of date. To check if you need to install git:\n\nOpen Terminal\nType git --version – check current version of git on the computer\nLook at current version of Git at https://git-scm.com\n\nIf you need to install Git, there are two basic ways to install it:\nVia Homebrew:\n\nbrew install git – download git with Homebrew\nQuit terminal and reopen it to start new session\ngit --version – check to see that installation worked.\n\nVia Xcode command line tools:\n\nxcode-select --install\nQuit terminal and reopen it to start new session\ngit --version – check to see that installation worked.\n\n\n\nWindows\nInstall git with Git Bash.",
-    "crumbs": [
-      "Computing"
-    ]
-  },
-  {
-    "objectID": "computing.html#sec-github",
-    "href": "computing.html#sec-github",
-    "title": "Computing",
-    "section": "GitHub",
-    "text": "GitHub\nRegister for an account on GitHub",
-    "crumbs": [
-      "Computing"
-    ]
-  },
-  {
-    "objectID": "computing.html#sec-r",
-    "href": "computing.html#sec-r",
-    "title": "Computing",
-    "section": "R and RStudio",
-    "text": "R and RStudio\n\nDownload R from CRAN. R 4.3.2 is currently the newest release. It is expected that you will have a version greater than or equal to 4.3.\nDownload RStudio.\nRStudio IDE User Guide",
-    "crumbs": [
-      "Computing"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "History 5454: Digital History for Public History",
-    "section": "",
-    "text": "Instructor\n\n\n\nJesse Sadler. Email: jrsadler@vt.edu\nOffice hours: Thursday, 1:00–2:00pm and by appointment in Major Williams 4th floor\n\n\n\n\n\n\n\n\nCourse\n\n\n\nHistory 5454: Spring 2024\nMeets Thursdays, 2:00–4:50 in Major Williams 427"
-  },
-  {
-    "objectID": "index.html#course-description",
-    "href": "index.html#course-description",
-    "title": "History 5454: Digital History for Public History",
-    "section": "Course description",
-    "text": "Course description\nThis course is designed to introduce students to some of the tools of Digital Humanities/History with an emphasis on using open source technology that puts you in control. The course focuses on methodologies. It begins with the basics of organizing primary and secondary sources and your notes on them. We will then give an introduction to data analysis and visualization using the R programming language, culminating in the creation of your own website. Along the way we will be learning the basics of using the command line and learn about git and using GitHub for publishing websites and to become acquainted with the practices of reproducible research.\n\n\n\n\n\n\nNote\n\n\n\nThis course website will function as the main source of information for the course. The syllabus is liable to change based on new material and student input. We may not get to certain material, or I may add new resources based on student interest. Make sure to check in on the website frequently."
-  },
-  {
-    "objectID": "index.html#learning-goals",
-    "href": "index.html#learning-goals",
-    "title": "History 5454: Digital History for Public History",
-    "section": "Learning goals",
-    "text": "Learning goals\nAfter taking this course, you will…\n\nhave an expanded awareness of the open source tools available for conducting historical research and making that research widely available to the public.\nbe comfortable writing in plain text and using Markdown.\nunderstand the uses and drawbacks of spreadsheets and how to organize rectangular data.\nbe comfortable with the basics of the command line.\nbe able to import, explore, wrangle, and visualize data in R.\nbe able to write R scripts and document your code in quarto documents.\nhave familiarity with the tidyverse packages in R.\nhave experience with the possibilities for text, network, and spatial analysis available through various R packages.\nbe comfortable with using git and GitHub for your own work or collaboration with others.\ncreate a website using open source tools."
-  },
-  {
-    "objectID": "index.html#expectations",
-    "href": "index.html#expectations",
-    "title": "History 5454: Digital History for Public History",
-    "section": "Expectations",
-    "text": "Expectations\nThere are no prerequisites for this course. Students do not need to know anything about the methods and technologies listed in the syllabus. You do not need to know what the command line, R, or git is. That is what the course is for. Familiarity is, of course, helpful, and more advanced students can be accommodated within the structures of the course. However, the intention is for this to be an exploration of open source tools that can help you with historical analysis and publication. The primary expectation is a willingness to try and a readiness to learn. More specific expectations include:\n\nAttendance and active participation in all seminars.\nComplete and be ready to discuss all reading by our weekly meeting.\nCome to seminar with a computer ready to work and to participate in the weekly labs with all applications and programming environments installed by the assigned meeting.1\nComplete all assignments on time.\nComplete the final project of creating a Quarto website.\n\nFinally, it is expected that all students will be respectful of each other. Students will enter the course at different levels of comfort with the tools that we will use. The goal of the course is to help each other get more comfortable with open source technologies."
-  },
-  {
-    "objectID": "index.html#assessment",
-    "href": "index.html#assessment",
-    "title": "History 5454: Digital History for Public History",
-    "section": "Assessment",
-    "text": "Assessment\nAs noted above, the primary expectation for the course is a willingness to try, and so the primary assessment will be focused on effort and growth.\n\nParticipation: 40%\nWeekly assignments: 20%\nFinal project: 40%"
-  },
-  {
-    "objectID": "index.html#how-the-course-works",
-    "href": "index.html#how-the-course-works",
-    "title": "History 5454: Digital History for Public History",
-    "section": "How the course works",
-    "text": "How the course works\nMeetings will be divided between discussion of weekly readings and topics and interactive workshops devoted to the tools and technologies for that week. All information necessary for the course is made available through this website. Information about weekly reading, assignments, and resources is available via the Schedule on the sidebar. This information is dynamic and liable to change, so please make sure to visit this website frequently.\nWe will be using two pieces of technology to help with collaboration during the semester. We will use Discord to provide a place to ask questions and receive feedback outside of the meetings. The Discord will also be a place for any announcements about the course. See Resources: Discord for instructions on getting set up with Discord. Secondly, we will be using Zotero groups as a way to collaboratively keep track of the resources we use for the class. See Resources: Zoetero for instructions on getting set up with Zotero.\n\n\n\n\n\n\nNote\n\n\n\nThis website is built with Quarto and the source code is available on GitHub. If you want to see how anything works or to suggest any changes you can do so through GitHub."
-  },
-  {
-    "objectID": "index.html#schedule",
-    "href": "index.html#schedule",
-    "title": "History 5454: Digital History for Public History",
-    "section": "Schedule",
-    "text": "Schedule\n\nIntroduction (18 January)\nDigital History and Public History (25 January)\nOrganizing resources (1 February)\nPlain text and markdown (8 February)\nData and an intro to the command line (15 February)\nIntro to R and RStudio (22 February)\nData wrangling (29 February)\nVisualization with ggplot2 (14 March)\nVersion control with Git and GitHub (21 March)\nMaking documents and websites with Quarto (28 March)\nText analysis (4 April)\nNetwork analysis (11 April)\nSpatial analysis (18 April)\nWeb design and visualization (25 April)\nConclusion (2 May)"
-  },
-  {
-    "objectID": "index.html#footnotes",
-    "href": "index.html#footnotes",
-    "title": "History 5454: Digital History for Public History",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nIf you have any problems, we can troubleshoot together.↩︎"
-  },
-  {
-    "objectID": "markdown-syntax.html",
-    "href": "markdown-syntax.html",
-    "title": "Level 1 heading",
-    "section": "",
-    "text": "- Paragraphs: Empty line, no indentation\n- Headers 1–6\n- *Italics* or _Italics_\n- **Bold** or __Bold__\n- Unordered list: `-`, `*`, `+`\n- Ordered list\n- Link:\n    - Inline: [Text](https://www.vt.edu)\n    - Reference style\n        - `[Text][1]`\n        - `[1]: https://www.vt.edu`\n    - Raw link: &lt;https://www.vt.edu&gt;\n- Footnotes\n    - `Some text[^1].`\n    - `[^1]: Footnote text.`\n- Block quote: `&gt;`\n- Code: `code`\n- Images: `![Description](image.jpg)`\n\nWe write a paragraph. It is a good paragraph.\n\nThis is the next paragraph.\n\n# Level 1 heading\n\n## Level 2 heading\n\n###### Level 6\n\nThis is *some text in italics*. This is **bold** text.\n\n+ This is a unordered list\n+ Second item in a list\n    + Indented list item\n\n----\n\n1. This is an ordered list\n2. Second item\n    - Unordered list\n\n\n- This is an idea that has three points:\n    1. item 1\n    2. item 2\n    3. item 3\n\n\nRaw link: &lt;https://www.vt.edu&gt;\n\n\nInline link: Here is some text. I want [this text to be a link](https://www.vt.edu).\n\nReference style link: I want [this text to be a link][1]\n\n\n&gt; This is a block quote\n\n\nWe want a footnote here.[^1]\n\n\n[1]: https://www.vt.edu\n\n[^1]: This is the text of the footnote.\n\n\n\n\nParagraphs: Empty line, no indentation\nHeaders 1–6\nItalics or Italics\nBold or Bold\nUnordered list: -, *, +\nOrdered list\nLink:\n\nInline: Text\nReference style\n\n[Text][1]\n[1]: https://www.vt.edu\n\nRaw link: https://www.vt.edu\n\nFootnotes\n\nSome text[^1].\n[^1]: Footnote text.\n\nBlock quote: &gt;\nCode: code\nImages: ![Description](image.jpg)\n\nWe write a paragraph. It is a good paragraph.\nThis is the next paragraph."
-  },
-  {
-    "objectID": "markdown-syntax.html#markdown-syntax",
-    "href": "markdown-syntax.html#markdown-syntax",
-    "title": "Level 1 heading",
-    "section": "",
-    "text": "- Paragraphs: Empty line, no indentation\n- Headers 1–6\n- *Italics* or _Italics_\n- **Bold** or __Bold__\n- Unordered list: `-`, `*`, `+`\n- Ordered list\n- Link:\n    - Inline: [Text](https://www.vt.edu)\n    - Reference style\n        - `[Text][1]`\n        - `[1]: https://www.vt.edu`\n    - Raw link: &lt;https://www.vt.edu&gt;\n- Footnotes\n    - `Some text[^1].`\n    - `[^1]: Footnote text.`\n- Block quote: `&gt;`\n- Code: `code`\n- Images: `![Description](image.jpg)`\n\nWe write a paragraph. It is a good paragraph.\n\nThis is the next paragraph.\n\n# Level 1 heading\n\n## Level 2 heading\n\n###### Level 6\n\nThis is *some text in italics*. This is **bold** text.\n\n+ This is a unordered list\n+ Second item in a list\n    + Indented list item\n\n----\n\n1. This is an ordered list\n2. Second item\n    - Unordered list\n\n\n- This is an idea that has three points:\n    1. item 1\n    2. item 2\n    3. item 3\n\n\nRaw link: &lt;https://www.vt.edu&gt;\n\n\nInline link: Here is some text. I want [this text to be a link](https://www.vt.edu).\n\nReference style link: I want [this text to be a link][1]\n\n\n&gt; This is a block quote\n\n\nWe want a footnote here.[^1]\n\n\n[1]: https://www.vt.edu\n\n[^1]: This is the text of the footnote.\n\n\n\n\nParagraphs: Empty line, no indentation\nHeaders 1–6\nItalics or Italics\nBold or Bold\nUnordered list: -, *, +\nOrdered list\nLink:\n\nInline: Text\nReference style\n\n[Text][1]\n[1]: https://www.vt.edu\n\nRaw link: https://www.vt.edu\n\nFootnotes\n\nSome text[^1].\n[^1]: Footnote text.\n\nBlock quote: &gt;\nCode: code\nImages: ![Description](image.jpg)\n\nWe write a paragraph. It is a good paragraph.\nThis is the next paragraph."
-  },
-  {
-    "objectID": "markdown-syntax.html#level-2-heading",
-    "href": "markdown-syntax.html#level-2-heading",
-    "title": "Level 1 heading",
-    "section": "Level 2 heading",
-    "text": "Level 2 heading\n\nLevel 6\nThis is some text in italics. This is bold text.\n\nThis is a unordered list\nSecond item in a list\n\nIndented list item\n\n\n\n\nThis is an ordered list\nSecond item\n\nUnordered list\n\n\n\nThis is an idea that has three points:\n\nitem 1\nitem 2\nitem 3\n\n\nRaw link: https://www.vt.edu\nInline link: Here is some text. I want this text to be a link.\nReference style link: I want this text to be a link\n\nThis is a block quote\n\nWe want a footnote here.1"
-  },
-  {
-    "objectID": "markdown-syntax.html#footnotes",
-    "href": "markdown-syntax.html#footnotes",
-    "title": "Level 1 heading",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nThis is the text of the footnote.↩︎"
-  },
-  {
-    "objectID": "meetings/14-design.html",
-    "href": "meetings/14-design.html",
-    "title": "Week 14: Web design and visualization",
-    "section": "",
-    "text": "This week is a more or less free week to discuss and work on anything from the class that we feel we want/need to go over. The current idea for the week is to go over styling for websites and polishing visualizations.",
-    "crumbs": [
-      "Schedule",
-      "14. Web design and visualization"
-    ]
-  },
-  {
-    "objectID": "meetings/14-design.html#reading",
-    "href": "meetings/14-design.html#reading",
-    "title": "Week 14: Web design and visualization",
-    "section": "Reading",
-    "text": "Reading\n\nQuarto documentation: HTML Themes\n\nMore About Quarto Themes\n\nSamantha Csik, Customizing Quarto Websites - Make your website stand out using SASS & CSS\n\nGitHub repository",
-    "crumbs": [
-      "Schedule",
-      "14. Web design and visualization"
-    ]
-  },
-  {
-    "objectID": "meetings/14-design.html#assignment",
-    "href": "meetings/14-design.html#assignment",
-    "title": "Week 14: Web design and visualization",
-    "section": "Assignment",
-    "text": "Assignment\n\nWork on website project.",
-    "crumbs": [
-      "Schedule",
-      "14. Web design and visualization"
-    ]
-  },
-  {
-    "objectID": "meetings/14-design.html#activities",
-    "href": "meetings/14-design.html#activities",
-    "title": "Week 14: Web design and visualization",
-    "section": "Activities",
-    "text": "Activities\nWorkshop: Designing websites",
-    "crumbs": [
-      "Schedule",
-      "14. Web design and visualization"
-    ]
-  },
-  {
-    "objectID": "meetings/14-design.html#resources",
-    "href": "meetings/14-design.html#resources",
-    "title": "Week 14: Web design and visualization",
-    "section": "Resources",
-    "text": "Resources\n\nJoel Ross and Mike Freeman, Client-Side Web Development\nBootstrap 5\nBootswatch themes\nSass\nMozilla Docs, CSS: Cascading Style Sheets",
-    "crumbs": [
-      "Schedule",
-      "14. Web design and visualization"
     ]
   },
   {
@@ -886,6 +831,61 @@
     ]
   },
   {
+    "objectID": "meetings/12-spatial.html",
+    "href": "meetings/12-spatial.html",
+    "title": "Week 12: Spatial analysis",
+    "section": "",
+    "text": "Robin Lovelace, Jakub Nowosad, and Jannes Muenchow, Geocomputation with R (2nd Edition), Chapters 1, 2, 7, and 9.\nKieran Healy, Data Visualization: A Practical Introduction (Princeton University Press, 2018), Chapter 7: Draw Maps.\nLeonardo Barleta, “Spatial Genealogies: Mobility, Settlement, and Empire-Building in the Brazilian Backlands, 1650–1800,” Journal of Social History 54, no. 4 (2021): 1064–90, http://dx.doi.org/10.1093/jsh/shab006.",
+    "crumbs": [
+      "Schedule",
+      "12. Spatial analysis"
+    ]
+  },
+  {
+    "objectID": "meetings/12-spatial.html#reading",
+    "href": "meetings/12-spatial.html#reading",
+    "title": "Week 12: Spatial analysis",
+    "section": "",
+    "text": "Robin Lovelace, Jakub Nowosad, and Jannes Muenchow, Geocomputation with R (2nd Edition), Chapters 1, 2, 7, and 9.\nKieran Healy, Data Visualization: A Practical Introduction (Princeton University Press, 2018), Chapter 7: Draw Maps.\nLeonardo Barleta, “Spatial Genealogies: Mobility, Settlement, and Empire-Building in the Brazilian Backlands, 1650–1800,” Journal of Social History 54, no. 4 (2021): 1064–90, http://dx.doi.org/10.1093/jsh/shab006.",
+    "crumbs": [
+      "Schedule",
+      "12. Spatial analysis"
+    ]
+  },
+  {
+    "objectID": "meetings/12-spatial.html#assignment",
+    "href": "meetings/12-spatial.html#assignment",
+    "title": "Week 12: Spatial analysis",
+    "section": "Assignment",
+    "text": "Assignment\n\nBrowse one of the spatial Digital History projects listed under Resources or find one relevant to your field.",
+    "crumbs": [
+      "Schedule",
+      "12. Spatial analysis"
+    ]
+  },
+  {
+    "objectID": "meetings/12-spatial.html#activities",
+    "href": "meetings/12-spatial.html#activities",
+    "title": "Week 12: Spatial analysis",
+    "section": "Activities",
+    "text": "Activities\n\nDiscussion of the use of spatial analysis in history.\nWorkshop: Spatial analysis.",
+    "crumbs": [
+      "Schedule",
+      "12. Spatial analysis"
+    ]
+  },
+  {
+    "objectID": "meetings/12-spatial.html#resources",
+    "href": "meetings/12-spatial.html#resources",
+    "title": "Week 12: Spatial analysis",
+    "section": "Resources",
+    "text": "Resources\n\nSpatial Digital History projects\n\nScott Nesbit and Ed Ayers, Visualizing Emancipation\nSlave Voyages\nMapping the Republic of Letters\nPleiades: gazetteer and graph of ancient places\nAncient World Mapping Center\nWorld Historical Gazetteer\n\n\n\nGIS with R\n\nRobin Lovelace, Jakub Nowosad, and Jannes Muenchow, Geocomputation with R (2nd Edition)\nEdzer Pebesma and Roger Bivand, Spatial Data Science: With Applications in R\nJesse Sadler, An Exploration of Simple Features for R.\nHadley Wickham, Danielle Navarro, and Thomas Lin Pedersen, ggplot2: Elegant Graphics for Data Analysis (3rd Edition), Chapter 6: Maps.\n\n\n\nGIS R packages\n\nCRAN Task View: Analysis of Spatial Data\nsf: Vector data.\nterra: Raster data.\ntmap: An alternative to making maps with ggplot2.\nleaflet: Interactive mapping with R.\nrayshader: Make 3d maps in R.\nrnaturalearth\ntidycensus provides access to US Census Bureau data in a tidy format, including the option to bind the data spatially on import.\ntigris provides access to cartographic elements provided by the US Census Bureau TIGER, including cartographic boundaries, roads, and water.\nopencage: Geocode using the Opencage API.",
+    "crumbs": [
+      "Schedule",
+      "12. Spatial analysis"
+    ]
+  },
+  {
     "objectID": "meetings/01-intro.html",
     "href": "meetings/01-intro.html",
     "title": "Week 1: Introduction",
@@ -974,124 +974,179 @@
     ]
   },
   {
-    "objectID": "meetings/15-conclusion.html",
-    "href": "meetings/15-conclusion.html",
-    "title": "Week 15: Conclusion",
+    "objectID": "meetings/03-organization.html",
+    "href": "meetings/03-organization.html",
+    "title": "Week 3: Organizing resources",
     "section": "",
-    "text": "Presentation of website projects.",
+    "text": "Greg Wilson et al., “Good enough practices in scientific computing,” PLOS Computational Biology 13, no. 6 (2017), https://doi.org/10.1371/journal.pcbi.1005510.\n\nNot all aspects of the paper will not apply to historians and the paper covers topics we will discuss later in the semester. But, the paper provides a good overview.\n\nSusan Collins, Data Management Plans for Historians: How to Document and Protect Your Research.",
     "crumbs": [
       "Schedule",
-      "15. Conclusion"
+      "3. Organizing resources"
     ]
   },
   {
-    "objectID": "meetings/06-rstats.html",
-    "href": "meetings/06-rstats.html",
-    "title": "Week 6: Intro to R and RStudio",
+    "objectID": "meetings/03-organization.html#reading",
+    "href": "meetings/03-organization.html#reading",
+    "title": "Week 3: Organizing resources",
     "section": "",
-    "text": "Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition): Introduction, Chapters 2, 4, 6, and 8.\nKieran Healy, Data Visualization: A Practical Introduction (Princeton University Press, 2018), Chapter 2: Get Started.",
+    "text": "Greg Wilson et al., “Good enough practices in scientific computing,” PLOS Computational Biology 13, no. 6 (2017), https://doi.org/10.1371/journal.pcbi.1005510.\n\nNot all aspects of the paper will not apply to historians and the paper covers topics we will discuss later in the semester. But, the paper provides a good overview.\n\nSusan Collins, Data Management Plans for Historians: How to Document and Protect Your Research.",
     "crumbs": [
       "Schedule",
-      "6. Intro to R and RStudio"
+      "3. Organizing resources"
     ]
   },
   {
-    "objectID": "meetings/06-rstats.html#reading",
-    "href": "meetings/06-rstats.html#reading",
-    "title": "Week 6: Intro to R and RStudio",
-    "section": "",
-    "text": "Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition): Introduction, Chapters 2, 4, 6, and 8.\nKieran Healy, Data Visualization: A Practical Introduction (Princeton University Press, 2018), Chapter 2: Get Started.",
-    "crumbs": [
-      "Schedule",
-      "6. Intro to R and RStudio"
-    ]
-  },
-  {
-    "objectID": "meetings/06-rstats.html#assignment",
-    "href": "meetings/06-rstats.html#assignment",
-    "title": "Week 6: Intro to R and RStudio",
+    "objectID": "meetings/03-organization.html#assignment",
+    "href": "meetings/03-organization.html#assignment",
+    "title": "Week 3: Organizing resources",
     "section": "Assignment",
-    "text": "Assignment\n\nInstall R and RStudio. See Computing R.",
+    "text": "Assignment\n\nDownload Zotero if you have not already and read over the documentation.\nThink about how you organize your research and research materials.",
     "crumbs": [
       "Schedule",
-      "6. Intro to R and RStudio"
+      "3. Organizing resources"
     ]
   },
   {
-    "objectID": "meetings/06-rstats.html#activities",
-    "href": "meetings/06-rstats.html#activities",
-    "title": "Week 6: Intro to R and RStudio",
+    "objectID": "meetings/03-organization.html#activities",
+    "href": "meetings/03-organization.html#activities",
+    "title": "Week 3: Organizing resources",
     "section": "Activities",
-    "text": "Activities\n\nWorkshop: Intro to R\n\nR for Social Scientists: Intro to R\nRStudio IDE User Guide\n\nWorkshop: Importing data\n\nR for Social Scientists: Starting with data\nDownload SAFI data\nDownload letters data\nDownload readr example data",
+    "text": "Activities\n\nDiscussion of reproducible research.\n\nWhat is your research method? How do you structure your data and notes?\n\nDiscussion of file management.\nOrganizing research materials\n\nPrimary sources\nSecondary sources\nNotes\n\nTools to organize primary and secondary sources\n\nZotero\nTropy\n\nPresentation from Jo Wolf on digital mapping",
     "crumbs": [
       "Schedule",
-      "6. Intro to R and RStudio"
+      "3. Organizing resources"
     ]
   },
   {
-    "objectID": "meetings/06-rstats.html#resources",
-    "href": "meetings/06-rstats.html#resources",
-    "title": "Week 6: Intro to R and RStudio",
+    "objectID": "meetings/03-organization.html#zotero",
+    "href": "meetings/03-organization.html#zotero",
+    "title": "Week 3: Organizing resources",
+    "section": "Zotero",
+    "text": "Zotero\n\nSetup\n\nHow to store your PDFs\n\nDefault storage with Zotero creates its own file structure and you can sync files using Zotero sync.\nZotFile: Another option is to use the ZotFile plugin, which helps you to manage and name PDFs in a single folder.\n\nThe advantage of this is that you maintain more control over the PDFs and less dependent on Zotero.\nHowever, ZotFile is not in active development right now and so things may change. A lot of people use and depend on it, so it should be safe to use. There is active discussion on replacements going on.\nThe UC Berkeley Library has a good guide on using ZotFile.\n\n\nBetterBibTeX\n\nThis plugin helps you to use Zotero with plain text editors through BibTeX, creating citation keys for you.\n\nZutilo\n\nThe Zutilo plugin adds several functions not available in base Zotero through extra menu items and keyboard shortcuts.\n\n\n\n\nGetting items into Zotero\n\nAdding items to Zotero\nDrag and drop PDF file\nAdd item by identifier\nSometimes you just have to add items manually.\n\n\n\nOrganizing your library\n\nCollections or folders\nTags\n\n\n\nCitations and bibliographies\n\nZotero integrates with Word processors such as Word, LibreOffice, and Google Docs.\nBut you can also create your citations and bibliographies by choosing the sources you want to cite and copying them.\n\nThis can be done with Edit → Copy Bibliography or press Ctrl/Cmd-Shift-C. To copy citations instead of bibliography entries, use Edit → Copy Citation or Ctrl/Cmd-Shift-A. The citation style for export can be chosen in Zotero Settings under the Export tab.\nAn alternative is to right-click on selected items and choose “Create Bibliography from Selected Item(s)…” from the contextual menu. This will allow you to choose the citation style and how you want to create the bibliography.\n\nDealing with citation styles can be difficult, but Zotero comes with most styles that you will need.\n\nAll styles are written in Citation Style Language (CSL), which means they can be used and read by most tools built for creating citations and bibliographies.",
+    "crumbs": [
+      "Schedule",
+      "3. Organizing resources"
+    ]
+  },
+  {
+    "objectID": "meetings/03-organization.html#resources",
+    "href": "meetings/03-organization.html#resources",
+    "title": "Week 3: Organizing resources",
     "section": "Resources",
-    "text": "Resources\n\nData Carpentry - R for Social Scientists\nSoftware Carpentry - R for Reproducible Scientific Analysis\nJulie Lowndes and Allison Horst, R for Excel Users: R & RStudio, RMarkdown.\nOn importing data with readr",
+    "text": "Resources\n\nReproducible research\n\nBen Marwick, Carl Boettiger, and Lincoln Mullen, “Packaging Data Analytical Work Reproducibly Using R (and Friends),” PeerJ Preprints (2017), https://doi.org/10.7287/peerj.preprints.3192v2.\nMichael McCarthy, Reproducible Data Science (2023).\nAwesome Reproducible Research\nThe Turing Way: Guide for Reproducible Research\n\n\n\nZotero\n\nZotero Documentation\nQuick start guide\nVT Library Guide - Zotero\nMichael McCarthy - Reference Manager Setup: Installing and configuring Zotero\n\n\n\nZoteroBib\nIf you want to quickly create a one-off bibliography you can use ZoterBib, which is a web service designed to create bibliographies in any citation style. While this is not a tool you will want to depend on for longer-term projects, it is a good site to have bookmarked if you want a quick properly styled citation for a source.\n\n\nTropy\nTropy is a tool to organize primary source documents. It is built for organizing photos you take at an archive or PDFs you might download from an archive. It provides a flexible way to organize and write notes about your sources. It is also made by the same people that make Zotero. Check out the Tropy Documentation.",
     "crumbs": [
       "Schedule",
-      "6. Intro to R and RStudio"
+      "3. Organizing resources"
     ]
   },
   {
-    "objectID": "meetings/08-ggplot2.html",
-    "href": "meetings/08-ggplot2.html",
-    "title": "Week 8: Visualization with ggplot2",
+    "objectID": "meetings/16-text.html",
+    "href": "meetings/16-text.html",
+    "title": "Appendix: Text analysis",
     "section": "",
-    "text": "John Theibault, “Visualizations and Historical Arguments,” in Writing History in the Digital Age, eds. Kristen Nawrotzki and Jack Dougherty (University of Michigan Press, 2013), https://www.jstor.org/stable/j.ctv65sx57.19.\nKieran Healy and James Moody, “Data Visualization in Sociology” Annual Review of Sociology, 40: 105–128.\nHadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition): Chapters 1, 9, 10, and 11.\nKieran Healy, Data Visualization: A Practical Introduction (Princeton University Press, 2018), Chapters 1 and 3.",
+    "text": "Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition): Chapters 14 and 15.\nJulia Silge and David Robinson, Text Mining with R: A Tidy Approach, (O’Reilly, 2017), https://www.tidytextmining.com.\n\nRead the Preface and Chapter 1: The tidy text format and look through other chapters to see what you might be of particular interest to your concerns.\n\nTaylor Arnold, Nicolas Ballier, Paula Lissón, and Lauren Tilton, “Beyond Lexical Frequencies: Using R for Text Analysis in the Digital Humanities,” Language Resources and Evaluation 53, no. 4 (2019): 707–733, https://doi.org/10.1007/s10579-019-09456-6.",
     "crumbs": [
       "Schedule",
-      "8. Visualization with ggplot2"
+      "Appendix: Text analysis"
     ]
   },
   {
-    "objectID": "meetings/08-ggplot2.html#reading",
-    "href": "meetings/08-ggplot2.html#reading",
-    "title": "Week 8: Visualization with ggplot2",
+    "objectID": "meetings/16-text.html#reading",
+    "href": "meetings/16-text.html#reading",
+    "title": "Appendix: Text analysis",
     "section": "",
-    "text": "John Theibault, “Visualizations and Historical Arguments,” in Writing History in the Digital Age, eds. Kristen Nawrotzki and Jack Dougherty (University of Michigan Press, 2013), https://www.jstor.org/stable/j.ctv65sx57.19.\nKieran Healy and James Moody, “Data Visualization in Sociology” Annual Review of Sociology, 40: 105–128.\nHadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition): Chapters 1, 9, 10, and 11.\nKieran Healy, Data Visualization: A Practical Introduction (Princeton University Press, 2018), Chapters 1 and 3.",
+    "text": "Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition): Chapters 14 and 15.\nJulia Silge and David Robinson, Text Mining with R: A Tidy Approach, (O’Reilly, 2017), https://www.tidytextmining.com.\n\nRead the Preface and Chapter 1: The tidy text format and look through other chapters to see what you might be of particular interest to your concerns.\n\nTaylor Arnold, Nicolas Ballier, Paula Lissón, and Lauren Tilton, “Beyond Lexical Frequencies: Using R for Text Analysis in the Digital Humanities,” Language Resources and Evaluation 53, no. 4 (2019): 707–733, https://doi.org/10.1007/s10579-019-09456-6.",
     "crumbs": [
       "Schedule",
-      "8. Visualization with ggplot2"
+      "Appendix: Text analysis"
     ]
   },
   {
-    "objectID": "meetings/08-ggplot2.html#assignment",
-    "href": "meetings/08-ggplot2.html#assignment",
-    "title": "Week 8: Visualization with ggplot2",
+    "objectID": "meetings/16-text.html#assignment",
+    "href": "meetings/16-text.html#assignment",
+    "title": "Appendix: Text analysis",
     "section": "Assignment",
-    "text": "Assignment\n\nThink about the type of visualizations you would like to make for your research. How will they help to make a historical argument?",
+    "text": "Assignment\n\nLook at the documentation for the text editor that you are using on regular expressions (regex) and/or advanced find and replace features.\n\nThe Chapter on Searching with Grep in the BBEdit Manual is particularly good.\n\nBrowse Taylor Arnold, Courtney Rivard, and Lauren Tilton, Layered Lives: Rhetoric and Representation in the Southern Life History Project (Stanford University Press, 2022): https://doi.org/10.21627/2022ll.",
     "crumbs": [
       "Schedule",
-      "8. Visualization with ggplot2"
+      "Appendix: Text analysis"
     ]
   },
   {
-    "objectID": "meetings/08-ggplot2.html#activities",
-    "href": "meetings/08-ggplot2.html#activities",
-    "title": "Week 8: Visualization with ggplot2",
+    "objectID": "meetings/16-text.html#activities",
+    "href": "meetings/16-text.html#activities",
+    "title": "Appendix: Text analysis",
     "section": "Activities",
-    "text": "Activities\n\nDiscussion of visualizations and historical arguments.\nWorkshop: Visualization with ggplot2",
+    "text": "Activities\n\nDiscussion of the use of text analysis in History.\nWorkshop: Regular expressions (regex)\nWorkshop: Text analysis with R",
     "crumbs": [
       "Schedule",
-      "8. Visualization with ggplot2"
+      "Appendix: Text analysis"
     ]
   },
   {
-    "objectID": "meetings/08-ggplot2.html#resources",
-    "href": "meetings/08-ggplot2.html#resources",
-    "title": "Week 8: Visualization with ggplot2",
+    "objectID": "meetings/16-text.html#resources",
+    "href": "meetings/16-text.html#resources",
+    "title": "Appendix: Text analysis",
     "section": "Resources",
-    "text": "Resources\n\nHadley Wickham, Danielle Navarro, and Thomas Lin Pedersen, ggplot2: Elegant Graphics for Data Analysis (3rd Edition).\nKieran Healy, Data Visualization: A Practical Introduction (Princeton University Press, 2018).\nClaus Wilke, Fundamentals of Data Visualization (O’Reilly 2019).\nCédric Scherer’s comprehensive blog post, A ggplot2 Tutorial for Beautiful Plotting in R is a great comprehensive guide to what is possible with ggplot2.\nCédric Scherer’s workshop at RStudio 2022, Graphic Design with ggplot2 is a really good resource for building good looking plots with ggplot2.\nMy notes on ggplot2 provide an overview of the main component of plotting with ggplot2.",
+    "text": "Resources\n\nRegular expressions (regex)\n\nProgramming Historian - Doug Knox, Understanding Regular Expressions.\nstringr: Regular expressions\nJoshua Fjelstul, Regular expressions in R.\n\n\n\nText analysis R packages\n\nCRAN Task View: Natural Language Processing\nstringr\nquanteda\ncleanNLP\n\n\n\nText analysis\n\nProgramming Historian - Taylor Arnold and Lauren Tilton, Basic Text Processing in R.\nProgramming Historian - Jennifer Isasi, Sentiment Analysis with ‘syuzhet’ using R.\nEmil Hvitfeldt and Julia Silge, Supervised Machine Learning for Text Analysis in R, (CRC Press 2021), https://smltar.com.\n\nThis books is an updated but more advanced discussion of text analysis in R than Text Mining with R: A Tidy Approach.\n\nThe Data Sitters Club",
     "crumbs": [
       "Schedule",
-      "8. Visualization with ggplot2"
+      "Appendix: Text analysis"
+    ]
+  },
+  {
+    "objectID": "meetings/13-network.html",
+    "href": "meetings/13-network.html",
+    "title": "Week 13: Network analysis",
+    "section": "",
+    "text": "Catherine Medici, “Using Network Analysis to Understand Early Modern Women,” Early Modern Women: An Interdisciplinary Journal, 13 no. 1 (2018): 153–62, https://doi.org/10.1353/emw.2018.0058.\nMatthew Lincoln, “Social Network Centralization Dynamics in Print Production in the Low Countries, 1550–1750,” International Journal for Digital Art History 2 (2016): 134–157, https://doi.org/10.11588/dah.2016.2.25337.",
+    "crumbs": [
+      "Schedule",
+      "13. Network analysis"
+    ]
+  },
+  {
+    "objectID": "meetings/13-network.html#reading",
+    "href": "meetings/13-network.html#reading",
+    "title": "Week 13: Network analysis",
+    "section": "",
+    "text": "Catherine Medici, “Using Network Analysis to Understand Early Modern Women,” Early Modern Women: An Interdisciplinary Journal, 13 no. 1 (2018): 153–62, https://doi.org/10.1353/emw.2018.0058.\nMatthew Lincoln, “Social Network Centralization Dynamics in Print Production in the Low Countries, 1550–1750,” International Journal for Digital Art History 2 (2016): 134–157, https://doi.org/10.11588/dah.2016.2.25337.",
+    "crumbs": [
+      "Schedule",
+      "13. Network analysis"
+    ]
+  },
+  {
+    "objectID": "meetings/13-network.html#assignment",
+    "href": "meetings/13-network.html#assignment",
+    "title": "Week 13: Network analysis",
+    "section": "Assignment",
+    "text": "Assignment\n\nRuth Ahnert, Sebastian E. Ahnert, Catherine Nicole Coleman, and Scott B. Weingart, The Network Turn: Changing Perspectives in the Humanities, (Cambridge University Press, 2020), https://doi.org/10.1017/9781108866804. Read Introduction and choose a chapter to read and discuss in class.\nWatch Martin Grandjean, Introduction to Social Network Analysis Series.\nBrowse the Tudor Newtorks project.\nBrowse the Six Degrees of Francis Bacon project.",
+    "crumbs": [
+      "Schedule",
+      "13. Network analysis"
+    ]
+  },
+  {
+    "objectID": "meetings/13-network.html#activities",
+    "href": "meetings/13-network.html#activities",
+    "title": "Week 13: Network analysis",
+    "section": "Activities",
+    "text": "Activities\n\nDiscussion of The Network Turn: Changing Perspectives in the Humanities and the use of network analysis in History.\nWorkshop: Network analysis",
+    "crumbs": [
+      "Schedule",
+      "13. Network analysis"
+    ]
+  },
+  {
+    "objectID": "meetings/13-network.html#resources",
+    "href": "meetings/13-network.html#resources",
+    "title": "Week 13: Network analysis",
+    "section": "Resources",
+    "text": "Resources\n\nMark Granovetter, “The Strength of Weak Ties,” American Journal of Sociology 78, no. 6 (1973): 1360–80, http://www.jstor.org/stable/2776392.\nJournal of Historical Network Research\n\n\nNetwork analysis with R\n\nAwesome Network Analysis\nKatherine Ognyanova, Static and dynamic network visualization with R.\nJesse Sadler, Introduction to Network Analysis with R: Creating static and interactive network graphs.\nHadley Wickham, Danielle Navarro, and Thomas Lin Pedersen, ggplot2: Elegant Graphics for Data Analysis (3rd Edition), Chapter 7: Networks.\n\n\n\nNetwork analysis R packages\n\nigraph\nggraph\n\n\n\nOther tools\n\nGephi\nCytoscape\nPalladio\nNetwork Navigator",
+    "crumbs": [
+      "Schedule",
+      "13. Network analysis"
     ]
   }
 ]

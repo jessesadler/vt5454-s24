@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Week 12: Network analysis</title>
+<title>Week 12: Spatial analysis</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -29,8 +29,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../meetings/13-spatial.html" rel="next">
-<link href="../meetings/11-text.html" rel="prev">
+<link href="../meetings/13-network.html" rel="next">
+<link href="../meetings/11-review.html" rel="prev">
 <link href="../logo.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -83,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../meetings/01-intro.html">Schedule</a></li><li class="breadcrumb-item"><a href="../meetings/12-network.html">12. Network analysis</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../meetings/01-intro.html">Schedule</a></li><li class="breadcrumb-item"><a href="../meetings/12-spatial.html">12. Spatial analysis</a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -184,20 +184,20 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../meetings/11-text.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">11. Text analysis</span></a>
+  <a href="../meetings/11-review.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">11. Review and website workshop</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../meetings/12-network.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">12. Network analysis</span></a>
+  <a href="../meetings/12-spatial.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">12. Spatial analysis</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../meetings/13-spatial.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">13. Spatial analysis</span></a>
+  <a href="../meetings/13-network.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">13. Network analysis</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -210,6 +210,12 @@ ul.task-list li input[type="checkbox"] {
   <div class="sidebar-item-container"> 
   <a href="../meetings/15-conclusion.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">15. Conclusion</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../meetings/16-text.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Appendix: Text analysis</span></a>
   </div>
 </li>
       </ul>
@@ -247,19 +253,19 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#activities" id="toc-activities" class="nav-link" data-scroll-target="#activities">Activities</a></li>
   <li><a href="#resources" id="toc-resources" class="nav-link" data-scroll-target="#resources">Resources</a>
   <ul class="collapse">
-  <li><a href="#network-analysis-with-r" id="toc-network-analysis-with-r" class="nav-link" data-scroll-target="#network-analysis-with-r">Network analysis with R</a></li>
-  <li><a href="#network-analysis-r-packages" id="toc-network-analysis-r-packages" class="nav-link" data-scroll-target="#network-analysis-r-packages">Network analysis R packages</a></li>
-  <li><a href="#other-tools" id="toc-other-tools" class="nav-link" data-scroll-target="#other-tools">Other tools</a></li>
+  <li><a href="#spatial-digital-history-projects" id="toc-spatial-digital-history-projects" class="nav-link" data-scroll-target="#spatial-digital-history-projects">Spatial Digital History projects</a></li>
+  <li><a href="#gis-with-r" id="toc-gis-with-r" class="nav-link" data-scroll-target="#gis-with-r">GIS with R</a></li>
+  <li><a href="#gis-r-packages" id="toc-gis-r-packages" class="nav-link" data-scroll-target="#gis-r-packages">GIS R packages</a></li>
   </ul></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/jessesadler/vt5454-s24/edit/main/meetings/12-network.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jessesadler/vt5454-s24/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/jessesadler/vt5454-s24/edit/main/meetings/12-spatial.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jessesadler/vt5454-s24/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../meetings/01-intro.html">Schedule</a></li><li class="breadcrumb-item"><a href="../meetings/12-network.html">12. Network analysis</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../meetings/01-intro.html">Schedule</a></li><li class="breadcrumb-item"><a href="../meetings/12-spatial.html">12. Spatial analysis</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Week 12: Network analysis</h1>
+<h1 class="title">Week 12: Spatial analysis</h1>
 </div>
 
 
@@ -279,55 +285,59 @@ ul.task-list li input[type="checkbox"] {
 <section id="reading" class="level2">
 <h2 class="anchored" data-anchor-id="reading">Reading</h2>
 <ul>
-<li>Catherine Medici, “Using Network Analysis to Understand Early Modern Women,” <em>Early Modern Women: An Interdisciplinary Journal</em>, 13 no. 1 (2018): 153–62, <a href="https://doi.org/10.1353/emw.2018.0058" class="uri">https://doi.org/10.1353/emw.2018.0058</a>.</li>
-<li>Matthew Lincoln, “Social Network Centralization Dynamics in Print Production in the Low Countries, 1550–1750,” International Journal for Digital Art History 2 (2016): 134–157, <a href="https://doi.org/10.11588/dah.2016.2.25337" class="uri">https://doi.org/10.11588/dah.2016.2.25337</a>.</li>
+<li>Robin Lovelace, Jakub Nowosad, and Jannes Muenchow, <a href="https://geocompr.robinlovelace.net"><em>Geocomputation with R</em></a> (2nd Edition), Chapters 1, 2, 7, and 9.</li>
+<li>Kieran Healy, <em>Data Visualization: A Practical Introduction</em> (Princeton University Press, 2018), <a href="https://socviz.co/maps.html#maps">Chapter 7: Draw Maps</a>.</li>
+<li>Leonardo Barleta, “Spatial Genealogies: Mobility, Settlement, and Empire-Building in the Brazilian Backlands, 1650–1800,” <em>Journal of Social History</em> 54, no. 4 (2021): 1064–90, <a href="http://dx.doi.org/10.1093/jsh/shab006" class="uri">http://dx.doi.org/10.1093/jsh/shab006</a>.</li>
 </ul>
 </section>
 <section id="assignment" class="level2">
 <h2 class="anchored" data-anchor-id="assignment">Assignment</h2>
 <ul>
-<li>Ruth Ahnert, Sebastian E. Ahnert, Catherine Nicole Coleman, and Scott B. Weingart, <em>The Network Turn: Changing Perspectives in the Humanities</em>, (Cambridge University Press, 2020), <a href="https://doi.org/10.1017/9781108866804" class="uri">https://doi.org/10.1017/9781108866804</a>. Read Introduction and choose a chapter to read and discuss in class.</li>
-<li>Watch Martin Grandjean, <a href="https://www.martingrandjean.ch/introduction-to-social-network-analysis/">Introduction to Social Network Analysis Series</a>.</li>
-<li>Browse the <a href="http://tudornetworks.net">Tudor Newtorks project</a>.</li>
-<li>Browse the <a href="http://sixdegreesoffrancisbacon.com">Six Degrees of Francis Bacon project</a>.</li>
+<li>Browse one of the spatial Digital History projects listed under Resources or find one relevant to your field.</li>
 </ul>
 </section>
 <section id="activities" class="level2">
 <h2 class="anchored" data-anchor-id="activities">Activities</h2>
 <ul>
-<li>Discussion of <em>The Network Turn: Changing Perspectives in the Humanities</em> and the use of network analysis in History.</li>
-<li>Workshop: Network analysis</li>
+<li>Discussion of the use of spatial analysis in history.</li>
+<li>Workshop: Spatial analysis.</li>
 </ul>
 </section>
 <section id="resources" class="level2">
 <h2 class="anchored" data-anchor-id="resources">Resources</h2>
+<section id="spatial-digital-history-projects" class="level3">
+<h3 class="anchored" data-anchor-id="spatial-digital-history-projects">Spatial Digital History projects</h3>
 <ul>
-<li>Mark Granovetter, “The Strength of Weak Ties,” <em>American Journal of Sociology</em> 78, no. 6 (1973): 1360–80, <a href="http://www.jstor.org/stable/2776392" class="uri">http://www.jstor.org/stable/2776392</a>.</li>
-<li><a href="https://jhnr.uni.lu/index.php/jhnr">Journal of Historical Network Research</a></li>
-</ul>
-<section id="network-analysis-with-r" class="level3">
-<h3 class="anchored" data-anchor-id="network-analysis-with-r">Network analysis with R</h3>
-<ul>
-<li><a href="https://github.com/briatte/awesome-network-analysis">Awesome Network Analysis</a></li>
-<li>Katherine Ognyanova, <a href="https://kateto.net/network-visualization">Static and dynamic network visualization with R</a>.</li>
-<li>Jesse Sadler, <a href="https://www.jessesadler.com/post/network-analysis-with-r/">Introduction to Network Analysis with R: Creating static and interactive network graphs</a>.</li>
-<li>Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen, <em>ggplot2: Elegant Graphics for Data Analysis</em> (3rd Edition), <a href="https://ggplot2-book.org/networks">Chapter 7: Networks</a>.</li>
+<li>Scott Nesbit and Ed Ayers, <a href="https://dsl.richmond.edu/emancipation/">Visualizing Emancipation</a></li>
+<li><a href="https://www.slavevoyages.org/">Slave Voyages</a></li>
+<li><a href="http://republicofletters.stanford.edu">Mapping the Republic of Letters</a></li>
+<li><a href="https://pleiades.stoa.org">Pleiades: gazetteer and graph of ancient places</a></li>
+<li><a href="http://awmc.unc.edu">Ancient World Mapping Center</a></li>
+<li><a href="https://whgazetteer.org/">World Historical Gazetteer</a></li>
 </ul>
 </section>
-<section id="network-analysis-r-packages" class="level3">
-<h3 class="anchored" data-anchor-id="network-analysis-r-packages">Network analysis R packages</h3>
+<section id="gis-with-r" class="level3">
+<h3 class="anchored" data-anchor-id="gis-with-r">GIS with R</h3>
 <ul>
-<li><a href="https://r.igraph.org">igraph</a></li>
-<li><a href="https://ggraph.data-imaginist.com">ggraph</a></li>
+<li>Robin Lovelace, Jakub Nowosad, and Jannes Muenchow, <a href="https://geocompr.robinlovelace.net"><em>Geocomputation with R</em></a> (2nd Edition)</li>
+<li>Edzer Pebesma and Roger Bivand, <a href="https://r-spatial.org/book/"><em>Spatial Data Science: With Applications in R</em></a></li>
+<li>Jesse Sadler, <a href="https://www.jessesadler.com/post/simple-feature-objects/">An Exploration of Simple Features for R</a>.</li>
+<li>Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen, <em>ggplot2: Elegant Graphics for Data Analysis</em> (3rd Edition), <a href="https://ggplot2-book.org/maps">Chapter 6: Maps</a>.</li>
 </ul>
 </section>
-<section id="other-tools" class="level3">
-<h3 class="anchored" data-anchor-id="other-tools">Other tools</h3>
+<section id="gis-r-packages" class="level3">
+<h3 class="anchored" data-anchor-id="gis-r-packages">GIS R packages</h3>
 <ul>
-<li><a href="https://gephi.org/">Gephi</a></li>
-<li><a href="https://cytoscape.org/">Cytoscape</a></li>
-<li><a href="http://hdlab.stanford.edu/palladio/">Palladio</a></li>
-<li><a href="https://networknavigator.jrladd.com">Network Navigator</a></li>
+<li><a href="https://cran.r-project.org/web/views/Spatial.html">CRAN Task View: Analysis of Spatial Data</a></li>
+<li><a href="https://r-spatial.github.io/sf/">sf</a>: Vector data.</li>
+<li><a href="https://rspatial.org">terra</a>: Raster data.</li>
+<li><a href="https://r-tmap.github.io/tmap/">tmap</a>: An alternative to making maps with ggplot2.</li>
+<li><a href="https://rstudio.github.io/leaflet/">leaflet</a>: Interactive mapping with R.</li>
+<li><a href="https://www.rayshader.com">rayshader</a>: Make 3d maps in R.</li>
+<li><a href="https://docs.ropensci.org/rnaturalearth/">rnaturalearth</a></li>
+<li><a href="https://walker-data.com/tidycensus/">tidycensus</a> provides access to US Census Bureau data in a tidy format, including the option to bind the data spatially on import.</li>
+<li><a href="https://github.com/walkerke/tigris">tigris</a> provides access to cartographic elements provided by the US Census Bureau TIGER, including cartographic boundaries, roads, and water.</li>
+<li><a href="https://docs.ropensci.org/opencage/">opencage</a>: Geocode using the <a href="https://opencagedata.com/">Opencage</a> API.</li>
 </ul>
 
 
@@ -868,13 +878,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../meetings/11-text.html" class="pagination-link" aria-label="11. Text analysis">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">11. Text analysis</span>
+      <a href="../meetings/11-review.html" class="pagination-link" aria-label="11. Review and website workshop">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">11. Review and website workshop</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../meetings/13-spatial.html" class="pagination-link" aria-label="13. Spatial analysis">
-        <span class="nav-page-text">13. Spatial analysis</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../meetings/13-network.html" class="pagination-link" aria-label="13. Network analysis">
+        <span class="nav-page-text">13. Network analysis</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -886,7 +896,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/jessesadler/vt5454-s24/edit/main/meetings/12-network.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jessesadler/vt5454-s24/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/jessesadler/vt5454-s24/edit/main/meetings/12-spatial.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jessesadler/vt5454-s24/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>This page is built with <a href="https://quarto.org/">Quarto</a>.</p>
 </div>
