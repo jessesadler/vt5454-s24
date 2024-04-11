@@ -4,7 +4,7 @@ title: "Week 12: Spatial analysis"
 
 
 ## Reading
-- Robin Lovelace, Jakub Nowosad, and Jannes Muenchow, [*Geocomputation with R*](https://geocompr.robinlovelace.net) (2nd Edition), Chapters 1, 2, 7, and 9.
+- Robin Lovelace, Jakub Nowosad, and Jannes Muenchow, [*Geocomputation with R*](https://r.geocompx.org) (2nd Edition), Chapters 1, 2, 7, and 9.
 - Kieran Healy, *Data Visualization: A Practical Introduction* (Princeton University Press, 2018), [Chapter 7: Draw Maps](https://socviz.co/maps.html#maps).
 - Leonardo Barleta, "Spatial Genealogies: Mobility, Settlement, and Empire-Building in the Brazilian Backlands, 1650–1800," *Journal of Social History* 54, no. 4 (2021): 1064–90, <http://dx.doi.org/10.1093/jsh/shab006>.
 
@@ -25,20 +25,54 @@ title: "Week 12: Spatial analysis"
 - [Ancient World Mapping Center](http://awmc.unc.edu)
 - [World Historical Gazetteer](https://whgazetteer.org/)
 
-### GIS with R
+### Geospatial resources
+- [Carpentries: Introduction to Geospatial Concepts](https://datacarpentry.org/organization-geospatial/index.html)
+  - Introduction to raster and vector data, coordinate reference systems, and an overview of the GIS landscape.
+- Robin Lovelace, Jakub Nowosad, and Jannes Muenchow, *Geocomputation with R* (2nd Edition), [Chapter 2: Geographic data in R](https://r.geocompx.org/spatial-class)
+- Edzer Pebesma and Roger Bivand, *Spatial Data Science: With Applications in R*, [Chapter 1: Getting Started](https://r-spatial.org/book/01-hello.html)
+
+### GIS with R 
 - Robin Lovelace, Jakub Nowosad, and Jannes Muenchow, [*Geocomputation with R*](https://geocompr.robinlovelace.net) (2nd Edition)
 - Edzer Pebesma and Roger Bivand, [*Spatial Data Science: With Applications in R*](https://r-spatial.org/book/)
 - Jesse Sadler, [An Exploration of Simple Features for R](https://www.jessesadler.com/post/simple-feature-objects/).
 - Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen, *ggplot2: Elegant Graphics for Data Analysis* (3rd Edition), [Chapter 6: Maps](https://ggplot2-book.org/maps).
+- [Carpentries: Introduction to Geospatial Raster and Vector Data with R](https://datacarpentry.org/r-raster-vector-geospatial/)
 
-### GIS R packages
-- [CRAN Task View: Analysis of Spatial Data](https://cran.r-project.org/web/views/Spatial.html)
+### Geospatial R packages
+[CRAN Task View: Analysis of Spatial Data](https://cran.r-project.org/web/views/Spatial.html)
+
+#### Primary packages for vector and raster spatial data
 - [sf](https://r-spatial.github.io/sf/): Vector data.
 - [terra](https://rspatial.org): Raster data.
+
+#### Geospatial data sources
+- [rspatialdata](https://rspatialdata.github.io/index.html): A collection of data sources and tutorials on visualising spatial data using R.
+- [rnaturalearth](https://docs.ropensci.org/rnaturalearth/): It includes functions to download a wealth of [Natural Earth](http://www.naturalearthdata.com/) vector and raster data, including cultural (e.g., country boundaries, airports, roads, railroads) and physical (e.g., coastline, lakes, glaciated areas) data sets.
+- [elevatr](https://github.com/jhollist/elevatr): Access to elevation data from AWS Open Data Terrain Tiles and the Open Topography Global datasets API for raster digital elevation models.
+- [tidycensus](https://walker-data.com/tidycensus/): Access to US Census Bureau data in a tidy format, including the option to bind the data spatially on import.
+- [tigris](https://github.com/walkerke/tigris): Access to cartographic elements provided by the US Census Bureau TIGER, including cartographic boundaries, roads, and water.
+- [giscoR](https://ropengov.github.io/giscoR/): Access to European geodata.
+
+#### Geocoding
+- [tidygeocoder](https://jessecambon.github.io/tidygeocoder/): Support for a number of data sources for geocoding locations. The package uses the OpenStreetsMap geocoder [Nominatim](https://nominatim.org) by default.
+- [opencage](https://docs.ropensci.org/opencage/): Geocode using the [Opencage](https://opencagedata.com/) API.
+
+#### Geospatial visualization
+- [ggplot2](https://ggplot2.tidyverse.org) can visualize [sf vector data](https://ggplot2.tidyverse.org/reference/ggsf.html).
 - [tmap](https://r-tmap.github.io/tmap/): An alternative to making maps with ggplot2.
 - [leaflet](https://rstudio.github.io/leaflet/): Interactive mapping with R.
+- [mapview](https://r-spatial.github.io/mapview/): Lightweight interactive mapping package. It's main goal is to fill the gap of quick (not presentation grade) interactive plotting to examine and visually investigate both aspects of spatial data, the geometries and their attributes.
 - [rayshader](https://www.rayshader.com): Make 3d maps in R.
-- [rnaturalearth](https://docs.ropensci.org/rnaturalearth/)
-- [tidycensus](https://walker-data.com/tidycensus/) provides access to US Census Bureau data in a tidy format, including the option to bind the data spatially on import.
-- [tigris](https://github.com/walkerke/tigris) provides access to cartographic elements provided by the US Census Bureau TIGER, including cartographic boundaries, roads, and water.
-- [opencage](https://docs.ropensci.org/opencage/): Geocode using the [Opencage](https://opencagedata.com/) API.
+
+## GUI and web mapping tools
+This is a short list of common GUI and web based mapping tools. Some of these tools are full-scale GIS (Geographic Information Sciences) platforms that are quite complex. The web mapping tools tend to be simpler but have less opportunity for customization. We will not be using these tools in this class, but it is good to be aware of them, and there will be times when their advantages over a command-line tool like R outweigh disadvantages.
+
+#### Desktop GIS
+- [ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview)
+- [QGIS](https://www.qgis.org/en/site/) is the open source alternative to ArcGIS.
+
+#### Web mapping
+- [ArcGIS Story maps](https://storymaps.com)
+- [Neatline](https://neatline.org): Tool built to work with [Omeka](https://omeka.org) to create stories with maps, images and timelines.
+- [StoryMap](https://storymap.knightlab.com)
+- [Palladio](http://hdlab.stanford.edu/palladio/)
