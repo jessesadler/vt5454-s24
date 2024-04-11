@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.550">
+<meta name="generator" content="quarto-1.4.552">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -254,9 +254,11 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#resources" id="toc-resources" class="nav-link" data-scroll-target="#resources">Resources</a>
   <ul class="collapse">
   <li><a href="#spatial-digital-history-projects" id="toc-spatial-digital-history-projects" class="nav-link" data-scroll-target="#spatial-digital-history-projects">Spatial Digital History projects</a></li>
+  <li><a href="#geospatial-resources" id="toc-geospatial-resources" class="nav-link" data-scroll-target="#geospatial-resources">Geospatial resources</a></li>
   <li><a href="#gis-with-r" id="toc-gis-with-r" class="nav-link" data-scroll-target="#gis-with-r">GIS with R</a></li>
-  <li><a href="#gis-r-packages" id="toc-gis-r-packages" class="nav-link" data-scroll-target="#gis-r-packages">GIS R packages</a></li>
+  <li><a href="#geospatial-r-packages" id="toc-geospatial-r-packages" class="nav-link" data-scroll-target="#geospatial-r-packages">Geospatial R packages</a></li>
   </ul></li>
+  <li><a href="#gui-and-web-mapping-tools" id="toc-gui-and-web-mapping-tools" class="nav-link" data-scroll-target="#gui-and-web-mapping-tools">GUI and web mapping tools</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/jessesadler/vt5454-s24/edit/main/meetings/12-spatial.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jessesadler/vt5454-s24/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -285,7 +287,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="reading" class="level2">
 <h2 class="anchored" data-anchor-id="reading">Reading</h2>
 <ul>
-<li>Robin Lovelace, Jakub Nowosad, and Jannes Muenchow, <a href="https://geocompr.robinlovelace.net"><em>Geocomputation with R</em></a> (2nd Edition), Chapters 1, 2, 7, and 9.</li>
+<li>Robin Lovelace, Jakub Nowosad, and Jannes Muenchow, <a href="https://r.geocompx.org"><em>Geocomputation with R</em></a> (2nd Edition), Chapters 1, 2, 7, and 9.</li>
 <li>Kieran Healy, <em>Data Visualization: A Practical Introduction</em> (Princeton University Press, 2018), <a href="https://socviz.co/maps.html#maps">Chapter 7: Draw Maps</a>.</li>
 <li>Leonardo Barleta, “Spatial Genealogies: Mobility, Settlement, and Empire-Building in the Brazilian Backlands, 1650–1800,” <em>Journal of Social History</em> 54, no. 4 (2021): 1064–90, <a href="http://dx.doi.org/10.1093/jsh/shab006" class="uri">http://dx.doi.org/10.1093/jsh/shab006</a>.</li>
 </ul>
@@ -316,6 +318,17 @@ ul.task-list li input[type="checkbox"] {
 <li><a href="https://whgazetteer.org/">World Historical Gazetteer</a></li>
 </ul>
 </section>
+<section id="geospatial-resources" class="level3">
+<h3 class="anchored" data-anchor-id="geospatial-resources">Geospatial resources</h3>
+<ul>
+<li><a href="https://datacarpentry.org/organization-geospatial/index.html">Carpentries: Introduction to Geospatial Concepts</a>
+<ul>
+<li>Introduction to raster and vector data, coordinate reference systems, and an overview of the GIS landscape.</li>
+</ul></li>
+<li>Robin Lovelace, Jakub Nowosad, and Jannes Muenchow, <em>Geocomputation with R</em> (2nd Edition), <a href="https://r.geocompx.org/spatial-class">Chapter 2: Geographic data in R</a></li>
+<li>Edzer Pebesma and Roger Bivand, <em>Spatial Data Science: With Applications in R</em>, <a href="https://r-spatial.org/book/01-hello.html">Chapter 1: Getting Started</a></li>
+</ul>
+</section>
 <section id="gis-with-r" class="level3">
 <h3 class="anchored" data-anchor-id="gis-with-r">GIS with R</h3>
 <ul>
@@ -323,21 +336,66 @@ ul.task-list li input[type="checkbox"] {
 <li>Edzer Pebesma and Roger Bivand, <a href="https://r-spatial.org/book/"><em>Spatial Data Science: With Applications in R</em></a></li>
 <li>Jesse Sadler, <a href="https://www.jessesadler.com/post/simple-feature-objects/">An Exploration of Simple Features for R</a>.</li>
 <li>Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen, <em>ggplot2: Elegant Graphics for Data Analysis</em> (3rd Edition), <a href="https://ggplot2-book.org/maps">Chapter 6: Maps</a>.</li>
+<li><a href="https://datacarpentry.org/r-raster-vector-geospatial/">Carpentries: Introduction to Geospatial Raster and Vector Data with R</a></li>
 </ul>
 </section>
-<section id="gis-r-packages" class="level3">
-<h3 class="anchored" data-anchor-id="gis-r-packages">GIS R packages</h3>
+<section id="geospatial-r-packages" class="level3">
+<h3 class="anchored" data-anchor-id="geospatial-r-packages">Geospatial R packages</h3>
+<p><a href="https://cran.r-project.org/web/views/Spatial.html">CRAN Task View: Analysis of Spatial Data</a></p>
+<section id="primary-packages-for-vector-and-raster-spatial-data" class="level4">
+<h4 class="anchored" data-anchor-id="primary-packages-for-vector-and-raster-spatial-data">Primary packages for vector and raster spatial data</h4>
 <ul>
-<li><a href="https://cran.r-project.org/web/views/Spatial.html">CRAN Task View: Analysis of Spatial Data</a></li>
 <li><a href="https://r-spatial.github.io/sf/">sf</a>: Vector data.</li>
 <li><a href="https://rspatial.org">terra</a>: Raster data.</li>
+</ul>
+</section>
+<section id="geospatial-data-sources" class="level4">
+<h4 class="anchored" data-anchor-id="geospatial-data-sources">Geospatial data sources</h4>
+<ul>
+<li><a href="https://rspatialdata.github.io/index.html">rspatialdata</a>: A collection of data sources and tutorials on visualising spatial data using R.</li>
+<li><a href="https://docs.ropensci.org/rnaturalearth/">rnaturalearth</a>: It includes functions to download a wealth of <a href="http://www.naturalearthdata.com/">Natural Earth</a> vector and raster data, including cultural (e.g., country boundaries, airports, roads, railroads) and physical (e.g., coastline, lakes, glaciated areas) data sets.</li>
+<li><a href="https://github.com/jhollist/elevatr">elevatr</a>: Access to elevation data from AWS Open Data Terrain Tiles and the Open Topography Global datasets API for raster digital elevation models.</li>
+<li><a href="https://walker-data.com/tidycensus/">tidycensus</a>: Access to US Census Bureau data in a tidy format, including the option to bind the data spatially on import.</li>
+<li><a href="https://github.com/walkerke/tigris">tigris</a>: Access to cartographic elements provided by the US Census Bureau TIGER, including cartographic boundaries, roads, and water.</li>
+<li><a href="https://ropengov.github.io/giscoR/">giscoR</a>: Access to European geodata.</li>
+</ul>
+</section>
+<section id="geocoding" class="level4">
+<h4 class="anchored" data-anchor-id="geocoding">Geocoding</h4>
+<ul>
+<li><a href="https://jessecambon.github.io/tidygeocoder/">tidygeocoder</a>: Support for a number of data sources for geocoding locations. The package uses the OpenStreetsMap geocoder <a href="https://nominatim.org">Nominatim</a> by default.</li>
+<li><a href="https://docs.ropensci.org/opencage/">opencage</a>: Geocode using the <a href="https://opencagedata.com/">Opencage</a> API.</li>
+</ul>
+</section>
+<section id="geospatial-visualization" class="level4">
+<h4 class="anchored" data-anchor-id="geospatial-visualization">Geospatial visualization</h4>
+<ul>
+<li><a href="https://ggplot2.tidyverse.org">ggplot2</a> can visualize <a href="https://ggplot2.tidyverse.org/reference/ggsf.html">sf vector data</a>.</li>
 <li><a href="https://r-tmap.github.io/tmap/">tmap</a>: An alternative to making maps with ggplot2.</li>
 <li><a href="https://rstudio.github.io/leaflet/">leaflet</a>: Interactive mapping with R.</li>
+<li><a href="https://r-spatial.github.io/mapview/">mapview</a>: Lightweight interactive mapping package. It’s main goal is to fill the gap of quick (not presentation grade) interactive plotting to examine and visually investigate both aspects of spatial data, the geometries and their attributes.</li>
 <li><a href="https://www.rayshader.com">rayshader</a>: Make 3d maps in R.</li>
-<li><a href="https://docs.ropensci.org/rnaturalearth/">rnaturalearth</a></li>
-<li><a href="https://walker-data.com/tidycensus/">tidycensus</a> provides access to US Census Bureau data in a tidy format, including the option to bind the data spatially on import.</li>
-<li><a href="https://github.com/walkerke/tigris">tigris</a> provides access to cartographic elements provided by the US Census Bureau TIGER, including cartographic boundaries, roads, and water.</li>
-<li><a href="https://docs.ropensci.org/opencage/">opencage</a>: Geocode using the <a href="https://opencagedata.com/">Opencage</a> API.</li>
+</ul>
+</section>
+</section>
+</section>
+<section id="gui-and-web-mapping-tools" class="level2">
+<h2 class="anchored" data-anchor-id="gui-and-web-mapping-tools">GUI and web mapping tools</h2>
+<p>This is a short list of common GUI and web based mapping tools. Some of these tools are full-scale GIS (Geographic Information Sciences) platforms that are quite complex. The web mapping tools tend to be simpler but have less opportunity for customization. We will not be using these tools in this class, but it is good to be aware of them, and there will be times when their advantages over a command-line tool like R outweigh disadvantages.</p>
+<section id="desktop-gis" class="level4">
+<h4 class="anchored" data-anchor-id="desktop-gis">Desktop GIS</h4>
+<ul>
+<li><a href="https://www.esri.com/en-us/arcgis/about-arcgis/overview">ArcGIS</a></li>
+<li><a href="https://www.qgis.org/en/site/">QGIS</a> is the open source alternative to ArcGIS.</li>
+</ul>
+</section>
+<section id="web-mapping" class="level4">
+<h4 class="anchored" data-anchor-id="web-mapping">Web mapping</h4>
+<ul>
+<li><a href="https://storymaps.com">ArcGIS Story maps</a></li>
+<li><a href="https://neatline.org">Neatline</a>: Tool built to work with <a href="https://omeka.org">Omeka</a> to create stories with maps, images and timelines.</li>
+<li><a href="https://storymap.knightlab.com">StoryMap</a></li>
+<li><a href="http://hdlab.stanford.edu/palladio/">Palladio</a></li>
 </ul>
 
 
@@ -568,6 +626,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/jessesadler\.github\.io\/vt5454-s24\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -602,7 +678,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
