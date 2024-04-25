@@ -37,9 +37,10 @@ Workshop: Designing websites
 
 ### What you should be doing to make changes to your website
 1. Make the changes in RStudio.
-2. `git add` and `git commit -m` changes.
-3. Push changes to GitHub main branch: `git push origin main`
-4. Publish changes by pushing to gh-pages branch: `quarto publish gh-pages`
+2. Render website on your computer to make sure everything works.
+3. `git add` and `git commit -m` changes.
+4. Push changes to GitHub main branch: `git push origin main`
+5. Publish changes by pushing to gh-pages branch: `quarto publish gh-pages`
 
 ## Designing Quarto websites
 The basic styling of your website is done through [HTML theming](https://quarto.org/docs/output-formats/html-themes.html).
