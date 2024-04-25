@@ -251,7 +251,18 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#reading" id="toc-reading" class="nav-link active" data-scroll-target="#reading">Reading</a></li>
   <li><a href="#assignment" id="toc-assignment" class="nav-link" data-scroll-target="#assignment">Assignment</a></li>
   <li><a href="#activities" id="toc-activities" class="nav-link" data-scroll-target="#activities">Activities</a></li>
-  <li><a href="#resources" id="toc-resources" class="nav-link" data-scroll-target="#resources">Resources</a></li>
+  <li><a href="#publishing-your-website-on-github-pages" id="toc-publishing-your-website-on-github-pages" class="nav-link" data-scroll-target="#publishing-your-website-on-github-pages">Publishing your website on GitHub pages</a>
+  <ul class="collapse">
+  <li><a href="#setting-up-publish-command" id="toc-setting-up-publish-command" class="nav-link" data-scroll-target="#setting-up-publish-command">Setting up publish command</a></li>
+  <li><a href="#what-you-should-be-doing-to-make-changes-to-your-website" id="toc-what-you-should-be-doing-to-make-changes-to-your-website" class="nav-link" data-scroll-target="#what-you-should-be-doing-to-make-changes-to-your-website">What you should be doing to make changes to your website</a></li>
+  </ul></li>
+  <li><a href="#designing-quarto-websites" id="toc-designing-quarto-websites" class="nav-link" data-scroll-target="#designing-quarto-websites">Designing Quarto websites</a>
+  <ul class="collapse">
+  <li><a href="#choose-a-quarto-theme" id="toc-choose-a-quarto-theme" class="nav-link" data-scroll-target="#choose-a-quarto-theme">Choose a Quarto theme</a></li>
+  <li><a href="#basic-customization" id="toc-basic-customization" class="nav-link" data-scroll-target="#basic-customization">Basic customization</a></li>
+  <li><a href="#customization-with-scss" id="toc-customization-with-scss" class="nav-link" data-scroll-target="#customization-with-scss">Customization with SCSS</a></li>
+  </ul></li>
+  <li><a href="#resources-website-design" id="toc-resources-website-design" class="nav-link" data-scroll-target="#resources-website-design">Resources: Website design</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/jessesadler/vt5454-s24/edit/main/meetings/14-design.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jessesadler/vt5454-s24/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -299,15 +310,80 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="activities" class="level2">
 <h2 class="anchored" data-anchor-id="activities">Activities</h2>
-<p>Workshop: Designing websites</p>
+<p>Workshop: Publishing your website Workshop: Designing websites</p>
 </section>
-<section id="resources" class="level2">
-<h2 class="anchored" data-anchor-id="resources">Resources</h2>
+<section id="publishing-your-website-on-github-pages" class="level2">
+<h2 class="anchored" data-anchor-id="publishing-your-website-on-github-pages">Publishing your website on GitHub pages</h2>
 <ul>
+<li>See also <a href="../resources.html#sec-quarto-publish">Resources: Publishing Quarto websites with GitHub Pages</a></li>
+<li>Documentation for the <a href="https://quarto.org/docs/publishing/github-pages.html#publish-command">publish command</a> using the quarto command line interface.</li>
+</ul>
+<section id="setting-up-publish-command" class="level3">
+<h3 class="anchored" data-anchor-id="setting-up-publish-command">Setting up publish command</h3>
+<ol type="1">
+<li>First, <strong>make sure all changes are committed</strong> on your project.</li>
+<li>Create an empty <code>gh-pages</code> branch.
+<ol type="1">
+<li><code>git checkout --orphan gh-pages</code></li>
+<li><code>git reset --hard</code></li>
+<li><code>git commit --allow-empty -m "Initialising gh-pages branch"</code></li>
+<li><code>git push origin gh-pages</code></li>
+</ol></li>
+<li>Check Settings -&gt; Pages for <strong>Source</strong> branch on your <a href="https://github.com">GitHub</a> repository.</li>
+<li>Ignore <code>_site/</code> folder in git
+<ol type="1">
+<li>Add <code>/_site/</code> to <code>.gitignore</code> file.</li>
+<li>Remove any tracking of <code>_site/</code> in git: <code>git rm -r _site</code></li>
+</ol></li>
+<li>Publish through command line: <code>quarto publish gh-pages</code></li>
+</ol>
+</section>
+<section id="what-you-should-be-doing-to-make-changes-to-your-website" class="level3">
+<h3 class="anchored" data-anchor-id="what-you-should-be-doing-to-make-changes-to-your-website">What you should be doing to make changes to your website</h3>
+<ol type="1">
+<li>Make the changes in RStudio.</li>
+<li><code>git add</code> and <code>git commit -m</code> changes.</li>
+<li>Push changes to GitHub main branch: <code>git push origin main</code></li>
+<li>Publish changes by pushing to gh-pages branch: <code>quarto publish gh-pages</code></li>
+</ol>
+</section>
+</section>
+<section id="designing-quarto-websites" class="level2">
+<h2 class="anchored" data-anchor-id="designing-quarto-websites">Designing Quarto websites</h2>
+<p>The basic styling of your website is done through <a href="https://quarto.org/docs/output-formats/html-themes.html">HTML theming</a>.</p>
+<section id="choose-a-quarto-theme" class="level3">
+<h3 class="anchored" data-anchor-id="choose-a-quarto-theme">Choose a Quarto theme</h3>
+<ul>
+<li>Quarto HTML documents are all based on <a href="https://getbootstrap.com/">Bootstrap 5</a>.</li>
+<li>Quarto provides access to 25 <a href="https://bootswatch.com/">Bootswatch themes</a>.</li>
+<li>Change theme in <code>_quarto.yml</code> under <code>format:</code></li>
+</ul>
+</section>
+<section id="basic-customization" class="level3">
+<h3 class="anchored" data-anchor-id="basic-customization">Basic customization</h3>
+<ul>
+<li>You can make basic changes to the theme in <code>_quarto.yml</code> under <code>format:</code>.</li>
+<li>See <a href="https://quarto.org/docs/output-formats/html-themes.html#basic-options">basic customization</a> for available options.</li>
+</ul>
+</section>
+<section id="customization-with-scss" class="level3">
+<h3 class="anchored" data-anchor-id="customization-with-scss">Customization with SCSS</h3>
+<ul>
+<li>Create <a href="https://quarto.org/docs/output-formats/html-themes.html#custom-themes">fully custom themes</a> with <a href="https://sass-lang.com">SASS</a> variables through <code>scss</code> files. SASS is a superset of <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS (Cascading Style Sheets)</a>.</li>
+<li>This is done in a <code>styles.csss</code> or <code>custom.scss</code> file, which is listed under <code>theme:</code> in <code>_quarto.yml</code>.</li>
+<li>See <a href="https://quarto.org/docs/output-formats/html-themes.html#sass-variables">Quarto SASS variables</a> for the most likely variables you might want to change.</li>
+<li>See <a href="https://quarto.org/docs/output-formats/html-themes-more.html">More About Quarto Themes</a> on using SCSS.</li>
+</ul>
+</section>
+</section>
+<section id="resources-website-design" class="level2">
+<h2 class="anchored" data-anchor-id="resources-website-design">Resources: Website design</h2>
+<ul>
+<li>Quarto websites are customizable through <a href="https://quarto.org/docs/output-formats/html-themes.html">HTML themes</a>.</li>
 <li>Joel Ross and Mike Freeman, <a href="https://info340.github.io">Client-Side Web Development</a></li>
 <li><a href="https://getbootstrap.com/">Bootstrap 5</a></li>
 <li><a href="https://bootswatch.com/">Bootswatch themes</a></li>
-<li><a href="https://sass-lang.com/guide/">Sass</a></li>
+<li><a href="https://sass-lang.com/guide/">SASS</a></li>
 <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">Mozilla Docs, CSS: Cascading Style Sheets</a></li>
 </ul>
 

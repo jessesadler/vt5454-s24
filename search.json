@@ -94,7 +94,7 @@
     "href": "resources.html#sec-quarto",
     "title": "Resources",
     "section": "Quarto",
-    "text": "Quarto\n\nThe Quarto documentation is very good and thorough.\nLook through the Getting started tutorial to get acquainted with the basics of a quarto document.\nFor an extensive list of resources on Quarto see Awesome Quarto.",
+    "text": "Quarto\n\nThe Quarto documentation is very good and thorough.\nLook through the Getting started tutorial to get acquainted with the basics of a quarto document.\nFor an extensive list of resources on Quarto see Awesome Quarto.\n\n\nQuarto websites\n\nQuarto websites are a collection of Quarto documents using format: html with a set structure and consistent visual style.\nCreate new Quarto website project: File -&gt; New Project… -&gt; Quarto Website.\n\nThere are multiple ways to preview the website.\n\nRStudio interface: Render button (⇧⌘K). Use gear button to control how preview works.\nquarto commands on the R console: quarto::quarto_preview()\nQuarto command line interface in Terminal: quarto preview\n\nYou can render the website, meaning build all of the pages into the _site folder, through the same methods.\n\nRStudio interface: build tab in upper-right section of RStudio -&gt; Render Website\nquarto commands on the R console: quarto::quarto_render()\nQuarto command line interface in Terminal: quarto render\n\n\n\nPublishing Quarto websites with GitHub Pages\n\nSee documentation for publishing website with GitHub pages.\nWe will use the publish command using the quarto command line interface.\n\n\n\nSetting up the publish command\n\nFirst, make sure all changes are committed on your project.\nCreate an empty gh-pages branch.\n\ngit checkout --orphan gh-pages\ngit reset --hard\ngit commit --allow-empty -m \"Initialising gh-pages branch\"\ngit push origin gh-pages\n\nCheck Settings -&gt; Pages for Source branch on your GitHub repository.\nIgnore _site/ folder in git\n\nAdd /_site/ to .gitignore file.\nRemove any tracking of _site/ in git: git rm -r _site\n\nPublish through command line: quarto publish gh-pages\n\nWhat this does: The publish command will render your content, copy the output to a special gh-pages branch, push that branch to GitHub, and then open a browser to view your site once it is deployed.\n\n\nWhat you should be doing to make changes to your website\n\nMake the changes in RStudio.\ngit add and git commit -m changes.\nPush changes to GitHub main branch: git push origin main\nPublish changes by pushing to gh-pages branch: quarto publish gh-pages",
     "crumbs": [
       "Resources"
     ]
@@ -478,18 +478,40 @@
     "href": "meetings/14-design.html#activities",
     "title": "Week 14: Web design and visualization",
     "section": "Activities",
-    "text": "Activities\nWorkshop: Designing websites",
+    "text": "Activities\nWorkshop: Publishing your website Workshop: Designing websites",
     "crumbs": [
       "Schedule",
       "14. Web design and visualization"
     ]
   },
   {
-    "objectID": "meetings/14-design.html#resources",
-    "href": "meetings/14-design.html#resources",
+    "objectID": "meetings/14-design.html#publishing-your-website-on-github-pages",
+    "href": "meetings/14-design.html#publishing-your-website-on-github-pages",
     "title": "Week 14: Web design and visualization",
-    "section": "Resources",
-    "text": "Resources\n\nJoel Ross and Mike Freeman, Client-Side Web Development\nBootstrap 5\nBootswatch themes\nSass\nMozilla Docs, CSS: Cascading Style Sheets",
+    "section": "Publishing your website on GitHub pages",
+    "text": "Publishing your website on GitHub pages\n\nSee also Resources: Publishing Quarto websites with GitHub Pages\nDocumentation for the publish command using the quarto command line interface.\n\n\nSetting up publish command\n\nFirst, make sure all changes are committed on your project.\nCreate an empty gh-pages branch.\n\ngit checkout --orphan gh-pages\ngit reset --hard\ngit commit --allow-empty -m \"Initialising gh-pages branch\"\ngit push origin gh-pages\n\nCheck Settings -&gt; Pages for Source branch on your GitHub repository.\nIgnore _site/ folder in git\n\nAdd /_site/ to .gitignore file.\nRemove any tracking of _site/ in git: git rm -r _site\n\nPublish through command line: quarto publish gh-pages\n\n\n\nWhat you should be doing to make changes to your website\n\nMake the changes in RStudio.\ngit add and git commit -m changes.\nPush changes to GitHub main branch: git push origin main\nPublish changes by pushing to gh-pages branch: quarto publish gh-pages",
+    "crumbs": [
+      "Schedule",
+      "14. Web design and visualization"
+    ]
+  },
+  {
+    "objectID": "meetings/14-design.html#designing-quarto-websites",
+    "href": "meetings/14-design.html#designing-quarto-websites",
+    "title": "Week 14: Web design and visualization",
+    "section": "Designing Quarto websites",
+    "text": "Designing Quarto websites\nThe basic styling of your website is done through HTML theming.\n\nChoose a Quarto theme\n\nQuarto HTML documents are all based on Bootstrap 5.\nQuarto provides access to 25 Bootswatch themes.\nChange theme in _quarto.yml under format:\n\n\n\nBasic customization\n\nYou can make basic changes to the theme in _quarto.yml under format:.\nSee basic customization for available options.\n\n\n\nCustomization with SCSS\n\nCreate fully custom themes with SASS variables through scss files. SASS is a superset of CSS (Cascading Style Sheets).\nThis is done in a styles.csss or custom.scss file, which is listed under theme: in _quarto.yml.\nSee Quarto SASS variables for the most likely variables you might want to change.\nSee More About Quarto Themes on using SCSS.",
+    "crumbs": [
+      "Schedule",
+      "14. Web design and visualization"
+    ]
+  },
+  {
+    "objectID": "meetings/14-design.html#resources-website-design",
+    "href": "meetings/14-design.html#resources-website-design",
+    "title": "Week 14: Web design and visualization",
+    "section": "Resources: Website design",
+    "text": "Resources: Website design\n\nQuarto websites are customizable through HTML themes.\nJoel Ross and Mike Freeman, Client-Side Web Development\nBootstrap 5\nBootswatch themes\nSASS\nMozilla Docs, CSS: Cascading Style Sheets",
     "crumbs": [
       "Schedule",
       "14. Web design and visualization"
@@ -630,6 +652,16 @@
     ]
   },
   {
+    "objectID": "computing.html#sec-quarto",
+    "href": "computing.html#sec-quarto",
+    "title": "Computing",
+    "section": "Quarto",
+    "text": "Quarto\n\nThe quarto R package is installed with the newer versions of RStudio. See the documentation on using Quarto with RStudio.\nQuarto can also be run from the command line, which is how we will publish our websites. You can download the Quarto command-line interface (CLI) in the Get Stated section of the Quarto website. Once you have downladed the CLI, you will be able to render and publish documents via the command line.",
+    "crumbs": [
+      "Computing"
+    ]
+  },
+  {
     "objectID": "faq.html",
     "href": "faq.html",
     "title": "FAQ",
@@ -758,7 +790,7 @@
     "href": "meetings/10-quarto.html#quarto-websites",
     "title": "Week 10: Making documents and websites with Quarto",
     "section": "Quarto websites",
-    "text": "Quarto websites\nQuarto websites are a collection of Quarto documents using format: html with a set structure and consistent visual style.\n\nCreate new Quarto website project: File -&gt; New Project… -&gt; Quarto Website.\nPreview website to see what we have.\n\nPreview page with Render button. Use gear button to control how preview works.\nRender website in build tab -&gt; Render Website\n\nStructure: _quarto.yml\n\nConfiguration file (_quarto.yml) provides the basic structure of the site.\nNavigation\n\nTop navbar\nSide navbar\nCombination of top and side navbar\n\nNavigation provides skeleton structure of pages in YAML format. Make sure to use proper whitespace in working in _quarto.yml.\n\nPages\n\nHomepage: index.qmd\nIndividual quarto documents turned into web pages\nShared YAML in _quarto.yml under format:. See HTML Basics for YAML options.\nLinks between pages:\n\n[about](about.qmd)\nSection identifier: # Introduction {#sec-introduction} and [about](about.qmd#sec-introduction).\n\nFooter: Add a footer to have text at the bottom of each page with page-footer in _quarto.yml.\n\nAbout page: Add an About page with special formatting.\nAesthetics\n\nThemes\nQuarto HTML documents are all based on Bootstrap 5.\n\nQuarto provides access to 25 Bootswatch themes.\nChange theme in _quarto.yml under format:\n\nYAML options in _quarto.yml\n\nCan make basic customization to the theme in YAML options under format:\n\nSCSS\n\nCreate fully custom themes with SASS variables through scss files, which is a superset of CSS (Cascading Style Sheets).\ncustom.scss\nSee Quarto SASS variables for the most likely variables you might want to change.\nSee More About Quarto Themes on using Scss.\n\n\nWebsite tools: Header, footer, and integration with other services.\nWebsite search: Options for having a search field for website.",
+    "text": "Quarto websites\nQuarto websites are a collection of Quarto documents using format: html with a set structure and consistent visual style.\n\nCreate new Quarto website project: File -&gt; New Project… -&gt; Quarto Website.\nPreview website to see what we have.\n\nPreview page with Render button. Use gear button to control how preview works.\nRender website in build tab -&gt; Render Website\n\nStructure: _quarto.yml\n\nConfiguration file (_quarto.yml) provides the basic structure of the site.\nNavigation\n\nTop navbar\nSide navbar\nCombination of top and side navbar\n\nNavigation provides skeleton structure of pages in YAML format. Make sure to use proper whitespace in working in _quarto.yml.\n\nPages\n\nHomepage: index.qmd\nIndividual quarto documents turned into web pages\nShared YAML in _quarto.yml under format:. See HTML Basics for YAML options.\nLinks between pages:\n\n[about](about.qmd)\nSection identifier: # Introduction {#sec-introduction} and [about](about.qmd#sec-introduction).\n\nFooter: Add a footer to have text at the bottom of each page with page-footer in _quarto.yml.\n\nAbout page: Add an About page with special formatting.\nAesthetics: Themes\nWebsite tools: Header, footer, and integration with other services.\nWebsite search: Options for having a search field for website.",
     "crumbs": [
       "Schedule",
       "10. Making documents and websites with Quarto"
@@ -879,7 +911,7 @@
     "href": "meetings/12-spatial.html#resources",
     "title": "Week 12: Spatial analysis",
     "section": "Resources",
-    "text": "Resources\n\nSpatial Digital History projects\n\nScott Nesbit and Ed Ayers, Visualizing Emancipation\nSlave Voyages\nMapping the Republic of Letters\nPleiades: gazetteer and graph of ancient places\nAncient World Mapping Center\nWorld Historical Gazetteer\n\n\n\nGeospatial resources\n\nCarpentries: Introduction to Geospatial Concepts\n\nIntroduction to raster and vector data, coordinate reference systems, and an overview of the GIS landscape.\n\nRobin Lovelace, Jakub Nowosad, and Jannes Muenchow, Geocomputation with R (2nd Edition), Chapter 2: Geographic data in R\nEdzer Pebesma and Roger Bivand, Spatial Data Science: With Applications in R, Chapter 1: Getting Started\n\n\n\nGIS with R\n\nRobin Lovelace, Jakub Nowosad, and Jannes Muenchow, Geocomputation with R (2nd Edition)\nEdzer Pebesma and Roger Bivand, Spatial Data Science: With Applications in R\nJesse Sadler, An Exploration of Simple Features for R.\nHadley Wickham, Danielle Navarro, and Thomas Lin Pedersen, ggplot2: Elegant Graphics for Data Analysis (3rd Edition), Chapter 6: Maps.\nCarpentries: Introduction to Geospatial Raster and Vector Data with R\n\n\n\nGeospatial R packages\nCRAN Task View: Analysis of Spatial Data\n\nPrimary packages for vector and raster spatial data\n\nsf: Vector data.\nterra: Raster data.\n\n\n\nGeospatial data sources\n\nrspatialdata: A collection of data sources and tutorials on visualising spatial data using R.\nrnaturalearth: It includes functions to download a wealth of Natural Earth vector and raster data, including cultural (e.g., country boundaries, airports, roads, railroads) and physical (e.g., coastline, lakes, glaciated areas) data sets.\nelevatr: Access to elevation data from AWS Open Data Terrain Tiles and the Open Topography Global datasets API for raster digital elevation models.\ntidycensus: Access to US Census Bureau data in a tidy format, including the option to bind the data spatially on import.\ntigris: Access to cartographic elements provided by the US Census Bureau TIGER, including cartographic boundaries, roads, and water.\ngiscoR: Access to European geodata.\n\n\n\nGeocoding\n\ntidygeocoder: Support for a number of data sources for geocoding locations. The package uses the OpenStreetsMap geocoder Nominatim by default.\nopencage: Geocode using the Opencage API.\n\n\n\nGeospatial visualization\n\nggplot2 can visualize sf vector data.\ntmap: An alternative to making maps with ggplot2.\nleaflet: Interactive mapping with R.\nmapview: Lightweight interactive mapping package. It’s main goal is to fill the gap of quick (not presentation grade) interactive plotting to examine and visually investigate both aspects of spatial data, the geometries and their attributes.\nrayshader: Make 3d maps in R.",
+    "text": "Resources\n\nSpatial Digital History projects\n\nScott Nesbit and Ed Ayers, Visualizing Emancipation\nSlave Voyages\nMapping the Republic of Letters\nPleiades: gazetteer and graph of ancient places\nAncient World Mapping Center\nWorld Historical Gazetteer\n\n\n\nGeospatial resources\n\nCarpentries: Introduction to Geospatial Concepts\n\nIntroduction to raster and vector data, coordinate reference systems, and an overview of the GIS landscape.\n\nRobin Lovelace, Jakub Nowosad, and Jannes Muenchow, Geocomputation with R (2nd Edition), Chapter 2: Geographic data in R\nEdzer Pebesma and Roger Bivand, Spatial Data Science: With Applications in R, Chapter 1: Getting Started\n\n\n\nGIS with R\n\nRobin Lovelace, Jakub Nowosad, and Jannes Muenchow, Geocomputation with R (2nd Edition)\nEdzer Pebesma and Roger Bivand, Spatial Data Science: With Applications in R\nJesse Sadler, An Exploration of Simple Features for R.\nHadley Wickham, Danielle Navarro, and Thomas Lin Pedersen, ggplot2: Elegant Graphics for Data Analysis (3rd Edition), Chapter 6: Maps.\nCarpentries: Introduction to Geospatial Raster and Vector Data with R\n\n\n\nGeospatial R packages\nCRAN Task View: Analysis of Spatial Data\n\nPrimary packages for vector and raster spatial data\n\nsf: Vector data.\nterra: Raster data.\n\n\n\nGeospatial data sources\n\nrspatialdata: A collection of data sources and tutorials on visualising spatial data using R.\nrnaturalearth: It includes functions to download a wealth of Natural Earth vector and raster data, including cultural (e.g., country boundaries, airports, roads, railroads) and physical (e.g., coastline, lakes, glaciated areas) data sets.\nelevatr: Access to elevation data from AWS Open Data Terrain Tiles and the Open Topography Global datasets API for raster digital elevation models.\ntidycensus: Access to US Census Bureau data in a tidy format, including the option to bind the data spatially on import.\ntigris: Access to cartographic elements provided by the US Census Bureau TIGER, including cartographic boundaries, roads, and water.\ngiscoR: Access to European geodata.\n\n\n\nGeocoding\n\ntidygeocoder: Support for a number of data sources for geocoding locations. The package uses the OpenStreetsMap geocoder Nominatim by default.\nopencage: Geocode using the Opencage API.\n\n\n\nGeospatial visualization\n\nggplot2 can visualize sf vector data.\ntmap: An alternative to making maps with ggplot2.\nleaflet: Interactive mapping with R.\nmapview: Lightweight interactive mapping package. It’s main goal is to fill the gap of quick (not presentation grade) interactive plotting to examine and visually investigate both aspects of spatial data, the geometries and their attributes.\ntidyterra: Provides functions to integrate terra objects into the tidyverse, including providing geoms for plotting terra objects with ggplot2.\nrayshader: Make 3d maps in R.",
     "crumbs": [
       "Schedule",
       "12. Spatial analysis"

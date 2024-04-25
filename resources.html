@@ -261,7 +261,13 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#sec-cl" id="toc-sec-cl" class="nav-link" data-scroll-target="#sec-cl">Command line</a></li>
   <li><a href="#sec-git" id="toc-sec-git" class="nav-link" data-scroll-target="#sec-git">Git and GitHub</a></li>
   <li><a href="#sec-r" id="toc-sec-r" class="nav-link" data-scroll-target="#sec-r">R</a></li>
-  <li><a href="#sec-quarto" id="toc-sec-quarto" class="nav-link" data-scroll-target="#sec-quarto">Quarto</a></li>
+  <li><a href="#sec-quarto" id="toc-sec-quarto" class="nav-link" data-scroll-target="#sec-quarto">Quarto</a>
+  <ul class="collapse">
+  <li><a href="#quarto-websites" id="toc-quarto-websites" class="nav-link" data-scroll-target="#quarto-websites">Quarto websites</a></li>
+  <li><a href="#sec-quarto-publish" id="toc-sec-quarto-publish" class="nav-link" data-scroll-target="#sec-quarto-publish">Publishing Quarto websites with GitHub Pages</a></li>
+  <li><a href="#setting-up-the-publish-command" id="toc-setting-up-the-publish-command" class="nav-link" data-scroll-target="#setting-up-the-publish-command">Setting up the publish command</a></li>
+  <li><a href="#what-you-should-be-doing-to-make-changes-to-your-website" id="toc-what-you-should-be-doing-to-make-changes-to-your-website" class="nav-link" data-scroll-target="#what-you-should-be-doing-to-make-changes-to-your-website">What you should be doing to make changes to your website</a></li>
+  </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/jessesadler/vt5454-s24/edit/main/resources.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jessesadler/vt5454-s24/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -394,8 +400,64 @@ ul.task-list li input[type="checkbox"] {
 <li>Look through the <a href="https://quarto.org/docs/get-started/hello/rstudio.html">Getting started tutorial</a> to get acquainted with the basics of a quarto document.</li>
 <li>For an extensive list of resources on Quarto see <a href="https://github.com/mcanouil/awesome-quarto">Awesome Quarto</a>.</li>
 </ul>
+<section id="quarto-websites" class="level3">
+<h3 class="anchored" data-anchor-id="quarto-websites">Quarto websites</h3>
+<ul>
+<li><a href="https://quarto.org/docs/websites/">Quarto websites</a> are a collection of Quarto documents using <code>format: html</code> with a set structure and consistent visual style.</li>
+<li>Create new Quarto website project: File -&gt; New Project… -&gt; Quarto Website.</li>
+</ul>
+<p>There are multiple ways to preview the website.</p>
+<ul>
+<li>RStudio interface: <code>Render</code> button (⇧⌘K). Use gear button to control how preview works.</li>
+<li><code>quarto</code> commands on the R console: <code>quarto::quarto_preview()</code></li>
+<li>Quarto command line interface in Terminal: <code>quarto preview</code></li>
+</ul>
+<p>You can render the website, meaning build all of the pages into the <code>_site</code> folder, through the same methods.</p>
+<ul>
+<li>RStudio interface: <code>build</code> tab in upper-right section of RStudio -&gt; <code>Render Website</code></li>
+<li><code>quarto</code> commands on the R console: <code>quarto::quarto_render()</code></li>
+<li>Quarto command line interface in Terminal: <code>quarto render</code></li>
+</ul>
+</section>
+<section id="sec-quarto-publish" class="level3">
+<h3 class="anchored" data-anchor-id="sec-quarto-publish">Publishing Quarto websites with GitHub Pages</h3>
+<ul>
+<li>See documentation for publishing website with <a href="https://quarto.org/docs/publishing/github-pages.html#publish-command">GitHub pages</a>.</li>
+<li>We will use the <a href="https://quarto.org/docs/publishing/github-pages.html#publish-command">publish command</a> using the quarto command line interface.</li>
+</ul>
+</section>
+<section id="setting-up-the-publish-command" class="level3">
+<h3 class="anchored" data-anchor-id="setting-up-the-publish-command">Setting up the publish command</h3>
+<ol type="1">
+<li>First, <strong>make sure all changes are committed</strong> on your project.</li>
+<li>Create an empty <code>gh-pages</code> branch.
+<ol type="1">
+<li><code>git checkout --orphan gh-pages</code></li>
+<li><code>git reset --hard</code></li>
+<li><code>git commit --allow-empty -m "Initialising gh-pages branch"</code></li>
+<li><code>git push origin gh-pages</code></li>
+</ol></li>
+<li>Check Settings -&gt; Pages for <strong>Source</strong> branch on your <a href="https://github.com">GitHub</a> repository.</li>
+<li>Ignore <code>_site/</code> folder in git
+<ol type="1">
+<li>Add <code>/_site/</code> to <code>.gitignore</code> file.</li>
+<li>Remove any tracking of <code>_site/</code> in git: <code>git rm -r _site</code></li>
+</ol></li>
+<li>Publish through command line: <code>quarto publish gh-pages</code></li>
+</ol>
+<p>What this does: The publish command will render your content, copy the output to a special <code>gh-pages</code> branch, push that branch to GitHub, and then open a browser to view your site once it is deployed.</p>
+</section>
+<section id="what-you-should-be-doing-to-make-changes-to-your-website" class="level3">
+<h3 class="anchored" data-anchor-id="what-you-should-be-doing-to-make-changes-to-your-website">What you should be doing to make changes to your website</h3>
+<ol type="1">
+<li>Make the changes in RStudio.</li>
+<li><code>git add</code> and <code>git commit -m</code> changes.</li>
+<li>Push changes to GitHub main branch: <code>git push origin main</code></li>
+<li>Publish changes by pushing to gh-pages branch: <code>quarto publish gh-pages</code></li>
+</ol>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
