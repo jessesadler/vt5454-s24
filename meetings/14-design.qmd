@@ -15,9 +15,33 @@ This week is a more or less free week to discuss and work on anything from the c
 - Work on website project.
 
 ## Activities
+Workshop: Publishing your website
 Workshop: Designing websites
 
-## Resources
+## Publishing your website on GitHub pages
+- See also [Resources: Publishing Quarto websites with GitHub Pages](/resources.qmd#sec-quarto-publish)
+- Documentation for the [publish command](https://quarto.org/docs/publishing/github-pages.html#publish-command) using the quarto command line interface.
+
+### Setting up publish command
+1. First, **make sure all changes are committed** on your project.
+2. Create an empty `gh-pages` branch.
+    1. `git checkout --orphan gh-pages`
+    2. `git reset --hard`
+    3. `git commit --allow-empty -m "Initialising gh-pages branch"`
+    4. `git push origin gh-pages`
+3. Check Settings -> Pages for **Source** branch on your [GitHub](https://github.com) repository.
+4. Ignore `_site/` folder in git
+    1. Add `/_site/` to `.gitignore` file.
+    2. Remove any tracking of `_site/` in git: `git rm -r _site`
+5. Publish through command line: `quarto publish gh-pages`
+
+### What you should be doing to make changes to your website
+1. Make the changes in RStudio.
+2. `git add` and `git commit -m` changes.
+3. Push changes to GitHub main branch: `git push origin main`
+4. Publish changes by pushing to gh-pages branch: `quarto publish gh-pages`
+
+## Resources: Website design
 - Joel Ross and Mike Freeman, [Client-Side Web Development](https://info340.github.io)
 - [Bootstrap 5](https://getbootstrap.com/)
 - [Bootswatch themes](https://bootswatch.com/)

@@ -49,3 +49,7 @@ Register for an account on [GitHub](https://github.com)
 - [Download R from CRAN](https://cloud.r-project.org). R 4.3.2 is currently the newest release. It is expected that you will have a version greater than or equal to 4.3.
 - [Download RStudio](https://posit.co/download/rstudio-desktop/).
 - [RStudio IDE User Guide](https://docs.posit.co/ide/user/)
+
+## Quarto {#sec-quarto}
+- The quarto R package is installed with the newer versions of RStudio. See the documentation on [using Quarto with RStudio](https://quarto.org/docs/tools/rstudio.html).
+- Quarto can also be run from the command line, which is how we will publish our websites. You can download the Quarto command-line interface (CLI) in the [Get Stated](https://quarto.org/docs/get-started/) section of the Quarto website. Once you have downladed the CLI, you will be able to render and publish documents via the command line.
