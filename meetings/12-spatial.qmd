@@ -62,6 +62,7 @@ title: "Week 12: Spatial analysis"
 - [tmap](https://r-tmap.github.io/tmap/): An alternative to making maps with ggplot2.
 - [leaflet](https://rstudio.github.io/leaflet/): Interactive mapping with R.
 - [mapview](https://r-spatial.github.io/mapview/): Lightweight interactive mapping package. It's main goal is to fill the gap of quick (not presentation grade) interactive plotting to examine and visually investigate both aspects of spatial data, the geometries and their attributes.
+- [tidyterra](https://dieghernan.github.io/tidyterra/index.html): Provides functions to integrate `terra` objects into the tidyverse, including providing geoms for plotting `terra` objects with ggplot2.
 - [rayshader](https://www.rayshader.com): Make 3d maps in R.
 
 ## GUI and web mapping tools
