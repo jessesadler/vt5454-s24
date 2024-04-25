@@ -41,9 +41,28 @@ Workshop: Designing websites
 3. Push changes to GitHub main branch: `git push origin main`
 4. Publish changes by pushing to gh-pages branch: `quarto publish gh-pages`
 
+## Designing Quarto websites
+The basic styling of your website is done through [HTML theming](https://quarto.org/docs/output-formats/html-themes.html).
+
+### Choose a Quarto theme
+- Quarto HTML documents are all based on [Bootstrap 5](https://getbootstrap.com/).
+- Quarto provides access to 25 [Bootswatch themes](https://bootswatch.com/).
+- Change theme in `_quarto.yml` under `format:`
+
+### Basic customization
+- You can make basic changes to the theme in `_quarto.yml` under `format:`.
+- See [basic customization](https://quarto.org/docs/output-formats/html-themes.html#basic-options) for available options.
+
+### Customization with SCSS
+- Create [fully custom themes](https://quarto.org/docs/output-formats/html-themes.html#custom-themes) with [SASS](https://sass-lang.com) variables through `scss` files. SASS is a superset of [CSS (Cascading Style Sheets)](https://developer.mozilla.org/en-US/docs/Web/CSS).
+- This is done in a `styles.csss` or `custom.scss` file, which is listed under `theme:` in `_quarto.yml`.
+- See [Quarto SASS variables](https://quarto.org/docs/output-formats/html-themes.html#sass-variables) for the most likely variables you might want to change.
+- See [More About Quarto Themes](https://quarto.org/docs/output-formats/html-themes-more.html) on using SCSS.
+
 ## Resources: Website design
+- Quarto websites are customizable through [HTML themes](https://quarto.org/docs/output-formats/html-themes.html).
 - Joel Ross and Mike Freeman, [Client-Side Web Development](https://info340.github.io)
 - [Bootstrap 5](https://getbootstrap.com/)
 - [Bootswatch themes](https://bootswatch.com/)
-- [Sass](https://sass-lang.com/guide/)
+- [SASS](https://sass-lang.com/guide/)
 - [Mozilla Docs, CSS: Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS)
