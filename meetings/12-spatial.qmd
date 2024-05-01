@@ -17,6 +17,8 @@ title: "Week 12: Spatial analysis"
 
 ## Resources
 
+See the [Guide: Putting maps on your website](/guides/geo-data.qmd) for a guide on downloading and saving geographic data to use on a Quarto Website.
+
 ### Spatial Digital History projects
 - Scott Nesbit and Ed Ayers, [Visualizing Emancipation](https://dsl.richmond.edu/emancipation/)
 - [Slave Voyages](https://www.slavevoyages.org/)

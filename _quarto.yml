@@ -54,7 +54,10 @@ website:
             text: 15. Conclusion
           - href: meetings/16-text.qmd
             text: "Appendix: Text analysis"
-
+      - section: "Guides"
+        contents:
+          - href: guides/geo-data.qmd
+            text: Putting maps on your website
       - href: resources.qmd
       - href: faq.qmd
       - href: computing.qmd
