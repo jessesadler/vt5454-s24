@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Week 14: Web design and visualization</title>
+<title>Putting maps on your website</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,6 +20,40 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -29,8 +63,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../meetings/15-conclusion.html" rel="next">
-<link href="../meetings/13-network.html" rel="prev">
+<link href="../resources.html" rel="next">
+<link href="../meetings/16-text.html" rel="prev">
 <link href="../logo.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -83,7 +117,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../meetings/01-intro.html">Schedule</a></li><li class="breadcrumb-item"><a href="../meetings/14-design.html">14. Web design and visualization</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../guides/geo-data.html">Guides</a></li><li class="breadcrumb-item"><a href="../guides/geo-data.html">Putting maps on your website</a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -202,7 +236,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../meetings/14-design.html" class="sidebar-item-text sidebar-link active">
+  <a href="../meetings/14-design.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">14. Web design and visualization</span></a>
   </div>
 </li>
@@ -231,7 +265,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../guides/geo-data.html" class="sidebar-item-text sidebar-link">
+  <a href="../guides/geo-data.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Putting maps on your website</span></a>
   </div>
 </li>
@@ -265,30 +299,20 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#reading" id="toc-reading" class="nav-link active" data-scroll-target="#reading">Reading</a></li>
-  <li><a href="#assignment" id="toc-assignment" class="nav-link" data-scroll-target="#assignment">Assignment</a></li>
-  <li><a href="#activities" id="toc-activities" class="nav-link" data-scroll-target="#activities">Activities</a></li>
-  <li><a href="#publishing-your-website-on-github-pages" id="toc-publishing-your-website-on-github-pages" class="nav-link" data-scroll-target="#publishing-your-website-on-github-pages">Publishing your website on GitHub pages</a>
-  <ul class="collapse">
-  <li><a href="#setting-up-publish-command" id="toc-setting-up-publish-command" class="nav-link" data-scroll-target="#setting-up-publish-command">Setting up publish command</a></li>
-  <li><a href="#what-you-should-be-doing-to-make-changes-to-your-website" id="toc-what-you-should-be-doing-to-make-changes-to-your-website" class="nav-link" data-scroll-target="#what-you-should-be-doing-to-make-changes-to-your-website">What you should be doing to make changes to your website</a></li>
-  </ul></li>
-  <li><a href="#designing-quarto-websites" id="toc-designing-quarto-websites" class="nav-link" data-scroll-target="#designing-quarto-websites">Designing Quarto websites</a>
-  <ul class="collapse">
-  <li><a href="#choose-a-quarto-theme" id="toc-choose-a-quarto-theme" class="nav-link" data-scroll-target="#choose-a-quarto-theme">Choose a Quarto theme</a></li>
-  <li><a href="#basic-customization" id="toc-basic-customization" class="nav-link" data-scroll-target="#basic-customization">Basic customization</a></li>
-  <li><a href="#customization-with-scss" id="toc-customization-with-scss" class="nav-link" data-scroll-target="#customization-with-scss">Customization with SCSS</a></li>
-  </ul></li>
-  <li><a href="#resources-website-design" id="toc-resources-website-design" class="nav-link" data-scroll-target="#resources-website-design">Resources: Website design</a></li>
+  <li><a href="#the-problem" id="toc-the-problem" class="nav-link active" data-scroll-target="#the-problem">The problem</a></li>
+  <li><a href="#the-solution" id="toc-the-solution" class="nav-link" data-scroll-target="#the-solution">The solution</a></li>
+  <li><a href="#geocoded-data" id="toc-geocoded-data" class="nav-link" data-scroll-target="#geocoded-data">Geocoded data</a></li>
+  <li><a href="#data-from-rnaturalearth" id="toc-data-from-rnaturalearth" class="nav-link" data-scroll-target="#data-from-rnaturalearth">Data from <code>rnaturalearth</code></a></li>
+  <li><a href="#plot-the-map" id="toc-plot-the-map" class="nav-link" data-scroll-target="#plot-the-map">Plot the map</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/jessesadler/vt5454-s24/edit/main/meetings/14-design.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jessesadler/vt5454-s24/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/jessesadler/vt5454-s24/edit/main/guides/geo-data.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jessesadler/vt5454-s24/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../meetings/01-intro.html">Schedule</a></li><li class="breadcrumb-item"><a href="../meetings/14-design.html">14. Web design and visualization</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../guides/geo-data.html">Guides</a></li><li class="breadcrumb-item"><a href="../guides/geo-data.html">Putting maps on your website</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Week 14: Web design and visualization</h1>
+<h1 class="title">Putting maps on your website</h1>
 </div>
 
 
@@ -305,105 +329,109 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>This week is a more or less free week to discuss and work on anything from the class that we feel we want/need to go over. The current idea for the week is to go over styling for websites and polishing visualizations.</p>
-<section id="reading" class="level2">
-<h2 class="anchored" data-anchor-id="reading">Reading</h2>
-<ul>
-<li><a href="https://quarto.org/docs/output-formats/html-themes.html">Quarto documentation: HTML Themes</a>
-<ul>
-<li><a href="https://quarto.org/docs/output-formats/html-themes-more.html">More About Quarto Themes</a></li>
-</ul></li>
-<li>Samantha Csik, <a href="https://ucsb-meds.github.io/customizing-quarto-websites/">Customizing Quarto Websites - Make your website stand out using SASS &amp; CSS</a>
-<ul>
-<li><a href="https://github.com/UCSB-MEDS/customizing-quarto-websites">GitHub repository</a></li>
-</ul></li>
-</ul>
+<section id="the-problem" class="level2">
+<h2 class="anchored" data-anchor-id="the-problem">The problem</h2>
+<p>When making a map, we often need to download the data using an R package. This could be data for the base map from <a href="https://docs.ropensci.org/rnaturalearth/index.html">rnaturalearth</a>, more detailed street and location data from Open Street Maps using <a href="https://docs.ropensci.org/osmdata/index.html">osmdata</a>, or locations that we geocode with <a href="https://jessecambon.github.io/tidygeocoder/index.html">tidygeocoder</a>. We want to do this active downloading as few times as possible. We want to download the data, make sure that it is correct and maybe clean it up, and then save the data for future usage. This guide will show how to do that.</p>
 </section>
-<section id="assignment" class="level2">
-<h2 class="anchored" data-anchor-id="assignment">Assignment</h2>
-<ul>
-<li>Work on website project.</li>
-</ul>
-</section>
-<section id="activities" class="level2">
-<h2 class="anchored" data-anchor-id="activities">Activities</h2>
-<p>Workshop: Publishing your website Workshop: Designing websites</p>
-</section>
-<section id="publishing-your-website-on-github-pages" class="level2">
-<h2 class="anchored" data-anchor-id="publishing-your-website-on-github-pages">Publishing your website on GitHub pages</h2>
-<ul>
-<li>See also <a href="../resources.html#sec-quarto-publish">Resources: Publishing Quarto websites with GitHub Pages</a></li>
-<li>Documentation for the <a href="https://quarto.org/docs/publishing/github-pages.html#publish-command">publish command</a> using the quarto command line interface.</li>
-</ul>
-<section id="setting-up-publish-command" class="level3">
-<h3 class="anchored" data-anchor-id="setting-up-publish-command">Setting up publish command</h3>
+<section id="the-solution" class="level2">
+<h2 class="anchored" data-anchor-id="the-solution">The solution</h2>
+<p>The solution is to break up the steps of making a map into separate scripts. We get and prep the data once. Then we can use the data to make as many maps as we want. This is good practice for thinking about how we should be dividing up scripts and when to save data compared to when we can recreate it through our R scripts.</p>
+<p>There are two basic ways to do this:</p>
 <ol type="1">
-<li>First, <strong>make sure all changes are committed</strong> on your project.</li>
-<li>Create an empty <code>gh-pages</code> branch.
-<ol type="1">
-<li><code>git checkout --orphan gh-pages</code></li>
-<li><code>git reset --hard</code></li>
-<li><code>git commit --allow-empty -m "Initialising gh-pages branch"</code></li>
-<li><code>git push origin gh-pages</code></li>
-</ol></li>
-<li>Check Settings -&gt; Pages for <strong>Source</strong> branch on your <a href="https://github.com">GitHub</a> repository.</li>
-<li>Ignore <code>_site/</code> folder in git
-<ol type="1">
-<li>Add <code>/_site/</code> to <code>.gitignore</code> file.</li>
-<li>Remove any tracking of <code>_site/</code> in git: <code>git rm -r _site</code></li>
-</ol></li>
-<li>Publish through command line: <code>quarto publish gh-pages</code></li>
+<li>Use an R script within the website project folder to download and clean the data. An R script (named something like <code>map-data.R</code>) will not be rendered in the website by Quarto.</li>
+<li>Download the data and potentially make the map in a separate RStudio project. You can either create the map in that project, save an image file, and then use the image on your website, or you can copy over the cleaned data files to website project to work on them there.</li>
 </ol>
-</section>
-<section id="what-you-should-be-doing-to-make-changes-to-your-website" class="level3">
-<h3 class="anchored" data-anchor-id="what-you-should-be-doing-to-make-changes-to-your-website">What you should be doing to make changes to your website</h3>
+<p>Either way you decide to structure your project, there are four basic steps to follow:</p>
 <ol type="1">
-<li>Make the changes in RStudio.</li>
-<li>Render website on your computer to make sure everything works.</li>
-<li><code>git add</code> and <code>git commit -m</code> changes.</li>
-<li>Push changes to GitHub main branch: <code>git push origin main</code></li>
-<li>Publish changes by pushing to gh-pages branch: <code>quarto publish gh-pages</code></li>
+<li>Download the data.</li>
+<li>Check that the data is correct and clean it up.</li>
+<li>Save the data; write it out to a <code>data/</code> folder.</li>
+<li>Read in the data when you want to make a map.</li>
 </ol>
+<p>Let’s show how to do this for two different kinds of geographic data we will want to download from the internet: geocoded data and base map data.</p>
+<p>First we load the packages we are going to use.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tidyverse)</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tidygeocoder)</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(sf, <span class="at">verbose =</span> <span class="cn">FALSE</span>)</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(rnaturalearth)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
 </section>
+<section id="geocoded-data" class="level2">
+<h2 class="anchored" data-anchor-id="geocoded-data">Geocoded data</h2>
+<p>Geocoding location data is something that we want to do once, make sure that it is correct, and then save the resulting data. It is not something we want to be doing multiple times.</p>
+<p>Let’s start by creating some data to geocode using <a href="https://jessecambon.github.io/tidygeocoder/index.html">tidygeocoder</a>. If you have a larger data set with locations, you will want to create a csv file and read in the data.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>locations <span class="ot">&lt;-</span> <span class="fu">tibble</span>(</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">name =</span> <span class="fu">c</span>(<span class="st">"Blacksburg"</span>, <span class="st">"San Diego"</span>, <span class="st">"Washington, DC"</span>),</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">address =</span> <span class="fu">c</span>(<span class="st">"Blacksburg, VA 24060"</span>, <span class="st">"San Diego, CA 92024"</span>, <span class="st">"Washington, DC 20024"</span>)</span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>Notice that we have two columns here, one for the label of our points/locations and one for the address, where we can be more exact about the location to geocode. We can geocode the data with the <code>geocode()</code> function since it is in a data frame. If you have your locations in a vector, you can use the <code>geo()</code> function.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>locations_geo <span class="ot">&lt;-</span> <span class="fu">geocode</span>(locations, <span class="at">address =</span> address)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>Check to make sure that the geocoded data is correct. This can be done by just looking at the output or mapping it with a base map of <a href="https://r-spatial.github.io/mapview/">mapview</a>. Here we will just look at the output.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>locations_geo</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code># A tibble: 3 × 4
+  name           address                lat   long
+  &lt;chr&gt;          &lt;chr&gt;                &lt;dbl&gt;  &lt;dbl&gt;
+1 Blacksburg     Blacksburg, VA 24060  37.2  -80.4
+2 San Diego      San Diego, CA 92024   32.7 -117. 
+3 Washington, DC Washington, DC 20024  38.9  -77.0</code></pre>
+</div>
+</div>
+<p>The next step is to save the data or write it out. It is easiest to do this before we convert the data to an <code>sf</code> object because we can use the normal <code>write_csv()</code> function from the tidyverse. This function takes the data we want to write out and the name of the file/location we want to create.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb6"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Save data frame to a csv file</span></span>
+<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a><span class="fu">write_csv</span>(locations_geo, <span class="st">"data/locations-geo.csv"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>Then, next time we want to use the data, we can just read it in.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb7"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a>locations_geo <span class="ot">&lt;-</span> <span class="fu">read_csv</span>(<span class="st">"data/locations-geo.csv"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
 </section>
-<section id="designing-quarto-websites" class="level2">
-<h2 class="anchored" data-anchor-id="designing-quarto-websites">Designing Quarto websites</h2>
-<p>The basic styling of your website is done through <a href="https://quarto.org/docs/output-formats/html-themes.html">HTML theming</a>.</p>
-<section id="choose-a-quarto-theme" class="level3">
-<h3 class="anchored" data-anchor-id="choose-a-quarto-theme">Choose a Quarto theme</h3>
-<ul>
-<li>Quarto HTML documents are all based on <a href="https://getbootstrap.com/">Bootstrap 5</a>.</li>
-<li>Quarto provides access to 25 <a href="https://bootswatch.com/">Bootswatch themes</a>.</li>
-<li>Change theme in <code>_quarto.yml</code> under <code>format:</code></li>
-</ul>
+<section id="data-from-rnaturalearth" class="level2">
+<h2 class="anchored" data-anchor-id="data-from-rnaturalearth">Data from <code>rnaturalearth</code></h2>
+<p>The data that we download from <a href="https://docs.ropensci.org/rnaturalearth/index.html">rnaturalearth</a> or <a href="https://docs.ropensci.org/osmdata/index.html">osmdata</a> is a bit different because it is geospatial in nature. It is an <code>sf</code> object and so to maintain the geospatial nature of the data we need to use <code>st_write()</code> instead of <code>write_csv()</code> and to choose a type of spatial data to create. Here, we will use <a href="https://geojson.org">geojson</a>. Otherwise the steps are the same.</p>
+<p>Let’s load some data from <code>rnaturalearth</code>. In this case, we will use the <code>ne_states()</code> function to load data for the states of the country “United States of America”.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb8"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a>states <span class="ot">&lt;-</span> <span class="fu">ne_states</span>(<span class="at">country =</span> <span class="st">"United States of America"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>Before saving the data, we want to clean it up and simplify it to only have the state name and to only include the continental United States.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb9"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a>states <span class="ot">&lt;-</span> states <span class="sc">|&gt;</span> </span>
+<span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">filter</span>(name <span class="sc">!=</span> <span class="st">"Hawaii"</span>, name <span class="sc">!=</span> <span class="st">"Alaska"</span>) <span class="sc">|&gt;</span> </span>
+<span id="cb9-3"><a href="#cb9-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">select</span>(name)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>Now we can write out the data using the <code>st_write()</code> function as a geojson file. This will maintain all of the geographic metadata of our data such as the CRS.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb10"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a><span class="fu">st_write</span>(states, <span class="st">"data/states.geojson"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>Then, next time we want to use the data, we can just read it in, but this time with <code>st_read()</code> because we want an <code>sf</code> object.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb11"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a>states <span class="ot">&lt;-</span> <span class="fu">st_read</span>(<span class="st">"data/states.geojson"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
 </section>
-<section id="basic-customization" class="level3">
-<h3 class="anchored" data-anchor-id="basic-customization">Basic customization</h3>
-<ul>
-<li>You can make basic changes to the theme in <code>_quarto.yml</code> under <code>format:</code>.</li>
-<li>See <a href="https://quarto.org/docs/output-formats/html-themes.html#basic-options">basic customization</a> for available options.</li>
-</ul>
-</section>
-<section id="customization-with-scss" class="level3">
-<h3 class="anchored" data-anchor-id="customization-with-scss">Customization with SCSS</h3>
-<ul>
-<li>Create <a href="https://quarto.org/docs/output-formats/html-themes.html#custom-themes">fully custom themes</a> with <a href="https://sass-lang.com">SASS</a> variables through <code>scss</code> files. SASS is a superset of <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS (Cascading Style Sheets)</a>.</li>
-<li>This is done in a <code>styles.csss</code> or <code>custom.scss</code> file, which is listed under <code>theme:</code> in <code>_quarto.yml</code>.</li>
-<li>See <a href="https://quarto.org/docs/output-formats/html-themes.html#sass-variables">Quarto SASS variables</a> for the most likely variables you might want to change.</li>
-<li>See <a href="https://quarto.org/docs/output-formats/html-themes-more.html">More About Quarto Themes</a> on using SCSS.</li>
-</ul>
-</section>
-</section>
-<section id="resources-website-design" class="level2">
-<h2 class="anchored" data-anchor-id="resources-website-design">Resources: Website design</h2>
-<ul>
-<li>Quarto websites are customizable through <a href="https://quarto.org/docs/output-formats/html-themes.html">HTML themes</a>.</li>
-<li>Joel Ross and Mike Freeman, <a href="https://info340.github.io">Client-Side Web Development</a></li>
-<li><a href="https://getbootstrap.com/">Bootstrap 5</a></li>
-<li><a href="https://bootswatch.com/">Bootswatch themes</a></li>
-<li><a href="https://sass-lang.com/guide/">SASS</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">Mozilla Docs, CSS: Cascading Style Sheets</a></li>
-</ul>
+<section id="plot-the-map" class="level2">
+<h2 class="anchored" data-anchor-id="plot-the-map">Plot the map</h2>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb12"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true" tabindex="-1"></a><span class="fu">ggplot</span>() <span class="sc">+</span> </span>
+<span id="cb12-2"><a href="#cb12-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_sf</span>(<span class="at">data =</span> states) <span class="sc">+</span> </span>
+<span id="cb12-3"><a href="#cb12-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_point</span>(<span class="at">data =</span> locations_geo, <span class="fu">aes</span>(<span class="at">x =</span> long, <span class="at">y =</span> lat)) <span class="sc">+</span> </span>
+<span id="cb12-4"><a href="#cb12-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_text</span>(<span class="at">data =</span> locations_geo, <span class="fu">aes</span>(<span class="at">x =</span> long, <span class="at">y =</span> lat, <span class="at">label =</span> name),</span>
+<span id="cb12-5"><a href="#cb12-5" aria-hidden="true" tabindex="-1"></a>            <span class="at">nudge_y =</span> <span class="sc">-</span><span class="fl">0.5</span>) <span class="sc">+</span> </span>
+<span id="cb12-6"><a href="#cb12-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_minimal</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="geo-data_files/figure-html/unnamed-chunk-12-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
 
 
 </section>
@@ -964,13 +992,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../meetings/13-network.html" class="pagination-link" aria-label="13. Network analysis">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">13. Network analysis</span>
+      <a href="../meetings/16-text.html" class="pagination-link" aria-label="Appendix: Text analysis">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Appendix: Text analysis</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../meetings/15-conclusion.html" class="pagination-link" aria-label="15. Conclusion">
-        <span class="nav-page-text">15. Conclusion</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../resources.html" class="pagination-link" aria-label="Resources">
+        <span class="nav-page-text">Resources</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -982,7 +1010,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/jessesadler/vt5454-s24/edit/main/meetings/14-design.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jessesadler/vt5454-s24/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/jessesadler/vt5454-s24/edit/main/guides/geo-data.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jessesadler/vt5454-s24/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>This page is built with <a href="https://quarto.org/">Quarto</a>.</p>
 </div>

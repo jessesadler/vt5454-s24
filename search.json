@@ -518,150 +518,6 @@
     ]
   },
   {
-    "objectID": "markdown-syntax.html",
-    "href": "markdown-syntax.html",
-    "title": "Level 1 heading",
-    "section": "",
-    "text": "- Paragraphs: Empty line, no indentation\n- Headers 1–6\n- *Italics* or _Italics_\n- **Bold** or __Bold__\n- Unordered list: `-`, `*`, `+`\n- Ordered list\n- Link:\n    - Inline: [Text](https://www.vt.edu)\n    - Reference style\n        - `[Text][1]`\n        - `[1]: https://www.vt.edu`\n    - Raw link: &lt;https://www.vt.edu&gt;\n- Footnotes\n    - `Some text[^1].`\n    - `[^1]: Footnote text.`\n- Block quote: `&gt;`\n- Code: `code`\n- Images: `![Description](image.jpg)`\n\nWe write a paragraph. It is a good paragraph.\n\nThis is the next paragraph.\n\n# Level 1 heading\n\n## Level 2 heading\n\n###### Level 6\n\nThis is *some text in italics*. This is **bold** text.\n\n+ This is a unordered list\n+ Second item in a list\n    + Indented list item\n\n----\n\n1. This is an ordered list\n2. Second item\n    - Unordered list\n\n\n- This is an idea that has three points:\n    1. item 1\n    2. item 2\n    3. item 3\n\n\nRaw link: &lt;https://www.vt.edu&gt;\n\n\nInline link: Here is some text. I want [this text to be a link](https://www.vt.edu).\n\nReference style link: I want [this text to be a link][1]\n\n\n&gt; This is a block quote\n\n\nWe want a footnote here.[^1]\n\n\n[1]: https://www.vt.edu\n\n[^1]: This is the text of the footnote.\n\n\n\n\nParagraphs: Empty line, no indentation\nHeaders 1–6\nItalics or Italics\nBold or Bold\nUnordered list: -, *, +\nOrdered list\nLink:\n\nInline: Text\nReference style\n\n[Text][1]\n[1]: https://www.vt.edu\n\nRaw link: https://www.vt.edu\n\nFootnotes\n\nSome text[^1].\n[^1]: Footnote text.\n\nBlock quote: &gt;\nCode: code\nImages: ![Description](image.jpg)\n\nWe write a paragraph. It is a good paragraph.\nThis is the next paragraph."
-  },
-  {
-    "objectID": "markdown-syntax.html#markdown-syntax",
-    "href": "markdown-syntax.html#markdown-syntax",
-    "title": "Level 1 heading",
-    "section": "",
-    "text": "- Paragraphs: Empty line, no indentation\n- Headers 1–6\n- *Italics* or _Italics_\n- **Bold** or __Bold__\n- Unordered list: `-`, `*`, `+`\n- Ordered list\n- Link:\n    - Inline: [Text](https://www.vt.edu)\n    - Reference style\n        - `[Text][1]`\n        - `[1]: https://www.vt.edu`\n    - Raw link: &lt;https://www.vt.edu&gt;\n- Footnotes\n    - `Some text[^1].`\n    - `[^1]: Footnote text.`\n- Block quote: `&gt;`\n- Code: `code`\n- Images: `![Description](image.jpg)`\n\nWe write a paragraph. It is a good paragraph.\n\nThis is the next paragraph.\n\n# Level 1 heading\n\n## Level 2 heading\n\n###### Level 6\n\nThis is *some text in italics*. This is **bold** text.\n\n+ This is a unordered list\n+ Second item in a list\n    + Indented list item\n\n----\n\n1. This is an ordered list\n2. Second item\n    - Unordered list\n\n\n- This is an idea that has three points:\n    1. item 1\n    2. item 2\n    3. item 3\n\n\nRaw link: &lt;https://www.vt.edu&gt;\n\n\nInline link: Here is some text. I want [this text to be a link](https://www.vt.edu).\n\nReference style link: I want [this text to be a link][1]\n\n\n&gt; This is a block quote\n\n\nWe want a footnote here.[^1]\n\n\n[1]: https://www.vt.edu\n\n[^1]: This is the text of the footnote.\n\n\n\n\nParagraphs: Empty line, no indentation\nHeaders 1–6\nItalics or Italics\nBold or Bold\nUnordered list: -, *, +\nOrdered list\nLink:\n\nInline: Text\nReference style\n\n[Text][1]\n[1]: https://www.vt.edu\n\nRaw link: https://www.vt.edu\n\nFootnotes\n\nSome text[^1].\n[^1]: Footnote text.\n\nBlock quote: &gt;\nCode: code\nImages: ![Description](image.jpg)\n\nWe write a paragraph. It is a good paragraph.\nThis is the next paragraph."
-  },
-  {
-    "objectID": "markdown-syntax.html#level-2-heading",
-    "href": "markdown-syntax.html#level-2-heading",
-    "title": "Level 1 heading",
-    "section": "Level 2 heading",
-    "text": "Level 2 heading\n\nLevel 6\nThis is some text in italics. This is bold text.\n\nThis is a unordered list\nSecond item in a list\n\nIndented list item\n\n\n\n\nThis is an ordered list\nSecond item\n\nUnordered list\n\n\n\nThis is an idea that has three points:\n\nitem 1\nitem 2\nitem 3\n\n\nRaw link: https://www.vt.edu\nInline link: Here is some text. I want this text to be a link.\nReference style link: I want this text to be a link\n\nThis is a block quote\n\nWe want a footnote here.1"
-  },
-  {
-    "objectID": "markdown-syntax.html#footnotes",
-    "href": "markdown-syntax.html#footnotes",
-    "title": "Level 1 heading",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nThis is the text of the footnote.↩︎"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "History 5454: Digital History for Public History",
-    "section": "",
-    "text": "Instructor\n\n\n\nJesse Sadler. Email: jrsadler@vt.edu\nOffice hours: Thursday, 1:00–2:00pm and by appointment in Major Williams 4th floor\n\n\n\n\n\n\n\n\nCourse\n\n\n\nHistory 5454: Spring 2024\nMeets Thursdays, 2:00–4:50 in Major Williams 427"
-  },
-  {
-    "objectID": "index.html#course-description",
-    "href": "index.html#course-description",
-    "title": "History 5454: Digital History for Public History",
-    "section": "Course description",
-    "text": "Course description\nThis course is designed to introduce students to some of the tools of Digital Humanities/History with an emphasis on using open source technology that puts you in control. The course focuses on methodologies. It begins with the basics of organizing primary and secondary sources and your notes on them. We will then give an introduction to data analysis and visualization using the R programming language, culminating in the creation of your own website. Along the way we will be learning the basics of using the command line and learn about git and using GitHub for publishing websites and to become acquainted with the practices of reproducible research.\n\n\n\n\n\n\nNote\n\n\n\nThis course website will function as the main source of information for the course. The syllabus is liable to change based on new material and student input. We may not get to certain material, or I may add new resources based on student interest. Make sure to check in on the website frequently."
-  },
-  {
-    "objectID": "index.html#learning-goals",
-    "href": "index.html#learning-goals",
-    "title": "History 5454: Digital History for Public History",
-    "section": "Learning goals",
-    "text": "Learning goals\nAfter taking this course, you will…\n\nhave an expanded awareness of the open source tools available for conducting historical research and making that research widely available to the public.\nbe comfortable writing in plain text and using Markdown.\nunderstand the uses and drawbacks of spreadsheets and how to organize rectangular data.\nbe comfortable with the basics of the command line.\nbe able to import, explore, wrangle, and visualize data in R.\nbe able to write R scripts and document your code in quarto documents.\nhave familiarity with the tidyverse packages in R.\nhave experience with the possibilities for text, network, and spatial analysis available through various R packages.\nbe comfortable with using git and GitHub for your own work or collaboration with others.\ncreate a website using open source tools."
-  },
-  {
-    "objectID": "index.html#expectations",
-    "href": "index.html#expectations",
-    "title": "History 5454: Digital History for Public History",
-    "section": "Expectations",
-    "text": "Expectations\nThere are no prerequisites for this course. Students do not need to know anything about the methods and technologies listed in the syllabus. You do not need to know what the command line, R, or git is. That is what the course is for. Familiarity is, of course, helpful, and more advanced students can be accommodated within the structures of the course. However, the intention is for this to be an exploration of open source tools that can help you with historical analysis and publication. The primary expectation is a willingness to try and a readiness to learn. More specific expectations include:\n\nAttendance and active participation in all seminars.\nComplete and be ready to discuss all reading by our weekly meeting.\nCome to seminar with a computer ready to work and to participate in the weekly labs with all applications and programming environments installed by the assigned meeting.1\nComplete all assignments on time.\nComplete the final project of creating a Quarto website.\n\nFinally, it is expected that all students will be respectful of each other. Students will enter the course at different levels of comfort with the tools that we will use. The goal of the course is to help each other get more comfortable with open source technologies."
-  },
-  {
-    "objectID": "index.html#assessment",
-    "href": "index.html#assessment",
-    "title": "History 5454: Digital History for Public History",
-    "section": "Assessment",
-    "text": "Assessment\nAs noted above, the primary expectation for the course is a willingness to try, and so the primary assessment will be focused on effort and growth.\n\nParticipation: 40%\nWeekly assignments: 20%\nFinal project: 40%"
-  },
-  {
-    "objectID": "index.html#how-the-course-works",
-    "href": "index.html#how-the-course-works",
-    "title": "History 5454: Digital History for Public History",
-    "section": "How the course works",
-    "text": "How the course works\nMeetings will be divided between discussion of weekly readings and topics and interactive workshops devoted to the tools and technologies for that week. All information necessary for the course is made available through this website. Information about weekly reading, assignments, and resources is available via the Schedule on the sidebar. This information is dynamic and liable to change, so please make sure to visit this website frequently.\nWe will be using two pieces of technology to help with collaboration during the semester. We will use Discord to provide a place to ask questions and receive feedback outside of the meetings. The Discord will also be a place for any announcements about the course. See Resources: Discord for instructions on getting set up with Discord. Secondly, we will be using Zotero groups as a way to collaboratively keep track of the resources we use for the class. See Resources: Zoetero for instructions on getting set up with Zotero.\n\n\n\n\n\n\nNote\n\n\n\nThis website is built with Quarto and the source code is available on GitHub. If you want to see how anything works or to suggest any changes you can do so through GitHub."
-  },
-  {
-    "objectID": "index.html#schedule",
-    "href": "index.html#schedule",
-    "title": "History 5454: Digital History for Public History",
-    "section": "Schedule",
-    "text": "Schedule\n\nIntroduction (18 January)\nDigital History and Public History (25 January)\nOrganizing resources (1 February)\nPlain text and markdown (8 February)\nData and an intro to the command line (15 February)\nIntro to R and RStudio (22 February)\nData wrangling (29 February)\nVisualization with ggplot2 (14 March)\nVersion control with Git and GitHub (21 March)\nMaking documents and websites with Quarto (28 March)\nReview and website workshop (4 April)\nSpatial analysis (11 April)\nNetwork analysis (18 April)\nWeb design and visualization (25 April)\nConclusion (2 May)\n\nAppendix: Text analysis"
-  },
-  {
-    "objectID": "index.html#footnotes",
-    "href": "index.html#footnotes",
-    "title": "History 5454: Digital History for Public History",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nIf you have any problems, we can troubleshoot together.↩︎"
-  },
-  {
-    "objectID": "computing.html",
-    "href": "computing.html",
-    "title": "Computing",
-    "section": "",
-    "text": "macOS is built on the foundation of Unix and comes with a perfectly capable command line app in Terminal. There are some other options out there, but Terminal is just fine.\nSince 2019 the default shell in macOS is zsh instead of bash. The differences between zsh and bash should not affect beginners too much. However, you can download an updated version of bash. The best way to do this is with Homebrew.\nHomebrew is one of the main ways to install command line packages on macOS such as Git, and so it is a good idea to install it. Read about how to install Homebrew through the Terminal app on the Homebrew’s homepage.\n\n\n\nWindows does not come with a unix shell installed. You can install one via Git Bash. This will install both the bash shell and git. See the Carpentries for installation instructions.",
-    "crumbs": [
-      "Computing"
-    ]
-  },
-  {
-    "objectID": "computing.html#sec-cl",
-    "href": "computing.html#sec-cl",
-    "title": "Computing",
-    "section": "",
-    "text": "macOS is built on the foundation of Unix and comes with a perfectly capable command line app in Terminal. There are some other options out there, but Terminal is just fine.\nSince 2019 the default shell in macOS is zsh instead of bash. The differences between zsh and bash should not affect beginners too much. However, you can download an updated version of bash. The best way to do this is with Homebrew.\nHomebrew is one of the main ways to install command line packages on macOS such as Git, and so it is a good idea to install it. Read about how to install Homebrew through the Terminal app on the Homebrew’s homepage.\n\n\n\nWindows does not come with a unix shell installed. You can install one via Git Bash. This will install both the bash shell and git. See the Carpentries for installation instructions.",
-    "crumbs": [
-      "Computing"
-    ]
-  },
-  {
-    "objectID": "computing.html#sec-git",
-    "href": "computing.html#sec-git",
-    "title": "Computing",
-    "section": "Git",
-    "text": "Git\nSee Happy Git and GitHub for the useR for a good guide to downloading git for macOS and Windows.\n\nmacOS\nGit may already be on your computer by default, but the git version that comes with macOS can be quite out of date. To check if you need to install git:\n\nOpen Terminal\nType git --version – check current version of git on the computer\nLook at current version of Git at https://git-scm.com\n\nIf you need to install Git, there are two basic ways to install it:\nVia Homebrew:\n\nbrew install git – download git with Homebrew\nQuit terminal and reopen it to start new session\ngit --version – check to see that installation worked.\n\nVia Xcode command line tools:\n\nxcode-select --install\nQuit terminal and reopen it to start new session\ngit --version – check to see that installation worked.\n\n\n\nWindows\nInstall git with Git Bash.",
-    "crumbs": [
-      "Computing"
-    ]
-  },
-  {
-    "objectID": "computing.html#sec-github",
-    "href": "computing.html#sec-github",
-    "title": "Computing",
-    "section": "GitHub",
-    "text": "GitHub\nRegister for an account on GitHub",
-    "crumbs": [
-      "Computing"
-    ]
-  },
-  {
-    "objectID": "computing.html#sec-r",
-    "href": "computing.html#sec-r",
-    "title": "Computing",
-    "section": "R and RStudio",
-    "text": "R and RStudio\n\nDownload R from CRAN. R 4.3.2 is currently the newest release. It is expected that you will have a version greater than or equal to 4.3.\nDownload RStudio.\nRStudio IDE User Guide",
-    "crumbs": [
-      "Computing"
-    ]
-  },
-  {
-    "objectID": "computing.html#sec-quarto",
-    "href": "computing.html#sec-quarto",
-    "title": "Computing",
-    "section": "Quarto",
-    "text": "Quarto\n\nThe quarto R package is installed with the newer versions of RStudio. See the documentation on using Quarto with RStudio.\nQuarto can also be run from the command line, which is how we will publish our websites. You can download the Quarto command-line interface (CLI) in the Get Stated section of the Quarto website. Once you have downladed the CLI, you will be able to render and publish documents via the command line.",
-    "crumbs": [
-      "Computing"
-    ]
-  },
-  {
     "objectID": "faq.html",
     "href": "faq.html",
     "title": "FAQ",
@@ -739,6 +595,216 @@
     "text": "Why should I make a website?\nThe simple answer is that it is a good idea to have your own place on the internet that you are in control of. The demise of the app formerly known as Twitter in 2022 and 2023 makes this even more plain. It is useful to have a personal website that you can point people towards and that you can use as a showcase for you work. Or it can just be a place for you to do what you want. Using open source technology and publishing to the open web puts you in control. You can be a part of making the internet weird again.",
     "crumbs": [
       "FAQ"
+    ]
+  },
+  {
+    "objectID": "computing.html",
+    "href": "computing.html",
+    "title": "Computing",
+    "section": "",
+    "text": "macOS is built on the foundation of Unix and comes with a perfectly capable command line app in Terminal. There are some other options out there, but Terminal is just fine.\nSince 2019 the default shell in macOS is zsh instead of bash. The differences between zsh and bash should not affect beginners too much. However, you can download an updated version of bash. The best way to do this is with Homebrew.\nHomebrew is one of the main ways to install command line packages on macOS such as Git, and so it is a good idea to install it. Read about how to install Homebrew through the Terminal app on the Homebrew’s homepage.\n\n\n\nWindows does not come with a unix shell installed. You can install one via Git Bash. This will install both the bash shell and git. See the Carpentries for installation instructions.",
+    "crumbs": [
+      "Computing"
+    ]
+  },
+  {
+    "objectID": "computing.html#sec-cl",
+    "href": "computing.html#sec-cl",
+    "title": "Computing",
+    "section": "",
+    "text": "macOS is built on the foundation of Unix and comes with a perfectly capable command line app in Terminal. There are some other options out there, but Terminal is just fine.\nSince 2019 the default shell in macOS is zsh instead of bash. The differences between zsh and bash should not affect beginners too much. However, you can download an updated version of bash. The best way to do this is with Homebrew.\nHomebrew is one of the main ways to install command line packages on macOS such as Git, and so it is a good idea to install it. Read about how to install Homebrew through the Terminal app on the Homebrew’s homepage.\n\n\n\nWindows does not come with a unix shell installed. You can install one via Git Bash. This will install both the bash shell and git. See the Carpentries for installation instructions.",
+    "crumbs": [
+      "Computing"
+    ]
+  },
+  {
+    "objectID": "computing.html#sec-git",
+    "href": "computing.html#sec-git",
+    "title": "Computing",
+    "section": "Git",
+    "text": "Git\nSee Happy Git and GitHub for the useR for a good guide to downloading git for macOS and Windows.\n\nmacOS\nGit may already be on your computer by default, but the git version that comes with macOS can be quite out of date. To check if you need to install git:\n\nOpen Terminal\nType git --version – check current version of git on the computer\nLook at current version of Git at https://git-scm.com\n\nIf you need to install Git, there are two basic ways to install it:\nVia Homebrew:\n\nbrew install git – download git with Homebrew\nQuit terminal and reopen it to start new session\ngit --version – check to see that installation worked.\n\nVia Xcode command line tools:\n\nxcode-select --install\nQuit terminal and reopen it to start new session\ngit --version – check to see that installation worked.\n\n\n\nWindows\nInstall git with Git Bash.",
+    "crumbs": [
+      "Computing"
+    ]
+  },
+  {
+    "objectID": "computing.html#sec-github",
+    "href": "computing.html#sec-github",
+    "title": "Computing",
+    "section": "GitHub",
+    "text": "GitHub\nRegister for an account on GitHub",
+    "crumbs": [
+      "Computing"
+    ]
+  },
+  {
+    "objectID": "computing.html#sec-r",
+    "href": "computing.html#sec-r",
+    "title": "Computing",
+    "section": "R and RStudio",
+    "text": "R and RStudio\n\nDownload R from CRAN. R 4.3.2 is currently the newest release. It is expected that you will have a version greater than or equal to 4.3.\nDownload RStudio.\nRStudio IDE User Guide",
+    "crumbs": [
+      "Computing"
+    ]
+  },
+  {
+    "objectID": "computing.html#sec-quarto",
+    "href": "computing.html#sec-quarto",
+    "title": "Computing",
+    "section": "Quarto",
+    "text": "Quarto\n\nThe quarto R package is installed with the newer versions of RStudio. See the documentation on using Quarto with RStudio.\nQuarto can also be run from the command line, which is how we will publish our websites. You can download the Quarto command-line interface (CLI) in the Get Stated section of the Quarto website. Once you have downladed the CLI, you will be able to render and publish documents via the command line.",
+    "crumbs": [
+      "Computing"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "History 5454: Digital History for Public History",
+    "section": "",
+    "text": "Instructor\n\n\n\nJesse Sadler. Email: jrsadler@vt.edu\nOffice hours: Thursday, 1:00–2:00pm and by appointment in Major Williams 4th floor\n\n\n\n\n\n\n\n\nCourse\n\n\n\nHistory 5454: Spring 2024\nMeets Thursdays, 2:00–4:50 in Major Williams 427"
+  },
+  {
+    "objectID": "index.html#course-description",
+    "href": "index.html#course-description",
+    "title": "History 5454: Digital History for Public History",
+    "section": "Course description",
+    "text": "Course description\nThis course is designed to introduce students to some of the tools of Digital Humanities/History with an emphasis on using open source technology that puts you in control. The course focuses on methodologies. It begins with the basics of organizing primary and secondary sources and your notes on them. We will then give an introduction to data analysis and visualization using the R programming language, culminating in the creation of your own website. Along the way we will be learning the basics of using the command line and learn about git and using GitHub for publishing websites and to become acquainted with the practices of reproducible research.\n\n\n\n\n\n\nNote\n\n\n\nThis course website will function as the main source of information for the course. The syllabus is liable to change based on new material and student input. We may not get to certain material, or I may add new resources based on student interest. Make sure to check in on the website frequently."
+  },
+  {
+    "objectID": "index.html#learning-goals",
+    "href": "index.html#learning-goals",
+    "title": "History 5454: Digital History for Public History",
+    "section": "Learning goals",
+    "text": "Learning goals\nAfter taking this course, you will…\n\nhave an expanded awareness of the open source tools available for conducting historical research and making that research widely available to the public.\nbe comfortable writing in plain text and using Markdown.\nunderstand the uses and drawbacks of spreadsheets and how to organize rectangular data.\nbe comfortable with the basics of the command line.\nbe able to import, explore, wrangle, and visualize data in R.\nbe able to write R scripts and document your code in quarto documents.\nhave familiarity with the tidyverse packages in R.\nhave experience with the possibilities for text, network, and spatial analysis available through various R packages.\nbe comfortable with using git and GitHub for your own work or collaboration with others.\ncreate a website using open source tools."
+  },
+  {
+    "objectID": "index.html#expectations",
+    "href": "index.html#expectations",
+    "title": "History 5454: Digital History for Public History",
+    "section": "Expectations",
+    "text": "Expectations\nThere are no prerequisites for this course. Students do not need to know anything about the methods and technologies listed in the syllabus. You do not need to know what the command line, R, or git is. That is what the course is for. Familiarity is, of course, helpful, and more advanced students can be accommodated within the structures of the course. However, the intention is for this to be an exploration of open source tools that can help you with historical analysis and publication. The primary expectation is a willingness to try and a readiness to learn. More specific expectations include:\n\nAttendance and active participation in all seminars.\nComplete and be ready to discuss all reading by our weekly meeting.\nCome to seminar with a computer ready to work and to participate in the weekly labs with all applications and programming environments installed by the assigned meeting.1\nComplete all assignments on time.\nComplete the final project of creating a Quarto website.\n\nFinally, it is expected that all students will be respectful of each other. Students will enter the course at different levels of comfort with the tools that we will use. The goal of the course is to help each other get more comfortable with open source technologies."
+  },
+  {
+    "objectID": "index.html#assessment",
+    "href": "index.html#assessment",
+    "title": "History 5454: Digital History for Public History",
+    "section": "Assessment",
+    "text": "Assessment\nAs noted above, the primary expectation for the course is a willingness to try, and so the primary assessment will be focused on effort and growth.\n\nParticipation: 40%\nWeekly assignments: 20%\nFinal project: 40%"
+  },
+  {
+    "objectID": "index.html#how-the-course-works",
+    "href": "index.html#how-the-course-works",
+    "title": "History 5454: Digital History for Public History",
+    "section": "How the course works",
+    "text": "How the course works\nMeetings will be divided between discussion of weekly readings and topics and interactive workshops devoted to the tools and technologies for that week. All information necessary for the course is made available through this website. Information about weekly reading, assignments, and resources is available via the Schedule on the sidebar. This information is dynamic and liable to change, so please make sure to visit this website frequently.\nWe will be using two pieces of technology to help with collaboration during the semester. We will use Discord to provide a place to ask questions and receive feedback outside of the meetings. The Discord will also be a place for any announcements about the course. See Resources: Discord for instructions on getting set up with Discord. Secondly, we will be using Zotero groups as a way to collaboratively keep track of the resources we use for the class. See Resources: Zoetero for instructions on getting set up with Zotero.\n\n\n\n\n\n\nNote\n\n\n\nThis website is built with Quarto and the source code is available on GitHub. If you want to see how anything works or to suggest any changes you can do so through GitHub."
+  },
+  {
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
+    "title": "History 5454: Digital History for Public History",
+    "section": "Schedule",
+    "text": "Schedule\n\nIntroduction (18 January)\nDigital History and Public History (25 January)\nOrganizing resources (1 February)\nPlain text and markdown (8 February)\nData and an intro to the command line (15 February)\nIntro to R and RStudio (22 February)\nData wrangling (29 February)\nVisualization with ggplot2 (14 March)\nVersion control with Git and GitHub (21 March)\nMaking documents and websites with Quarto (28 March)\nReview and website workshop (4 April)\nSpatial analysis (11 April)\nNetwork analysis (18 April)\nWeb design and visualization (25 April)\nConclusion (2 May)\n\nAppendix: Text analysis"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "History 5454: Digital History for Public History",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nIf you have any problems, we can troubleshoot together.↩︎"
+  },
+  {
+    "objectID": "markdown-syntax.html",
+    "href": "markdown-syntax.html",
+    "title": "Level 1 heading",
+    "section": "",
+    "text": "- Paragraphs: Empty line, no indentation\n- Headers 1–6\n- *Italics* or _Italics_\n- **Bold** or __Bold__\n- Unordered list: `-`, `*`, `+`\n- Ordered list\n- Link:\n    - Inline: [Text](https://www.vt.edu)\n    - Reference style\n        - `[Text][1]`\n        - `[1]: https://www.vt.edu`\n    - Raw link: &lt;https://www.vt.edu&gt;\n- Footnotes\n    - `Some text[^1].`\n    - `[^1]: Footnote text.`\n- Block quote: `&gt;`\n- Code: `code`\n- Images: `![Description](image.jpg)`\n\nWe write a paragraph. It is a good paragraph.\n\nThis is the next paragraph.\n\n# Level 1 heading\n\n## Level 2 heading\n\n###### Level 6\n\nThis is *some text in italics*. This is **bold** text.\n\n+ This is a unordered list\n+ Second item in a list\n    + Indented list item\n\n----\n\n1. This is an ordered list\n2. Second item\n    - Unordered list\n\n\n- This is an idea that has three points:\n    1. item 1\n    2. item 2\n    3. item 3\n\n\nRaw link: &lt;https://www.vt.edu&gt;\n\n\nInline link: Here is some text. I want [this text to be a link](https://www.vt.edu).\n\nReference style link: I want [this text to be a link][1]\n\n\n&gt; This is a block quote\n\n\nWe want a footnote here.[^1]\n\n\n[1]: https://www.vt.edu\n\n[^1]: This is the text of the footnote.\n\n\n\n\nParagraphs: Empty line, no indentation\nHeaders 1–6\nItalics or Italics\nBold or Bold\nUnordered list: -, *, +\nOrdered list\nLink:\n\nInline: Text\nReference style\n\n[Text][1]\n[1]: https://www.vt.edu\n\nRaw link: https://www.vt.edu\n\nFootnotes\n\nSome text[^1].\n[^1]: Footnote text.\n\nBlock quote: &gt;\nCode: code\nImages: ![Description](image.jpg)\n\nWe write a paragraph. It is a good paragraph.\nThis is the next paragraph."
+  },
+  {
+    "objectID": "markdown-syntax.html#markdown-syntax",
+    "href": "markdown-syntax.html#markdown-syntax",
+    "title": "Level 1 heading",
+    "section": "",
+    "text": "- Paragraphs: Empty line, no indentation\n- Headers 1–6\n- *Italics* or _Italics_\n- **Bold** or __Bold__\n- Unordered list: `-`, `*`, `+`\n- Ordered list\n- Link:\n    - Inline: [Text](https://www.vt.edu)\n    - Reference style\n        - `[Text][1]`\n        - `[1]: https://www.vt.edu`\n    - Raw link: &lt;https://www.vt.edu&gt;\n- Footnotes\n    - `Some text[^1].`\n    - `[^1]: Footnote text.`\n- Block quote: `&gt;`\n- Code: `code`\n- Images: `![Description](image.jpg)`\n\nWe write a paragraph. It is a good paragraph.\n\nThis is the next paragraph.\n\n# Level 1 heading\n\n## Level 2 heading\n\n###### Level 6\n\nThis is *some text in italics*. This is **bold** text.\n\n+ This is a unordered list\n+ Second item in a list\n    + Indented list item\n\n----\n\n1. This is an ordered list\n2. Second item\n    - Unordered list\n\n\n- This is an idea that has three points:\n    1. item 1\n    2. item 2\n    3. item 3\n\n\nRaw link: &lt;https://www.vt.edu&gt;\n\n\nInline link: Here is some text. I want [this text to be a link](https://www.vt.edu).\n\nReference style link: I want [this text to be a link][1]\n\n\n&gt; This is a block quote\n\n\nWe want a footnote here.[^1]\n\n\n[1]: https://www.vt.edu\n\n[^1]: This is the text of the footnote.\n\n\n\n\nParagraphs: Empty line, no indentation\nHeaders 1–6\nItalics or Italics\nBold or Bold\nUnordered list: -, *, +\nOrdered list\nLink:\n\nInline: Text\nReference style\n\n[Text][1]\n[1]: https://www.vt.edu\n\nRaw link: https://www.vt.edu\n\nFootnotes\n\nSome text[^1].\n[^1]: Footnote text.\n\nBlock quote: &gt;\nCode: code\nImages: ![Description](image.jpg)\n\nWe write a paragraph. It is a good paragraph.\nThis is the next paragraph."
+  },
+  {
+    "objectID": "markdown-syntax.html#level-2-heading",
+    "href": "markdown-syntax.html#level-2-heading",
+    "title": "Level 1 heading",
+    "section": "Level 2 heading",
+    "text": "Level 2 heading\n\nLevel 6\nThis is some text in italics. This is bold text.\n\nThis is a unordered list\nSecond item in a list\n\nIndented list item\n\n\n\n\nThis is an ordered list\nSecond item\n\nUnordered list\n\n\n\nThis is an idea that has three points:\n\nitem 1\nitem 2\nitem 3\n\n\nRaw link: https://www.vt.edu\nInline link: Here is some text. I want this text to be a link.\nReference style link: I want this text to be a link\n\nThis is a block quote\n\nWe want a footnote here.1"
+  },
+  {
+    "objectID": "markdown-syntax.html#footnotes",
+    "href": "markdown-syntax.html#footnotes",
+    "title": "Level 1 heading",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis is the text of the footnote.↩︎"
+  },
+  {
+    "objectID": "guides/geo-data.html",
+    "href": "guides/geo-data.html",
+    "title": "Putting maps on your website",
+    "section": "",
+    "text": "When making a map, we often need to download the data using an R package. This could be data for the base map from rnaturalearth, more detailed street and location data from Open Street Maps using osmdata, or locations that we geocode with tidygeocoder. We want to do this active downloading as few times as possible. We want to download the data, make sure that it is correct and maybe clean it up, and then save the data for future usage. This guide will show how to do that.",
+    "crumbs": [
+      "Guides",
+      "Putting maps on your website"
+    ]
+  },
+  {
+    "objectID": "guides/geo-data.html#the-problem",
+    "href": "guides/geo-data.html#the-problem",
+    "title": "Putting maps on your website",
+    "section": "",
+    "text": "When making a map, we often need to download the data using an R package. This could be data for the base map from rnaturalearth, more detailed street and location data from Open Street Maps using osmdata, or locations that we geocode with tidygeocoder. We want to do this active downloading as few times as possible. We want to download the data, make sure that it is correct and maybe clean it up, and then save the data for future usage. This guide will show how to do that.",
+    "crumbs": [
+      "Guides",
+      "Putting maps on your website"
+    ]
+  },
+  {
+    "objectID": "guides/geo-data.html#the-solution",
+    "href": "guides/geo-data.html#the-solution",
+    "title": "Putting maps on your website",
+    "section": "The solution",
+    "text": "The solution\nThe solution is to break up the steps of making a map into separate scripts. We get and prep the data once. Then we can use the data to make as many maps as we want. This is good practice for thinking about how we should be dividing up scripts and when to save data compared to when we can recreate it through our R scripts.\nThere are two basic ways to do this:\n\nUse an R script within the website project folder to download and clean the data. An R script (named something like map-data.R) will not be rendered in the website by Quarto.\nDownload the data and potentially make the map in a separate RStudio project. You can either create the map in that project, save an image file, and then use the image on your website, or you can copy over the cleaned data files to website project to work on them there.\n\nEither way you decide to structure your project, there are four basic steps to follow:\n\nDownload the data.\nCheck that the data is correct and clean it up.\nSave the data; write it out to a data/ folder.\nRead in the data when you want to make a map.\n\nLet’s show how to do this for two different kinds of geographic data we will want to download from the internet: geocoded data and base map data.\nFirst we load the packages we are going to use.\n\nlibrary(tidyverse)\nlibrary(tidygeocoder)\nlibrary(sf, verbose = FALSE)\nlibrary(rnaturalearth)",
+    "crumbs": [
+      "Guides",
+      "Putting maps on your website"
+    ]
+  },
+  {
+    "objectID": "guides/geo-data.html#geocoded-data",
+    "href": "guides/geo-data.html#geocoded-data",
+    "title": "Putting maps on your website",
+    "section": "Geocoded data",
+    "text": "Geocoded data\nGeocoding location data is something that we want to do once, make sure that it is correct, and then save the resulting data. It is not something we want to be doing multiple times.\nLet’s start by creating some data to geocode using tidygeocoder. If you have a larger data set with locations, you will want to create a csv file and read in the data.\n\nlocations &lt;- tibble(\n  name = c(\"Blacksburg\", \"San Diego\", \"Washington, DC\"),\n  address = c(\"Blacksburg, VA 24060\", \"San Diego, CA 92024\", \"Washington, DC 20024\")\n)\n\nNotice that we have two columns here, one for the label of our points/locations and one for the address, where we can be more exact about the location to geocode. We can geocode the data with the geocode() function since it is in a data frame. If you have your locations in a vector, you can use the geo() function.\n\nlocations_geo &lt;- geocode(locations, address = address)\n\nCheck to make sure that the geocoded data is correct. This can be done by just looking at the output or mapping it with a base map of mapview. Here we will just look at the output.\n\nlocations_geo\n\n# A tibble: 3 × 4\n  name           address                lat   long\n  &lt;chr&gt;          &lt;chr&gt;                &lt;dbl&gt;  &lt;dbl&gt;\n1 Blacksburg     Blacksburg, VA 24060  37.2  -80.4\n2 San Diego      San Diego, CA 92024   32.7 -117. \n3 Washington, DC Washington, DC 20024  38.9  -77.0\n\n\nThe next step is to save the data or write it out. It is easiest to do this before we convert the data to an sf object because we can use the normal write_csv() function from the tidyverse. This function takes the data we want to write out and the name of the file/location we want to create.\n\n# Save data frame to a csv file\nwrite_csv(locations_geo, \"data/locations-geo.csv\")\n\nThen, next time we want to use the data, we can just read it in.\n\nlocations_geo &lt;- read_csv(\"data/locations-geo.csv\")",
+    "crumbs": [
+      "Guides",
+      "Putting maps on your website"
+    ]
+  },
+  {
+    "objectID": "guides/geo-data.html#data-from-rnaturalearth",
+    "href": "guides/geo-data.html#data-from-rnaturalearth",
+    "title": "Putting maps on your website",
+    "section": "Data from rnaturalearth",
+    "text": "Data from rnaturalearth\nThe data that we download from rnaturalearth or osmdata is a bit different because it is geospatial in nature. It is an sf object and so to maintain the geospatial nature of the data we need to use st_write() instead of write_csv() and to choose a type of spatial data to create. Here, we will use geojson. Otherwise the steps are the same.\nLet’s load some data from rnaturalearth. In this case, we will use the ne_states() function to load data for the states of the country “United States of America”.\n\nstates &lt;- ne_states(country = \"United States of America\")\n\nBefore saving the data, we want to clean it up and simplify it to only have the state name and to only include the continental United States.\n\nstates &lt;- states |&gt; \n  filter(name != \"Hawaii\", name != \"Alaska\") |&gt; \n  select(name)\n\nNow we can write out the data using the st_write() function as a geojson file. This will maintain all of the geographic metadata of our data such as the CRS.\n\nst_write(states, \"data/states.geojson\")\n\nThen, next time we want to use the data, we can just read it in, but this time with st_read() because we want an sf object.\n\nstates &lt;- st_read(\"data/states.geojson\")",
+    "crumbs": [
+      "Guides",
+      "Putting maps on your website"
+    ]
+  },
+  {
+    "objectID": "guides/geo-data.html#plot-the-map",
+    "href": "guides/geo-data.html#plot-the-map",
+    "title": "Putting maps on your website",
+    "section": "Plot the map",
+    "text": "Plot the map\n\nggplot() + \n  geom_sf(data = states) + \n  geom_point(data = locations_geo, aes(x = long, y = lat)) + \n  geom_text(data = locations_geo, aes(x = long, y = lat, label = name),\n            nudge_y = -0.5) + \n  theme_minimal()",
+    "crumbs": [
+      "Guides",
+      "Putting maps on your website"
     ]
   },
   {
@@ -911,7 +977,7 @@
     "href": "meetings/12-spatial.html#resources",
     "title": "Week 12: Spatial analysis",
     "section": "Resources",
-    "text": "Resources\n\nSpatial Digital History projects\n\nScott Nesbit and Ed Ayers, Visualizing Emancipation\nSlave Voyages\nMapping the Republic of Letters\nPleiades: gazetteer and graph of ancient places\nAncient World Mapping Center\nWorld Historical Gazetteer\n\n\n\nGeospatial resources\n\nCarpentries: Introduction to Geospatial Concepts\n\nIntroduction to raster and vector data, coordinate reference systems, and an overview of the GIS landscape.\n\nRobin Lovelace, Jakub Nowosad, and Jannes Muenchow, Geocomputation with R (2nd Edition), Chapter 2: Geographic data in R\nEdzer Pebesma and Roger Bivand, Spatial Data Science: With Applications in R, Chapter 1: Getting Started\n\n\n\nGIS with R\n\nRobin Lovelace, Jakub Nowosad, and Jannes Muenchow, Geocomputation with R (2nd Edition)\nEdzer Pebesma and Roger Bivand, Spatial Data Science: With Applications in R\nJesse Sadler, An Exploration of Simple Features for R.\nHadley Wickham, Danielle Navarro, and Thomas Lin Pedersen, ggplot2: Elegant Graphics for Data Analysis (3rd Edition), Chapter 6: Maps.\nCarpentries: Introduction to Geospatial Raster and Vector Data with R\n\n\n\nGeospatial R packages\nCRAN Task View: Analysis of Spatial Data\n\nPrimary packages for vector and raster spatial data\n\nsf: Vector data.\nterra: Raster data.\n\n\n\nGeospatial data sources\n\nrspatialdata: A collection of data sources and tutorials on visualising spatial data using R.\nrnaturalearth: It includes functions to download a wealth of Natural Earth vector and raster data, including cultural (e.g., country boundaries, airports, roads, railroads) and physical (e.g., coastline, lakes, glaciated areas) data sets.\nelevatr: Access to elevation data from AWS Open Data Terrain Tiles and the Open Topography Global datasets API for raster digital elevation models.\ntidycensus: Access to US Census Bureau data in a tidy format, including the option to bind the data spatially on import.\ntigris: Access to cartographic elements provided by the US Census Bureau TIGER, including cartographic boundaries, roads, and water.\ngiscoR: Access to European geodata.\n\n\n\nGeocoding\n\ntidygeocoder: Support for a number of data sources for geocoding locations. The package uses the OpenStreetsMap geocoder Nominatim by default.\nopencage: Geocode using the Opencage API.\n\n\n\nGeospatial visualization\n\nggplot2 can visualize sf vector data.\ntmap: An alternative to making maps with ggplot2.\nleaflet: Interactive mapping with R.\nmapview: Lightweight interactive mapping package. It’s main goal is to fill the gap of quick (not presentation grade) interactive plotting to examine and visually investigate both aspects of spatial data, the geometries and their attributes.\ntidyterra: Provides functions to integrate terra objects into the tidyverse, including providing geoms for plotting terra objects with ggplot2.\nrayshader: Make 3d maps in R.",
+    "text": "Resources\nSee the Guide: Putting maps on your website for a guide on downloading and saving geographic data to use on a Quarto Website.\n\nSpatial Digital History projects\n\nScott Nesbit and Ed Ayers, Visualizing Emancipation\nSlave Voyages\nMapping the Republic of Letters\nPleiades: gazetteer and graph of ancient places\nAncient World Mapping Center\nWorld Historical Gazetteer\n\n\n\nGeospatial resources\n\nCarpentries: Introduction to Geospatial Concepts\n\nIntroduction to raster and vector data, coordinate reference systems, and an overview of the GIS landscape.\n\nRobin Lovelace, Jakub Nowosad, and Jannes Muenchow, Geocomputation with R (2nd Edition), Chapter 2: Geographic data in R\nEdzer Pebesma and Roger Bivand, Spatial Data Science: With Applications in R, Chapter 1: Getting Started\n\n\n\nGIS with R\n\nRobin Lovelace, Jakub Nowosad, and Jannes Muenchow, Geocomputation with R (2nd Edition)\nEdzer Pebesma and Roger Bivand, Spatial Data Science: With Applications in R\nJesse Sadler, An Exploration of Simple Features for R.\nHadley Wickham, Danielle Navarro, and Thomas Lin Pedersen, ggplot2: Elegant Graphics for Data Analysis (3rd Edition), Chapter 6: Maps.\nCarpentries: Introduction to Geospatial Raster and Vector Data with R\n\n\n\nGeospatial R packages\nCRAN Task View: Analysis of Spatial Data\n\nPrimary packages for vector and raster spatial data\n\nsf: Vector data.\nterra: Raster data.\n\n\n\nGeospatial data sources\n\nrspatialdata: A collection of data sources and tutorials on visualising spatial data using R.\nrnaturalearth: It includes functions to download a wealth of Natural Earth vector and raster data, including cultural (e.g., country boundaries, airports, roads, railroads) and physical (e.g., coastline, lakes, glaciated areas) data sets.\nelevatr: Access to elevation data from AWS Open Data Terrain Tiles and the Open Topography Global datasets API for raster digital elevation models.\ntidycensus: Access to US Census Bureau data in a tidy format, including the option to bind the data spatially on import.\ntigris: Access to cartographic elements provided by the US Census Bureau TIGER, including cartographic boundaries, roads, and water.\ngiscoR: Access to European geodata.\n\n\n\nGeocoding\n\ntidygeocoder: Support for a number of data sources for geocoding locations. The package uses the OpenStreetsMap geocoder Nominatim by default.\nopencage: Geocode using the Opencage API.\n\n\n\nGeospatial visualization\n\nggplot2 can visualize sf vector data.\ntmap: An alternative to making maps with ggplot2.\nleaflet: Interactive mapping with R.\nmapview: Lightweight interactive mapping package. It’s main goal is to fill the gap of quick (not presentation grade) interactive plotting to examine and visually investigate both aspects of spatial data, the geometries and their attributes.\ntidyterra: Provides functions to integrate terra objects into the tidyverse, including providing geoms for plotting terra objects with ggplot2.\nrayshader: Make 3d maps in R.",
     "crumbs": [
       "Schedule",
       "12. Spatial analysis"
