@@ -9,7 +9,7 @@ title: "Week 3: Organizing resources"
 - Susan Collins, [Data Management Plans for Historians: How to Document and Protect Your Research](https://www.historians.org/research-and-publications/perspectives-on-history/october-2017/data-management-plans-for-historians-how-to-document-and-protect-your-research).
 
 ## Assignment
-- Download [Zotero](https://www.zotero.org) if you have not already and read over the [documentation](https://www.zotero.org/support/).
+- Download [Zotero](https://www.zotero.org) if you have not already and read over the [Zotero Guide](/guides/zotero.qmd) and look through [Zotero's documentation](https://www.zotero.org/support/).
 - Think about how you organize your research and research materials.
 
 ## Activities
@@ -30,10 +30,8 @@ title: "Week 3: Organizing resources"
 ### Setup
 - How to store your PDFs
   - Default storage with Zotero creates its own file structure and you can sync files using Zotero sync.
-  - [ZotFile](http://zotfile.com): Another option is to use the ZotFile plugin, which helps you to manage and name PDFs in a single folder.
-    - The advantage of this is that you maintain more control over the PDFs and less dependent on Zotero.
-    - However, ZotFile is not in active development right now and so things may change. A lot of people use and depend on it, so it should be safe to use. There is [active discussion](https://forums.zotero.org/discussion/104858/on-zotfile-development-and-zotero-7) on replacements going on.
-    - The UC Berkeley Library has a good [guide on using ZotFile](https://guides.lib.berkeley.edu/zotero/zotfile).
+  - The [zotmoov](https://github.com/wileyyugioh/zotmoov) extension provides a way to move files to an external folder.
+  - You can also customize how PDFs are named. See the [documentation](https://www.zotero.org/support/file_renaming) on how to set this up.
 - [BetterBibTeX](https://retorque.re/zotero-better-bibtex/)
   - This plugin helps you to use Zotero with plain text editors through [BibTeX](https://www.bibtex.org), creating citation keys for you.
 - [Zutilo](https://github.com/wshanks/Zutilo)

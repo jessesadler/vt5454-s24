@@ -56,6 +56,8 @@ website:
             text: "Appendix: Text analysis"
       - section: "Guides"
         contents:
+          - href: guides/zotero.qmd
+          - href: guides/markdown-syntax.qmd
           - href: guides/geo-data.qmd
             text: Putting maps on your website
       - href: resources.qmd
