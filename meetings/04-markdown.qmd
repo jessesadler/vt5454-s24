@@ -33,9 +33,9 @@ See [Resources: Text editors](/resources.qmd#sec-text-editors). A good text edit
 - [John Gruber's introduction of Markdown and its syntax](https://daringfireball.net/projects/markdown/syntax)
 - [Markdown style guide: Quarto docs](https://quarto.org/docs/authoring/markdown-basics.html)
 - [Markdown Style Guide](https://markdownguide.offshoot.io/basic-syntax/)
-- Most/many Markdown editors, especially those that focus on academic writing, depend upon [Pandoc](https://pandoc.org), which attempts to be a universal document converter.
+- Many Markdown editors, especially those that focus on academic writing, depend upon [Pandoc](https://pandoc.org), which attempts to be a universal document converter.
 
-Link to the [Markdown syntax guide created in class](/markdown-syntax.md)
+[Markdown syntax guide created in class](/guides/markdown-syntax.qmd)
 
 ### Other markup options
 - The main other option for writing in Markdown or a Markdown based system is [LaTeX](https://www.latex-project.org). [Overleaf](https://www.overleaf.com/) is a LaTeX editor created specifically for collaboration in academia.

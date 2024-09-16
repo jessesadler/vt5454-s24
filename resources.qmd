@@ -34,7 +34,7 @@ An invaluable source for finding Digital Humanities projects is the online journ
 
 You can download Zotero [here](https://www.zotero.org/download/). To use Groups you need to [sign up for an account](https://www.zotero.org/user/register). I will send you a link to join our group, vt5454-s24, once everyone has an account.
 
-We will discuss using Zotero in more detail in [Week 3](meetings/03-organization.qmd). You can get a start with Zotero if you have not used it before by looking at the [documentation](https://www.zotero.org/support/).
+We will discuss using Zotero in more detail in [Week 3](meetings/03-organization.qmd). To help get started check out the [Zotero Guide](/guides/zotero.qmd) and the [Zotero Research Guide](https://guides.lib.vt.edu/citationmanagers/Zotero) created by Lisa Becksford Russell at the Library. If you have any questions, check out [Zotero's documentation](https://www.zotero.org/support/).
 
 ## Text editors {#sec-text-editors}
 We will be working in plain text documents throughout the course and a good text editor is essential. Happily, there are many options for you. Below is a partial list of text editors, but feel free to explore other options.
@@ -52,7 +52,7 @@ We will be working in plain text documents throughout the course and a good text
 - A classic text editor for Windows is [Notepad++](https://notepad-plus-plus.org).
 
 ## Markdown and plain text {#sec-md}
-Markdown is widely used as a way to add markup to plain text documents and to write for the web. It was developed by [John Gruber](https://daringfireball.net/projects/markdown/syntax) in the early 2000s. Its use has exploded since 2010 and there are now a variety of "flavors" of markdown that have more features than the original version. Mostly you do not need to worry about this.
+Markdown is widely used as a way to add markup to plain text documents and to write for the web. It was developed by [John Gruber](https://daringfireball.net/projects/markdown/syntax) in the early 2000s. Its use has exploded since 2010 and there are now a variety of "flavors" of markdown that have more features than the original version. Mostly you do not need to worry about this. See the [Markdown Syntax Guide](/guides/markdown-syntax.qmd) for an overview.
 
 Guides to Markdown syntax can easily be found on the internet. [Markdown Guide](https://markdownguide.offshoot.io/basic-syntax/) provides a good overview of the basic syntax. The [Quarto docs](https://quarto.org/docs/authoring/markdown-basics.html) show the flavor of Markdown used by Quarto. Most/many Markdown editors, especially those that focus on academic writing, depend upon [Pandoc](https://pandoc.org), which attempts to be a universal document converter. The Pandoc documents do not make for particularly fun reading, but they are a good resource when digging into the weeds.
 
