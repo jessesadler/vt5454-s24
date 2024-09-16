@@ -2,90 +2,94 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://jessesadler.github.io/vt5454-s24/resources.html</loc>
-    <lastmod>2024-04-25T14:29:40.460Z</lastmod>
+    <lastmod>2024-09-16T19:03:50.489Z</lastmod>
   </url>
   <url>
     <loc>https://jessesadler.github.io/vt5454-s24/meetings/08-ggplot2.html</loc>
-    <lastmod>2024-03-21T15:57:21.955Z</lastmod>
+    <lastmod>2024-09-15T19:43:43.103Z</lastmod>
   </url>
   <url>
     <loc>https://jessesadler.github.io/vt5454-s24/meetings/06-rstats.html</loc>
-    <lastmod>2024-02-29T16:10:04.776Z</lastmod>
+    <lastmod>2024-09-15T19:43:43.103Z</lastmod>
   </url>
   <url>
     <loc>https://jessesadler.github.io/vt5454-s24/meetings/15-conclusion.html</loc>
-    <lastmod>2024-01-12T21:01:29.625Z</lastmod>
+    <lastmod>2024-09-15T19:43:43.105Z</lastmod>
   </url>
   <url>
     <loc>https://jessesadler.github.io/vt5454-s24/meetings/02-dh-and-ph.html</loc>
-    <lastmod>2024-01-20T17:37:02.611Z</lastmod>
+    <lastmod>2024-09-15T19:43:43.102Z</lastmod>
   </url>
   <url>
     <loc>https://jessesadler.github.io/vt5454-s24/meetings/11-review.html</loc>
-    <lastmod>2024-03-29T22:11:10.416Z</lastmod>
+    <lastmod>2024-09-15T19:43:43.104Z</lastmod>
   </url>
   <url>
     <loc>https://jessesadler.github.io/vt5454-s24/meetings/05-data.html</loc>
-    <lastmod>2024-02-15T20:27:49.689Z</lastmod>
+    <lastmod>2024-09-15T19:43:43.103Z</lastmod>
   </url>
   <url>
     <loc>https://jessesadler.github.io/vt5454-s24/meetings/07-wrangle.html</loc>
-    <lastmod>2024-02-29T19:02:37.695Z</lastmod>
+    <lastmod>2024-09-15T19:43:43.103Z</lastmod>
   </url>
   <url>
     <loc>https://jessesadler.github.io/vt5454-s24/meetings/14-design.html</loc>
-    <lastmod>2024-04-25T19:56:39.286Z</lastmod>
+    <lastmod>2024-09-15T19:43:43.104Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jessesadler.github.io/vt5454-s24/guides/zotero.html</loc>
+    <lastmod>2024-09-16T18:58:38.284Z</lastmod>
   </url>
   <url>
     <loc>https://jessesadler.github.io/vt5454-s24/faq.html</loc>
-    <lastmod>2024-01-12T22:53:07.848Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jessesadler.github.io/vt5454-s24/computing.html</loc>
-    <lastmod>2024-04-25T13:37:55.764Z</lastmod>
+    <lastmod>2024-09-15T19:43:43.096Z</lastmod>
   </url>
   <url>
     <loc>https://jessesadler.github.io/vt5454-s24/index.html</loc>
-    <lastmod>2024-03-29T22:04:18.333Z</lastmod>
+    <lastmod>2024-09-15T19:43:43.101Z</lastmod>
   </url>
   <url>
-    <loc>https://jessesadler.github.io/vt5454-s24/markdown-syntax.html</loc>
-    <lastmod>2024-02-08T23:12:46.626Z</lastmod>
+    <loc>https://jessesadler.github.io/vt5454-s24/computing.html</loc>
+    <lastmod>2024-09-15T19:43:43.096Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jessesadler.github.io/vt5454-s24/guides/markdown-syntax.html</loc>
+    <lastmod>2024-09-16T15:59:11.914Z</lastmod>
   </url>
   <url>
     <loc>https://jessesadler.github.io/vt5454-s24/guides/geo-data.html</loc>
-    <lastmod>2024-05-01T00:34:44.832Z</lastmod>
+    <lastmod>2024-09-15T19:43:43.101Z</lastmod>
   </url>
   <url>
     <loc>https://jessesadler.github.io/vt5454-s24/meetings/10-quarto.html</loc>
-    <lastmod>2024-04-25T14:42:17.908Z</lastmod>
+    <lastmod>2024-09-15T19:43:43.104Z</lastmod>
   </url>
   <url>
     <loc>https://jessesadler.github.io/vt5454-s24/meetings/09-git.html</loc>
-    <lastmod>2024-01-12T23:16:56.306Z</lastmod>
+    <lastmod>2024-09-15T19:43:43.103Z</lastmod>
   </url>
   <url>
     <loc>https://jessesadler.github.io/vt5454-s24/meetings/12-spatial.html</loc>
-    <lastmod>2024-05-01T00:42:18.985Z</lastmod>
+    <lastmod>2024-09-15T19:43:43.104Z</lastmod>
   </url>
   <url>
     <loc>https://jessesadler.github.io/vt5454-s24/meetings/01-intro.html</loc>
-    <lastmod>2024-01-18T17:46:23.524Z</lastmod>
+    <lastmod>2024-09-15T19:43:43.102Z</lastmod>
   </url>
   <url>
     <loc>https://jessesadler.github.io/vt5454-s24/meetings/04-markdown.html</loc>
-    <lastmod>2024-02-08T23:10:45.210Z</lastmod>
+    <lastmod>2024-09-16T15:33:57.440Z</lastmod>
   </url>
   <url>
     <loc>https://jessesadler.github.io/vt5454-s24/meetings/03-organization.html</loc>
-    <lastmod>2024-02-01T18:38:30.077Z</lastmod>
+    <lastmod>2024-09-16T19:07:04.131Z</lastmod>
   </url>
   <url>
     <loc>https://jessesadler.github.io/vt5454-s24/meetings/16-text.html</loc>
-    <lastmod>2024-03-29T18:36:21.928Z</lastmod>
+    <lastmod>2024-09-15T19:43:43.105Z</lastmod>
   </url>
   <url>
     <loc>https://jessesadler.github.io/vt5454-s24/meetings/13-network.html</loc>
-    <lastmod>2024-03-29T18:37:34.769Z</lastmod>
+    <lastmod>2024-09-15T19:43:43.104Z</lastmod>
   </url>
 </urlset>

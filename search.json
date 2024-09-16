@@ -34,7 +34,7 @@
     "href": "resources.html#sec-zotero",
     "title": "Resources",
     "section": "Zotero",
-    "text": "Zotero\nZoetero is an open-source application available on macOS, Windows, Linux, and iOS that is created by the Corporation for Digital Scholarship. It is built by a group of historians and designed specifically for use by academics in the Humanities. In this course we will be using Zotero groups as a way to collaborate on the collection of resources for the course.\nYou can download Zotero here. To use Groups you need to sign up for an account. I will send you a link to join our group, vt5454-s24, once everyone has an account.\nWe will discuss using Zotero in more detail in Week 3. You can get a start with Zotero if you have not used it before by looking at the documentation.",
+    "text": "Zotero\nZoetero is an open-source application available on macOS, Windows, Linux, and iOS that is created by the Corporation for Digital Scholarship. It is built by a group of historians and designed specifically for use by academics in the Humanities. In this course we will be using Zotero groups as a way to collaborate on the collection of resources for the course.\nYou can download Zotero here. To use Groups you need to sign up for an account. I will send you a link to join our group, vt5454-s24, once everyone has an account.\nWe will discuss using Zotero in more detail in Week 3. To help get started check out the Zotero Guide and the Zotero Research Guide created by Lisa Becksford Russell at the Library. If you have any questions, check out Zotero’s documentation.",
     "crumbs": [
       "Resources"
     ]
@@ -54,7 +54,7 @@
     "href": "resources.html#sec-md",
     "title": "Resources",
     "section": "Markdown and plain text",
-    "text": "Markdown and plain text\nMarkdown is widely used as a way to add markup to plain text documents and to write for the web. It was developed by John Gruber in the early 2000s. Its use has exploded since 2010 and there are now a variety of “flavors” of markdown that have more features than the original version. Mostly you do not need to worry about this.\nGuides to Markdown syntax can easily be found on the internet. Markdown Guide provides a good overview of the basic syntax. The Quarto docs show the flavor of Markdown used by Quarto. Most/many Markdown editors, especially those that focus on academic writing, depend upon Pandoc, which attempts to be a universal document converter. The Pandoc documents do not make for particularly fun reading, but they are a good resource when digging into the weeds.\nGood places to start for the why and how of writing in plain text for academic writing is Kieran Healy’s The Plain Person’s Guide to Plain Text Social Science and Programming Historian’s lesson on Sustainable Authorship in Plain Text using Pandoc and Markdown.",
+    "text": "Markdown and plain text\nMarkdown is widely used as a way to add markup to plain text documents and to write for the web. It was developed by John Gruber in the early 2000s. Its use has exploded since 2010 and there are now a variety of “flavors” of markdown that have more features than the original version. Mostly you do not need to worry about this. See the Markdown Syntax Guide for an overview.\nGuides to Markdown syntax can easily be found on the internet. Markdown Guide provides a good overview of the basic syntax. The Quarto docs show the flavor of Markdown used by Quarto. Most/many Markdown editors, especially those that focus on academic writing, depend upon Pandoc, which attempts to be a universal document converter. The Pandoc documents do not make for particularly fun reading, but they are a good resource when digging into the weeds.\nGood places to start for the why and how of writing in plain text for academic writing is Kieran Healy’s The Plain Person’s Guide to Plain Text Social Science and Programming Historian’s lesson on Sustainable Authorship in Plain Text using Pandoc and Markdown.",
     "crumbs": [
       "Resources"
     ]
@@ -518,6 +518,116 @@
     ]
   },
   {
+    "objectID": "guides/zotero.html",
+    "href": "guides/zotero.html",
+    "title": "Zotero",
+    "section": "",
+    "text": "Collect references\nStore PDFs, links, other documents\nOrganize your references\nRead and markup PDFs and take notes\nStyle citations\nShare references with collaborators\n\n\n\n\n\nIt is free and open source\nBuilt by and for the humanities. It is a project created and maintained by a group called Digital Scholar that also maintains Omeka and Tropy. It came out of the DH group at George Mason University.\nSyncs across devices. There is a web version and iOS version.\nAbility to collaborate through shared groups.\n\n\n\n\n\nBibliographic managers are an investment. The time to learn\nTake time to read the documentation.\nTake time to play around with Zotero or any other software to see how you want to use it and if you like it.\nBad data in leads to bad data out.\n\n\n\n\nCheck out these resources from the Library on Zotero, including former workshops with step-by-step guides and slides with screenshots for working with Zotero. These resources produced by Lisa Becksford Russell provides a basis upon which this document builds.\n\nZotero Research Guide\nVideo from the latest workshop on Zotero by Lisa Becksford Russell",
+    "crumbs": [
+      "Guides",
+      "Zotero"
+    ]
+  },
+  {
+    "objectID": "guides/zotero.html#introduction",
+    "href": "guides/zotero.html#introduction",
+    "title": "Zotero",
+    "section": "",
+    "text": "Collect references\nStore PDFs, links, other documents\nOrganize your references\nRead and markup PDFs and take notes\nStyle citations\nShare references with collaborators\n\n\n\n\n\nIt is free and open source\nBuilt by and for the humanities. It is a project created and maintained by a group called Digital Scholar that also maintains Omeka and Tropy. It came out of the DH group at George Mason University.\nSyncs across devices. There is a web version and iOS version.\nAbility to collaborate through shared groups.\n\n\n\n\n\nBibliographic managers are an investment. The time to learn\nTake time to read the documentation.\nTake time to play around with Zotero or any other software to see how you want to use it and if you like it.\nBad data in leads to bad data out.\n\n\n\n\nCheck out these resources from the Library on Zotero, including former workshops with step-by-step guides and slides with screenshots for working with Zotero. These resources produced by Lisa Becksford Russell provides a basis upon which this document builds.\n\nZotero Research Guide\nVideo from the latest workshop on Zotero by Lisa Becksford Russell",
+    "crumbs": [
+      "Guides",
+      "Zotero"
+    ]
+  },
+  {
+    "objectID": "guides/zotero.html#getting-zotero",
+    "href": "guides/zotero.html#getting-zotero",
+    "title": "Zotero",
+    "section": "1. Getting Zotero",
+    "text": "1. Getting Zotero\n\nDownload Zotero: https://www.zotero.org\nRegister for an account. You do not need to use your VT email address.\nYou can store your PDFs in the cloud. You get 300 MB free. You do not need to pay for extra storage until you decide you need it. There are also options to store your PDFs in an external folder such as DropBox, iCloud, OneDrive, etc.1",
+    "crumbs": [
+      "Guides",
+      "Zotero"
+    ]
+  },
+  {
+    "objectID": "guides/zotero.html#adding-items-to-zotero",
+    "href": "guides/zotero.html#adding-items-to-zotero",
+    "title": "Zotero",
+    "section": "2. Adding items to Zotero",
+    "text": "2. Adding items to Zotero\nAdding items to Zotero documentation\n\nExport RIS file usually found in a cite button on library or database sites.\nUse Zotero Connector plugin for web browser\nAdd Item by Identifier using “magic wand” button in Zotero\nAdd PDF and retrieve metadata\nManually add an item\n\nEdited volume: Created using the Book type and filling out the editor instead of author.\nBook section: Create a book section by right-clicking on an edited volume and choose Create Book Section.\n\n\nRemember, always make sure to check the metadata added to a reference. Make sure to check the item type and that the title, publisher, and place of publication are correct and do not have any odd formatting.",
+    "crumbs": [
+      "Guides",
+      "Zotero"
+    ]
+  },
+  {
+    "objectID": "guides/zotero.html#organizing-your-references",
+    "href": "guides/zotero.html#organizing-your-references",
+    "title": "Zotero",
+    "section": "3. Organizing your references",
+    "text": "3. Organizing your references\nCollections and Tags documentation\n\nCollections\n\nCategories or folders: A hierarchical organization of items into groups and subgroups.\nThe same item can belong to multiple collections.\nMost often will add items to a collection by dragging them.\nRemove an item from a collection by deleting it while within the collection view. This will not delete the item from your Library.\nCan have a “smart” collection by saving an Advanced Search. Advanced Search is under the Edit menu or the magnifier icon on the search bar.\n\nTags\n\nKeywords: Each item can have as many tags as you want, but it is up to .\nTags are good for drilling down into your Library using the tag selector in the lower-left of the app.\nClicking on multiple tags will perform an AND search.\n\nRelated items\n\nRelated Items documentation\nChapters within an Edited volume\nBook reviews to book reviewed\nDifferent versions of a work\n\n\n\nThings to keep in mind\n\nTags are portable, but collections are not.\nTags and collections are only as useful as you make them.\nYou have to decide what system is best for you.",
+    "crumbs": [
+      "Guides",
+      "Zotero"
+    ]
+  },
+  {
+    "objectID": "guides/zotero.html#read-and-markup-pdfs-and-take-notes",
+    "href": "guides/zotero.html#read-and-markup-pdfs-and-take-notes",
+    "title": "Zotero",
+    "section": "4. Read and markup PDFs and take notes",
+    "text": "4. Read and markup PDFs and take notes\n\nYou can read and markup PDFs within Zotero.\n\nPDF Reader documentation\nIf you prefer to open PDFs in an external PDF reader, you can choose one from the General pane of the Zotero preferences.\nAlternatively, you can right-click on an item and choose Show File to open in your application of choice.\n\nNotes\n\nNotes documentation\nYou can export annotations in your PDF into a note by right-clicking on an item and choosing Add Note from Annotations.\nYou can create notes that can be standalone items or are attached to a reference.\nAs with any other item in Zotero, notes can be tagged and related to other items.\n\n\n\nThings to keep in mind\n\nAnnotations created in the built-in PDF reader are stored in the Zotero database, so they won’t be visible in external PDF readers unless you export a PDF with embedded annotations.\nWhether you want to take notes on texts within Zotero is up to you. The benefit is that everything is in the same place. The drawback is that you can only search your notes within Zotero.",
+    "crumbs": [
+      "Guides",
+      "Zotero"
+    ]
+  },
+  {
+    "objectID": "guides/zotero.html#style-citations",
+    "href": "guides/zotero.html#style-citations",
+    "title": "Zotero",
+    "section": "5. Style citations",
+    "text": "5. Style citations\n\nWithin Zotero\nCreating Bibliographies within Zotero documentation\n\nQuick copy styled citations\n\nCopy Citation: ⌘⇧A\nCopy Bibliography: ⌘⇧C\nChoose format for Quick copy in Preferences → Export\n\nBibliography or citation list\n\nEither select the items you want, right-click and choose Create Bibliography from Items…\nOr choose a right-click on a collection and choose Create Bibliography from Collection…\nThen choose the bibliographical style you want, whether to create citations or a bibliography, and how you want the citations exported.\n\n\n\n\nMicrosoft Word\nUsing Zotero with Word: The Zotero Word plugin should be installed automatically when you install Zotero. The Zotero Word plugin adds a Zotero tab to Microsoft Word.\n\nCreate a footnote/endnote\n\nClick the Add/Edit Citation button in the Zotero tab to bring up the citation dialog.\nSearch for items and click on them or press Return to select.\nClick on a citation within the dialog to add pages or make other customizations.\n\nEdit a citation\n\nClick an existing citation in your document and click Add/Edit Citation to open the citation dialog.\n\nCreate a bibliography\n\nPlace the cursor where you want the bibliography and click the Add/Edit Bibliography button.\n\nDocument preferences: Citation styles\n\nThe Document Preferences window is where you will choose your citation style.\n\n\n\n\nGoogle Docs\nUsing Zotero with Google Docs: Google Docs support is provided by the Zotero Connector for your browser. The Connector adds a Zotero menu to the Google Docs interface. This provides the same capabilities as with Word with a different interface.\n\nAuthorization\n\nYou will need to authorize Zotero to integrate with Google Docs the first time you use it.\n\nCreate a footnote/endnote\n\nChoose Add/Edit Citation from the Zotero menu.\nInterface to choose references is in Zotero.\n\nEdit a citation\n\nClick an existing citation in your document and click Edit with Zotero or Add/Edit Citation from the Zotero menu.\n\nCreate a bibliography\n\nPlace the cursor where you want the bibliography and click Add/Edit Bibliography from the Zotero menu.\n\nDocument preferences: Citation styles\n\nThe Document Preferences window is where you will choose your citation style within the Zotero app.\n\n\n\n\nThings to keep in mind\n\nBy using the Word plugin or Zotero Connector with Google Docs the citations and bibliography are linked to Zotero. This means you can make changes to the Document Preferences or to an individual references and the output will be updated.\nIf you share the document with someone else or want to make final manual tweaks to the citations, you will want to unlink the document.",
+    "crumbs": [
+      "Guides",
+      "Zotero"
+    ]
+  },
+  {
+    "objectID": "guides/zotero.html#collaboration-zotero-groups",
+    "href": "guides/zotero.html#collaboration-zotero-groups",
+    "title": "Zotero",
+    "section": "6. Collaboration: Zotero Groups",
+    "text": "6. Collaboration: Zotero Groups\nZotero Groups provides a way to collaborate with others, sharing references, notes, and (optionally) PDFs. You can create, view, and interact with the Group Library online or in the Zotero app.\n\nCreating groups\n\nWithin the Zotero app in File → New Library → New Group\nOn the Zotero Groups webpage choose Create a New Group.\n\nGroup types: choose between private, public with closed membership, or public with open membership.\nSet Library Settings\nGroup Settings provides information about the group\nManage Members: Click Send More Invitations to invite people to the group.",
+    "crumbs": [
+      "Guides",
+      "Zotero"
+    ]
+  },
+  {
+    "objectID": "guides/zotero.html#i-just-want-to-style-citations",
+    "href": "guides/zotero.html#i-just-want-to-style-citations",
+    "title": "Zotero",
+    "section": "I just want to style citations",
+    "text": "I just want to style citations\nZotero is an investment. It takes time and effort to collect, organize, and proofread the references. What if you just want to quickly create footnotes or a bibliography?\n\nZoteroBib\n\nSearch or manually enter a reference\nEdit citation if necessary\nCopy footnote by clicking on quotation mark\nCopy bibliography entry by clicking on two-pages symbol\nCopy to clipboard to copy full bibliography.",
+    "crumbs": [
+      "Guides",
+      "Zotero"
+    ]
+  },
+  {
+    "objectID": "guides/zotero.html#footnotes",
+    "href": "guides/zotero.html#footnotes",
+    "title": "Zotero",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nSee the documentation on Alternative Syncing solutions.↩︎",
+    "crumbs": [
+      "Guides",
+      "Zotero"
+    ]
+  },
+  {
     "objectID": "faq.html",
     "href": "faq.html",
     "title": "FAQ",
@@ -598,6 +708,62 @@
     ]
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "History 5454: Digital History for Public History",
+    "section": "",
+    "text": "Instructor\n\n\n\nJesse Sadler. Email: jrsadler@vt.edu\nOffice hours: Thursday, 1:00–2:00pm and by appointment in Major Williams 4th floor\n\n\n\n\n\n\n\n\nCourse\n\n\n\nHistory 5454: Spring 2024\nMeets Thursdays, 2:00–4:50 in Major Williams 427"
+  },
+  {
+    "objectID": "index.html#course-description",
+    "href": "index.html#course-description",
+    "title": "History 5454: Digital History for Public History",
+    "section": "Course description",
+    "text": "Course description\nThis course is designed to introduce students to some of the tools of Digital Humanities/History with an emphasis on using open source technology that puts you in control. The course focuses on methodologies. It begins with the basics of organizing primary and secondary sources and your notes on them. We will then give an introduction to data analysis and visualization using the R programming language, culminating in the creation of your own website. Along the way we will be learning the basics of using the command line and learn about git and using GitHub for publishing websites and to become acquainted with the practices of reproducible research.\n\n\n\n\n\n\nNote\n\n\n\nThis course website will function as the main source of information for the course. The syllabus is liable to change based on new material and student input. We may not get to certain material, or I may add new resources based on student interest. Make sure to check in on the website frequently."
+  },
+  {
+    "objectID": "index.html#learning-goals",
+    "href": "index.html#learning-goals",
+    "title": "History 5454: Digital History for Public History",
+    "section": "Learning goals",
+    "text": "Learning goals\nAfter taking this course, you will…\n\nhave an expanded awareness of the open source tools available for conducting historical research and making that research widely available to the public.\nbe comfortable writing in plain text and using Markdown.\nunderstand the uses and drawbacks of spreadsheets and how to organize rectangular data.\nbe comfortable with the basics of the command line.\nbe able to import, explore, wrangle, and visualize data in R.\nbe able to write R scripts and document your code in quarto documents.\nhave familiarity with the tidyverse packages in R.\nhave experience with the possibilities for text, network, and spatial analysis available through various R packages.\nbe comfortable with using git and GitHub for your own work or collaboration with others.\ncreate a website using open source tools."
+  },
+  {
+    "objectID": "index.html#expectations",
+    "href": "index.html#expectations",
+    "title": "History 5454: Digital History for Public History",
+    "section": "Expectations",
+    "text": "Expectations\nThere are no prerequisites for this course. Students do not need to know anything about the methods and technologies listed in the syllabus. You do not need to know what the command line, R, or git is. That is what the course is for. Familiarity is, of course, helpful, and more advanced students can be accommodated within the structures of the course. However, the intention is for this to be an exploration of open source tools that can help you with historical analysis and publication. The primary expectation is a willingness to try and a readiness to learn. More specific expectations include:\n\nAttendance and active participation in all seminars.\nComplete and be ready to discuss all reading by our weekly meeting.\nCome to seminar with a computer ready to work and to participate in the weekly labs with all applications and programming environments installed by the assigned meeting.1\nComplete all assignments on time.\nComplete the final project of creating a Quarto website.\n\nFinally, it is expected that all students will be respectful of each other. Students will enter the course at different levels of comfort with the tools that we will use. The goal of the course is to help each other get more comfortable with open source technologies."
+  },
+  {
+    "objectID": "index.html#assessment",
+    "href": "index.html#assessment",
+    "title": "History 5454: Digital History for Public History",
+    "section": "Assessment",
+    "text": "Assessment\nAs noted above, the primary expectation for the course is a willingness to try, and so the primary assessment will be focused on effort and growth.\n\nParticipation: 40%\nWeekly assignments: 20%\nFinal project: 40%"
+  },
+  {
+    "objectID": "index.html#how-the-course-works",
+    "href": "index.html#how-the-course-works",
+    "title": "History 5454: Digital History for Public History",
+    "section": "How the course works",
+    "text": "How the course works\nMeetings will be divided between discussion of weekly readings and topics and interactive workshops devoted to the tools and technologies for that week. All information necessary for the course is made available through this website. Information about weekly reading, assignments, and resources is available via the Schedule on the sidebar. This information is dynamic and liable to change, so please make sure to visit this website frequently.\nWe will be using two pieces of technology to help with collaboration during the semester. We will use Discord to provide a place to ask questions and receive feedback outside of the meetings. The Discord will also be a place for any announcements about the course. See Resources: Discord for instructions on getting set up with Discord. Secondly, we will be using Zotero groups as a way to collaboratively keep track of the resources we use for the class. See Resources: Zoetero for instructions on getting set up with Zotero.\n\n\n\n\n\n\nNote\n\n\n\nThis website is built with Quarto and the source code is available on GitHub. If you want to see how anything works or to suggest any changes you can do so through GitHub."
+  },
+  {
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
+    "title": "History 5454: Digital History for Public History",
+    "section": "Schedule",
+    "text": "Schedule\n\nIntroduction (18 January)\nDigital History and Public History (25 January)\nOrganizing resources (1 February)\nPlain text and markdown (8 February)\nData and an intro to the command line (15 February)\nIntro to R and RStudio (22 February)\nData wrangling (29 February)\nVisualization with ggplot2 (14 March)\nVersion control with Git and GitHub (21 March)\nMaking documents and websites with Quarto (28 March)\nReview and website workshop (4 April)\nSpatial analysis (11 April)\nNetwork analysis (18 April)\nWeb design and visualization (25 April)\nConclusion (2 May)\n\nAppendix: Text analysis"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "History 5454: Digital History for Public History",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nIf you have any problems, we can troubleshoot together.↩︎"
+  },
+  {
     "objectID": "computing.html",
     "href": "computing.html",
     "title": "Computing",
@@ -658,88 +824,81 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "History 5454: Digital History for Public History",
+    "objectID": "guides/markdown-syntax.html",
+    "href": "guides/markdown-syntax.html",
+    "title": "Markdown Syntax",
     "section": "",
-    "text": "Instructor\n\n\n\nJesse Sadler. Email: jrsadler@vt.edu\nOffice hours: Thursday, 1:00–2:00pm and by appointment in Major Williams 4th floor\n\n\n\n\n\n\n\n\nCourse\n\n\n\nHistory 5454: Spring 2024\nMeets Thursdays, 2:00–4:50 in Major Williams 427"
+    "text": "Markdown is a plain text format that is intended to be easy to write and read but also able to provide enough markup options for most forms of writing. On the one hand, Markdown leverages the advantages of plain text: it is light weight, highly portable, non-proprietary, and easily searchable across different documents. On the other, Markdown text can be turned into HTML, PDFs, and even Word documents with stylized text through different interpreters.\nThis document provides a basic overview of the Markdown syntax. Note that there are various “flavors” of Markdown that have different capabilities, but the basic syntax is largely shared.",
+    "crumbs": [
+      "Guides",
+      "Markdown Syntax"
+    ]
   },
   {
-    "objectID": "index.html#course-description",
-    "href": "index.html#course-description",
-    "title": "History 5454: Digital History for Public History",
-    "section": "Course description",
-    "text": "Course description\nThis course is designed to introduce students to some of the tools of Digital Humanities/History with an emphasis on using open source technology that puts you in control. The course focuses on methodologies. It begins with the basics of organizing primary and secondary sources and your notes on them. We will then give an introduction to data analysis and visualization using the R programming language, culminating in the creation of your own website. Along the way we will be learning the basics of using the command line and learn about git and using GitHub for publishing websites and to become acquainted with the practices of reproducible research.\n\n\n\n\n\n\nNote\n\n\n\nThis course website will function as the main source of information for the course. The syllabus is liable to change based on new material and student input. We may not get to certain material, or I may add new resources based on student interest. Make sure to check in on the website frequently."
+    "objectID": "guides/markdown-syntax.html#paragraphs",
+    "href": "guides/markdown-syntax.html#paragraphs",
+    "title": "Markdown Syntax",
+    "section": "Paragraphs",
+    "text": "Paragraphs\nParagraphs are created in Markdown by writing text with no indentation. To create another paragraph there must be one or more blank lines separating the paragraphs.\n\nThis will be a second paragraph.\nParagraphs are created in Markdown by writing text with no indentation. To create another paragraph there must be one or more blank lines separating the paragraphs.\nThis will be a second paragraph.",
+    "crumbs": [
+      "Guides",
+      "Markdown Syntax"
+    ]
   },
   {
-    "objectID": "index.html#learning-goals",
-    "href": "index.html#learning-goals",
-    "title": "History 5454: Digital History for Public History",
-    "section": "Learning goals",
-    "text": "Learning goals\nAfter taking this course, you will…\n\nhave an expanded awareness of the open source tools available for conducting historical research and making that research widely available to the public.\nbe comfortable writing in plain text and using Markdown.\nunderstand the uses and drawbacks of spreadsheets and how to organize rectangular data.\nbe comfortable with the basics of the command line.\nbe able to import, explore, wrangle, and visualize data in R.\nbe able to write R scripts and document your code in quarto documents.\nhave familiarity with the tidyverse packages in R.\nhave experience with the possibilities for text, network, and spatial analysis available through various R packages.\nbe comfortable with using git and GitHub for your own work or collaboration with others.\ncreate a website using open source tools."
+    "objectID": "guides/markdown-syntax.html#text-formatting",
+    "href": "guides/markdown-syntax.html#text-formatting",
+    "title": "Markdown Syntax",
+    "section": "Text Formatting",
+    "text": "Text Formatting\n\n\n\n\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\n*italics* or _italics_\nitalics\n\n\n**bold** or __bold__\nbold\n\n\n`verbatim code`\nverbatim code",
+    "crumbs": [
+      "Guides",
+      "Markdown Syntax"
+    ]
   },
   {
-    "objectID": "index.html#expectations",
-    "href": "index.html#expectations",
-    "title": "History 5454: Digital History for Public History",
-    "section": "Expectations",
-    "text": "Expectations\nThere are no prerequisites for this course. Students do not need to know anything about the methods and technologies listed in the syllabus. You do not need to know what the command line, R, or git is. That is what the course is for. Familiarity is, of course, helpful, and more advanced students can be accommodated within the structures of the course. However, the intention is for this to be an exploration of open source tools that can help you with historical analysis and publication. The primary expectation is a willingness to try and a readiness to learn. More specific expectations include:\n\nAttendance and active participation in all seminars.\nComplete and be ready to discuss all reading by our weekly meeting.\nCome to seminar with a computer ready to work and to participate in the weekly labs with all applications and programming environments installed by the assigned meeting.1\nComplete all assignments on time.\nComplete the final project of creating a Quarto website.\n\nFinally, it is expected that all students will be respectful of each other. Students will enter the course at different levels of comfort with the tools that we will use. The goal of the course is to help each other get more comfortable with open source technologies."
+    "objectID": "guides/markdown-syntax.html#headings",
+    "href": "guides/markdown-syntax.html#headings",
+    "title": "Markdown Syntax",
+    "section": "Headings",
+    "text": "Headings\n\n\n\n\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\n# Header 1\nHeader 1\n\n\n## Header 2\nHeader 2\n\n\n### Header 3\nHeader 3\n\n\n#### Header 4\nHeader 4\n\n\n##### Header 5\nHeader 5\n\n\n###### Header 6\nHeader 6",
+    "crumbs": [
+      "Guides",
+      "Markdown Syntax"
+    ]
   },
   {
-    "objectID": "index.html#assessment",
-    "href": "index.html#assessment",
-    "title": "History 5454: Digital History for Public History",
-    "section": "Assessment",
-    "text": "Assessment\nAs noted above, the primary expectation for the course is a willingness to try, and so the primary assessment will be focused on effort and growth.\n\nParticipation: 40%\nWeekly assignments: 20%\nFinal project: 40%"
+    "objectID": "guides/markdown-syntax.html#lists",
+    "href": "guides/markdown-syntax.html#lists",
+    "title": "Markdown Syntax",
+    "section": "Lists",
+    "text": "Lists\nUnordered lists are created by typing -, *, or + at the start of a line followed by a space. You can choose one symbol or switch between them in nested lists. The styling of the bullets is done by the output interpreter, not by which symbol you choose.\nOrdered lists are created by typing a number followed by a period and a space (1.).\nNested lists are created by indenting the next line in a list with a tab or four spaces followed by the syntax for creating an unordered or ordered list. Unordered and ordered lists can be combined.\n\nUnordered lists\n\n\n\n\n\n\n- unordered list\n    - nested item\n    - nested item\n        * further nesting \n\n\n\nunordered list\n\nnested item\nnested item\n\nfurther nesting\n\n\n\n\n\n\n\n\nOrdered lists\n\n\n\n\n\n\n1. ordered list\n2. Second item\n    1. nested item\n        1. further nesting\n\n\n\nordered list\nSecond item\n\nnested item\n\nfurther nesting\n\n\n\n\n\n\n\n\nMixed lists\n\n\n\n\n\n\n1. mixed list\n    - unordered nesting\n        1. ordered nesting \n        2. second ordered nesting\n    - unordered nesting\n2. Second item\n\n\n\nmixed list\n\nunordered nesting\n\nordered nesting\nsecond ordered nesting\n\nunordered nesting\n\nSecond item",
+    "crumbs": [
+      "Guides",
+      "Markdown Syntax"
+    ]
   },
   {
-    "objectID": "index.html#how-the-course-works",
-    "href": "index.html#how-the-course-works",
-    "title": "History 5454: Digital History for Public History",
-    "section": "How the course works",
-    "text": "How the course works\nMeetings will be divided between discussion of weekly readings and topics and interactive workshops devoted to the tools and technologies for that week. All information necessary for the course is made available through this website. Information about weekly reading, assignments, and resources is available via the Schedule on the sidebar. This information is dynamic and liable to change, so please make sure to visit this website frequently.\nWe will be using two pieces of technology to help with collaboration during the semester. We will use Discord to provide a place to ask questions and receive feedback outside of the meetings. The Discord will also be a place for any announcements about the course. See Resources: Discord for instructions on getting set up with Discord. Secondly, we will be using Zotero groups as a way to collaboratively keep track of the resources we use for the class. See Resources: Zoetero for instructions on getting set up with Zotero.\n\n\n\n\n\n\nNote\n\n\n\nThis website is built with Quarto and the source code is available on GitHub. If you want to see how anything works or to suggest any changes you can do so through GitHub."
+    "objectID": "guides/markdown-syntax.html#links",
+    "href": "guides/markdown-syntax.html#links",
+    "title": "Markdown Syntax",
+    "section": "Links",
+    "text": "Links\nThere are three main ways to create links in Markdown:\n\nA raw link is created by surrounding the URL by less than and greater than signs.\n&lt;https://lib.vt.edu&gt; becomes https://lib.vt.edu\nInline links are created by surrounding the link text in square brackets, followed immediately by the URL in parentheses.\n[text to link](https://lib.vt.edu) becomes text to link\nReference links are created by surrounding the link text in square brackets, followed by a reference in square brackets. The reference can be a number or text so long as it is unique within the text. Then, the reference is added on a line by itself, after the paragraph or at the bottom of the text, by writing the reference in square brackets, followed by a colon, space, and the URL.\n[text to link][ref]\n\n[ref]: https://lib.vt.edu\nBecomes text to link",
+    "crumbs": [
+      "Guides",
+      "Markdown Syntax"
+    ]
   },
   {
-    "objectID": "index.html#schedule",
-    "href": "index.html#schedule",
-    "title": "History 5454: Digital History for Public History",
-    "section": "Schedule",
-    "text": "Schedule\n\nIntroduction (18 January)\nDigital History and Public History (25 January)\nOrganizing resources (1 February)\nPlain text and markdown (8 February)\nData and an intro to the command line (15 February)\nIntro to R and RStudio (22 February)\nData wrangling (29 February)\nVisualization with ggplot2 (14 March)\nVersion control with Git and GitHub (21 March)\nMaking documents and websites with Quarto (28 March)\nReview and website workshop (4 April)\nSpatial analysis (11 April)\nNetwork analysis (18 April)\nWeb design and visualization (25 April)\nConclusion (2 May)\n\nAppendix: Text analysis"
-  },
-  {
-    "objectID": "index.html#footnotes",
-    "href": "index.html#footnotes",
-    "title": "History 5454: Digital History for Public History",
+    "objectID": "guides/markdown-syntax.html#footnotes",
+    "href": "guides/markdown-syntax.html#footnotes",
+    "title": "Markdown Syntax",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\nIf you have any problems, we can troubleshoot together.↩︎"
-  },
-  {
-    "objectID": "markdown-syntax.html",
-    "href": "markdown-syntax.html",
-    "title": "Level 1 heading",
-    "section": "",
-    "text": "- Paragraphs: Empty line, no indentation\n- Headers 1–6\n- *Italics* or _Italics_\n- **Bold** or __Bold__\n- Unordered list: `-`, `*`, `+`\n- Ordered list\n- Link:\n    - Inline: [Text](https://www.vt.edu)\n    - Reference style\n        - `[Text][1]`\n        - `[1]: https://www.vt.edu`\n    - Raw link: &lt;https://www.vt.edu&gt;\n- Footnotes\n    - `Some text[^1].`\n    - `[^1]: Footnote text.`\n- Block quote: `&gt;`\n- Code: `code`\n- Images: `![Description](image.jpg)`\n\nWe write a paragraph. It is a good paragraph.\n\nThis is the next paragraph.\n\n# Level 1 heading\n\n## Level 2 heading\n\n###### Level 6\n\nThis is *some text in italics*. This is **bold** text.\n\n+ This is a unordered list\n+ Second item in a list\n    + Indented list item\n\n----\n\n1. This is an ordered list\n2. Second item\n    - Unordered list\n\n\n- This is an idea that has three points:\n    1. item 1\n    2. item 2\n    3. item 3\n\n\nRaw link: &lt;https://www.vt.edu&gt;\n\n\nInline link: Here is some text. I want [this text to be a link](https://www.vt.edu).\n\nReference style link: I want [this text to be a link][1]\n\n\n&gt; This is a block quote\n\n\nWe want a footnote here.[^1]\n\n\n[1]: https://www.vt.edu\n\n[^1]: This is the text of the footnote.\n\n\n\n\nParagraphs: Empty line, no indentation\nHeaders 1–6\nItalics or Italics\nBold or Bold\nUnordered list: -, *, +\nOrdered list\nLink:\n\nInline: Text\nReference style\n\n[Text][1]\n[1]: https://www.vt.edu\n\nRaw link: https://www.vt.edu\n\nFootnotes\n\nSome text[^1].\n[^1]: Footnote text.\n\nBlock quote: &gt;\nCode: code\nImages: ![Description](image.jpg)\n\nWe write a paragraph. It is a good paragraph.\nThis is the next paragraph."
-  },
-  {
-    "objectID": "markdown-syntax.html#markdown-syntax",
-    "href": "markdown-syntax.html#markdown-syntax",
-    "title": "Level 1 heading",
-    "section": "",
-    "text": "- Paragraphs: Empty line, no indentation\n- Headers 1–6\n- *Italics* or _Italics_\n- **Bold** or __Bold__\n- Unordered list: `-`, `*`, `+`\n- Ordered list\n- Link:\n    - Inline: [Text](https://www.vt.edu)\n    - Reference style\n        - `[Text][1]`\n        - `[1]: https://www.vt.edu`\n    - Raw link: &lt;https://www.vt.edu&gt;\n- Footnotes\n    - `Some text[^1].`\n    - `[^1]: Footnote text.`\n- Block quote: `&gt;`\n- Code: `code`\n- Images: `![Description](image.jpg)`\n\nWe write a paragraph. It is a good paragraph.\n\nThis is the next paragraph.\n\n# Level 1 heading\n\n## Level 2 heading\n\n###### Level 6\n\nThis is *some text in italics*. This is **bold** text.\n\n+ This is a unordered list\n+ Second item in a list\n    + Indented list item\n\n----\n\n1. This is an ordered list\n2. Second item\n    - Unordered list\n\n\n- This is an idea that has three points:\n    1. item 1\n    2. item 2\n    3. item 3\n\n\nRaw link: &lt;https://www.vt.edu&gt;\n\n\nInline link: Here is some text. I want [this text to be a link](https://www.vt.edu).\n\nReference style link: I want [this text to be a link][1]\n\n\n&gt; This is a block quote\n\n\nWe want a footnote here.[^1]\n\n\n[1]: https://www.vt.edu\n\n[^1]: This is the text of the footnote.\n\n\n\n\nParagraphs: Empty line, no indentation\nHeaders 1–6\nItalics or Italics\nBold or Bold\nUnordered list: -, *, +\nOrdered list\nLink:\n\nInline: Text\nReference style\n\n[Text][1]\n[1]: https://www.vt.edu\n\nRaw link: https://www.vt.edu\n\nFootnotes\n\nSome text[^1].\n[^1]: Footnote text.\n\nBlock quote: &gt;\nCode: code\nImages: ![Description](image.jpg)\n\nWe write a paragraph. It is a good paragraph.\nThis is the next paragraph."
-  },
-  {
-    "objectID": "markdown-syntax.html#level-2-heading",
-    "href": "markdown-syntax.html#level-2-heading",
-    "title": "Level 1 heading",
-    "section": "Level 2 heading",
-    "text": "Level 2 heading\n\nLevel 6\nThis is some text in italics. This is bold text.\n\nThis is a unordered list\nSecond item in a list\n\nIndented list item\n\n\n\n\nThis is an ordered list\nSecond item\n\nUnordered list\n\n\n\nThis is an idea that has three points:\n\nitem 1\nitem 2\nitem 3\n\n\nRaw link: https://www.vt.edu\nInline link: Here is some text. I want this text to be a link.\nReference style link: I want this text to be a link\n\nThis is a block quote\n\nWe want a footnote here.1"
-  },
-  {
-    "objectID": "markdown-syntax.html#footnotes",
-    "href": "markdown-syntax.html#footnotes",
-    "title": "Level 1 heading",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nThis is the text of the footnote.↩︎"
+    "text": "Footnotes\n\n\nThe linked footnote appears at the end of the document in HTML and end of the page in a PDF.↩︎",
+    "crumbs": [
+      "Guides",
+      "Markdown Syntax"
+    ]
   },
   {
     "objectID": "guides/geo-data.html",
@@ -1076,7 +1235,7 @@
     "href": "meetings/04-markdown.html#resources",
     "title": "Week 4: Plain Text and Markdown",
     "section": "Resources",
-    "text": "Resources\n\nText editors\nSee Resources: Text editors. A good text editor can save you a lot of time if you take the time to learn how to use it. A great and longstanding macOS text editor is BBEdit, which can be purchased, but it offers a very generous free mode. Here is a comparison chart of what you get with the free version. A classic text editor for Windows is Notepad++. A popular cross-platform text editor that is freely available is Visual Studio Code. There are many other options. Feel free to check them out.\n\n\nMarkdown\n\nJohn Gruber’s introduction of Markdown and its syntax\nMarkdown style guide: Quarto docs\nMarkdown Style Guide\nMost/many Markdown editors, especially those that focus on academic writing, depend upon Pandoc, which attempts to be a universal document converter.\n\nLink to the Markdown syntax guide created in class\n\n\nOther markup options\n\nThe main other option for writing in Markdown or a Markdown based system is LaTeX. Overleaf is a LaTeX editor created specifically for collaboration in academia.\n\n\n\nNote taking apps and zettelkasten\nThere is currently a bit of a renaissance in note taking apps that are designed around the basic ideas of zettelkasten. Most of the apps are Markdown editors that provide a way to create internal links between your notes and display incoming and outgoing links. Zettlr is just one example. It is nice because it is open source, cross platform, and designed with academics in mind. But this does not mean that it is necessarily the best for you. Another hugely popular free (but not open source) and cross platform option is Obsidian.\n\n\nOther options\nDevonThink is more of a do it all database app for macOS, but it can certainly be used as the foundation of organizing your research and note taking.",
+    "text": "Resources\n\nText editors\nSee Resources: Text editors. A good text editor can save you a lot of time if you take the time to learn how to use it. A great and longstanding macOS text editor is BBEdit, which can be purchased, but it offers a very generous free mode. Here is a comparison chart of what you get with the free version. A classic text editor for Windows is Notepad++. A popular cross-platform text editor that is freely available is Visual Studio Code. There are many other options. Feel free to check them out.\n\n\nMarkdown\n\nJohn Gruber’s introduction of Markdown and its syntax\nMarkdown style guide: Quarto docs\nMarkdown Style Guide\nMany Markdown editors, especially those that focus on academic writing, depend upon Pandoc, which attempts to be a universal document converter.\n\nMarkdown syntax guide created in class\n\n\nOther markup options\n\nThe main other option for writing in Markdown or a Markdown based system is LaTeX. Overleaf is a LaTeX editor created specifically for collaboration in academia.\n\n\n\nNote taking apps and zettelkasten\nThere is currently a bit of a renaissance in note taking apps that are designed around the basic ideas of zettelkasten. Most of the apps are Markdown editors that provide a way to create internal links between your notes and display incoming and outgoing links. Zettlr is just one example. It is nice because it is open source, cross platform, and designed with academics in mind. But this does not mean that it is necessarily the best for you. Another hugely popular free (but not open source) and cross platform option is Obsidian.\n\n\nOther options\nDevonThink is more of a do it all database app for macOS, but it can certainly be used as the foundation of organizing your research and note taking.",
     "crumbs": [
       "Schedule",
       "4. Plain text and markdown"
@@ -1109,7 +1268,7 @@
     "href": "meetings/03-organization.html#assignment",
     "title": "Week 3: Organizing resources",
     "section": "Assignment",
-    "text": "Assignment\n\nDownload Zotero if you have not already and read over the documentation.\nThink about how you organize your research and research materials.",
+    "text": "Assignment\n\nDownload Zotero if you have not already and read over the Zotero Guide and look through Zotero’s documentation.\nThink about how you organize your research and research materials.",
     "crumbs": [
       "Schedule",
       "3. Organizing resources"
@@ -1131,7 +1290,7 @@
     "href": "meetings/03-organization.html#zotero",
     "title": "Week 3: Organizing resources",
     "section": "Zotero",
-    "text": "Zotero\n\nSetup\n\nHow to store your PDFs\n\nDefault storage with Zotero creates its own file structure and you can sync files using Zotero sync.\nZotFile: Another option is to use the ZotFile plugin, which helps you to manage and name PDFs in a single folder.\n\nThe advantage of this is that you maintain more control over the PDFs and less dependent on Zotero.\nHowever, ZotFile is not in active development right now and so things may change. A lot of people use and depend on it, so it should be safe to use. There is active discussion on replacements going on.\nThe UC Berkeley Library has a good guide on using ZotFile.\n\n\nBetterBibTeX\n\nThis plugin helps you to use Zotero with plain text editors through BibTeX, creating citation keys for you.\n\nZutilo\n\nThe Zutilo plugin adds several functions not available in base Zotero through extra menu items and keyboard shortcuts.\n\n\n\n\nGetting items into Zotero\n\nAdding items to Zotero\nDrag and drop PDF file\nAdd item by identifier\nSometimes you just have to add items manually.\n\n\n\nOrganizing your library\n\nCollections or folders\nTags\n\n\n\nCitations and bibliographies\n\nZotero integrates with Word processors such as Word, LibreOffice, and Google Docs.\nBut you can also create your citations and bibliographies by choosing the sources you want to cite and copying them.\n\nThis can be done with Edit → Copy Bibliography or press Ctrl/Cmd-Shift-C. To copy citations instead of bibliography entries, use Edit → Copy Citation or Ctrl/Cmd-Shift-A. The citation style for export can be chosen in Zotero Settings under the Export tab.\nAn alternative is to right-click on selected items and choose “Create Bibliography from Selected Item(s)…” from the contextual menu. This will allow you to choose the citation style and how you want to create the bibliography.\n\nDealing with citation styles can be difficult, but Zotero comes with most styles that you will need.\n\nAll styles are written in Citation Style Language (CSL), which means they can be used and read by most tools built for creating citations and bibliographies.",
+    "text": "Zotero\n\nSetup\n\nHow to store your PDFs\n\nDefault storage with Zotero creates its own file structure and you can sync files using Zotero sync.\nThe zotmoov extension provides a way to move files to an external folder.\nYou can also customize how PDFs are named. See the documentation on how to set this up.\n\nBetterBibTeX\n\nThis plugin helps you to use Zotero with plain text editors through BibTeX, creating citation keys for you.\n\nZutilo\n\nThe Zutilo plugin adds several functions not available in base Zotero through extra menu items and keyboard shortcuts.\n\n\n\n\nGetting items into Zotero\n\nAdding items to Zotero\nDrag and drop PDF file\nAdd item by identifier\nSometimes you just have to add items manually.\n\n\n\nOrganizing your library\n\nCollections or folders\nTags\n\n\n\nCitations and bibliographies\n\nZotero integrates with Word processors such as Word, LibreOffice, and Google Docs.\nBut you can also create your citations and bibliographies by choosing the sources you want to cite and copying them.\n\nThis can be done with Edit → Copy Bibliography or press Ctrl/Cmd-Shift-C. To copy citations instead of bibliography entries, use Edit → Copy Citation or Ctrl/Cmd-Shift-A. The citation style for export can be chosen in Zotero Settings under the Export tab.\nAn alternative is to right-click on selected items and choose “Create Bibliography from Selected Item(s)…” from the contextual menu. This will allow you to choose the citation style and how you want to create the bibliography.\n\nDealing with citation styles can be difficult, but Zotero comes with most styles that you will need.\n\nAll styles are written in Citation Style Language (CSL), which means they can be used and read by most tools built for creating citations and bibliographies.",
     "crumbs": [
       "Schedule",
       "3. Organizing resources"
