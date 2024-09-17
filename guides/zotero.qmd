@@ -98,7 +98,7 @@ Check out these resources from the Library on Zotero, including former workshops
 	- Choose format for Quick copy in Preferences → Export 
 - Bibliography or citation list
 	- Either select the items you want, right-click and choose Create Bibliography from Items...
-	- Or choose a right-click on a collection and choose Create Bibliography from Collection...
+	- Or right-click on a collection and choose Create Bibliography from Collection...
 	- Then choose the bibliographical style you want, whether to create citations or a bibliography, and how you want the citations exported. 
 
 ### Microsoft Word
@@ -155,6 +155,7 @@ Zotero is an investment. It takes time and effort to collect, organize, and proo
 4. Copy bibliography entry by clicking on two-pages symbol
 5. Copy to clipboard to copy full bibliography.
 
-
+## What about keeping track of primary sources from the archives?
+The makers of Zotero also make an application called [Tropy](https://tropy.org) that is designed to organize photos you take of archival sources.
 
 [^1]: See the documentation on [Alternative Syncing solutions](https://www.zotero.org/support/sync#alternative_syncing_solutions).

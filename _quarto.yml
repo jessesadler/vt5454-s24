@@ -58,8 +58,8 @@ website:
         contents:
           - href: guides/zotero.qmd
           - href: guides/markdown-syntax.qmd
+          - href: guides/plaintext.qmd
           - href: guides/geo-data.qmd
-            text: Putting maps on your website
       - href: resources.qmd
       - href: faq.qmd
       - href: computing.qmd
