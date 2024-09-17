@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Week 14: Web design and visualization</title>
+<title>Working with Plain Text</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -29,8 +29,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../meetings/15-conclusion.html" rel="next">
-<link href="../meetings/13-network.html" rel="prev">
+<link href="../guides/geo-data.html" rel="next">
+<link href="../guides/markdown-syntax.html" rel="prev">
 <link href="../logo.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -83,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../meetings/01-intro.html">Schedule</a></li><li class="breadcrumb-item"><a href="../meetings/14-design.html">14. Web design and visualization</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../guides/zotero.html">Guides</a></li><li class="breadcrumb-item"><a href="../guides/plaintext.html">Working with Plain Text</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -202,7 +202,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../meetings/14-design.html" class="sidebar-item-text sidebar-link active">
+  <a href="../meetings/14-design.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">14. Web design and visualization</span></a>
   </div>
 </li>
@@ -243,7 +243,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../guides/plaintext.html" class="sidebar-item-text sidebar-link">
+  <a href="../guides/plaintext.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Working with Plain Text</span></a>
   </div>
 </li>
@@ -283,30 +283,22 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#reading" id="toc-reading" class="nav-link active" data-scroll-target="#reading">Reading</a></li>
-  <li><a href="#assignment" id="toc-assignment" class="nav-link" data-scroll-target="#assignment">Assignment</a></li>
-  <li><a href="#activities" id="toc-activities" class="nav-link" data-scroll-target="#activities">Activities</a></li>
-  <li><a href="#publishing-your-website-on-github-pages" id="toc-publishing-your-website-on-github-pages" class="nav-link" data-scroll-target="#publishing-your-website-on-github-pages">Publishing your website on GitHub pages</a>
+  <li><a href="#why-write-in-plain-text" id="toc-why-write-in-plain-text" class="nav-link active" data-scroll-target="#why-write-in-plain-text">Why write in plain text?</a></li>
+  <li><a href="#what-do-i-need-to-write-in-plaintext" id="toc-what-do-i-need-to-write-in-plaintext" class="nav-link" data-scroll-target="#what-do-i-need-to-write-in-plaintext">What do I need to write in plaintext?</a></li>
+  <li><a href="#plain-text-writing-and-note-taking-apps" id="toc-plain-text-writing-and-note-taking-apps" class="nav-link" data-scroll-target="#plain-text-writing-and-note-taking-apps">Plain text writing and note taking apps</a>
   <ul class="collapse">
-  <li><a href="#setting-up-publish-command" id="toc-setting-up-publish-command" class="nav-link" data-scroll-target="#setting-up-publish-command">Setting up publish command</a></li>
-  <li><a href="#what-you-should-be-doing-to-make-changes-to-your-website" id="toc-what-you-should-be-doing-to-make-changes-to-your-website" class="nav-link" data-scroll-target="#what-you-should-be-doing-to-make-changes-to-your-website">What you should be doing to make changes to your website</a></li>
+  <li><a href="#other-options" id="toc-other-options" class="nav-link" data-scroll-target="#other-options">Other options</a></li>
   </ul></li>
-  <li><a href="#designing-quarto-websites" id="toc-designing-quarto-websites" class="nav-link" data-scroll-target="#designing-quarto-websites">Designing Quarto websites</a>
-  <ul class="collapse">
-  <li><a href="#choose-a-quarto-theme" id="toc-choose-a-quarto-theme" class="nav-link" data-scroll-target="#choose-a-quarto-theme">Choose a Quarto theme</a></li>
-  <li><a href="#basic-customization" id="toc-basic-customization" class="nav-link" data-scroll-target="#basic-customization">Basic customization</a></li>
-  <li><a href="#customization-with-scss" id="toc-customization-with-scss" class="nav-link" data-scroll-target="#customization-with-scss">Customization with SCSS</a></li>
-  </ul></li>
-  <li><a href="#resources-website-design" id="toc-resources-website-design" class="nav-link" data-scroll-target="#resources-website-design">Resources: Website design</a></li>
+  <li><a href="#taking-it-to-the-next-level-plain-text-for-publication" id="toc-taking-it-to-the-next-level-plain-text-for-publication" class="nav-link" data-scroll-target="#taking-it-to-the-next-level-plain-text-for-publication">Taking it to the next level: Plain text for publication</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/jessesadler/vt5454-s24/edit/main/meetings/14-design.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jessesadler/vt5454-s24/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/jessesadler/vt5454-s24/edit/main/guides/plaintext.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jessesadler/vt5454-s24/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../meetings/01-intro.html">Schedule</a></li><li class="breadcrumb-item"><a href="../meetings/14-design.html">14. Web design and visualization</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../guides/zotero.html">Guides</a></li><li class="breadcrumb-item"><a href="../guides/plaintext.html">Working with Plain Text</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Week 14: Web design and visualization</h1>
+<h1 class="title">Working with Plain Text</h1>
 </div>
 
 
@@ -323,105 +315,57 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>This week is a more or less free week to discuss and work on anything from the class that we feel we want/need to go over. The current idea for the week is to go over styling for websites and polishing visualizations.</p>
-<section id="reading" class="level2">
-<h2 class="anchored" data-anchor-id="reading">Reading</h2>
+<section id="why-write-in-plain-text" class="level2">
+<h2 class="anchored" data-anchor-id="why-write-in-plain-text">Why write in plain text?</h2>
+<p>Writing in plain text may seem odd at first, and it confronts the beginner with a number of issues compared to word processing applications such as Microsoft Word or Google Docs that use a WYSIWYG (what you see is what you get) interface. However, there are a number of advantages to using plain text documents that make the initial discomfort worth it.</p>
 <ul>
-<li><a href="https://quarto.org/docs/output-formats/html-themes.html">Quarto documentation: HTML Themes</a>
+<li><strong>Sustainability</strong>: Plain text documents are sustainable. They will be able to be read and displayed by a computer as long as we have such technology. They are not dependent on a proprietary format like docx.</li>
+<li><strong>Light weight</strong>: Plain text documents are incredibly lightweight. Word processors add all sorts of formatting characters to provide a WYSIWYG experience that increase the file size and add complexity to the whole process of writing. Try opening a hundred page document in Word and then try opening the same document in a plain text editor. The latter will open instantaneously.</li>
+<li><strong>The power of a text editor</strong>: With a text editor application you can perform all sorts of complex search and search and replace functionality across multiple documents at the same time.</li>
+<li><strong>The web</strong>: The internet is created using plain text documents. If you want to write for the web, you should be writing in plain text.</li>
+<li><strong>Adding formatting with markup languages</strong>: If the lack of formatting is a benefit, how do you get plain text documents to have the formatting you want in a document? The answer is to use a markup language. The markup language of the web is HTML, but most modern plaintext applications use <a href="https://daringfireball.net/projects/markdown/basics">Markdown</a> to add formatting such as headings, lists, links, and even footnotes.</li>
+</ul>
+</section>
+<section id="what-do-i-need-to-write-in-plaintext" class="level2">
+<h2 class="anchored" data-anchor-id="what-do-i-need-to-write-in-plaintext">What do I need to write in plaintext?</h2>
+<p>In short, a good text editor. Below are some good options to start with.</p>
 <ul>
-<li><a href="https://quarto.org/docs/output-formats/html-themes-more.html">More About Quarto Themes</a></li>
+<li>Cross platform
+<ul>
+<li><a href="https://code.visualstudio.com">Visual Studio Code</a> is much more than a text editor, but it can also be made into a good text editor for plain text and Markdown. It is free and open source and worthy of a download to check out.</li>
+<li>A paid alternative is <a href="https://www.sublimetext.com">Sublime Text</a>.</li>
 </ul></li>
-<li>Samantha Csik, <a href="https://ucsb-meds.github.io/customizing-quarto-websites/">Customizing Quarto Websites - Make your website stand out using SASS &amp; CSS</a>
+<li>macOS
 <ul>
-<li><a href="https://github.com/UCSB-MEDS/customizing-quarto-websites">GitHub repository</a></li>
+<li><a href="http://www.barebones.com/products/bbedit/">BBEdit</a> is over 30 years old and still going strong. It is available for purchase, but you can go quite far with the free version.</li>
+<li><a href="https://coteditor.com/">CotEditor</a> is a modern open source text editor that is very clean looking.</li>
+<li><a href="https://www.chimehq.com">Chime</a> is another open source option.</li>
+</ul></li>
+<li>Windows
+<ul>
+<li>A classic text editor for Windows is <a href="https://notepad-plus-plus.org">Notepad++</a>.</li>
 </ul></li>
 </ul>
 </section>
-<section id="assignment" class="level2">
-<h2 class="anchored" data-anchor-id="assignment">Assignment</h2>
+<section id="plain-text-writing-and-note-taking-apps" class="level2">
+<h2 class="anchored" data-anchor-id="plain-text-writing-and-note-taking-apps">Plain text writing and note taking apps</h2>
+<p>There is currently a renaissance in writing apps that leverage plain text and Markdown to store files that can be linked together in various ways, making it possible to build anything from a data base of notes, a wiki-like database, outlines and checklists, or even short or long forms of writing intended for publication.</p>
+<p>Two good options to investigate are <a href="https://obsidian.md">Obsidian</a> and <a href="https://www.zettlr.com">Zettlr</a>.</p>
+<section id="other-options" class="level3">
+<h3 class="anchored" data-anchor-id="other-options">Other options</h3>
 <ul>
-<li>Work on website project.</li>
-</ul>
-</section>
-<section id="activities" class="level2">
-<h2 class="anchored" data-anchor-id="activities">Activities</h2>
-<p>Workshop: Publishing your website Workshop: Designing websites</p>
-</section>
-<section id="publishing-your-website-on-github-pages" class="level2">
-<h2 class="anchored" data-anchor-id="publishing-your-website-on-github-pages">Publishing your website on GitHub pages</h2>
-<ul>
-<li>See also <a href="../resources.html#sec-quarto-publish">Resources: Publishing Quarto websites with GitHub Pages</a></li>
-<li>Documentation for the <a href="https://quarto.org/docs/publishing/github-pages.html#publish-command">publish command</a> using the quarto command line interface.</li>
-</ul>
-<section id="setting-up-publish-command" class="level3">
-<h3 class="anchored" data-anchor-id="setting-up-publish-command">Setting up publish command</h3>
-<ol type="1">
-<li>First, <strong>make sure all changes are committed</strong> on your project.</li>
-<li>Create an empty <code>gh-pages</code> branch.
-<ol type="1">
-<li><code>git checkout --orphan gh-pages</code></li>
-<li><code>git reset --hard</code></li>
-<li><code>git commit --allow-empty -m "Initialising gh-pages branch"</code></li>
-<li><code>git push origin gh-pages</code></li>
-</ol></li>
-<li>Check Settings -&gt; Pages for <strong>Source</strong> branch on your <a href="https://github.com">GitHub</a> repository.</li>
-<li>Ignore <code>_site/</code> folder in git
-<ol type="1">
-<li>Add <code>/_site/</code> to <code>.gitignore</code> file.</li>
-<li>Remove any tracking of <code>_site/</code> in git: <code>git rm -r _site</code></li>
-</ol></li>
-<li>Publish through command line: <code>quarto publish gh-pages</code></li>
-</ol>
-</section>
-<section id="what-you-should-be-doing-to-make-changes-to-your-website" class="level3">
-<h3 class="anchored" data-anchor-id="what-you-should-be-doing-to-make-changes-to-your-website">What you should be doing to make changes to your website</h3>
-<ol type="1">
-<li>Make the changes in RStudio.</li>
-<li>Render website on your computer to make sure everything works.</li>
-<li><code>git add</code> and <code>git commit -m</code> changes.</li>
-<li>Push changes to GitHub main branch: <code>git push origin main</code></li>
-<li>Publish changes by pushing to gh-pages branch: <code>quarto publish gh-pages</code></li>
-</ol>
-</section>
-</section>
-<section id="designing-quarto-websites" class="level2">
-<h2 class="anchored" data-anchor-id="designing-quarto-websites">Designing Quarto websites</h2>
-<p>The basic styling of your website is done through <a href="https://quarto.org/docs/output-formats/html-themes.html">HTML theming</a>.</p>
-<section id="choose-a-quarto-theme" class="level3">
-<h3 class="anchored" data-anchor-id="choose-a-quarto-theme">Choose a Quarto theme</h3>
-<ul>
-<li>Quarto HTML documents are all based on <a href="https://getbootstrap.com/">Bootstrap 5</a>.</li>
-<li>Quarto provides access to 25 <a href="https://bootswatch.com/">Bootswatch themes</a>.</li>
-<li>Change theme in <code>_quarto.yml</code> under <code>format:</code></li>
-</ul>
-</section>
-<section id="basic-customization" class="level3">
-<h3 class="anchored" data-anchor-id="basic-customization">Basic customization</h3>
-<ul>
-<li>You can make basic changes to the theme in <code>_quarto.yml</code> under <code>format:</code>.</li>
-<li>See <a href="https://quarto.org/docs/output-formats/html-themes.html#basic-options">basic customization</a> for available options.</li>
-</ul>
-</section>
-<section id="customization-with-scss" class="level3">
-<h3 class="anchored" data-anchor-id="customization-with-scss">Customization with SCSS</h3>
-<ul>
-<li>Create <a href="https://quarto.org/docs/output-formats/html-themes.html#custom-themes">fully custom themes</a> with <a href="https://sass-lang.com">SASS</a> variables through <code>scss</code> files. SASS is a superset of <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS (Cascading Style Sheets)</a>.</li>
-<li>This is done in a <code>styles.csss</code> or <code>custom.scss</code> file, which is listed under <code>theme:</code> in <code>_quarto.yml</code>.</li>
-<li>See <a href="https://quarto.org/docs/output-formats/html-themes.html#sass-variables">Quarto SASS variables</a> for the most likely variables you might want to change.</li>
-<li>See <a href="https://quarto.org/docs/output-formats/html-themes-more.html">More About Quarto Themes</a> on using SCSS.</li>
+<li><a href="https://ia.net/writer">iA Writer</a></li>
+<li><a href="https://www.craft.do">Craft</a></li>
+<li><a href="https://roamresearch.com">Roam Research</a></li>
+<li><a href="https://www.notion.so">Notion</a></li>
+<li><a href="https://workflowy.com">Workflowy</a></li>
+<li><a href="https://www.devontechnologies.com/apps/devonthink">DevonThink</a></li>
 </ul>
 </section>
 </section>
-<section id="resources-website-design" class="level2">
-<h2 class="anchored" data-anchor-id="resources-website-design">Resources: Website design</h2>
-<ul>
-<li>Quarto websites are customizable through <a href="https://quarto.org/docs/output-formats/html-themes.html">HTML themes</a>.</li>
-<li>Joel Ross and Mike Freeman, <a href="https://info340.github.io">Client-Side Web Development</a></li>
-<li><a href="https://getbootstrap.com/">Bootstrap 5</a></li>
-<li><a href="https://bootswatch.com/">Bootswatch themes</a></li>
-<li><a href="https://sass-lang.com/guide/">SASS</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">Mozilla Docs, CSS: Cascading Style Sheets</a></li>
-</ul>
+<section id="taking-it-to-the-next-level-plain-text-for-publication" class="level2">
+<h2 class="anchored" data-anchor-id="taking-it-to-the-next-level-plain-text-for-publication">Taking it to the next level: Plain text for publication</h2>
+<p>Good places to start for the why and how of writing in plain text for academic writing is Kieran Healy’s <a href="https://plain-text.co">The Plain Person’s Guide to Plain Text Social Science</a> and Programming Historian’s lesson on <a href="https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown">Sustainable Authorship in Plain Text using Pandoc and Markdown</a>.</p>
 
 
 </section>
@@ -993,13 +937,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../meetings/13-network.html" class="pagination-link" aria-label="13. Network analysis">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">13. Network analysis</span>
+      <a href="../guides/markdown-syntax.html" class="pagination-link" aria-label="Markdown Syntax">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Markdown Syntax</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../meetings/15-conclusion.html" class="pagination-link" aria-label="15. Conclusion">
-        <span class="nav-page-text">15. Conclusion</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../guides/geo-data.html" class="pagination-link" aria-label="Putting maps on your website">
+        <span class="nav-page-text">Putting maps on your website</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -1011,7 +955,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/jessesadler/vt5454-s24/edit/main/meetings/14-design.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jessesadler/vt5454-s24/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/jessesadler/vt5454-s24/edit/main/guides/plaintext.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jessesadler/vt5454-s24/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>This page is built with <a href="https://quarto.org/">Quarto</a>.</p>
 </div>
