@@ -57,8 +57,8 @@ website:
       - section: "Guides"
         contents:
           - href: guides/zotero.qmd
-          - href: guides/markdown-syntax.qmd
           - href: guides/plaintext.qmd
+          - href: guides/markdown-syntax.qmd
           - href: guides/geo-data.qmd
       - href: resources.qmd
       - href: faq.qmd

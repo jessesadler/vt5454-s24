@@ -189,3 +189,12 @@ This is a normal paragraph.
 > With multiple paragraphs
 
 And then another paragraph.
+
+## Resources
+- [John Gruber's introduction of Markdown and its syntax](https://daringfireball.net/projects/markdown/syntax)
+- [Programming Historian: Sarah Simpkin, Getting Started with Markdown](https://programminghistorian.org/en/lessons/getting-started-with-markdown)
+- [Markdown style guide: Quarto docs](https://quarto.org/docs/authoring/markdown-basics.html)
+- [Markdown Style Guide](https://markdownguide.offshoot.io/basic-syntax/)
+- Many Markdown editors, especially those that focus on academic writing, depend upon [Pandoc](https://pandoc.org), which attempts to be a universal document converter.
+	- Pandoc has an in-depth discussion of its flavor of [Markdown syntax](https://pandoc.org/MANUAL.html#pandocs-markdown).
+	- See also [Programming Historian: Dennis Tenen and Grant Wythoff, Sustainable Authorship in Plain Text using Pandoc and Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)

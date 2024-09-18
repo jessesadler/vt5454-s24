@@ -2,8 +2,6 @@
 title: "Zotero"
 ---
 
-## Introduction
-
 ### Why bibliographical managers?
 1. Collect references
 2. Store PDFs, links, other documents
@@ -31,7 +29,7 @@ Check out these resources from the Library on Zotero, including former workshops
 - [Video from the latest workshop on Zotero by Lisa Becksford Russell](https://video.vt.edu/media/Getting+Started+with+Zotero/1_66k4lx5d)
 
 ## 1. Getting Zotero
-1. Download Zotero: https://www.zotero.org
+1. Download Zotero: <https://www.zotero.org>
 2. Register for an account. You do not need to use your VT email address.
 3. You can store your PDFs in the cloud. You get 300 MB free. You do not need to pay for extra storage until you decide you need it. There are also options to store your PDFs in an external folder such as DropBox, iCloud, OneDrive, etc.[^1]
 
@@ -97,9 +95,9 @@ Check out these resources from the Library on Zotero, including former workshops
 	- Copy Bibliography: ⌘⇧C
 	- Choose format for Quick copy in Preferences → Export 
 - Bibliography or citation list
-	- Either select the items you want, right-click and choose Create Bibliography from Items...
-	- Or right-click on a collection and choose Create Bibliography from Collection...
-	- Then choose the bibliographical style you want, whether to create citations or a bibliography, and how you want the citations exported. 
+  - Either select the items you want, right-click and choose Create Bibliography from Items...
+  - Or right-click on a collection and choose Create Bibliography from Collection...
+  - Then choose the bibliographical style you want, whether to create citations or a bibliography, and how you want the citations exported. 
 
 ### Microsoft Word
 [Using Zotero with Word](https://www.zotero.org/support/word_processor_plugin_usage): The Zotero Word plugin should be installed automatically when you install Zotero. The Zotero Word plugin adds a Zotero tab to Microsoft Word.
