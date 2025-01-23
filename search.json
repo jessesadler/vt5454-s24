@@ -210,661 +210,333 @@
     ]
   },
   {
-    "objectID": "meetings/15-conclusion.html",
-    "href": "meetings/15-conclusion.html",
-    "title": "Week 15: Conclusion",
+    "objectID": "meetings/04-markdown.html",
+    "href": "meetings/04-markdown.html",
+    "title": "Week 4: Plain Text and Markdown",
     "section": "",
-    "text": "Presentation of website projects.",
+    "text": "Kieran Healy, The Plain Person’s Guide to Plain Text Social Science\n\nConcentrate on chapters 1, 3, and 7. Do not worry too much if you do not understand the technical aspects of the guide.\n\nProgramming Historian: Dennis Tenen and Grant Wythoff, Sustainable Authorship in Plain Text using Pandoc and Markdown.\nSemantic Line Breaks\nRead about zettelkasten as a note taking methodology. There are a lot of discussions and tutorials out there.",
     "crumbs": [
       "Schedule",
-      "15. Conclusion"
+      "4. Plain text and markdown"
     ]
   },
   {
-    "objectID": "meetings/02-dh-and-ph.html",
-    "href": "meetings/02-dh-and-ph.html",
-    "title": "Week 2: Digital History and Public History",
+    "objectID": "meetings/04-markdown.html#reading",
+    "href": "meetings/04-markdown.html#reading",
+    "title": "Week 4: Plain Text and Markdown",
     "section": "",
-    "text": "This week serves as an introduction to the concept of Digital Humanities/History and its relation to Public History.",
+    "text": "Kieran Healy, The Plain Person’s Guide to Plain Text Social Science\n\nConcentrate on chapters 1, 3, and 7. Do not worry too much if you do not understand the technical aspects of the guide.\n\nProgramming Historian: Dennis Tenen and Grant Wythoff, Sustainable Authorship in Plain Text using Pandoc and Markdown.\nSemantic Line Breaks\nRead about zettelkasten as a note taking methodology. There are a lot of discussions and tutorials out there.",
     "crumbs": [
       "Schedule",
-      "2. Digital History and Public History"
+      "4. Plain text and markdown"
     ]
   },
   {
-    "objectID": "meetings/02-dh-and-ph.html#reading",
-    "href": "meetings/02-dh-and-ph.html#reading",
-    "title": "Week 2: Digital History and Public History",
-    "section": "Reading",
-    "text": "Reading\n\nGregory Crane, “Greco-Roman Studies in a Digital Age,” Daedalus 145, no. 2 (2016): 127–33, http://www.jstor.org/stable/10.2307/24711585.\nRomein et al, “State of the Field: Digital History,” History 105, (2020): 291–312, https://doi.org/10.1111/1468-229X.12969.\nJulian Chambliss, Reframing Digital Humanities: Conversations with Digital Humanists (Michigan State University Libraries, 2021), Kathleen Fitzpatrick and Public Digital Humanities. Podcast link\nKathleen Fitzpatrick, Open Infrastructures and the Future of Knowledge Production, part 1.",
-    "crumbs": [
-      "Schedule",
-      "2. Digital History and Public History"
-    ]
-  },
-  {
-    "objectID": "meetings/02-dh-and-ph.html#assignment",
-    "href": "meetings/02-dh-and-ph.html#assignment",
-    "title": "Week 2: Digital History and Public History",
+    "objectID": "meetings/04-markdown.html#assignment",
+    "href": "meetings/04-markdown.html#assignment",
+    "title": "Week 4: Plain Text and Markdown",
     "section": "Assignment",
-    "text": "Assignment\n\nLook at Humanities Commons, explore the documentation, and sign up for an account if you are interested.\nExplore the Debates in the Digital Humanities series, read at least one of the articles in one of the volumes, and be prepared to discuss the article in class. Make sure to look over the Debates in the Digital Humanities 2023 volume even if you pick an article from elsewhere.",
+    "text": "Assignment\n\nPut articles that you read in the Debates in the Digital Humanities series into the group library of Zotero.\nFind and download a text editor application.\nDownload Zettlr, go through the short tutorial, and look over the docs. Read the short discussion of using Zettlr for zettelkasten. Think about how contextual note taking might be useful for your research and writing.\n\nShare links or resources in the Discourse.",
     "crumbs": [
       "Schedule",
-      "2. Digital History and Public History"
+      "4. Plain text and markdown"
     ]
   },
   {
-    "objectID": "meetings/02-dh-and-ph.html#activities",
-    "href": "meetings/02-dh-and-ph.html#activities",
-    "title": "Week 2: Digital History and Public History",
+    "objectID": "meetings/04-markdown.html#activities",
+    "href": "meetings/04-markdown.html#activities",
+    "title": "Week 4: Plain Text and Markdown",
     "section": "Activities",
-    "text": "Activities\n\nDiscussion of Digital Humanities and Public History.\nDiscussion of Romein et al, “State of the Field: Digital History”\nDiscussion and presentation of articles from Debates in the Digital Humanities series.\nHow to prepare for next week.",
+    "text": "Activities\n\nThe benefits and drawbacks of plain text.\n\nWorkshop: Working with a text editor\n\nWorkshop: Writing in Markdown.\nDiscussion on organization and note taking\n\nZettelkasten: Is it for you?\nWorkshop: Zettlr",
     "crumbs": [
       "Schedule",
-      "2. Digital History and Public History"
+      "4. Plain text and markdown"
     ]
   },
   {
-    "objectID": "meetings/11-review.html",
-    "href": "meetings/11-review.html",
-    "title": "Week 11: Review and website workshop",
-    "section": "",
-    "text": "Review the Quarto documentation.\nReview Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition).",
-    "crumbs": [
-      "Schedule",
-      "11. Review and website workshop"
-    ]
-  },
-  {
-    "objectID": "meetings/11-review.html#reading",
-    "href": "meetings/11-review.html#reading",
-    "title": "Week 11: Review and website workshop",
-    "section": "",
-    "text": "Review the Quarto documentation.\nReview Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition).",
-    "crumbs": [
-      "Schedule",
-      "11. Review and website workshop"
-    ]
-  },
-  {
-    "objectID": "meetings/11-review.html#assignment",
-    "href": "meetings/11-review.html#assignment",
-    "title": "Week 11: Review and website workshop",
-    "section": "Assignment",
-    "text": "Assignment\n\nWork on plan for your website. Make an outline, mindmap, drawing, etc. of the structure of your website.\nLook at examples of Quarto websites listed in Week 10. Look at the websites and the source code used to make the websites on GitHub.\nCome to class ready to discuss any struggles you are having and what else you want to learn.",
-    "crumbs": [
-      "Schedule",
-      "11. Review and website workshop"
-    ]
-  },
-  {
-    "objectID": "meetings/11-review.html#activities",
-    "href": "meetings/11-review.html#activities",
-    "title": "Week 11: Review and website workshop",
-    "section": "Activities",
-    "text": "Activities\n\nReview: Time to work on skills such as R, bash, and git.\n\nFinding resources and getting help.\n\nWorkshop: Making a website with Quarto",
-    "crumbs": [
-      "Schedule",
-      "11. Review and website workshop"
-    ]
-  },
-  {
-    "objectID": "meetings/11-review.html#resources",
-    "href": "meetings/11-review.html#resources",
-    "title": "Week 11: Review and website workshop",
+    "objectID": "meetings/04-markdown.html#resources",
+    "href": "meetings/04-markdown.html#resources",
+    "title": "Week 4: Plain Text and Markdown",
     "section": "Resources",
-    "text": "Resources\nSee Week 10: Making documents and websites with Quarto",
+    "text": "Resources\n\nText editors\nSee Resources: Text editors. A good text editor can save you a lot of time if you take the time to learn how to use it. A great and longstanding macOS text editor is BBEdit, which can be purchased, but it offers a very generous free mode. Here is a comparison chart of what you get with the free version. A classic text editor for Windows is Notepad++. A popular cross-platform text editor that is freely available is Visual Studio Code. There are many other options. Feel free to check them out.\n\n\nMarkdown\n\nJohn Gruber’s introduction of Markdown and its syntax\nProgramming Historian: Getting Started with Markdown\nMarkdown style guide: Quarto docs\nMarkdown Style Guide\nMany Markdown editors, especially those that focus on academic writing, depend upon Pandoc, which attempts to be a universal document converter.\n\nMarkdown syntax guide created in class\n\n\nOther markup options\n\nThe main other option for writing in Markdown or a Markdown based system is LaTeX. Overleaf is a LaTeX editor created specifically for collaboration in academia.\n\n\n\nNote taking apps and zettelkasten\nThere is currently a bit of a renaissance in note taking apps that are designed around the basic ideas of zettelkasten. Most of the apps are Markdown editors that provide a way to create internal links between your notes and display incoming and outgoing links. Zettlr is just one example. It is nice because it is open source, cross platform, and designed with academics in mind. But this does not mean that it is necessarily the best for you. Another hugely popular free (but not open source) and cross platform option is Obsidian.\n\n\nOther options\nDevonThink is more of a do it all database app for macOS, but it can certainly be used as the foundation of organizing your research and note taking.",
     "crumbs": [
       "Schedule",
-      "11. Review and website workshop"
+      "4. Plain text and markdown"
     ]
   },
   {
-    "objectID": "meetings/05-data.html",
-    "href": "meetings/05-data.html",
-    "title": "Week 5: Data and an intro to the command line",
+    "objectID": "meetings/01-intro.html",
+    "href": "meetings/01-intro.html",
+    "title": "Week 1: Introduction",
     "section": "",
-    "text": "Hadley Wickham, “Tidy Data,” Journal of Statistical Software 59, no. 10 (2014), http://www.jstatsoft.org/v59/i10/.\nKarl Broman and Kara Woo, “Data Organization in Spreadsheets,” The American Statistician 72, no. 1 (2018), https://doi.org/10.1080/00031305.2017.1375989.\nProgramming Historian: Ian Milligan and James Baker, Introduction to the Bash Command Line\nJulia Evans, What helps people get comfortable on the command line?",
+    "text": "Introduction to the course, overview of syllabus, and how the course will work.",
     "crumbs": [
       "Schedule",
-      "5. Data and an intro to the command line"
+      "1. Introduction"
     ]
   },
   {
-    "objectID": "meetings/05-data.html#reading",
-    "href": "meetings/05-data.html#reading",
-    "title": "Week 5: Data and an intro to the command line",
-    "section": "",
-    "text": "Hadley Wickham, “Tidy Data,” Journal of Statistical Software 59, no. 10 (2014), http://www.jstatsoft.org/v59/i10/.\nKarl Broman and Kara Woo, “Data Organization in Spreadsheets,” The American Statistician 72, no. 1 (2018), https://doi.org/10.1080/00031305.2017.1375989.\nProgramming Historian: Ian Milligan and James Baker, Introduction to the Bash Command Line\nJulia Evans, What helps people get comfortable on the command line?",
-    "crumbs": [
-      "Schedule",
-      "5. Data and an intro to the command line"
-    ]
-  },
-  {
-    "objectID": "meetings/05-data.html#assignment",
-    "href": "meetings/05-data.html#assignment",
-    "title": "Week 5: Data and an intro to the command line",
+    "objectID": "meetings/01-intro.html#assignment",
+    "href": "meetings/01-intro.html#assignment",
+    "title": "Week 1: Introduction",
     "section": "Assignment",
-    "text": "Assignment\n\nFind or create rectangular/tabular data from your own research interests to bring to class with you.\nDownload a command line terminal if you are using Windows. See Computing: Command line.",
+    "text": "Assignment\nSign up for our Discord server:\n\nSign up for the Discord using the link sent by email. You will need to create a Discord account if you do not have one already.\nSend me a message that you have signed up so that I can assign you a role and give you access to the class channels.\nOnce you have been assigned, introduce yourself in the #general channel. Include a short description of your research interests.",
     "crumbs": [
       "Schedule",
-      "5. Data and an intro to the command line"
+      "1. Introduction"
     ]
   },
   {
-    "objectID": "meetings/05-data.html#activities",
-    "href": "meetings/05-data.html#activities",
-    "title": "Week 5: Data and an intro to the command line",
+    "objectID": "meetings/01-intro.html#activities",
+    "href": "meetings/01-intro.html#activities",
+    "title": "Week 1: Introduction",
     "section": "Activities",
-    "text": "Activities\n\nThe benefits and drawbacks of spreadsheets.\nTidy data: What is tidy data?\n\nWorkshop: Is the data you have tidy? If not, how should it be changed to be tidy?\n\nWorkshop: Intro to the command line\n\nSoftware Carpentry - The Unix Shell\nDownload toy data\nGlossary of shell commands",
+    "text": "Activities\n\nIntroductions\nDiscussion of interest and experience with Digital Humanities technologies.\nDiscussion of the format of the course",
     "crumbs": [
       "Schedule",
-      "5. Data and an intro to the command line"
+      "1. Introduction"
     ]
   },
   {
-    "objectID": "meetings/05-data.html#resources",
-    "href": "meetings/05-data.html#resources",
-    "title": "Week 5: Data and an intro to the command line",
-    "section": "Resources",
-    "text": "Resources\n\nData Carpentry - Data Organization in Spreadsheets for Social Scientists\nSoftware Carpentry - The Unix Shell\nGetting help with shell commands\n\nExplain shell\ntldr pages\n\nHartl, Learn Enough Command Line to be Dangerous\n\nVery good basic tutorial and guide that can be used as a good reference.\n\nBates, Conquering the Command Line\n\nMore in depth than Learning Enough and discusses more advanced commands.\n\nSean Kross, The Unix Workbench",
-    "crumbs": [
-      "Schedule",
-      "5. Data and an intro to the command line"
-    ]
-  },
-  {
-    "objectID": "meetings/07-wrangle.html",
-    "href": "meetings/07-wrangle.html",
-    "title": "Week 7: Data wrangling",
+    "objectID": "meetings/12-spatial.html",
+    "href": "meetings/12-spatial.html",
+    "title": "Week 12: Spatial analysis",
     "section": "",
-    "text": "Jenny Bryan, What They Forgot to Teach You about R, Chapters 1–4.\nMalcolm Barrett, Why should I use the here package when I’m already using projects?\nHadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition): Chapters 3, 5, 7, and 19.\n\nGo through these chapters to acquaint yourself with what we will be working on this week during the seminar.\n\nRead through the Getting started tutorial for quarto.",
+    "text": "Robin Lovelace, Jakub Nowosad, and Jannes Muenchow, Geocomputation with R (2nd Edition), Chapters 1, 2, 7, and 9.\nKieran Healy, Data Visualization: A Practical Introduction (Princeton University Press, 2018), Chapter 7: Draw Maps.\nLeonardo Barleta, “Spatial Genealogies: Mobility, Settlement, and Empire-Building in the Brazilian Backlands, 1650–1800,” Journal of Social History 54, no. 4 (2021): 1064–90, http://dx.doi.org/10.1093/jsh/shab006.",
     "crumbs": [
       "Schedule",
-      "7. Data wrangling"
+      "12. Spatial analysis"
     ]
   },
   {
-    "objectID": "meetings/07-wrangle.html#reading",
-    "href": "meetings/07-wrangle.html#reading",
-    "title": "Week 7: Data wrangling",
+    "objectID": "meetings/12-spatial.html#reading",
+    "href": "meetings/12-spatial.html#reading",
+    "title": "Week 12: Spatial analysis",
     "section": "",
-    "text": "Jenny Bryan, What They Forgot to Teach You about R, Chapters 1–4.\nMalcolm Barrett, Why should I use the here package when I’m already using projects?\nHadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition): Chapters 3, 5, 7, and 19.\n\nGo through these chapters to acquaint yourself with what we will be working on this week during the seminar.\n\nRead through the Getting started tutorial for quarto.",
+    "text": "Robin Lovelace, Jakub Nowosad, and Jannes Muenchow, Geocomputation with R (2nd Edition), Chapters 1, 2, 7, and 9.\nKieran Healy, Data Visualization: A Practical Introduction (Princeton University Press, 2018), Chapter 7: Draw Maps.\nLeonardo Barleta, “Spatial Genealogies: Mobility, Settlement, and Empire-Building in the Brazilian Backlands, 1650–1800,” Journal of Social History 54, no. 4 (2021): 1064–90, http://dx.doi.org/10.1093/jsh/shab006.",
     "crumbs": [
       "Schedule",
-      "7. Data wrangling"
+      "12. Spatial analysis"
     ]
   },
   {
-    "objectID": "meetings/07-wrangle.html#assignment",
-    "href": "meetings/07-wrangle.html#assignment",
-    "title": "Week 7: Data wrangling",
+    "objectID": "meetings/12-spatial.html#assignment",
+    "href": "meetings/12-spatial.html#assignment",
+    "title": "Week 12: Spatial analysis",
     "section": "Assignment",
-    "text": "Assignment\n\nBring your data to work on in class.",
+    "text": "Assignment\n\nBrowse one of the spatial Digital History projects listed under Resources or find one relevant to your field.",
     "crumbs": [
       "Schedule",
-      "7. Data wrangling"
+      "12. Spatial analysis"
     ]
   },
   {
-    "objectID": "meetings/07-wrangle.html#activities",
-    "href": "meetings/07-wrangle.html#activities",
-    "title": "Week 7: Data wrangling",
+    "objectID": "meetings/12-spatial.html#activities",
+    "href": "meetings/12-spatial.html#activities",
+    "title": "Week 12: Spatial analysis",
     "section": "Activities",
-    "text": "Activities\n\nWorkshop: Organizing your work in projects\nWorkshop: Data wrangling\nWorkshop: Introduction to quarto",
+    "text": "Activities\n\nDiscussion of the use of spatial analysis in history.\nWorkshop: Spatial analysis.",
     "crumbs": [
       "Schedule",
-      "7. Data wrangling"
+      "12. Spatial analysis"
     ]
   },
   {
-    "objectID": "meetings/07-wrangle.html#data",
-    "href": "meetings/07-wrangle.html#data",
-    "title": "Week 7: Data wrangling",
-    "section": "Data",
-    "text": "Data\n\nSAFI data\nreadr example data\nLetters data\nLetters location data",
-    "crumbs": [
-      "Schedule",
-      "7. Data wrangling"
-    ]
-  },
-  {
-    "objectID": "meetings/07-wrangle.html#resources",
-    "href": "meetings/07-wrangle.html#resources",
-    "title": "Week 7: Data wrangling",
+    "objectID": "meetings/12-spatial.html#resources",
+    "href": "meetings/12-spatial.html#resources",
+    "title": "Week 12: Spatial analysis",
     "section": "Resources",
-    "text": "Resources\n\nData Carpentry - R for Social Scientists, Data Wrangling with dplyr\nData Carpentry - R for Social Scientists, Data Wrangling with tidyr\ndplyr: Column-wise operations\ndplyr: Row-wise operations\ndplyr: Joins - Two-table verbs\ntidyr: Tidy Data\ntidyr: Pivoting\nMy notes on the tidyverse",
+    "text": "Resources\nSee the Guide: Putting maps on your website for a guide on downloading and saving geographic data to use on a Quarto Website.\n\nSpatial Digital History projects\n\nScott Nesbit and Ed Ayers, Visualizing Emancipation\nSlave Voyages\nMapping the Republic of Letters\nPleiades: gazetteer and graph of ancient places\nAncient World Mapping Center\nWorld Historical Gazetteer\n\n\n\nGeospatial resources\n\nCarpentries: Introduction to Geospatial Concepts\n\nIntroduction to raster and vector data, coordinate reference systems, and an overview of the GIS landscape.\n\nRobin Lovelace, Jakub Nowosad, and Jannes Muenchow, Geocomputation with R (2nd Edition), Chapter 2: Geographic data in R\nEdzer Pebesma and Roger Bivand, Spatial Data Science: With Applications in R, Chapter 1: Getting Started\n\n\n\nGIS with R\n\nRobin Lovelace, Jakub Nowosad, and Jannes Muenchow, Geocomputation with R (2nd Edition)\nEdzer Pebesma and Roger Bivand, Spatial Data Science: With Applications in R\nJesse Sadler, An Exploration of Simple Features for R.\nHadley Wickham, Danielle Navarro, and Thomas Lin Pedersen, ggplot2: Elegant Graphics for Data Analysis (3rd Edition), Chapter 6: Maps.\nCarpentries: Introduction to Geospatial Raster and Vector Data with R\n\n\n\nGeospatial R packages\nCRAN Task View: Analysis of Spatial Data\n\nPrimary packages for vector and raster spatial data\n\nsf: Vector data.\nterra: Raster data.\n\n\n\nGeospatial data sources\n\nrspatialdata: A collection of data sources and tutorials on visualising spatial data using R.\nrnaturalearth: It includes functions to download a wealth of Natural Earth vector and raster data, including cultural (e.g., country boundaries, airports, roads, railroads) and physical (e.g., coastline, lakes, glaciated areas) data sets.\nelevatr: Access to elevation data from AWS Open Data Terrain Tiles and the Open Topography Global datasets API for raster digital elevation models.\ntidycensus: Access to US Census Bureau data in a tidy format, including the option to bind the data spatially on import.\ntigris: Access to cartographic elements provided by the US Census Bureau TIGER, including cartographic boundaries, roads, and water.\ngiscoR: Access to European geodata.\n\n\n\nGeocoding\n\ntidygeocoder: Support for a number of data sources for geocoding locations. The package uses the OpenStreetsMap geocoder Nominatim by default.\nopencage: Geocode using the Opencage API.\n\n\n\nGeospatial visualization\n\nggplot2 can visualize sf vector data.\ntmap: An alternative to making maps with ggplot2.\nleaflet: Interactive mapping with R.\nmapview: Lightweight interactive mapping package. It’s main goal is to fill the gap of quick (not presentation grade) interactive plotting to examine and visually investigate both aspects of spatial data, the geometries and their attributes.\ntidyterra: Provides functions to integrate terra objects into the tidyverse, including providing geoms for plotting terra objects with ggplot2.\nrayshader: Make 3d maps in R.",
     "crumbs": [
       "Schedule",
-      "7. Data wrangling"
+      "12. Spatial analysis"
     ]
   },
   {
-    "objectID": "meetings/14-design.html",
-    "href": "meetings/14-design.html",
-    "title": "Week 14: Web design and visualization",
+    "objectID": "meetings/12-spatial.html#gui-and-web-mapping-tools",
+    "href": "meetings/12-spatial.html#gui-and-web-mapping-tools",
+    "title": "Week 12: Spatial analysis",
+    "section": "GUI and web mapping tools",
+    "text": "GUI and web mapping tools\nThis is a short list of common GUI and web based mapping tools. Some of these tools are full-scale GIS (Geographic Information Sciences) platforms that are quite complex. The web mapping tools tend to be simpler but have less opportunity for customization. We will not be using these tools in this class, but it is good to be aware of them, and there will be times when their advantages over a command-line tool like R outweigh disadvantages.\n\nDesktop GIS\n\nArcGIS\nQGIS is the open source alternative to ArcGIS.\n\n\n\nWeb mapping\n\nArcGIS Story maps\nNeatline: Tool built to work with Omeka to create stories with maps, images and timelines.\nStoryMap\nPalladio",
+    "crumbs": [
+      "Schedule",
+      "12. Spatial analysis"
+    ]
+  },
+  {
+    "objectID": "meetings/09-git.html",
+    "href": "meetings/09-git.html",
+    "title": "Week 9: Version control with Git and GitHub",
     "section": "",
-    "text": "This week is a more or less free week to discuss and work on anything from the class that we feel we want/need to go over. The current idea for the week is to go over styling for websites and polishing visualizations.",
+    "text": "Jenny Bryan, “Excuse me, do you have a moment to talk about version control?,” PeerJ Preprints (2017) https://peerj.com/preprints/3159v2.\nJenny Bryan, Happy Git and GitHub for the useR, Chapter 1: Why Git? Why GitHub?\nLowndes et al., “Our path to better science in less time using open data science tools,” Nature: Ecology & Evolution 1 no. 6, (2017), http://www.nature.com/articles/s41559-017-0160.\nAllison Horst and Julie Lowndes, GitHub for supporting, reusing, contributing, and failing safely.",
     "crumbs": [
       "Schedule",
-      "14. Web design and visualization"
+      "9. Version control with Git and GitHub"
     ]
   },
   {
-    "objectID": "meetings/14-design.html#reading",
-    "href": "meetings/14-design.html#reading",
-    "title": "Week 14: Web design and visualization",
-    "section": "Reading",
-    "text": "Reading\n\nQuarto documentation: HTML Themes\n\nMore About Quarto Themes\n\nSamantha Csik, Customizing Quarto Websites - Make your website stand out using SASS & CSS\n\nGitHub repository",
+    "objectID": "meetings/09-git.html#reading",
+    "href": "meetings/09-git.html#reading",
+    "title": "Week 9: Version control with Git and GitHub",
+    "section": "",
+    "text": "Jenny Bryan, “Excuse me, do you have a moment to talk about version control?,” PeerJ Preprints (2017) https://peerj.com/preprints/3159v2.\nJenny Bryan, Happy Git and GitHub for the useR, Chapter 1: Why Git? Why GitHub?\nLowndes et al., “Our path to better science in less time using open data science tools,” Nature: Ecology & Evolution 1 no. 6, (2017), http://www.nature.com/articles/s41559-017-0160.\nAllison Horst and Julie Lowndes, GitHub for supporting, reusing, contributing, and failing safely.",
     "crumbs": [
       "Schedule",
-      "14. Web design and visualization"
+      "9. Version control with Git and GitHub"
     ]
   },
   {
-    "objectID": "meetings/14-design.html#assignment",
-    "href": "meetings/14-design.html#assignment",
-    "title": "Week 14: Web design and visualization",
+    "objectID": "meetings/09-git.html#assignment",
+    "href": "meetings/09-git.html#assignment",
+    "title": "Week 9: Version control with Git and GitHub",
     "section": "Assignment",
-    "text": "Assignment\n\nWork on website project.",
+    "text": "Assignment\n\nMake sure that you have Git downloaded on your computer.\nSet up Git to work with RStudio.\nSet up and account at GitHub.\nTake some time to go back over working on the command line.",
     "crumbs": [
       "Schedule",
-      "14. Web design and visualization"
+      "9. Version control with Git and GitHub"
     ]
   },
   {
-    "objectID": "meetings/14-design.html#activities",
-    "href": "meetings/14-design.html#activities",
-    "title": "Week 14: Web design and visualization",
+    "objectID": "meetings/09-git.html#activities",
+    "href": "meetings/09-git.html#activities",
+    "title": "Week 9: Version control with Git and GitHub",
     "section": "Activities",
-    "text": "Activities\nWorkshop: Publishing your website Workshop: Designing websites",
+    "text": "Activities\n\nWorkshop: Git and GitHub\nWorkshop: Git and RStudio",
     "crumbs": [
       "Schedule",
-      "14. Web design and visualization"
+      "9. Version control with Git and GitHub"
     ]
   },
   {
-    "objectID": "meetings/14-design.html#publishing-your-website-on-github-pages",
-    "href": "meetings/14-design.html#publishing-your-website-on-github-pages",
-    "title": "Week 14: Web design and visualization",
-    "section": "Publishing your website on GitHub pages",
-    "text": "Publishing your website on GitHub pages\n\nSee also Resources: Publishing Quarto websites with GitHub Pages\nDocumentation for the publish command using the quarto command line interface.\n\n\nSetting up publish command\n\nFirst, make sure all changes are committed on your project.\nCreate an empty gh-pages branch.\n\ngit checkout --orphan gh-pages\ngit reset --hard\ngit commit --allow-empty -m \"Initialising gh-pages branch\"\ngit push origin gh-pages\n\nCheck Settings -&gt; Pages for Source branch on your GitHub repository.\nIgnore _site/ folder in git\n\nAdd /_site/ to .gitignore file.\nRemove any tracking of _site/ in git: git rm -r _site\n\nPublish through command line: quarto publish gh-pages\n\n\n\nWhat you should be doing to make changes to your website\n\nMake the changes in RStudio.\nRender website on your computer to make sure everything works.\ngit add and git commit -m changes.\nPush changes to GitHub main branch: git push origin main\nPublish changes by pushing to gh-pages branch: quarto publish gh-pages",
-    "crumbs": [
-      "Schedule",
-      "14. Web design and visualization"
-    ]
-  },
-  {
-    "objectID": "meetings/14-design.html#designing-quarto-websites",
-    "href": "meetings/14-design.html#designing-quarto-websites",
-    "title": "Week 14: Web design and visualization",
-    "section": "Designing Quarto websites",
-    "text": "Designing Quarto websites\nThe basic styling of your website is done through HTML theming.\n\nChoose a Quarto theme\n\nQuarto HTML documents are all based on Bootstrap 5.\nQuarto provides access to 25 Bootswatch themes.\nChange theme in _quarto.yml under format:\n\n\n\nBasic customization\n\nYou can make basic changes to the theme in _quarto.yml under format:.\nSee basic customization for available options.\n\n\n\nCustomization with SCSS\n\nCreate fully custom themes with SASS variables through scss files. SASS is a superset of CSS (Cascading Style Sheets).\nThis is done in a styles.csss or custom.scss file, which is listed under theme: in _quarto.yml.\nSee Quarto SASS variables for the most likely variables you might want to change.\nSee More About Quarto Themes on using SCSS.",
-    "crumbs": [
-      "Schedule",
-      "14. Web design and visualization"
-    ]
-  },
-  {
-    "objectID": "meetings/14-design.html#resources-website-design",
-    "href": "meetings/14-design.html#resources-website-design",
-    "title": "Week 14: Web design and visualization",
-    "section": "Resources: Website design",
-    "text": "Resources: Website design\n\nQuarto websites are customizable through HTML themes.\nJoel Ross and Mike Freeman, Client-Side Web Development\nBootstrap 5\nBootswatch themes\nSASS\nMozilla Docs, CSS: Cascading Style Sheets",
-    "crumbs": [
-      "Schedule",
-      "14. Web design and visualization"
-    ]
-  },
-  {
-    "objectID": "guides/geo-data.html",
-    "href": "guides/geo-data.html",
-    "title": "Putting maps on your website",
-    "section": "",
-    "text": "When making a map, we often need to download the data using an R package. This could be data for the base map from rnaturalearth, more detailed street and location data from Open Street Maps using osmdata, or locations that we geocode with tidygeocoder. We want to do this active downloading as few times as possible. We want to download the data, make sure that it is correct and maybe clean it up, and then save the data for future usage. This guide will show how to do that.",
-    "crumbs": [
-      "Guides",
-      "Putting maps on your website"
-    ]
-  },
-  {
-    "objectID": "guides/geo-data.html#the-problem",
-    "href": "guides/geo-data.html#the-problem",
-    "title": "Putting maps on your website",
-    "section": "",
-    "text": "When making a map, we often need to download the data using an R package. This could be data for the base map from rnaturalearth, more detailed street and location data from Open Street Maps using osmdata, or locations that we geocode with tidygeocoder. We want to do this active downloading as few times as possible. We want to download the data, make sure that it is correct and maybe clean it up, and then save the data for future usage. This guide will show how to do that.",
-    "crumbs": [
-      "Guides",
-      "Putting maps on your website"
-    ]
-  },
-  {
-    "objectID": "guides/geo-data.html#the-solution",
-    "href": "guides/geo-data.html#the-solution",
-    "title": "Putting maps on your website",
-    "section": "The solution",
-    "text": "The solution\nThe solution is to break up the steps of making a map into separate scripts. We get and prep the data once. Then we can use the data to make as many maps as we want. This is good practice for thinking about how we should be dividing up scripts and when to save data compared to when we can recreate it through our R scripts.\nThere are two basic ways to do this:\n\nUse an R script within the website project folder to download and clean the data. An R script (named something like map-data.R) will not be rendered in the website by Quarto.\nDownload the data and potentially make the map in a separate RStudio project. You can either create the map in that project, save an image file, and then use the image on your website, or you can copy over the cleaned data files to website project to work on them there.\n\nEither way you decide to structure your project, there are four basic steps to follow:\n\nDownload the data.\nCheck that the data is correct and clean it up.\nSave the data; write it out to a data/ folder.\nRead in the data when you want to make a map.\n\nLet’s show how to do this for two different kinds of geographic data we will want to download from the internet: geocoded data and base map data.\nFirst we load the packages we are going to use.\n\nlibrary(tidyverse)\nlibrary(tidygeocoder)\nlibrary(sf, verbose = FALSE)\nlibrary(rnaturalearth)",
-    "crumbs": [
-      "Guides",
-      "Putting maps on your website"
-    ]
-  },
-  {
-    "objectID": "guides/geo-data.html#geocoded-data",
-    "href": "guides/geo-data.html#geocoded-data",
-    "title": "Putting maps on your website",
-    "section": "Geocoded data",
-    "text": "Geocoded data\nGeocoding location data is something that we want to do once, make sure that it is correct, and then save the resulting data. It is not something we want to be doing multiple times.\nLet’s start by creating some data to geocode using tidygeocoder. If you have a larger data set with locations, you will want to create a csv file and read in the data.\n\nlocations &lt;- tibble(\n  name = c(\"Blacksburg\", \"San Diego\", \"Washington, DC\"),\n  address = c(\"Blacksburg, VA 24060\", \"San Diego, CA 92024\", \"Washington, DC 20024\")\n)\n\nNotice that we have two columns here, one for the label of our points/locations and one for the address, where we can be more exact about the location to geocode. We can geocode the data with the geocode() function since it is in a data frame. If you have your locations in a vector, you can use the geo() function.\n\nlocations_geo &lt;- geocode(locations, address = address)\n\nCheck to make sure that the geocoded data is correct. This can be done by just looking at the output or mapping it with a base map of mapview. Here we will just look at the output.\n\nlocations_geo\n\n# A tibble: 3 × 4\n  name           address                lat   long\n  &lt;chr&gt;          &lt;chr&gt;                &lt;dbl&gt;  &lt;dbl&gt;\n1 Blacksburg     Blacksburg, VA 24060  37.2  -80.4\n2 San Diego      San Diego, CA 92024   32.7 -117. \n3 Washington, DC Washington, DC 20024  38.9  -77.0\n\n\nThe next step is to save the data or write it out. It is easiest to do this before we convert the data to an sf object because we can use the normal write_csv() function from the tidyverse. This function takes the data we want to write out and the name of the file/location we want to create.\n\n# Save data frame to a csv file\nwrite_csv(locations_geo, \"data/locations-geo.csv\")\n\nThen, next time we want to use the data, we can just read it in.\n\nlocations_geo &lt;- read_csv(\"data/locations-geo.csv\")",
-    "crumbs": [
-      "Guides",
-      "Putting maps on your website"
-    ]
-  },
-  {
-    "objectID": "guides/geo-data.html#data-from-rnaturalearth",
-    "href": "guides/geo-data.html#data-from-rnaturalearth",
-    "title": "Putting maps on your website",
-    "section": "Data from rnaturalearth",
-    "text": "Data from rnaturalearth\nThe data that we download from rnaturalearth or osmdata is a bit different because it is geospatial in nature. It is an sf object and so to maintain the geospatial nature of the data we need to use st_write() instead of write_csv() and to choose a type of spatial data to create. Here, we will use geojson. Otherwise the steps are the same.\nLet’s load some data from rnaturalearth. In this case, we will use the ne_states() function to load data for the states of the country “United States of America”.\n\nstates &lt;- ne_states(country = \"United States of America\")\n\nBefore saving the data, we want to clean it up and simplify it to only have the state name and to only include the continental United States.\n\nstates &lt;- states |&gt; \n  filter(name != \"Hawaii\", name != \"Alaska\") |&gt; \n  select(name)\n\nNow we can write out the data using the st_write() function as a geojson file. This will maintain all of the geographic metadata of our data such as the CRS.\n\nst_write(states, \"data/states.geojson\")\n\nThen, next time we want to use the data, we can just read it in, but this time with st_read() because we want an sf object.\n\nstates &lt;- st_read(\"data/states.geojson\")",
-    "crumbs": [
-      "Guides",
-      "Putting maps on your website"
-    ]
-  },
-  {
-    "objectID": "guides/geo-data.html#plot-the-map",
-    "href": "guides/geo-data.html#plot-the-map",
-    "title": "Putting maps on your website",
-    "section": "Plot the map",
-    "text": "Plot the map\n\nggplot() + \n  geom_sf(data = states) + \n  geom_point(data = locations_geo, aes(x = long, y = lat)) + \n  geom_text(data = locations_geo, aes(x = long, y = lat, label = name),\n            nudge_y = -0.5) + \n  theme_minimal()",
-    "crumbs": [
-      "Guides",
-      "Putting maps on your website"
-    ]
-  },
-  {
-    "objectID": "guides/markdown-syntax.html",
-    "href": "guides/markdown-syntax.html",
-    "title": "Markdown Syntax",
-    "section": "",
-    "text": "Markdown is a plain text format that is intended to be easy to write and read but also able to provide enough markup options for most forms of writing. On the one hand, Markdown leverages the advantages of plain text: it is light weight, highly portable, non-proprietary, and easily searchable across different documents. On the other, Markdown text can be turned into HTML, PDFs, and even Word documents with stylized text through different interpreters.\nThis document provides a basic overview of the Markdown syntax. Note that there are various “flavors” of Markdown that have different capabilities, but the basic syntax is largely shared.",
-    "crumbs": [
-      "Guides",
-      "Markdown Syntax"
-    ]
-  },
-  {
-    "objectID": "guides/markdown-syntax.html#paragraphs",
-    "href": "guides/markdown-syntax.html#paragraphs",
-    "title": "Markdown Syntax",
-    "section": "Paragraphs",
-    "text": "Paragraphs\nParagraphs are created in Markdown by writing text with no indentation. To create another paragraph there must be one or more blank lines separating the paragraphs.\n\nThis will be a second paragraph.\nParagraphs are created in Markdown by writing text with no indentation. To create another paragraph there must be one or more blank lines separating the paragraphs.\nThis will be a second paragraph.",
-    "crumbs": [
-      "Guides",
-      "Markdown Syntax"
-    ]
-  },
-  {
-    "objectID": "guides/markdown-syntax.html#text-formatting",
-    "href": "guides/markdown-syntax.html#text-formatting",
-    "title": "Markdown Syntax",
-    "section": "Text Formatting",
-    "text": "Text Formatting\n\n\n\n\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\n*italics* or _italics_\nitalics\n\n\n**bold** or __bold__\nbold\n\n\n`verbatim code`\nverbatim code",
-    "crumbs": [
-      "Guides",
-      "Markdown Syntax"
-    ]
-  },
-  {
-    "objectID": "guides/markdown-syntax.html#headings",
-    "href": "guides/markdown-syntax.html#headings",
-    "title": "Markdown Syntax",
-    "section": "Headings",
-    "text": "Headings\n\n\n\n\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\n# Header 1\nHeader 1\n\n\n## Header 2\nHeader 2\n\n\n### Header 3\nHeader 3\n\n\n#### Header 4\nHeader 4\n\n\n##### Header 5\nHeader 5\n\n\n###### Header 6\nHeader 6",
-    "crumbs": [
-      "Guides",
-      "Markdown Syntax"
-    ]
-  },
-  {
-    "objectID": "guides/markdown-syntax.html#lists",
-    "href": "guides/markdown-syntax.html#lists",
-    "title": "Markdown Syntax",
-    "section": "Lists",
-    "text": "Lists\nUnordered lists are created by typing -, *, or + at the start of a line followed by a space. You can choose one symbol or switch between them in nested lists. The styling of the bullets is done by the output interpreter, not by which symbol you choose.\nOrdered lists are created by typing a number followed by a period and a space (1.).\nNested lists are created by indenting the next line in a list with a tab or four spaces followed by the syntax for creating an unordered or ordered list. Unordered and ordered lists can be combined.\n\nUnordered lists\n\n\n\n\n\n\n- unordered list\n    - nested item\n    - nested item\n        * further nesting \n\n\n\nunordered list\n\nnested item\nnested item\n\nfurther nesting\n\n\n\n\n\n\n\n\nOrdered lists\n\n\n\n\n\n\n1. ordered list\n2. Second item\n    1. nested item\n        1. further nesting\n\n\n\nordered list\nSecond item\n\nnested item\n\nfurther nesting\n\n\n\n\n\n\n\n\nMixed lists\n\n\n\n\n\n\n1. mixed list\n    - unordered nesting\n        1. ordered nesting \n        2. second ordered nesting\n    - unordered nesting\n2. Second item\n\n\n\nmixed list\n\nunordered nesting\n\nordered nesting\nsecond ordered nesting\n\nunordered nesting\n\nSecond item",
-    "crumbs": [
-      "Guides",
-      "Markdown Syntax"
-    ]
-  },
-  {
-    "objectID": "guides/markdown-syntax.html#links",
-    "href": "guides/markdown-syntax.html#links",
-    "title": "Markdown Syntax",
-    "section": "Links",
-    "text": "Links\nThere are three main ways to create links in Markdown:\n\nA raw link is created by surrounding the URL by less than and greater than signs.\n&lt;https://lib.vt.edu&gt; becomes https://lib.vt.edu\nInline links are created by surrounding the link text in square brackets, followed immediately by the URL in parentheses.\n[text to link](https://lib.vt.edu) becomes text to link\nReference links are created by surrounding the link text in square brackets, followed by a reference in square brackets. The reference can be a number or text so long as it is unique within the text. Then, the reference is added on a line by itself, after the paragraph or at the bottom of the text, by writing the reference in square brackets, followed by a colon, space, and the URL.\n[text to link][ref]\n\n[ref]: https://lib.vt.edu\nBecomes text to link",
-    "crumbs": [
-      "Guides",
-      "Markdown Syntax"
-    ]
-  },
-  {
-    "objectID": "guides/markdown-syntax.html#footnotes",
-    "href": "guides/markdown-syntax.html#footnotes",
-    "title": "Markdown Syntax",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nThe linked footnote appears at the end of the document in HTML and end of the page in a PDF.↩︎",
-    "crumbs": [
-      "Guides",
-      "Markdown Syntax"
-    ]
-  },
-  {
-    "objectID": "guides/markdown-syntax.html#resources",
-    "href": "guides/markdown-syntax.html#resources",
-    "title": "Markdown Syntax",
+    "objectID": "meetings/09-git.html#resources",
+    "href": "meetings/09-git.html#resources",
+    "title": "Week 9: Version control with Git and GitHub",
     "section": "Resources",
-    "text": "Resources\n\nJohn Gruber’s introduction of Markdown and its syntax\nProgramming Historian: Sarah Simpkin, Getting Started with Markdown\nMarkdown style guide: Quarto docs\nMarkdown Style Guide\nMany Markdown editors, especially those that focus on academic writing, depend upon Pandoc, which attempts to be a universal document converter.\n\nPandoc has an in-depth discussion of its flavor of Markdown syntax.\nSee also Programming Historian: Dennis Tenen and Grant Wythoff, Sustainable Authorship in Plain Text using Pandoc and Markdown",
+    "text": "Resources\n\nGit\n\nSee Computing: Git\nLibrary Carpentry - Introduction to Git\nSoftware Carpentry - Version Control with Git\nChacon, Pro Git\nGitHub docs\nGit Command Line cheatsheet\n\n\n\nRStudio and Git\n\nJenny Bryan, Happy Git and GitHub for the useR.\nusethis: Managing Git(Hub) Credentials.\nJulie Lowndes and Allison Horst, R for Excel Users: GitHub.\nMaëlle Salmon, git and GitHub in R for the casual user.\nGarrick Aden-Buie, Pull Request Flow with usethis.",
+    "crumbs": [
+      "Schedule",
+      "9. Version control with Git and GitHub"
+    ]
+  },
+  {
+    "objectID": "meetings/10-quarto.html",
+    "href": "meetings/10-quarto.html",
+    "title": "Week 10: Making documents and websites with Quarto",
+    "section": "",
+    "text": "Look over the Quarto documentation.\nAnil Dash, The Internet Is About to Get Weird Again, Rolling Stone (30 December 2023)",
+    "crumbs": [
+      "Schedule",
+      "10. Making documents and websites with Quarto"
+    ]
+  },
+  {
+    "objectID": "meetings/10-quarto.html#reading",
+    "href": "meetings/10-quarto.html#reading",
+    "title": "Week 10: Making documents and websites with Quarto",
+    "section": "",
+    "text": "Look over the Quarto documentation.\nAnil Dash, The Internet Is About to Get Weird Again, Rolling Stone (30 December 2023)",
+    "crumbs": [
+      "Schedule",
+      "10. Making documents and websites with Quarto"
+    ]
+  },
+  {
+    "objectID": "meetings/10-quarto.html#assignment",
+    "href": "meetings/10-quarto.html#assignment",
+    "title": "Week 10: Making documents and websites with Quarto",
+    "section": "Assignment",
+    "text": "Assignment\n\nWatch Mine Çetinkaya-Rundel and Julia Stewart Lowndes, Hello Quarto: Share, Collaborate, Teach, Reimagine at RStudio Conf 2022.\n\nThe slides are available here.\n\nPlan out your website. Make an outline, mindmap, drawing, etc. of the structure of your website.",
+    "crumbs": [
+      "Schedule",
+      "10. Making documents and websites with Quarto"
+    ]
+  },
+  {
+    "objectID": "meetings/10-quarto.html#activities",
+    "href": "meetings/10-quarto.html#activities",
+    "title": "Week 10: Making documents and websites with Quarto",
+    "section": "Activities",
+    "text": "Activities\n\nDiscussion: Making History public through the web.\nWorkshop: Making a website with Quarto",
+    "crumbs": [
+      "Schedule",
+      "10. Making documents and websites with Quarto"
+    ]
+  },
+  {
+    "objectID": "meetings/10-quarto.html#quarto-websites",
+    "href": "meetings/10-quarto.html#quarto-websites",
+    "title": "Week 10: Making documents and websites with Quarto",
+    "section": "Quarto websites",
+    "text": "Quarto websites\nQuarto websites are a collection of Quarto documents using format: html with a set structure and consistent visual style.\n\nCreate new Quarto website project: File -&gt; New Project… -&gt; Quarto Website.\nPreview website to see what we have.\n\nPreview page with Render button. Use gear button to control how preview works.\nRender website in build tab -&gt; Render Website\n\nStructure: _quarto.yml\n\nConfiguration file (_quarto.yml) provides the basic structure of the site.\nNavigation\n\nTop navbar\nSide navbar\nCombination of top and side navbar\n\nNavigation provides skeleton structure of pages in YAML format. Make sure to use proper whitespace in working in _quarto.yml.\n\nPages\n\nHomepage: index.qmd\nIndividual quarto documents turned into web pages\nShared YAML in _quarto.yml under format:. See HTML Basics for YAML options.\nLinks between pages:\n\n[about](about.qmd)\nSection identifier: # Introduction {#sec-introduction} and [about](about.qmd#sec-introduction).\n\nFooter: Add a footer to have text at the bottom of each page with page-footer in _quarto.yml.\n\nAbout page: Add an About page with special formatting.\nAesthetics: Themes\nWebsite tools: Header, footer, and integration with other services.\nWebsite search: Options for having a search field for website.",
+    "crumbs": [
+      "Schedule",
+      "10. Making documents and websites with Quarto"
+    ]
+  },
+  {
+    "objectID": "meetings/10-quarto.html#resources",
+    "href": "meetings/10-quarto.html#resources",
+    "title": "Week 10: Making documents and websites with Quarto",
+    "section": "Resources",
+    "text": "Resources\n\nThe Quarto documentation is very good and thorough.\n\nQuarto website documentation\nQuarto blog documentation\n\nFor an extensive list of resources on Quarto see Awesome Quarto.\nHadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition): Introduction, Chapters 28 and 29.\nIsabella Velásquez, Building a blog with Quarto.\n\n\nExamples of Quarto websites\n\nOur course website\nA Rogue Historian by Jesse Sadler\nPipe dreams by Isabella Velásquez\nNotes from a data witch by Danielle Navarro\nNotes from a spreadsheet by Matt Worthington\nThe MockUp by Tom Mock\nMaya Gans\nFaylab Lab Manual\nTed Laderas\nAmelia McNamara\nGarrick Aden-Buie\nOpenscapes",
+    "crumbs": [
+      "Schedule",
+      "10. Making documents and websites with Quarto"
+    ]
+  },
+  {
+    "objectID": "guides/plaintext.html",
+    "href": "guides/plaintext.html",
+    "title": "Working with Plain Text",
+    "section": "",
+    "text": "Writing in plain text may seem odd at first, and it confronts the beginner with a number of issues compared to word processing applications such as Microsoft Word or Google Docs that use a WYSIWYG (what you see is what you get) interface. However, there are a number of advantages to using plain text documents that make the initial discomfort worth it.\n\nSustainability: Plain text documents are sustainable. They will be able to be read and displayed by a computer as long as we have such technology. They are not dependent on a proprietary format like docx.\nLight weight: Plain text documents are incredibly lightweight. Word processors add all sorts of formatting characters to provide a WYSIWYG experience that increase the file size and add complexity to the whole process of writing. Try opening a hundred page document in Word and then try opening the same document in a plain text editor. The latter will open instantaneously.\nThe power of a text editor: With a text editor application you can perform all sorts of complex search and search and replace functionality across multiple documents at the same time.\nThe web: The internet is created using plain text documents. If you want to write for the web, you should be writing in plain text.\nAdding formatting with markup languages: If the lack of formatting is a benefit, how do you get plain text documents to have the formatting you want in a document? The answer is to use a markup language. The markup language of the web is HTML, but most modern plain text applications use Markdown to add formatting such as headings, lists, links, and even footnotes. See the Guide on Markdown Syntax.",
     "crumbs": [
       "Guides",
-      "Markdown Syntax"
+      "Working with Plain Text"
     ]
   },
   {
-    "objectID": "computing.html",
-    "href": "computing.html",
-    "title": "Computing",
+    "objectID": "guides/plaintext.html#why-write-in-plain-text",
+    "href": "guides/plaintext.html#why-write-in-plain-text",
+    "title": "Working with Plain Text",
     "section": "",
-    "text": "macOS is built on the foundation of Unix and comes with a perfectly capable command line app in Terminal. There are some other options out there, but Terminal is just fine.\nSince 2019 the default shell in macOS is zsh instead of bash. The differences between zsh and bash should not affect beginners too much. However, you can download an updated version of bash. The best way to do this is with Homebrew.\nHomebrew is one of the main ways to install command line packages on macOS such as Git, and so it is a good idea to install it. Read about how to install Homebrew through the Terminal app on the Homebrew’s homepage.\n\n\n\nWindows does not come with a unix shell installed. You can install one via Git Bash. This will install both the bash shell and git. See the Carpentries for installation instructions.",
+    "text": "Writing in plain text may seem odd at first, and it confronts the beginner with a number of issues compared to word processing applications such as Microsoft Word or Google Docs that use a WYSIWYG (what you see is what you get) interface. However, there are a number of advantages to using plain text documents that make the initial discomfort worth it.\n\nSustainability: Plain text documents are sustainable. They will be able to be read and displayed by a computer as long as we have such technology. They are not dependent on a proprietary format like docx.\nLight weight: Plain text documents are incredibly lightweight. Word processors add all sorts of formatting characters to provide a WYSIWYG experience that increase the file size and add complexity to the whole process of writing. Try opening a hundred page document in Word and then try opening the same document in a plain text editor. The latter will open instantaneously.\nThe power of a text editor: With a text editor application you can perform all sorts of complex search and search and replace functionality across multiple documents at the same time.\nThe web: The internet is created using plain text documents. If you want to write for the web, you should be writing in plain text.\nAdding formatting with markup languages: If the lack of formatting is a benefit, how do you get plain text documents to have the formatting you want in a document? The answer is to use a markup language. The markup language of the web is HTML, but most modern plain text applications use Markdown to add formatting such as headings, lists, links, and even footnotes. See the Guide on Markdown Syntax.",
     "crumbs": [
-      "Computing"
+      "Guides",
+      "Working with Plain Text"
     ]
   },
   {
-    "objectID": "computing.html#sec-cl",
-    "href": "computing.html#sec-cl",
-    "title": "Computing",
-    "section": "",
-    "text": "macOS is built on the foundation of Unix and comes with a perfectly capable command line app in Terminal. There are some other options out there, but Terminal is just fine.\nSince 2019 the default shell in macOS is zsh instead of bash. The differences between zsh and bash should not affect beginners too much. However, you can download an updated version of bash. The best way to do this is with Homebrew.\nHomebrew is one of the main ways to install command line packages on macOS such as Git, and so it is a good idea to install it. Read about how to install Homebrew through the Terminal app on the Homebrew’s homepage.\n\n\n\nWindows does not come with a unix shell installed. You can install one via Git Bash. This will install both the bash shell and git. See the Carpentries for installation instructions.",
+    "objectID": "guides/plaintext.html#what-do-i-need-to-write-in-plaintext",
+    "href": "guides/plaintext.html#what-do-i-need-to-write-in-plaintext",
+    "title": "Working with Plain Text",
+    "section": "What do I need to write in plaintext?",
+    "text": "What do I need to write in plaintext?\nIn short, a good text editor. Below are some good options to start with.\n\nCross platform\n\nVisual Studio Code is much more than a text editor, but it can also be made into a good text editor for plain text and Markdown. It is free and open source and worthy of a download to check out.\nA paid alternative is Sublime Text.\n\nmacOS\n\nBBEdit is over 30 years old and still going strong. It is available for purchase, but you can go quite far with the free version.\nCotEditor is a modern open source text editor that is very clean looking.\nChime is another open source option.\n\nWindows\n\nA classic text editor for Windows is Notepad++.",
     "crumbs": [
-      "Computing"
+      "Guides",
+      "Working with Plain Text"
     ]
   },
   {
-    "objectID": "computing.html#sec-git",
-    "href": "computing.html#sec-git",
-    "title": "Computing",
-    "section": "Git",
-    "text": "Git\nSee Happy Git and GitHub for the useR for a good guide to downloading git for macOS and Windows.\n\nmacOS\nGit may already be on your computer by default, but the git version that comes with macOS can be quite out of date. To check if you need to install git:\n\nOpen Terminal\nType git --version – check current version of git on the computer\nLook at current version of Git at https://git-scm.com\n\nIf you need to install Git, there are two basic ways to install it:\nVia Homebrew:\n\nbrew install git – download git with Homebrew\nQuit terminal and reopen it to start new session\ngit --version – check to see that installation worked.\n\nVia Xcode command line tools:\n\nxcode-select --install\nQuit terminal and reopen it to start new session\ngit --version – check to see that installation worked.\n\n\n\nWindows\nInstall git with Git Bash.",
+    "objectID": "guides/plaintext.html#plain-text-writing-and-note-taking-apps",
+    "href": "guides/plaintext.html#plain-text-writing-and-note-taking-apps",
+    "title": "Working with Plain Text",
+    "section": "Plain text writing and note taking apps",
+    "text": "Plain text writing and note taking apps\nThere is currently a renaissance in writing apps that leverage plain text and Markdown to store files that can be linked together in various ways, making it possible to build anything from a data base of notes, a wiki-like database, outlines and checklists, or even short or long forms of writing intended for publication.\nTwo good options to investigate are Obsidian and Zettlr.\n\nOther options\n\niA Writer\nCraft\nRoam Research\nNotion\nWorkflowy\nDevonThink",
     "crumbs": [
-      "Computing"
+      "Guides",
+      "Working with Plain Text"
     ]
   },
   {
-    "objectID": "computing.html#sec-github",
-    "href": "computing.html#sec-github",
-    "title": "Computing",
-    "section": "GitHub",
-    "text": "GitHub\nRegister for an account on GitHub",
+    "objectID": "guides/plaintext.html#taking-it-to-the-next-level-plain-text-for-publication",
+    "href": "guides/plaintext.html#taking-it-to-the-next-level-plain-text-for-publication",
+    "title": "Working with Plain Text",
+    "section": "Taking it to the next level: Plain text for publication",
+    "text": "Taking it to the next level: Plain text for publication\nGood places to start for the why and how of writing in plain text for academic writing is Kieran Healy’s The Plain Person’s Guide to Plain Text Social Science and Programming Historian’s lesson on Sustainable Authorship in Plain Text using Pandoc and Markdown.",
     "crumbs": [
-      "Computing"
-    ]
-  },
-  {
-    "objectID": "computing.html#sec-r",
-    "href": "computing.html#sec-r",
-    "title": "Computing",
-    "section": "R and RStudio",
-    "text": "R and RStudio\n\nDownload R from CRAN. R 4.3.2 is currently the newest release. It is expected that you will have a version greater than or equal to 4.3.\nDownload RStudio.\nRStudio IDE User Guide",
-    "crumbs": [
-      "Computing"
-    ]
-  },
-  {
-    "objectID": "computing.html#sec-quarto",
-    "href": "computing.html#sec-quarto",
-    "title": "Computing",
-    "section": "Quarto",
-    "text": "Quarto\n\nThe quarto R package is installed with the newer versions of RStudio. See the documentation on using Quarto with RStudio.\nQuarto can also be run from the command line, which is how we will publish our websites. You can download the Quarto command-line interface (CLI) in the Get Stated section of the Quarto website. Once you have downladed the CLI, you will be able to render and publish documents via the command line.",
-    "crumbs": [
-      "Computing"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "History 5454: Digital History for Public History",
-    "section": "",
-    "text": "Instructor\n\n\n\nJesse Sadler. Email: jrsadler@vt.edu\nOffice hours: Thursday, 1:00–2:00pm and by appointment in Major Williams 4th floor\n\n\n\n\n\n\n\n\nCourse\n\n\n\nHistory 5454: Spring 2024\nMeets Thursdays, 2:00–4:50 in Major Williams 427"
-  },
-  {
-    "objectID": "index.html#course-description",
-    "href": "index.html#course-description",
-    "title": "History 5454: Digital History for Public History",
-    "section": "Course description",
-    "text": "Course description\nThis course is designed to introduce students to some of the tools of Digital Humanities/History with an emphasis on using open source technology that puts you in control. The course focuses on methodologies. It begins with the basics of organizing primary and secondary sources and your notes on them. We will then give an introduction to data analysis and visualization using the R programming language, culminating in the creation of your own website. Along the way we will be learning the basics of using the command line and learn about git and using GitHub for publishing websites and to become acquainted with the practices of reproducible research.\n\n\n\n\n\n\nNote\n\n\n\nThis course website will function as the main source of information for the course. The syllabus is liable to change based on new material and student input. We may not get to certain material, or I may add new resources based on student interest. Make sure to check in on the website frequently."
-  },
-  {
-    "objectID": "index.html#learning-goals",
-    "href": "index.html#learning-goals",
-    "title": "History 5454: Digital History for Public History",
-    "section": "Learning goals",
-    "text": "Learning goals\nAfter taking this course, you will…\n\nhave an expanded awareness of the open source tools available for conducting historical research and making that research widely available to the public.\nbe comfortable writing in plain text and using Markdown.\nunderstand the uses and drawbacks of spreadsheets and how to organize rectangular data.\nbe comfortable with the basics of the command line.\nbe able to import, explore, wrangle, and visualize data in R.\nbe able to write R scripts and document your code in quarto documents.\nhave familiarity with the tidyverse packages in R.\nhave experience with the possibilities for text, network, and spatial analysis available through various R packages.\nbe comfortable with using git and GitHub for your own work or collaboration with others.\ncreate a website using open source tools."
-  },
-  {
-    "objectID": "index.html#expectations",
-    "href": "index.html#expectations",
-    "title": "History 5454: Digital History for Public History",
-    "section": "Expectations",
-    "text": "Expectations\nThere are no prerequisites for this course. Students do not need to know anything about the methods and technologies listed in the syllabus. You do not need to know what the command line, R, or git is. That is what the course is for. Familiarity is, of course, helpful, and more advanced students can be accommodated within the structures of the course. However, the intention is for this to be an exploration of open source tools that can help you with historical analysis and publication. The primary expectation is a willingness to try and a readiness to learn. More specific expectations include:\n\nAttendance and active participation in all seminars.\nComplete and be ready to discuss all reading by our weekly meeting.\nCome to seminar with a computer ready to work and to participate in the weekly labs with all applications and programming environments installed by the assigned meeting.1\nComplete all assignments on time.\nComplete the final project of creating a Quarto website.\n\nFinally, it is expected that all students will be respectful of each other. Students will enter the course at different levels of comfort with the tools that we will use. The goal of the course is to help each other get more comfortable with open source technologies."
-  },
-  {
-    "objectID": "index.html#assessment",
-    "href": "index.html#assessment",
-    "title": "History 5454: Digital History for Public History",
-    "section": "Assessment",
-    "text": "Assessment\nAs noted above, the primary expectation for the course is a willingness to try, and so the primary assessment will be focused on effort and growth.\n\nParticipation: 40%\nWeekly assignments: 20%\nFinal project: 40%"
-  },
-  {
-    "objectID": "index.html#how-the-course-works",
-    "href": "index.html#how-the-course-works",
-    "title": "History 5454: Digital History for Public History",
-    "section": "How the course works",
-    "text": "How the course works\nMeetings will be divided between discussion of weekly readings and topics and interactive workshops devoted to the tools and technologies for that week. All information necessary for the course is made available through this website. Information about weekly reading, assignments, and resources is available via the Schedule on the sidebar. This information is dynamic and liable to change, so please make sure to visit this website frequently.\nWe will be using two pieces of technology to help with collaboration during the semester. We will use Discord to provide a place to ask questions and receive feedback outside of the meetings. The Discord will also be a place for any announcements about the course. See Resources: Discord for instructions on getting set up with Discord. Secondly, we will be using Zotero groups as a way to collaboratively keep track of the resources we use for the class. See Resources: Zoetero for instructions on getting set up with Zotero.\n\n\n\n\n\n\nNote\n\n\n\nThis website is built with Quarto and the source code is available on GitHub. If you want to see how anything works or to suggest any changes you can do so through GitHub."
-  },
-  {
-    "objectID": "index.html#schedule",
-    "href": "index.html#schedule",
-    "title": "History 5454: Digital History for Public History",
-    "section": "Schedule",
-    "text": "Schedule\n\nIntroduction (18 January)\nDigital History and Public History (25 January)\nOrganizing resources (1 February)\nPlain text and markdown (8 February)\nData and an intro to the command line (15 February)\nIntro to R and RStudio (22 February)\nData wrangling (29 February)\nVisualization with ggplot2 (14 March)\nVersion control with Git and GitHub (21 March)\nMaking documents and websites with Quarto (28 March)\nReview and website workshop (4 April)\nSpatial analysis (11 April)\nNetwork analysis (18 April)\nWeb design and visualization (25 April)\nConclusion (2 May)\n\nAppendix: Text analysis"
-  },
-  {
-    "objectID": "index.html#footnotes",
-    "href": "index.html#footnotes",
-    "title": "History 5454: Digital History for Public History",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nIf you have any problems, we can troubleshoot together.↩︎"
-  },
-  {
-    "objectID": "faq.html",
-    "href": "faq.html",
-    "title": "FAQ",
-    "section": "",
-    "text": "What are the benefits of writing in plain text?\nWhy should I learn markdown?\nWhy should I learn a programming language for data analysis and visualization?\nWhy are we learning R in this course? Why not Python?\nWhy are we using the tidyverse packages and not base R?\nWhy are we using Quarto with R and to make websites?\nWhy should I make a website?",
-    "crumbs": [
-      "FAQ"
-    ]
-  },
-  {
-    "objectID": "faq.html#sec-plain",
-    "href": "faq.html#sec-plain",
-    "title": "FAQ",
-    "section": "What are the benefits of writing in plain text?",
-    "text": "What are the benefits of writing in plain text?\nWriting in plain text may seem odd at first, and it confronts the beginner with a number of issues compared to word processing applications such as Microsoft Word that use a WYSIWYG (what you see is what you get) interface. However, there are a number of advantages to using plain text documents that make the initial discomfort worth it.\n\nSustainability: Plain text documents are sustainable. They will be able to be read and displayed by a computer as long as we have such technology. They are not dependent on a proprietary format like docx.\nLight weight: Plain text documents are incredibly lightweight. Word processors add all sorts of formatting characters to provide a WYSIWYG experience that increase the file size and add complexity to the whole process of writing. Try opening a hundred page document in Word and then try opening the same document in a plain text editor. The latter will open instantaneously.\nThe power of a text editor: With a text editor application you can perform all sorts of complex search and search and replace functionality across multiple documents at the same time.\nThe web: The internet is created using plain text documents. If you want to write for the web, you should be writing in plain text.\nAdding formatting with markup languages: If the lack of formatting is a benefit, how do you get plain text documents to have the formatting you want in a document? The answer is to use a markup language. The markup language of the web is HTML, but other common markup languages used to write for academic purposes are Markdown, typst, and latex. With these markup languages you can create complex documents that serve the needs of academics well.",
-    "crumbs": [
-      "FAQ"
-    ]
-  },
-  {
-    "objectID": "faq.html#sec-markdown",
-    "href": "faq.html#sec-markdown",
-    "title": "FAQ",
-    "section": "Why should I learn markdown?",
-    "text": "Why should I learn markdown?\n\nThe Markdown syntax is easy to learn and is designed to be human readable, meaning the syntax does not distract from the text itself.\nMarkdown is the most widely used markup language for writing on the web. Its popularity also means that it is easy to find applications that will render Markdown to styled text.\nMarkdown provides a good feature set for most types of historical writing: headings, lists, italic, bold, links, and footnotes gets you pretty far. It, thus, makes it much easier to write in plain text instead of with a world processor. See above for the benefits of plain text.\nMarkdown is the basis for RMarkdown and Quarto, the literate programming languages we will use in this course. This document is written in Markdown.",
-    "crumbs": [
-      "FAQ"
-    ]
-  },
-  {
-    "objectID": "faq.html#sec-r",
-    "href": "faq.html#sec-r",
-    "title": "FAQ",
-    "section": "Why should I learn a programming language for data analysis and visualization?",
-    "text": "Why should I learn a programming language for data analysis and visualization?\nThere are many reasons why you might want to use a programming language for data analysis and visualization instead of spreadsheets or a GUI (graphical user interface) program, but first it is worth conceding that learning and using a programming language has a much steeper learning curve than the GUI alternatives. Nevertheless, this course argues that it is worth the effort. Benefits include:\n\nReproducibility: With a programming language you can document your analysis in a script that can be reproduced by others. This is not possible with a point-and-click interface of a GUI application or a spreadsheet. Excel error due to miss-clicking are well known.\nSeparation of data and analysis: In a spreadsheet your data and your analysis are done in the same place. This can make it easy to unknowingly introduce errors into your data. With a programming language all analysis is done on a copy of the data, making it easier to ensure the data is correct. This also has the benefit that you can can make mistakes in your data analysis with a programming language without consequence. If you run into problems, get an error, or mess something up, it is ok. Your data remains safe and sound just as you left it.\nYou are in charge: Spreadsheets often try to guess the formatting of data, which is another source of errors. Such errors are common, especially in dealing with dates. Scientists even had to rename a gene to deal with the issue. For historians, the fact that Excel does not natively support dates before 1900. With a programming language you have much greater control.",
-    "crumbs": [
-      "FAQ"
-    ]
-  },
-  {
-    "objectID": "faq.html#sec-python",
-    "href": "faq.html#sec-python",
-    "title": "FAQ",
-    "section": "Why are we learning R in this course? Why not Python?",
-    "text": "Why are we learning R in this course? Why not Python?\nIn this course we will learn R for data analysis and visualization. A reasonable question to ask is why R and why not Python. To begin with, I think it is fair to say that R and Python are both good choices for doing Digital Humanities. I should also say that the main reasons we are learning R in this course is that I am more comfortable with R than with Python. But there are a couple of reasons that I think R is a good choice for Digital Humanities.\n\nR is a domain specific programming language that was designed for Statistics. It was designed to work with data. The main types of rectangular data common to Digital Humanities is at home in R. Python is a more general programming language. This has some real benefits, but it also means that data analysis and visualization is not at the core of the language in the same way as is true for R.\nR is easier to install than Python, R packages are easier to manage than Python packages, and the RStudio IDE provides a first-class environment for data analysis.\nA strong, open, and welcoming community has been built around data analysis and reproducible research with R. A good example of this is Tidy Tuesday, a weekly community driven data science project.",
-    "crumbs": [
-      "FAQ"
-    ]
-  },
-  {
-    "objectID": "faq.html#sec-tidyverse",
-    "href": "faq.html#sec-tidyverse",
-    "title": "FAQ",
-    "section": "Why are we using the tidyverse packages and not base R?",
-    "text": "Why are we using the tidyverse packages and not base R?\nThe tidyverse is a set of R packages that were originally designed by Hadley Wickham that provide a (relatively) consistent interface for data analysis. They provide a different ways of analyzing data from what is known as base R. However, the popularity of the tidyverse means there is little drawback to learning it before or in the place of base R. Most materials for learning R use the tidyverse and the packages continue to be maintained and updated.",
-    "crumbs": [
-      "FAQ"
-    ]
-  },
-  {
-    "objectID": "faq.html#sec-quarto",
-    "href": "faq.html#sec-quarto",
-    "title": "FAQ",
-    "section": "Why are we using Quarto with R and to make websites?",
-    "text": "Why are we using Quarto with R and to make websites?\nQuarto is a relatively new platform made by Posit, the company that makes the RStudio IDE. It is a replacement for RMarkdown. Two advantages of Quarto over RMarkdown are that Quarto can be used by more than just R and it provides a more consistent interface for writing a wide variety of outputs including R scripts, journal articles, slides, websites, and books. Quarto is well integrated into RStudio and familiarity with Quarto documents from the beginning of the course should lessen the cognitive load for making a website at the end of the course.",
-    "crumbs": [
-      "FAQ"
-    ]
-  },
-  {
-    "objectID": "faq.html#sec-web",
-    "href": "faq.html#sec-web",
-    "title": "FAQ",
-    "section": "Why should I make a website?",
-    "text": "Why should I make a website?\nThe simple answer is that it is a good idea to have your own place on the internet that you are in control of. The demise of the app formerly known as Twitter in 2022 and 2023 makes this even more plain. It is useful to have a personal website that you can point people towards and that you can use as a showcase for you work. Or it can just be a place for you to do what you want. Using open source technology and publishing to the open web puts you in control. You can be a part of making the internet weird again.",
-    "crumbs": [
-      "FAQ"
+      "Guides",
+      "Working with Plain Text"
     ]
   },
   {
@@ -978,333 +650,650 @@
     ]
   },
   {
-    "objectID": "guides/plaintext.html",
-    "href": "guides/plaintext.html",
-    "title": "Working with Plain Text",
+    "objectID": "faq.html",
+    "href": "faq.html",
+    "title": "FAQ",
     "section": "",
-    "text": "Writing in plain text may seem odd at first, and it confronts the beginner with a number of issues compared to word processing applications such as Microsoft Word or Google Docs that use a WYSIWYG (what you see is what you get) interface. However, there are a number of advantages to using plain text documents that make the initial discomfort worth it.\n\nSustainability: Plain text documents are sustainable. They will be able to be read and displayed by a computer as long as we have such technology. They are not dependent on a proprietary format like docx.\nLight weight: Plain text documents are incredibly lightweight. Word processors add all sorts of formatting characters to provide a WYSIWYG experience that increase the file size and add complexity to the whole process of writing. Try opening a hundred page document in Word and then try opening the same document in a plain text editor. The latter will open instantaneously.\nThe power of a text editor: With a text editor application you can perform all sorts of complex search and search and replace functionality across multiple documents at the same time.\nThe web: The internet is created using plain text documents. If you want to write for the web, you should be writing in plain text.\nAdding formatting with markup languages: If the lack of formatting is a benefit, how do you get plain text documents to have the formatting you want in a document? The answer is to use a markup language. The markup language of the web is HTML, but most modern plain text applications use Markdown to add formatting such as headings, lists, links, and even footnotes. See the Guide on Markdown Syntax.",
+    "text": "What are the benefits of writing in plain text?\nWhy should I learn markdown?\nWhy should I learn a programming language for data analysis and visualization?\nWhy are we learning R in this course? Why not Python?\nWhy are we using the tidyverse packages and not base R?\nWhy are we using Quarto with R and to make websites?\nWhy should I make a website?",
     "crumbs": [
-      "Guides",
-      "Working with Plain Text"
+      "FAQ"
     ]
   },
   {
-    "objectID": "guides/plaintext.html#why-write-in-plain-text",
-    "href": "guides/plaintext.html#why-write-in-plain-text",
-    "title": "Working with Plain Text",
+    "objectID": "faq.html#sec-plain",
+    "href": "faq.html#sec-plain",
+    "title": "FAQ",
+    "section": "What are the benefits of writing in plain text?",
+    "text": "What are the benefits of writing in plain text?\nWriting in plain text may seem odd at first, and it confronts the beginner with a number of issues compared to word processing applications such as Microsoft Word that use a WYSIWYG (what you see is what you get) interface. However, there are a number of advantages to using plain text documents that make the initial discomfort worth it.\n\nSustainability: Plain text documents are sustainable. They will be able to be read and displayed by a computer as long as we have such technology. They are not dependent on a proprietary format like docx.\nLight weight: Plain text documents are incredibly lightweight. Word processors add all sorts of formatting characters to provide a WYSIWYG experience that increase the file size and add complexity to the whole process of writing. Try opening a hundred page document in Word and then try opening the same document in a plain text editor. The latter will open instantaneously.\nThe power of a text editor: With a text editor application you can perform all sorts of complex search and search and replace functionality across multiple documents at the same time.\nThe web: The internet is created using plain text documents. If you want to write for the web, you should be writing in plain text.\nAdding formatting with markup languages: If the lack of formatting is a benefit, how do you get plain text documents to have the formatting you want in a document? The answer is to use a markup language. The markup language of the web is HTML, but other common markup languages used to write for academic purposes are Markdown, typst, and latex. With these markup languages you can create complex documents that serve the needs of academics well.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "faq.html#sec-markdown",
+    "href": "faq.html#sec-markdown",
+    "title": "FAQ",
+    "section": "Why should I learn markdown?",
+    "text": "Why should I learn markdown?\n\nThe Markdown syntax is easy to learn and is designed to be human readable, meaning the syntax does not distract from the text itself.\nMarkdown is the most widely used markup language for writing on the web. Its popularity also means that it is easy to find applications that will render Markdown to styled text.\nMarkdown provides a good feature set for most types of historical writing: headings, lists, italic, bold, links, and footnotes gets you pretty far. It, thus, makes it much easier to write in plain text instead of with a world processor. See above for the benefits of plain text.\nMarkdown is the basis for RMarkdown and Quarto, the literate programming languages we will use in this course. This document is written in Markdown.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "faq.html#sec-r",
+    "href": "faq.html#sec-r",
+    "title": "FAQ",
+    "section": "Why should I learn a programming language for data analysis and visualization?",
+    "text": "Why should I learn a programming language for data analysis and visualization?\nThere are many reasons why you might want to use a programming language for data analysis and visualization instead of spreadsheets or a GUI (graphical user interface) program, but first it is worth conceding that learning and using a programming language has a much steeper learning curve than the GUI alternatives. Nevertheless, this course argues that it is worth the effort. Benefits include:\n\nReproducibility: With a programming language you can document your analysis in a script that can be reproduced by others. This is not possible with a point-and-click interface of a GUI application or a spreadsheet. Excel error due to miss-clicking are well known.\nSeparation of data and analysis: In a spreadsheet your data and your analysis are done in the same place. This can make it easy to unknowingly introduce errors into your data. With a programming language all analysis is done on a copy of the data, making it easier to ensure the data is correct. This also has the benefit that you can can make mistakes in your data analysis with a programming language without consequence. If you run into problems, get an error, or mess something up, it is ok. Your data remains safe and sound just as you left it.\nYou are in charge: Spreadsheets often try to guess the formatting of data, which is another source of errors. Such errors are common, especially in dealing with dates. Scientists even had to rename a gene to deal with the issue. For historians, the fact that Excel does not natively support dates before 1900. With a programming language you have much greater control.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "faq.html#sec-python",
+    "href": "faq.html#sec-python",
+    "title": "FAQ",
+    "section": "Why are we learning R in this course? Why not Python?",
+    "text": "Why are we learning R in this course? Why not Python?\nIn this course we will learn R for data analysis and visualization. A reasonable question to ask is why R and why not Python. To begin with, I think it is fair to say that R and Python are both good choices for doing Digital Humanities. I should also say that the main reasons we are learning R in this course is that I am more comfortable with R than with Python. But there are a couple of reasons that I think R is a good choice for Digital Humanities.\n\nR is a domain specific programming language that was designed for Statistics. It was designed to work with data. The main types of rectangular data common to Digital Humanities is at home in R. Python is a more general programming language. This has some real benefits, but it also means that data analysis and visualization is not at the core of the language in the same way as is true for R.\nR is easier to install than Python, R packages are easier to manage than Python packages, and the RStudio IDE provides a first-class environment for data analysis.\nA strong, open, and welcoming community has been built around data analysis and reproducible research with R. A good example of this is Tidy Tuesday, a weekly community driven data science project.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "faq.html#sec-tidyverse",
+    "href": "faq.html#sec-tidyverse",
+    "title": "FAQ",
+    "section": "Why are we using the tidyverse packages and not base R?",
+    "text": "Why are we using the tidyverse packages and not base R?\nThe tidyverse is a set of R packages that were originally designed by Hadley Wickham that provide a (relatively) consistent interface for data analysis. They provide a different ways of analyzing data from what is known as base R. However, the popularity of the tidyverse means there is little drawback to learning it before or in the place of base R. Most materials for learning R use the tidyverse and the packages continue to be maintained and updated.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "faq.html#sec-quarto",
+    "href": "faq.html#sec-quarto",
+    "title": "FAQ",
+    "section": "Why are we using Quarto with R and to make websites?",
+    "text": "Why are we using Quarto with R and to make websites?\nQuarto is a relatively new platform made by Posit, the company that makes the RStudio IDE. It is a replacement for RMarkdown. Two advantages of Quarto over RMarkdown are that Quarto can be used by more than just R and it provides a more consistent interface for writing a wide variety of outputs including R scripts, journal articles, slides, websites, and books. Quarto is well integrated into RStudio and familiarity with Quarto documents from the beginning of the course should lessen the cognitive load for making a website at the end of the course.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "faq.html#sec-web",
+    "href": "faq.html#sec-web",
+    "title": "FAQ",
+    "section": "Why should I make a website?",
+    "text": "Why should I make a website?\nThe simple answer is that it is a good idea to have your own place on the internet that you are in control of. The demise of the app formerly known as Twitter in 2022 and 2023 makes this even more plain. It is useful to have a personal website that you can point people towards and that you can use as a showcase for you work. Or it can just be a place for you to do what you want. Using open source technology and publishing to the open web puts you in control. You can be a part of making the internet weird again.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "History 5454: Digital History for Public History",
     "section": "",
-    "text": "Writing in plain text may seem odd at first, and it confronts the beginner with a number of issues compared to word processing applications such as Microsoft Word or Google Docs that use a WYSIWYG (what you see is what you get) interface. However, there are a number of advantages to using plain text documents that make the initial discomfort worth it.\n\nSustainability: Plain text documents are sustainable. They will be able to be read and displayed by a computer as long as we have such technology. They are not dependent on a proprietary format like docx.\nLight weight: Plain text documents are incredibly lightweight. Word processors add all sorts of formatting characters to provide a WYSIWYG experience that increase the file size and add complexity to the whole process of writing. Try opening a hundred page document in Word and then try opening the same document in a plain text editor. The latter will open instantaneously.\nThe power of a text editor: With a text editor application you can perform all sorts of complex search and search and replace functionality across multiple documents at the same time.\nThe web: The internet is created using plain text documents. If you want to write for the web, you should be writing in plain text.\nAdding formatting with markup languages: If the lack of formatting is a benefit, how do you get plain text documents to have the formatting you want in a document? The answer is to use a markup language. The markup language of the web is HTML, but most modern plain text applications use Markdown to add formatting such as headings, lists, links, and even footnotes. See the Guide on Markdown Syntax.",
-    "crumbs": [
-      "Guides",
-      "Working with Plain Text"
-    ]
+    "text": "Instructor\n\n\n\nJesse Sadler. Email: jrsadler@vt.edu\nOffice hours: Thursday, 1:00–2:00pm and by appointment in Major Williams 4th floor\n\n\n\n\n\n\n\n\nCourse\n\n\n\nHistory 5454: Spring 2024\nMeets Thursdays, 2:00–4:50 in Major Williams 427"
   },
   {
-    "objectID": "guides/plaintext.html#what-do-i-need-to-write-in-plaintext",
-    "href": "guides/plaintext.html#what-do-i-need-to-write-in-plaintext",
-    "title": "Working with Plain Text",
-    "section": "What do I need to write in plaintext?",
-    "text": "What do I need to write in plaintext?\nIn short, a good text editor. Below are some good options to start with.\n\nCross platform\n\nVisual Studio Code is much more than a text editor, but it can also be made into a good text editor for plain text and Markdown. It is free and open source and worthy of a download to check out.\nA paid alternative is Sublime Text.\n\nmacOS\n\nBBEdit is over 30 years old and still going strong. It is available for purchase, but you can go quite far with the free version.\nCotEditor is a modern open source text editor that is very clean looking.\nChime is another open source option.\n\nWindows\n\nA classic text editor for Windows is Notepad++.",
-    "crumbs": [
-      "Guides",
-      "Working with Plain Text"
-    ]
+    "objectID": "index.html#course-description",
+    "href": "index.html#course-description",
+    "title": "History 5454: Digital History for Public History",
+    "section": "Course description",
+    "text": "Course description\nThis course is designed to introduce students to some of the tools of Digital Humanities/History with an emphasis on using open source technology that puts you in control. The course focuses on methodologies. It begins with the basics of organizing primary and secondary sources and your notes on them. We will then give an introduction to data analysis and visualization using the R programming language, culminating in the creation of your own website. Along the way we will be learning the basics of using the command line and learn about git and using GitHub for publishing websites and to become acquainted with the practices of reproducible research.\n\n\n\n\n\n\nNote\n\n\n\nThis course website will function as the main source of information for the course. The syllabus is liable to change based on new material and student input. We may not get to certain material, or I may add new resources based on student interest. Make sure to check in on the website frequently."
   },
   {
-    "objectID": "guides/plaintext.html#plain-text-writing-and-note-taking-apps",
-    "href": "guides/plaintext.html#plain-text-writing-and-note-taking-apps",
-    "title": "Working with Plain Text",
-    "section": "Plain text writing and note taking apps",
-    "text": "Plain text writing and note taking apps\nThere is currently a renaissance in writing apps that leverage plain text and Markdown to store files that can be linked together in various ways, making it possible to build anything from a data base of notes, a wiki-like database, outlines and checklists, or even short or long forms of writing intended for publication.\nTwo good options to investigate are Obsidian and Zettlr.\n\nOther options\n\niA Writer\nCraft\nRoam Research\nNotion\nWorkflowy\nDevonThink",
-    "crumbs": [
-      "Guides",
-      "Working with Plain Text"
-    ]
+    "objectID": "index.html#learning-goals",
+    "href": "index.html#learning-goals",
+    "title": "History 5454: Digital History for Public History",
+    "section": "Learning goals",
+    "text": "Learning goals\nAfter taking this course, you will…\n\nhave an expanded awareness of the open source tools available for conducting historical research and making that research widely available to the public.\nbe comfortable writing in plain text and using Markdown.\nunderstand the uses and drawbacks of spreadsheets and how to organize rectangular data.\nbe comfortable with the basics of the command line.\nbe able to import, explore, wrangle, and visualize data in R.\nbe able to write R scripts and document your code in quarto documents.\nhave familiarity with the tidyverse packages in R.\nhave experience with the possibilities for text, network, and spatial analysis available through various R packages.\nbe comfortable with using git and GitHub for your own work or collaboration with others.\ncreate a website using open source tools."
   },
   {
-    "objectID": "guides/plaintext.html#taking-it-to-the-next-level-plain-text-for-publication",
-    "href": "guides/plaintext.html#taking-it-to-the-next-level-plain-text-for-publication",
-    "title": "Working with Plain Text",
-    "section": "Taking it to the next level: Plain text for publication",
-    "text": "Taking it to the next level: Plain text for publication\nGood places to start for the why and how of writing in plain text for academic writing is Kieran Healy’s The Plain Person’s Guide to Plain Text Social Science and Programming Historian’s lesson on Sustainable Authorship in Plain Text using Pandoc and Markdown.",
-    "crumbs": [
-      "Guides",
-      "Working with Plain Text"
-    ]
+    "objectID": "index.html#expectations",
+    "href": "index.html#expectations",
+    "title": "History 5454: Digital History for Public History",
+    "section": "Expectations",
+    "text": "Expectations\nThere are no prerequisites for this course. Students do not need to know anything about the methods and technologies listed in the syllabus. You do not need to know what the command line, R, or git is. That is what the course is for. Familiarity is, of course, helpful, and more advanced students can be accommodated within the structures of the course. However, the intention is for this to be an exploration of open source tools that can help you with historical analysis and publication. The primary expectation is a willingness to try and a readiness to learn. More specific expectations include:\n\nAttendance and active participation in all seminars.\nComplete and be ready to discuss all reading by our weekly meeting.\nCome to seminar with a computer ready to work and to participate in the weekly labs with all applications and programming environments installed by the assigned meeting.1\nComplete all assignments on time.\nComplete the final project of creating a Quarto website.\n\nFinally, it is expected that all students will be respectful of each other. Students will enter the course at different levels of comfort with the tools that we will use. The goal of the course is to help each other get more comfortable with open source technologies."
   },
   {
-    "objectID": "meetings/10-quarto.html",
-    "href": "meetings/10-quarto.html",
-    "title": "Week 10: Making documents and websites with Quarto",
+    "objectID": "index.html#assessment",
+    "href": "index.html#assessment",
+    "title": "History 5454: Digital History for Public History",
+    "section": "Assessment",
+    "text": "Assessment\nAs noted above, the primary expectation for the course is a willingness to try, and so the primary assessment will be focused on effort and growth.\n\nParticipation: 40%\nWeekly assignments: 20%\nFinal project: 40%"
+  },
+  {
+    "objectID": "index.html#how-the-course-works",
+    "href": "index.html#how-the-course-works",
+    "title": "History 5454: Digital History for Public History",
+    "section": "How the course works",
+    "text": "How the course works\nMeetings will be divided between discussion of weekly readings and topics and interactive workshops devoted to the tools and technologies for that week. All information necessary for the course is made available through this website. Information about weekly reading, assignments, and resources is available via the Schedule on the sidebar. This information is dynamic and liable to change, so please make sure to visit this website frequently.\nWe will be using two pieces of technology to help with collaboration during the semester. We will use Discord to provide a place to ask questions and receive feedback outside of the meetings. The Discord will also be a place for any announcements about the course. See Resources: Discord for instructions on getting set up with Discord. Secondly, we will be using Zotero groups as a way to collaboratively keep track of the resources we use for the class. See Resources: Zotero for instructions on getting set up with Zotero.\n\n\n\n\n\n\nNote\n\n\n\nThis website is built with Quarto and the source code is available on GitHub. If you want to see how anything works or to suggest any changes you can do so through GitHub."
+  },
+  {
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
+    "title": "History 5454: Digital History for Public History",
+    "section": "Schedule",
+    "text": "Schedule\n\nIntroduction (18 January)\nDigital History and Public History (25 January)\nOrganizing resources (1 February)\nPlain text and markdown (8 February)\nData and an intro to the command line (15 February)\nIntro to R and RStudio (22 February)\nData wrangling (29 February)\nVisualization with ggplot2 (14 March)\nVersion control with Git and GitHub (21 March)\nMaking documents and websites with Quarto (28 March)\nReview and website workshop (4 April)\nSpatial analysis (11 April)\nNetwork analysis (18 April)\nWeb design and visualization (25 April)\n\nAppendix: Text analysis"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "History 5454: Digital History for Public History",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nIf you have any problems, we can troubleshoot together.↩︎"
+  },
+  {
+    "objectID": "computing.html",
+    "href": "computing.html",
+    "title": "Computing",
     "section": "",
-    "text": "Look over the Quarto documentation.\nAnil Dash, The Internet Is About to Get Weird Again, Rolling Stone (30 December 2023)",
+    "text": "macOS is built on the foundation of Unix and comes with a perfectly capable command line app in Terminal. There are some other options out there, but Terminal is just fine.\nSince 2019 the default shell in macOS is zsh instead of bash. The differences between zsh and bash should not affect beginners too much. However, you can download an updated version of bash. The best way to do this is with Homebrew.\nHomebrew is one of the main ways to install command line packages on macOS such as Git, and so it is a good idea to install it. Read about how to install Homebrew through the Terminal app on the Homebrew’s homepage.\n\n\n\nWindows does not come with a unix shell installed. You can install one via Git Bash. This will install both the bash shell and git. See the Carpentries for installation instructions.",
     "crumbs": [
-      "Schedule",
-      "10. Making documents and websites with Quarto"
+      "Computing"
     ]
   },
   {
-    "objectID": "meetings/10-quarto.html#reading",
-    "href": "meetings/10-quarto.html#reading",
-    "title": "Week 10: Making documents and websites with Quarto",
+    "objectID": "computing.html#sec-cl",
+    "href": "computing.html#sec-cl",
+    "title": "Computing",
     "section": "",
-    "text": "Look over the Quarto documentation.\nAnil Dash, The Internet Is About to Get Weird Again, Rolling Stone (30 December 2023)",
+    "text": "macOS is built on the foundation of Unix and comes with a perfectly capable command line app in Terminal. There are some other options out there, but Terminal is just fine.\nSince 2019 the default shell in macOS is zsh instead of bash. The differences between zsh and bash should not affect beginners too much. However, you can download an updated version of bash. The best way to do this is with Homebrew.\nHomebrew is one of the main ways to install command line packages on macOS such as Git, and so it is a good idea to install it. Read about how to install Homebrew through the Terminal app on the Homebrew’s homepage.\n\n\n\nWindows does not come with a unix shell installed. You can install one via Git Bash. This will install both the bash shell and git. See the Carpentries for installation instructions.",
     "crumbs": [
-      "Schedule",
-      "10. Making documents and websites with Quarto"
+      "Computing"
     ]
   },
   {
-    "objectID": "meetings/10-quarto.html#assignment",
-    "href": "meetings/10-quarto.html#assignment",
-    "title": "Week 10: Making documents and websites with Quarto",
-    "section": "Assignment",
-    "text": "Assignment\n\nWatch Mine Çetinkaya-Rundel and Julia Stewart Lowndes, Hello Quarto: Share, Collaborate, Teach, Reimagine at RStudio Conf 2022.\n\nThe slides are available here.\n\nPlan out your website. Make an outline, mindmap, drawing, etc. of the structure of your website.",
+    "objectID": "computing.html#sec-git",
+    "href": "computing.html#sec-git",
+    "title": "Computing",
+    "section": "Git",
+    "text": "Git\nSee Happy Git and GitHub for the useR for a good guide to downloading git for macOS and Windows.\n\nmacOS\nGit may already be on your computer by default, but the git version that comes with macOS can be quite out of date. To check if you need to install git:\n\nOpen Terminal\nType git --version – check current version of git on the computer\nLook at current version of Git at https://git-scm.com\n\nIf you need to install Git, there are two basic ways to install it:\nVia Homebrew:\n\nbrew install git – download git with Homebrew\nQuit terminal and reopen it to start new session\ngit --version – check to see that installation worked.\n\nVia Xcode command line tools:\n\nxcode-select --install\nQuit terminal and reopen it to start new session\ngit --version – check to see that installation worked.\n\n\n\nWindows\nInstall git with Git Bash.",
     "crumbs": [
-      "Schedule",
-      "10. Making documents and websites with Quarto"
+      "Computing"
     ]
   },
   {
-    "objectID": "meetings/10-quarto.html#activities",
-    "href": "meetings/10-quarto.html#activities",
-    "title": "Week 10: Making documents and websites with Quarto",
-    "section": "Activities",
-    "text": "Activities\n\nDiscussion: Making History public through the web.\nWorkshop: Making a website with Quarto",
+    "objectID": "computing.html#sec-github",
+    "href": "computing.html#sec-github",
+    "title": "Computing",
+    "section": "GitHub",
+    "text": "GitHub\nRegister for an account on GitHub",
     "crumbs": [
-      "Schedule",
-      "10. Making documents and websites with Quarto"
+      "Computing"
     ]
   },
   {
-    "objectID": "meetings/10-quarto.html#quarto-websites",
-    "href": "meetings/10-quarto.html#quarto-websites",
-    "title": "Week 10: Making documents and websites with Quarto",
-    "section": "Quarto websites",
-    "text": "Quarto websites\nQuarto websites are a collection of Quarto documents using format: html with a set structure and consistent visual style.\n\nCreate new Quarto website project: File -&gt; New Project… -&gt; Quarto Website.\nPreview website to see what we have.\n\nPreview page with Render button. Use gear button to control how preview works.\nRender website in build tab -&gt; Render Website\n\nStructure: _quarto.yml\n\nConfiguration file (_quarto.yml) provides the basic structure of the site.\nNavigation\n\nTop navbar\nSide navbar\nCombination of top and side navbar\n\nNavigation provides skeleton structure of pages in YAML format. Make sure to use proper whitespace in working in _quarto.yml.\n\nPages\n\nHomepage: index.qmd\nIndividual quarto documents turned into web pages\nShared YAML in _quarto.yml under format:. See HTML Basics for YAML options.\nLinks between pages:\n\n[about](about.qmd)\nSection identifier: # Introduction {#sec-introduction} and [about](about.qmd#sec-introduction).\n\nFooter: Add a footer to have text at the bottom of each page with page-footer in _quarto.yml.\n\nAbout page: Add an About page with special formatting.\nAesthetics: Themes\nWebsite tools: Header, footer, and integration with other services.\nWebsite search: Options for having a search field for website.",
+    "objectID": "computing.html#sec-r",
+    "href": "computing.html#sec-r",
+    "title": "Computing",
+    "section": "R and RStudio",
+    "text": "R and RStudio\n\nDownload R from CRAN. R 4.3.2 is currently the newest release. It is expected that you will have a version greater than or equal to 4.3.\nDownload RStudio.\nRStudio IDE User Guide",
     "crumbs": [
-      "Schedule",
-      "10. Making documents and websites with Quarto"
+      "Computing"
     ]
   },
   {
-    "objectID": "meetings/10-quarto.html#resources",
-    "href": "meetings/10-quarto.html#resources",
-    "title": "Week 10: Making documents and websites with Quarto",
+    "objectID": "computing.html#sec-quarto",
+    "href": "computing.html#sec-quarto",
+    "title": "Computing",
+    "section": "Quarto",
+    "text": "Quarto\n\nThe quarto R package is installed with the newer versions of RStudio. See the documentation on using Quarto with RStudio.\nQuarto can also be run from the command line, which is how we will publish our websites. You can download the Quarto command-line interface (CLI) in the Get Stated section of the Quarto website. Once you have downladed the CLI, you will be able to render and publish documents via the command line.",
+    "crumbs": [
+      "Computing"
+    ]
+  },
+  {
+    "objectID": "guides/markdown-syntax.html",
+    "href": "guides/markdown-syntax.html",
+    "title": "Markdown Syntax",
+    "section": "",
+    "text": "Markdown is a plain text format that is intended to be easy to write and read but also able to provide enough markup options for most forms of writing. On the one hand, Markdown leverages the advantages of plain text: it is light weight, highly portable, non-proprietary, and easily searchable across different documents. On the other, Markdown text can be turned into HTML, PDFs, and even Word documents with stylized text through different interpreters.\nThis document provides a basic overview of the Markdown syntax. Note that there are various “flavors” of Markdown that have different capabilities, but the basic syntax is largely shared.",
+    "crumbs": [
+      "Guides",
+      "Markdown Syntax"
+    ]
+  },
+  {
+    "objectID": "guides/markdown-syntax.html#paragraphs",
+    "href": "guides/markdown-syntax.html#paragraphs",
+    "title": "Markdown Syntax",
+    "section": "Paragraphs",
+    "text": "Paragraphs\nParagraphs are created in Markdown by writing text with no indentation. To create another paragraph there must be one or more blank lines separating the paragraphs.\n\nThis will be a second paragraph.\nParagraphs are created in Markdown by writing text with no indentation. To create another paragraph there must be one or more blank lines separating the paragraphs.\nThis will be a second paragraph.",
+    "crumbs": [
+      "Guides",
+      "Markdown Syntax"
+    ]
+  },
+  {
+    "objectID": "guides/markdown-syntax.html#text-formatting",
+    "href": "guides/markdown-syntax.html#text-formatting",
+    "title": "Markdown Syntax",
+    "section": "Text Formatting",
+    "text": "Text Formatting\n\n\n\n\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\n*italics* or _italics_\nitalics\n\n\n**bold** or __bold__\nbold\n\n\n`verbatim code`\nverbatim code",
+    "crumbs": [
+      "Guides",
+      "Markdown Syntax"
+    ]
+  },
+  {
+    "objectID": "guides/markdown-syntax.html#headings",
+    "href": "guides/markdown-syntax.html#headings",
+    "title": "Markdown Syntax",
+    "section": "Headings",
+    "text": "Headings\n\n\n\n\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\n# Header 1\nHeader 1\n\n\n## Header 2\nHeader 2\n\n\n### Header 3\nHeader 3\n\n\n#### Header 4\nHeader 4\n\n\n##### Header 5\nHeader 5\n\n\n###### Header 6\nHeader 6",
+    "crumbs": [
+      "Guides",
+      "Markdown Syntax"
+    ]
+  },
+  {
+    "objectID": "guides/markdown-syntax.html#lists",
+    "href": "guides/markdown-syntax.html#lists",
+    "title": "Markdown Syntax",
+    "section": "Lists",
+    "text": "Lists\nUnordered lists are created by typing -, *, or + at the start of a line followed by a space. You can choose one symbol or switch between them in nested lists. The styling of the bullets is done by the output interpreter, not by which symbol you choose.\nOrdered lists are created by typing a number followed by a period and a space (1.).\nNested lists are created by indenting the next line in a list with a tab or four spaces followed by the syntax for creating an unordered or ordered list. Unordered and ordered lists can be combined.\n\nUnordered lists\n\n\n\n\n\n\n- unordered list\n    - nested item\n    - nested item\n        * further nesting \n\n\n\nunordered list\n\nnested item\nnested item\n\nfurther nesting\n\n\n\n\n\n\n\n\nOrdered lists\n\n\n\n\n\n\n1. ordered list\n2. Second item\n    1. nested item\n        1. further nesting\n\n\n\nordered list\nSecond item\n\nnested item\n\nfurther nesting\n\n\n\n\n\n\n\n\nMixed lists\n\n\n\n\n\n\n1. mixed list\n    - unordered nesting\n        1. ordered nesting \n        2. second ordered nesting\n    - unordered nesting\n2. Second item\n\n\n\nmixed list\n\nunordered nesting\n\nordered nesting\nsecond ordered nesting\n\nunordered nesting\n\nSecond item",
+    "crumbs": [
+      "Guides",
+      "Markdown Syntax"
+    ]
+  },
+  {
+    "objectID": "guides/markdown-syntax.html#links",
+    "href": "guides/markdown-syntax.html#links",
+    "title": "Markdown Syntax",
+    "section": "Links",
+    "text": "Links\nThere are three main ways to create links in Markdown:\n\nA raw link is created by surrounding the URL by less than and greater than signs.\n&lt;https://lib.vt.edu&gt; becomes https://lib.vt.edu\nInline links are created by surrounding the link text in square brackets, followed immediately by the URL in parentheses.\n[text to link](https://lib.vt.edu) becomes text to link\nReference links are created by surrounding the link text in square brackets, followed by a reference in square brackets. The reference can be a number or text so long as it is unique within the text. Then, the reference is added on a line by itself, after the paragraph or at the bottom of the text, by writing the reference in square brackets, followed by a colon, space, and the URL.\n[text to link][ref]\n\n[ref]: https://lib.vt.edu\nBecomes text to link",
+    "crumbs": [
+      "Guides",
+      "Markdown Syntax"
+    ]
+  },
+  {
+    "objectID": "guides/markdown-syntax.html#footnotes",
+    "href": "guides/markdown-syntax.html#footnotes",
+    "title": "Markdown Syntax",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThe linked footnote appears at the end of the document in HTML and end of the page in a PDF.↩︎",
+    "crumbs": [
+      "Guides",
+      "Markdown Syntax"
+    ]
+  },
+  {
+    "objectID": "guides/markdown-syntax.html#resources",
+    "href": "guides/markdown-syntax.html#resources",
+    "title": "Markdown Syntax",
     "section": "Resources",
-    "text": "Resources\n\nThe Quarto documentation is very good and thorough.\n\nQuarto website documentation\nQuarto blog documentation\n\nFor an extensive list of resources on Quarto see Awesome Quarto.\nHadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition): Introduction, Chapters 28 and 29.\nIsabella Velásquez, Building a blog with Quarto.\n\n\nExamples of Quarto websites\n\nOur course website\nA Rogue Historian by Jesse Sadler\nPipe dreams by Isabella Velásquez\nNotes from a data witch by Danielle Navarro\nNotes from a spreadsheet by Matt Worthington\nThe MockUp by Tom Mock\nMaya Gans\nFaylab Lab Manual\nTed Laderas\nAmelia McNamara\nGarrick Aden-Buie\nOpenscapes",
+    "text": "Resources\n\nJohn Gruber’s introduction of Markdown and its syntax\nProgramming Historian: Sarah Simpkin, Getting Started with Markdown\nMarkdown style guide: Quarto docs\nMarkdown Style Guide\nMany Markdown editors, especially those that focus on academic writing, depend upon Pandoc, which attempts to be a universal document converter.\n\nPandoc has an in-depth discussion of its flavor of Markdown syntax.\nSee also Programming Historian: Dennis Tenen and Grant Wythoff, Sustainable Authorship in Plain Text using Pandoc and Markdown",
     "crumbs": [
-      "Schedule",
-      "10. Making documents and websites with Quarto"
+      "Guides",
+      "Markdown Syntax"
     ]
   },
   {
-    "objectID": "meetings/09-git.html",
-    "href": "meetings/09-git.html",
-    "title": "Week 9: Version control with Git and GitHub",
+    "objectID": "guides/geo-data.html",
+    "href": "guides/geo-data.html",
+    "title": "Putting maps on your website",
     "section": "",
-    "text": "Jenny Bryan, “Excuse me, do you have a moment to talk about version control?,” PeerJ Preprints (2017) https://peerj.com/preprints/3159v2.\nJenny Bryan, Happy Git and GitHub for the useR, Chapter 1: Why Git? Why GitHub?\nLowndes et al., “Our path to better science in less time using open data science tools,” Nature: Ecology & Evolution 1 no. 6, (2017), http://www.nature.com/articles/s41559-017-0160.\nAllison Horst and Julie Lowndes, GitHub for supporting, reusing, contributing, and failing safely.",
+    "text": "When making a map, we often need to download the data using an R package. This could be data for the base map from rnaturalearth, more detailed street and location data from Open Street Maps using osmdata, or locations that we geocode with tidygeocoder. We want to do this active downloading as few times as possible. We want to download the data, make sure that it is correct and maybe clean it up, and then save the data for future usage. This guide will show how to do that.",
     "crumbs": [
-      "Schedule",
-      "9. Version control with Git and GitHub"
+      "Guides",
+      "Putting maps on your website"
     ]
   },
   {
-    "objectID": "meetings/09-git.html#reading",
-    "href": "meetings/09-git.html#reading",
-    "title": "Week 9: Version control with Git and GitHub",
+    "objectID": "guides/geo-data.html#the-problem",
+    "href": "guides/geo-data.html#the-problem",
+    "title": "Putting maps on your website",
     "section": "",
-    "text": "Jenny Bryan, “Excuse me, do you have a moment to talk about version control?,” PeerJ Preprints (2017) https://peerj.com/preprints/3159v2.\nJenny Bryan, Happy Git and GitHub for the useR, Chapter 1: Why Git? Why GitHub?\nLowndes et al., “Our path to better science in less time using open data science tools,” Nature: Ecology & Evolution 1 no. 6, (2017), http://www.nature.com/articles/s41559-017-0160.\nAllison Horst and Julie Lowndes, GitHub for supporting, reusing, contributing, and failing safely.",
+    "text": "When making a map, we often need to download the data using an R package. This could be data for the base map from rnaturalearth, more detailed street and location data from Open Street Maps using osmdata, or locations that we geocode with tidygeocoder. We want to do this active downloading as few times as possible. We want to download the data, make sure that it is correct and maybe clean it up, and then save the data for future usage. This guide will show how to do that.",
     "crumbs": [
-      "Schedule",
-      "9. Version control with Git and GitHub"
+      "Guides",
+      "Putting maps on your website"
     ]
   },
   {
-    "objectID": "meetings/09-git.html#assignment",
-    "href": "meetings/09-git.html#assignment",
-    "title": "Week 9: Version control with Git and GitHub",
+    "objectID": "guides/geo-data.html#the-solution",
+    "href": "guides/geo-data.html#the-solution",
+    "title": "Putting maps on your website",
+    "section": "The solution",
+    "text": "The solution\nThe solution is to break up the steps of making a map into separate scripts. We get and prep the data once. Then we can use the data to make as many maps as we want. This is good practice for thinking about how we should be dividing up scripts and when to save data compared to when we can recreate it through our R scripts.\nThere are two basic ways to do this:\n\nUse an R script within the website project folder to download and clean the data. An R script (named something like map-data.R) will not be rendered in the website by Quarto.\nDownload the data and potentially make the map in a separate RStudio project. You can either create the map in that project, save an image file, and then use the image on your website, or you can copy over the cleaned data files to website project to work on them there.\n\nEither way you decide to structure your project, there are four basic steps to follow:\n\nDownload the data.\nCheck that the data is correct and clean it up.\nSave the data; write it out to a data/ folder.\nRead in the data when you want to make a map.\n\nLet’s show how to do this for two different kinds of geographic data we will want to download from the internet: geocoded data and base map data.\nFirst we load the packages we are going to use.\n\nlibrary(tidyverse)\nlibrary(tidygeocoder)\nlibrary(sf, verbose = FALSE)\nlibrary(rnaturalearth)",
+    "crumbs": [
+      "Guides",
+      "Putting maps on your website"
+    ]
+  },
+  {
+    "objectID": "guides/geo-data.html#geocoded-data",
+    "href": "guides/geo-data.html#geocoded-data",
+    "title": "Putting maps on your website",
+    "section": "Geocoded data",
+    "text": "Geocoded data\nGeocoding location data is something that we want to do once, make sure that it is correct, and then save the resulting data. It is not something we want to be doing multiple times.\nLet’s start by creating some data to geocode using tidygeocoder. If you have a larger data set with locations, you will want to create a csv file and read in the data.\n\nlocations &lt;- tibble(\n  name = c(\"Blacksburg\", \"San Diego\", \"Washington, DC\"),\n  address = c(\"Blacksburg, VA 24060\", \"San Diego, CA 92024\", \"Washington, DC 20024\")\n)\n\nNotice that we have two columns here, one for the label of our points/locations and one for the address, where we can be more exact about the location to geocode. We can geocode the data with the geocode() function since it is in a data frame. If you have your locations in a vector, you can use the geo() function.\n\nlocations_geo &lt;- geocode(locations, address = address)\n\nCheck to make sure that the geocoded data is correct. This can be done by just looking at the output or mapping it with a base map of mapview. Here we will just look at the output.\n\nlocations_geo\n\n# A tibble: 3 × 4\n  name           address                lat   long\n  &lt;chr&gt;          &lt;chr&gt;                &lt;dbl&gt;  &lt;dbl&gt;\n1 Blacksburg     Blacksburg, VA 24060  37.2  -80.4\n2 San Diego      San Diego, CA 92024   32.7 -117. \n3 Washington, DC Washington, DC 20024  38.9  -77.0\n\n\nThe next step is to save the data or write it out. It is easiest to do this before we convert the data to an sf object because we can use the normal write_csv() function from the tidyverse. This function takes the data we want to write out and the name of the file/location we want to create.\n\n# Save data frame to a csv file\nwrite_csv(locations_geo, \"data/locations-geo.csv\")\n\nThen, next time we want to use the data, we can just read it in.\n\nlocations_geo &lt;- read_csv(\"data/locations-geo.csv\")",
+    "crumbs": [
+      "Guides",
+      "Putting maps on your website"
+    ]
+  },
+  {
+    "objectID": "guides/geo-data.html#data-from-rnaturalearth",
+    "href": "guides/geo-data.html#data-from-rnaturalearth",
+    "title": "Putting maps on your website",
+    "section": "Data from rnaturalearth",
+    "text": "Data from rnaturalearth\nThe data that we download from rnaturalearth or osmdata is a bit different because it is geospatial in nature. It is an sf object and so to maintain the geospatial nature of the data we need to use st_write() instead of write_csv() and to choose a type of spatial data to create. Here, we will use geojson. Otherwise the steps are the same.\nLet’s load some data from rnaturalearth. In this case, we will use the ne_states() function to load data for the states of the country “United States of America”.\n\nstates &lt;- ne_states(country = \"United States of America\")\n\nBefore saving the data, we want to clean it up and simplify it to only have the state name and to only include the continental United States.\n\nstates &lt;- states |&gt; \n  filter(name != \"Hawaii\", name != \"Alaska\") |&gt; \n  select(name)\n\nNow we can write out the data using the st_write() function as a geojson file. This will maintain all of the geographic metadata of our data such as the CRS.\n\nst_write(states, \"data/states.geojson\")\n\nThen, next time we want to use the data, we can just read it in, but this time with st_read() because we want an sf object.\n\nstates &lt;- st_read(\"data/states.geojson\")",
+    "crumbs": [
+      "Guides",
+      "Putting maps on your website"
+    ]
+  },
+  {
+    "objectID": "guides/geo-data.html#plot-the-map",
+    "href": "guides/geo-data.html#plot-the-map",
+    "title": "Putting maps on your website",
+    "section": "Plot the map",
+    "text": "Plot the map\n\nggplot() + \n  geom_sf(data = states) + \n  geom_point(data = locations_geo, aes(x = long, y = lat)) + \n  geom_text(data = locations_geo, aes(x = long, y = lat, label = name),\n            nudge_y = -0.5) + \n  theme_minimal()",
+    "crumbs": [
+      "Guides",
+      "Putting maps on your website"
+    ]
+  },
+  {
+    "objectID": "meetings/14-design.html",
+    "href": "meetings/14-design.html",
+    "title": "Week 14: Web design and visualization",
+    "section": "",
+    "text": "This week is a more or less free week to discuss and work on anything from the class that we feel we want/need to go over. The current idea for the week is to go over styling for websites and polishing visualizations.",
+    "crumbs": [
+      "Schedule",
+      "14. Web design and visualization"
+    ]
+  },
+  {
+    "objectID": "meetings/14-design.html#reading",
+    "href": "meetings/14-design.html#reading",
+    "title": "Week 14: Web design and visualization",
+    "section": "Reading",
+    "text": "Reading\n\nQuarto documentation: HTML Themes\n\nMore About Quarto Themes\n\nSamantha Csik, Customizing Quarto Websites - Make your website stand out using SASS & CSS\n\nGitHub repository",
+    "crumbs": [
+      "Schedule",
+      "14. Web design and visualization"
+    ]
+  },
+  {
+    "objectID": "meetings/14-design.html#assignment",
+    "href": "meetings/14-design.html#assignment",
+    "title": "Week 14: Web design and visualization",
     "section": "Assignment",
-    "text": "Assignment\n\nMake sure that you have Git downloaded on your computer.\nSet up Git to work with RStudio.\nSet up and account at GitHub.\nTake some time to go back over working on the command line.",
+    "text": "Assignment\n\nWork on website project.",
     "crumbs": [
       "Schedule",
-      "9. Version control with Git and GitHub"
+      "14. Web design and visualization"
     ]
   },
   {
-    "objectID": "meetings/09-git.html#activities",
-    "href": "meetings/09-git.html#activities",
-    "title": "Week 9: Version control with Git and GitHub",
+    "objectID": "meetings/14-design.html#activities",
+    "href": "meetings/14-design.html#activities",
+    "title": "Week 14: Web design and visualization",
     "section": "Activities",
-    "text": "Activities\n\nWorkshop: Git and GitHub\nWorkshop: Git and RStudio",
+    "text": "Activities\nWorkshop: Publishing your website Workshop: Designing websites",
     "crumbs": [
       "Schedule",
-      "9. Version control with Git and GitHub"
+      "14. Web design and visualization"
     ]
   },
   {
-    "objectID": "meetings/09-git.html#resources",
-    "href": "meetings/09-git.html#resources",
-    "title": "Week 9: Version control with Git and GitHub",
+    "objectID": "meetings/14-design.html#publishing-your-website-on-github-pages",
+    "href": "meetings/14-design.html#publishing-your-website-on-github-pages",
+    "title": "Week 14: Web design and visualization",
+    "section": "Publishing your website on GitHub pages",
+    "text": "Publishing your website on GitHub pages\n\nSee also Resources: Publishing Quarto websites with GitHub Pages\nDocumentation for the publish command using the quarto command line interface.\n\n\nSetting up publish command\n\nFirst, make sure all changes are committed on your project.\nCreate an empty gh-pages branch.\n\ngit checkout --orphan gh-pages\ngit reset --hard\ngit commit --allow-empty -m \"Initialising gh-pages branch\"\ngit push origin gh-pages\n\nCheck Settings -&gt; Pages for Source branch on your GitHub repository.\nIgnore _site/ folder in git\n\nAdd /_site/ to .gitignore file.\nRemove any tracking of _site/ in git: git rm -r _site\n\nPublish through command line: quarto publish gh-pages\n\n\n\nWhat you should be doing to make changes to your website\n\nMake the changes in RStudio.\nRender website on your computer to make sure everything works.\ngit add and git commit -m changes.\nPush changes to GitHub main branch: git push origin main\nPublish changes by pushing to gh-pages branch: quarto publish gh-pages",
+    "crumbs": [
+      "Schedule",
+      "14. Web design and visualization"
+    ]
+  },
+  {
+    "objectID": "meetings/14-design.html#designing-quarto-websites",
+    "href": "meetings/14-design.html#designing-quarto-websites",
+    "title": "Week 14: Web design and visualization",
+    "section": "Designing Quarto websites",
+    "text": "Designing Quarto websites\nThe basic styling of your website is done through HTML theming.\n\nChoose a Quarto theme\n\nQuarto HTML documents are all based on Bootstrap 5.\nQuarto provides access to 25 Bootswatch themes.\nChange theme in _quarto.yml under format:\n\n\n\nBasic customization\n\nYou can make basic changes to the theme in _quarto.yml under format:.\nSee basic customization for available options.\n\n\n\nCustomization with SCSS\n\nCreate fully custom themes with SASS variables through scss files. SASS is a superset of CSS (Cascading Style Sheets).\nThis is done in a styles.csss or custom.scss file, which is listed under theme: in _quarto.yml.\nSee Quarto SASS variables for the most likely variables you might want to change.\nSee More About Quarto Themes on using SCSS.",
+    "crumbs": [
+      "Schedule",
+      "14. Web design and visualization"
+    ]
+  },
+  {
+    "objectID": "meetings/14-design.html#resources-website-design",
+    "href": "meetings/14-design.html#resources-website-design",
+    "title": "Week 14: Web design and visualization",
+    "section": "Resources: Website design",
+    "text": "Resources: Website design\n\nQuarto websites are customizable through HTML themes.\nJoel Ross and Mike Freeman, Client-Side Web Development\nBootstrap 5\nBootswatch themes\nSASS\nMozilla Docs, CSS: Cascading Style Sheets",
+    "crumbs": [
+      "Schedule",
+      "14. Web design and visualization"
+    ]
+  },
+  {
+    "objectID": "meetings/07-wrangle.html",
+    "href": "meetings/07-wrangle.html",
+    "title": "Week 7: Data wrangling",
+    "section": "",
+    "text": "Jenny Bryan, What They Forgot to Teach You about R, Chapters 1–4.\nMalcolm Barrett, Why should I use the here package when I’m already using projects?\nHadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition): Chapters 3, 5, 7, and 19.\n\nGo through these chapters to acquaint yourself with what we will be working on this week during the seminar.\n\nRead through the Getting started tutorial for quarto.",
+    "crumbs": [
+      "Schedule",
+      "7. Data wrangling"
+    ]
+  },
+  {
+    "objectID": "meetings/07-wrangle.html#reading",
+    "href": "meetings/07-wrangle.html#reading",
+    "title": "Week 7: Data wrangling",
+    "section": "",
+    "text": "Jenny Bryan, What They Forgot to Teach You about R, Chapters 1–4.\nMalcolm Barrett, Why should I use the here package when I’m already using projects?\nHadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition): Chapters 3, 5, 7, and 19.\n\nGo through these chapters to acquaint yourself with what we will be working on this week during the seminar.\n\nRead through the Getting started tutorial for quarto.",
+    "crumbs": [
+      "Schedule",
+      "7. Data wrangling"
+    ]
+  },
+  {
+    "objectID": "meetings/07-wrangle.html#assignment",
+    "href": "meetings/07-wrangle.html#assignment",
+    "title": "Week 7: Data wrangling",
+    "section": "Assignment",
+    "text": "Assignment\n\nBring your data to work on in class.",
+    "crumbs": [
+      "Schedule",
+      "7. Data wrangling"
+    ]
+  },
+  {
+    "objectID": "meetings/07-wrangle.html#activities",
+    "href": "meetings/07-wrangle.html#activities",
+    "title": "Week 7: Data wrangling",
+    "section": "Activities",
+    "text": "Activities\n\nWorkshop: Organizing your work in projects\nWorkshop: Data wrangling\nWorkshop: Introduction to quarto",
+    "crumbs": [
+      "Schedule",
+      "7. Data wrangling"
+    ]
+  },
+  {
+    "objectID": "meetings/07-wrangle.html#data",
+    "href": "meetings/07-wrangle.html#data",
+    "title": "Week 7: Data wrangling",
+    "section": "Data",
+    "text": "Data\n\nSAFI data\nreadr example data\nLetters data\nLetters location data",
+    "crumbs": [
+      "Schedule",
+      "7. Data wrangling"
+    ]
+  },
+  {
+    "objectID": "meetings/07-wrangle.html#resources",
+    "href": "meetings/07-wrangle.html#resources",
+    "title": "Week 7: Data wrangling",
     "section": "Resources",
-    "text": "Resources\n\nGit\n\nSee Computing: Git\nLibrary Carpentry - Introduction to Git\nSoftware Carpentry - Version Control with Git\nChacon, Pro Git\nGitHub docs\nGit Command Line cheatsheet\n\n\n\nRStudio and Git\n\nJenny Bryan, Happy Git and GitHub for the useR.\nusethis: Managing Git(Hub) Credentials.\nJulie Lowndes and Allison Horst, R for Excel Users: GitHub.\nMaëlle Salmon, git and GitHub in R for the casual user.\nGarrick Aden-Buie, Pull Request Flow with usethis.",
+    "text": "Resources\n\nData Carpentry - R for Social Scientists, Data Wrangling with dplyr\nData Carpentry - R for Social Scientists, Data Wrangling with tidyr\ndplyr: Column-wise operations\ndplyr: Row-wise operations\ndplyr: Joins - Two-table verbs\ntidyr: Tidy Data\ntidyr: Pivoting\nMy notes on the tidyverse",
     "crumbs": [
       "Schedule",
-      "9. Version control with Git and GitHub"
+      "7. Data wrangling"
     ]
   },
   {
-    "objectID": "meetings/12-spatial.html",
-    "href": "meetings/12-spatial.html",
-    "title": "Week 12: Spatial analysis",
+    "objectID": "meetings/05-data.html",
+    "href": "meetings/05-data.html",
+    "title": "Week 5: Data and an intro to the command line",
     "section": "",
-    "text": "Robin Lovelace, Jakub Nowosad, and Jannes Muenchow, Geocomputation with R (2nd Edition), Chapters 1, 2, 7, and 9.\nKieran Healy, Data Visualization: A Practical Introduction (Princeton University Press, 2018), Chapter 7: Draw Maps.\nLeonardo Barleta, “Spatial Genealogies: Mobility, Settlement, and Empire-Building in the Brazilian Backlands, 1650–1800,” Journal of Social History 54, no. 4 (2021): 1064–90, http://dx.doi.org/10.1093/jsh/shab006.",
+    "text": "Hadley Wickham, “Tidy Data,” Journal of Statistical Software 59, no. 10 (2014), http://www.jstatsoft.org/v59/i10/.\nKarl Broman and Kara Woo, “Data Organization in Spreadsheets,” The American Statistician 72, no. 1 (2018), https://doi.org/10.1080/00031305.2017.1375989.\nProgramming Historian: Ian Milligan and James Baker, Introduction to the Bash Command Line\nJulia Evans, What helps people get comfortable on the command line?",
     "crumbs": [
       "Schedule",
-      "12. Spatial analysis"
+      "5. Data and an intro to the command line"
     ]
   },
   {
-    "objectID": "meetings/12-spatial.html#reading",
-    "href": "meetings/12-spatial.html#reading",
-    "title": "Week 12: Spatial analysis",
+    "objectID": "meetings/05-data.html#reading",
+    "href": "meetings/05-data.html#reading",
+    "title": "Week 5: Data and an intro to the command line",
     "section": "",
-    "text": "Robin Lovelace, Jakub Nowosad, and Jannes Muenchow, Geocomputation with R (2nd Edition), Chapters 1, 2, 7, and 9.\nKieran Healy, Data Visualization: A Practical Introduction (Princeton University Press, 2018), Chapter 7: Draw Maps.\nLeonardo Barleta, “Spatial Genealogies: Mobility, Settlement, and Empire-Building in the Brazilian Backlands, 1650–1800,” Journal of Social History 54, no. 4 (2021): 1064–90, http://dx.doi.org/10.1093/jsh/shab006.",
+    "text": "Hadley Wickham, “Tidy Data,” Journal of Statistical Software 59, no. 10 (2014), http://www.jstatsoft.org/v59/i10/.\nKarl Broman and Kara Woo, “Data Organization in Spreadsheets,” The American Statistician 72, no. 1 (2018), https://doi.org/10.1080/00031305.2017.1375989.\nProgramming Historian: Ian Milligan and James Baker, Introduction to the Bash Command Line\nJulia Evans, What helps people get comfortable on the command line?",
     "crumbs": [
       "Schedule",
-      "12. Spatial analysis"
+      "5. Data and an intro to the command line"
     ]
   },
   {
-    "objectID": "meetings/12-spatial.html#assignment",
-    "href": "meetings/12-spatial.html#assignment",
-    "title": "Week 12: Spatial analysis",
+    "objectID": "meetings/05-data.html#assignment",
+    "href": "meetings/05-data.html#assignment",
+    "title": "Week 5: Data and an intro to the command line",
     "section": "Assignment",
-    "text": "Assignment\n\nBrowse one of the spatial Digital History projects listed under Resources or find one relevant to your field.",
+    "text": "Assignment\n\nFind or create rectangular/tabular data from your own research interests to bring to class with you.\nDownload a command line terminal if you are using Windows. See Computing: Command line.",
     "crumbs": [
       "Schedule",
-      "12. Spatial analysis"
+      "5. Data and an intro to the command line"
     ]
   },
   {
-    "objectID": "meetings/12-spatial.html#activities",
-    "href": "meetings/12-spatial.html#activities",
-    "title": "Week 12: Spatial analysis",
+    "objectID": "meetings/05-data.html#activities",
+    "href": "meetings/05-data.html#activities",
+    "title": "Week 5: Data and an intro to the command line",
     "section": "Activities",
-    "text": "Activities\n\nDiscussion of the use of spatial analysis in history.\nWorkshop: Spatial analysis.",
+    "text": "Activities\n\nThe benefits and drawbacks of spreadsheets.\nTidy data: What is tidy data?\n\nWorkshop: Is the data you have tidy? If not, how should it be changed to be tidy?\n\nWorkshop: Intro to the command line\n\nSoftware Carpentry - The Unix Shell\nDownload toy data\nGlossary of shell commands",
     "crumbs": [
       "Schedule",
-      "12. Spatial analysis"
+      "5. Data and an intro to the command line"
     ]
   },
   {
-    "objectID": "meetings/12-spatial.html#resources",
-    "href": "meetings/12-spatial.html#resources",
-    "title": "Week 12: Spatial analysis",
+    "objectID": "meetings/05-data.html#resources",
+    "href": "meetings/05-data.html#resources",
+    "title": "Week 5: Data and an intro to the command line",
     "section": "Resources",
-    "text": "Resources\nSee the Guide: Putting maps on your website for a guide on downloading and saving geographic data to use on a Quarto Website.\n\nSpatial Digital History projects\n\nScott Nesbit and Ed Ayers, Visualizing Emancipation\nSlave Voyages\nMapping the Republic of Letters\nPleiades: gazetteer and graph of ancient places\nAncient World Mapping Center\nWorld Historical Gazetteer\n\n\n\nGeospatial resources\n\nCarpentries: Introduction to Geospatial Concepts\n\nIntroduction to raster and vector data, coordinate reference systems, and an overview of the GIS landscape.\n\nRobin Lovelace, Jakub Nowosad, and Jannes Muenchow, Geocomputation with R (2nd Edition), Chapter 2: Geographic data in R\nEdzer Pebesma and Roger Bivand, Spatial Data Science: With Applications in R, Chapter 1: Getting Started\n\n\n\nGIS with R\n\nRobin Lovelace, Jakub Nowosad, and Jannes Muenchow, Geocomputation with R (2nd Edition)\nEdzer Pebesma and Roger Bivand, Spatial Data Science: With Applications in R\nJesse Sadler, An Exploration of Simple Features for R.\nHadley Wickham, Danielle Navarro, and Thomas Lin Pedersen, ggplot2: Elegant Graphics for Data Analysis (3rd Edition), Chapter 6: Maps.\nCarpentries: Introduction to Geospatial Raster and Vector Data with R\n\n\n\nGeospatial R packages\nCRAN Task View: Analysis of Spatial Data\n\nPrimary packages for vector and raster spatial data\n\nsf: Vector data.\nterra: Raster data.\n\n\n\nGeospatial data sources\n\nrspatialdata: A collection of data sources and tutorials on visualising spatial data using R.\nrnaturalearth: It includes functions to download a wealth of Natural Earth vector and raster data, including cultural (e.g., country boundaries, airports, roads, railroads) and physical (e.g., coastline, lakes, glaciated areas) data sets.\nelevatr: Access to elevation data from AWS Open Data Terrain Tiles and the Open Topography Global datasets API for raster digital elevation models.\ntidycensus: Access to US Census Bureau data in a tidy format, including the option to bind the data spatially on import.\ntigris: Access to cartographic elements provided by the US Census Bureau TIGER, including cartographic boundaries, roads, and water.\ngiscoR: Access to European geodata.\n\n\n\nGeocoding\n\ntidygeocoder: Support for a number of data sources for geocoding locations. The package uses the OpenStreetsMap geocoder Nominatim by default.\nopencage: Geocode using the Opencage API.\n\n\n\nGeospatial visualization\n\nggplot2 can visualize sf vector data.\ntmap: An alternative to making maps with ggplot2.\nleaflet: Interactive mapping with R.\nmapview: Lightweight interactive mapping package. It’s main goal is to fill the gap of quick (not presentation grade) interactive plotting to examine and visually investigate both aspects of spatial data, the geometries and their attributes.\ntidyterra: Provides functions to integrate terra objects into the tidyverse, including providing geoms for plotting terra objects with ggplot2.\nrayshader: Make 3d maps in R.",
+    "text": "Resources\n\nData Carpentry - Data Organization in Spreadsheets for Social Scientists\nSoftware Carpentry - The Unix Shell\nGetting help with shell commands\n\nExplain shell\ntldr pages\n\nHartl, Learn Enough Command Line to be Dangerous\n\nVery good basic tutorial and guide that can be used as a good reference.\n\nBates, Conquering the Command Line\n\nMore in depth than Learning Enough and discusses more advanced commands.\n\nSean Kross, The Unix Workbench",
     "crumbs": [
       "Schedule",
-      "12. Spatial analysis"
+      "5. Data and an intro to the command line"
     ]
   },
   {
-    "objectID": "meetings/12-spatial.html#gui-and-web-mapping-tools",
-    "href": "meetings/12-spatial.html#gui-and-web-mapping-tools",
-    "title": "Week 12: Spatial analysis",
-    "section": "GUI and web mapping tools",
-    "text": "GUI and web mapping tools\nThis is a short list of common GUI and web based mapping tools. Some of these tools are full-scale GIS (Geographic Information Sciences) platforms that are quite complex. The web mapping tools tend to be simpler but have less opportunity for customization. We will not be using these tools in this class, but it is good to be aware of them, and there will be times when their advantages over a command-line tool like R outweigh disadvantages.\n\nDesktop GIS\n\nArcGIS\nQGIS is the open source alternative to ArcGIS.\n\n\n\nWeb mapping\n\nArcGIS Story maps\nNeatline: Tool built to work with Omeka to create stories with maps, images and timelines.\nStoryMap\nPalladio",
-    "crumbs": [
-      "Schedule",
-      "12. Spatial analysis"
-    ]
-  },
-  {
-    "objectID": "meetings/01-intro.html",
-    "href": "meetings/01-intro.html",
-    "title": "Week 1: Introduction",
+    "objectID": "meetings/11-review.html",
+    "href": "meetings/11-review.html",
+    "title": "Week 11: Review and website workshop",
     "section": "",
-    "text": "Introduction to the course, overview of syllabus, and how the course will work.",
+    "text": "Review the Quarto documentation.\nReview Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition).",
     "crumbs": [
       "Schedule",
-      "1. Introduction"
+      "11. Review and website workshop"
     ]
   },
   {
-    "objectID": "meetings/01-intro.html#assignment",
-    "href": "meetings/01-intro.html#assignment",
-    "title": "Week 1: Introduction",
+    "objectID": "meetings/11-review.html#reading",
+    "href": "meetings/11-review.html#reading",
+    "title": "Week 11: Review and website workshop",
+    "section": "",
+    "text": "Review the Quarto documentation.\nReview Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, R for Data Science (2nd Edition).",
+    "crumbs": [
+      "Schedule",
+      "11. Review and website workshop"
+    ]
+  },
+  {
+    "objectID": "meetings/11-review.html#assignment",
+    "href": "meetings/11-review.html#assignment",
+    "title": "Week 11: Review and website workshop",
     "section": "Assignment",
-    "text": "Assignment\nSign up for our Discord server:\n\nSign up for the Discord using the link sent by email. You will need to create a Discord account if you do not have one already.\nSend me a message that you have signed up so that I can assign you a role and give you access to the class channels.\nOnce you have been assigned, introduce yourself in the #general channel. Include a short description of your research interests.",
+    "text": "Assignment\n\nWork on plan for your website. Make an outline, mindmap, drawing, etc. of the structure of your website.\nLook at examples of Quarto websites listed in Week 10. Look at the websites and the source code used to make the websites on GitHub.\nCome to class ready to discuss any struggles you are having and what else you want to learn.",
     "crumbs": [
       "Schedule",
-      "1. Introduction"
+      "11. Review and website workshop"
     ]
   },
   {
-    "objectID": "meetings/01-intro.html#activities",
-    "href": "meetings/01-intro.html#activities",
-    "title": "Week 1: Introduction",
+    "objectID": "meetings/11-review.html#activities",
+    "href": "meetings/11-review.html#activities",
+    "title": "Week 11: Review and website workshop",
     "section": "Activities",
-    "text": "Activities\n\nIntroductions\nDiscussion of interest and experience with Digital Humanities technologies.\nDiscussion of the format of the course",
+    "text": "Activities\n\nReview: Time to work on skills such as R, bash, and git.\n\nFinding resources and getting help.\n\nWorkshop: Making a website with Quarto",
     "crumbs": [
       "Schedule",
-      "1. Introduction"
+      "11. Review and website workshop"
     ]
   },
   {
-    "objectID": "meetings/04-markdown.html",
-    "href": "meetings/04-markdown.html",
-    "title": "Week 4: Plain Text and Markdown",
-    "section": "",
-    "text": "Kieran Healy, The Plain Person’s Guide to Plain Text Social Science\n\nConcentrate on chapters 1, 3, and 7. Do not worry too much if you do not understand the technical aspects of the guide.\n\nProgramming Historian: Dennis Tenen and Grant Wythoff, Sustainable Authorship in Plain Text using Pandoc and Markdown.\nSemantic Line Breaks\nRead about zettelkasten as a note taking methodology. There are a lot of discussions and tutorials out there.",
-    "crumbs": [
-      "Schedule",
-      "4. Plain text and markdown"
-    ]
-  },
-  {
-    "objectID": "meetings/04-markdown.html#reading",
-    "href": "meetings/04-markdown.html#reading",
-    "title": "Week 4: Plain Text and Markdown",
-    "section": "",
-    "text": "Kieran Healy, The Plain Person’s Guide to Plain Text Social Science\n\nConcentrate on chapters 1, 3, and 7. Do not worry too much if you do not understand the technical aspects of the guide.\n\nProgramming Historian: Dennis Tenen and Grant Wythoff, Sustainable Authorship in Plain Text using Pandoc and Markdown.\nSemantic Line Breaks\nRead about zettelkasten as a note taking methodology. There are a lot of discussions and tutorials out there.",
-    "crumbs": [
-      "Schedule",
-      "4. Plain text and markdown"
-    ]
-  },
-  {
-    "objectID": "meetings/04-markdown.html#assignment",
-    "href": "meetings/04-markdown.html#assignment",
-    "title": "Week 4: Plain Text and Markdown",
-    "section": "Assignment",
-    "text": "Assignment\n\nPut articles that you read in the Debates in the Digital Humanities series into the group library of Zotero.\nFind and download a text editor application.\nDownload Zettlr, go through the short tutorial, and look over the docs. Read the short discussion of using Zettlr for zettelkasten. Think about how contextual note taking might be useful for your research and writing.\n\nShare links or resources in the Discourse.",
-    "crumbs": [
-      "Schedule",
-      "4. Plain text and markdown"
-    ]
-  },
-  {
-    "objectID": "meetings/04-markdown.html#activities",
-    "href": "meetings/04-markdown.html#activities",
-    "title": "Week 4: Plain Text and Markdown",
-    "section": "Activities",
-    "text": "Activities\n\nThe benefits and drawbacks of plain text.\n\nWorkshop: Working with a text editor\n\nWorkshop: Writing in Markdown.\nDiscussion on organization and note taking\n\nZettelkasten: Is it for you?\nWorkshop: Zettlr",
-    "crumbs": [
-      "Schedule",
-      "4. Plain text and markdown"
-    ]
-  },
-  {
-    "objectID": "meetings/04-markdown.html#resources",
-    "href": "meetings/04-markdown.html#resources",
-    "title": "Week 4: Plain Text and Markdown",
+    "objectID": "meetings/11-review.html#resources",
+    "href": "meetings/11-review.html#resources",
+    "title": "Week 11: Review and website workshop",
     "section": "Resources",
-    "text": "Resources\n\nText editors\nSee Resources: Text editors. A good text editor can save you a lot of time if you take the time to learn how to use it. A great and longstanding macOS text editor is BBEdit, which can be purchased, but it offers a very generous free mode. Here is a comparison chart of what you get with the free version. A classic text editor for Windows is Notepad++. A popular cross-platform text editor that is freely available is Visual Studio Code. There are many other options. Feel free to check them out.\n\n\nMarkdown\n\nJohn Gruber’s introduction of Markdown and its syntax\nProgramming Historian: Getting Started with Markdown\nMarkdown style guide: Quarto docs\nMarkdown Style Guide\nMany Markdown editors, especially those that focus on academic writing, depend upon Pandoc, which attempts to be a universal document converter.\n\nMarkdown syntax guide created in class\n\n\nOther markup options\n\nThe main other option for writing in Markdown or a Markdown based system is LaTeX. Overleaf is a LaTeX editor created specifically for collaboration in academia.\n\n\n\nNote taking apps and zettelkasten\nThere is currently a bit of a renaissance in note taking apps that are designed around the basic ideas of zettelkasten. Most of the apps are Markdown editors that provide a way to create internal links between your notes and display incoming and outgoing links. Zettlr is just one example. It is nice because it is open source, cross platform, and designed with academics in mind. But this does not mean that it is necessarily the best for you. Another hugely popular free (but not open source) and cross platform option is Obsidian.\n\n\nOther options\nDevonThink is more of a do it all database app for macOS, but it can certainly be used as the foundation of organizing your research and note taking.",
+    "text": "Resources\nSee Week 10: Making documents and websites with Quarto",
     "crumbs": [
       "Schedule",
-      "4. Plain text and markdown"
+      "11. Review and website workshop"
+    ]
+  },
+  {
+    "objectID": "meetings/02-dh-and-ph.html",
+    "href": "meetings/02-dh-and-ph.html",
+    "title": "Week 2: Digital History and Public History",
+    "section": "",
+    "text": "This week serves as an introduction to the concept of Digital Humanities/History and its relation to Public History.",
+    "crumbs": [
+      "Schedule",
+      "2. Digital History and Public History"
+    ]
+  },
+  {
+    "objectID": "meetings/02-dh-and-ph.html#reading",
+    "href": "meetings/02-dh-and-ph.html#reading",
+    "title": "Week 2: Digital History and Public History",
+    "section": "Reading",
+    "text": "Reading\n\nGregory Crane, “Greco-Roman Studies in a Digital Age,” Daedalus 145, no. 2 (2016): 127–33, http://www.jstor.org/stable/10.2307/24711585.\nRomein et al, “State of the Field: Digital History,” History 105, (2020): 291–312, https://doi.org/10.1111/1468-229X.12969.\nJulian Chambliss, Reframing Digital Humanities: Conversations with Digital Humanists (Michigan State University Libraries, 2021), Kathleen Fitzpatrick and Public Digital Humanities. Podcast link\nKathleen Fitzpatrick, Open Infrastructures and the Future of Knowledge Production, part 1.",
+    "crumbs": [
+      "Schedule",
+      "2. Digital History and Public History"
+    ]
+  },
+  {
+    "objectID": "meetings/02-dh-and-ph.html#assignment",
+    "href": "meetings/02-dh-and-ph.html#assignment",
+    "title": "Week 2: Digital History and Public History",
+    "section": "Assignment",
+    "text": "Assignment\n\nLook at Humanities Commons, explore the documentation, and sign up for an account if you are interested.\nExplore the Debates in the Digital Humanities series, read at least one of the articles in one of the volumes, and be prepared to discuss the article in class. Make sure to look over the Debates in the Digital Humanities 2023 volume even if you pick an article from elsewhere.",
+    "crumbs": [
+      "Schedule",
+      "2. Digital History and Public History"
+    ]
+  },
+  {
+    "objectID": "meetings/02-dh-and-ph.html#activities",
+    "href": "meetings/02-dh-and-ph.html#activities",
+    "title": "Week 2: Digital History and Public History",
+    "section": "Activities",
+    "text": "Activities\n\nDiscussion of Digital Humanities and Public History.\nDiscussion of Romein et al, “State of the Field: Digital History”\nDiscussion and presentation of articles from Debates in the Digital Humanities series.\nHow to prepare for next week.",
+    "crumbs": [
+      "Schedule",
+      "2. Digital History and Public History"
     ]
   },
   {
