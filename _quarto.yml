@@ -50,8 +50,6 @@ website:
             text: 13. Network analysis
           - href: meetings/14-design.qmd
             text: 14. Web design and visualization
-          - href: meetings/15-conclusion.qmd
-            text: 15. Conclusion
           - href: meetings/16-text.qmd
             text: "Appendix: Text analysis"
       - section: "Guides"
